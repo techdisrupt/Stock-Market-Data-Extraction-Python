@@ -47,7 +47,7 @@ def getFromFolder(ticker, folder, type_data=None):
 		print result_file 
 		try:
 			df = pd.read_csv(result_file, error_bad_lines=False, warn_bad_lines=False)
-		except pandas.io.common.EmptyDataError:
+		except pd.io.common.EmptyDataError:
 			df = None
 	return (df, df.shape[0] if df is not None else 0)
 

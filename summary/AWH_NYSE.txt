@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.60,43.55,40.66,263.20M,['NYSE'],N/A,2006,21.06,6/30/2016,N/A,3550.00,NYQ,42.72,407889,1.04,12/19/2014,AWH,1.93,n/a,Allied World Assurance Company Holdings,N/A,30.29,40.72,04 August 2016

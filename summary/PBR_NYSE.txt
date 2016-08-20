@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,8.70,8.50,28.08B,['NYSE'],N/A,Energy,N/A,5/2/2014,N/A,54530.00,NYQ,8.32,11841212,0.00,4/3/2014,PBR,-1.94,n/a,Petroleo Brasileiro S.A.- Petrobras,N/A,2.71,8.41,08 August 2016

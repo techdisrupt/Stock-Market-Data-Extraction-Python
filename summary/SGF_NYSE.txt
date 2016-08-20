@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.20,10.35,9.28,0.00,['NYSE'],N/A,1990,N/A,1/12/2016,N/A,N/A,NYQ,9.29,7989,0.19,12/29/2015,SGF,-2.20,n/a,Aberdeen Singapore Fund,N/A,7.42,9.23,04 August 2016

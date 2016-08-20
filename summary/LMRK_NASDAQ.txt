@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,7.47,18.30,17.78,23.92M,['NASDAQ'],N/A,Consumer Services,108.51,5/13/2016,N/A,265.56,NGM,N/A,43646,1.33,8/4/2016,LMRK,0.16,2014,Landmark Infrastructure Partners LP,N/A,10.54,17.81,07 August 2016

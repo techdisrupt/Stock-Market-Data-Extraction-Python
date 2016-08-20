@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Laboratory Analytical Instruments,USD,N/A,N/A,5.81,3.97,-19.64M,['NASDAQ'],N/A,Capital Goods,N/A,N/A,N/A,133.95,NGM,3.93,34960,N/A,N/A,PSDV,-0.67,n/a,pSivida Corp.,N/A,2.37,3.94,08 August 2016

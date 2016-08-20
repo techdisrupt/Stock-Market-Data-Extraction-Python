@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Publishing,USD,N/A,5.960,19.830,17.440,1.02B,['NASDAQ'],N/A,Miscellaneous,32.926,6/1/2016,N/A,3640.00,NMS,17.390,595528,1.040,5/11/2016,RRD,0.528,n/a,R.R. Donnelley & Sons Company,N/A,12.070,17.440,08 August 2016

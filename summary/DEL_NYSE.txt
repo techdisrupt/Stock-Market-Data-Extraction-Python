@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Forest Products,USD,N/A,0.58,71.60,70.43,37.33M,['NYSE'],N/A,Basic Industries,192.99,9/15/2016,N/A,841.10,NYQ,70.16,77626,0.40,5/27/2016,DEL,0.36,n/a,Deltic Timber Corporation,N/A,50.84,70.08,06 August 2016

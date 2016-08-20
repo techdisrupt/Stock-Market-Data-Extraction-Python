@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,2.39,47.38,46.68,208.30M,['NYSE'],N/A,n/a,59.33,8/31/2016,N/A,1830.00,NYQ,46.85,111274,1.12,5/12/2016,AIT,0.79,n/a,Applied Industrial Technologies,N/A,35.55,46.76,05 August 2016

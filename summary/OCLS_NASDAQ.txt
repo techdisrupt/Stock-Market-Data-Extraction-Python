@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,7.20,3.62,-10.17M,['NASDAQ'],N/A,2007,N/A,N/A,N/A,15.75,NCM,4.10,40463,N/A,N/A,OCLS,-2.90,n/a,Oculus Innovative Sciences,N/A,3.57,3.68,07 August 2016

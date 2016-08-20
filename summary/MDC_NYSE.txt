@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,3.91,31.21,25.72,114.64M,['NYSE'],N/A,n/a,18.83,5/25/2016,N/A,1260.00,NYQ,25.79,620586,1.00,5/9/2016,MDC,1.37,n/a,M.D.C. Holdings,N/A,19.28,25.58,07 August 2016

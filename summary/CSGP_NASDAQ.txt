@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,224.79,205.85,170.92M,['NASDAQ'],N/A,1998,132.53,N/A,N/A,6710.00,NMS,205.78,94465,N/A,N/A,CSGP,1.55,n/a,CoStar Group,N/A,146.53,205.33,06 August 2016

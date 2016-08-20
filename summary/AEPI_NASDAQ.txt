@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Chemicals,USD,N/A,1.27,94.91,76.64,109.26M,['NASDAQ'],N/A,Capital Goods,10.29,5/17/2016,N/A,399.07,NMS,78.22,33845,1.00,7/28/2016,AEPI,7.59,1986,AEP Industries Inc.,N/A,49.12,76.96,04 August 2016

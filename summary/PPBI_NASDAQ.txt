@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,N/A,26.05,24.69,0.00,['NASDAQ'],N/A,Finance,17.92,N/A,N/A,706.73,NMS,25.55,215890,N/A,N/A,PPBI,1.43,n/a,Pacific Premier Bancorp Inc,N/A,18.18,24.48,07 August 2016

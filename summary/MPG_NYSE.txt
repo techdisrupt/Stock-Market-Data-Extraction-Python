@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.42,24.62,15.35,487.19M,['NYSE'],N/A,n/a,10.05,6/21/2016,N/A,1060.00,NYQ,17.00,93485,0.37,6/3/2016,MPG,1.69,2014,Metaldyne Performance Group Inc.,N/A,10.87,15.26,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,6.85,N/A,0.00,['NASDAQ'],N/A,2014,N/A,N/A,N/A,N/A,NCM,N/A,0,N/A,N/A,RTGN,-1.39,n/a,Ruthigen,N/A,2.90,5.06,10 August 2016

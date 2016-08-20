@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,3.01,35.93,34.80,22.53B,['NASDAQ'],N/A,Technology,16.96,6/1/2016,N/A,165490.00,NMS,34.99,20046211,1.04,8/3/2016,INTC,2.06,n/a,Intel Corporation,N/A,24.87,34.58,07 August 2016

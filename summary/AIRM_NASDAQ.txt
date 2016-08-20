@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation Services,USD,N/A,0.00,46.50,32.01,304.94M,['NASDAQ'],N/A,Transportation,10.72,12/28/2012,N/A,1200.00,NMS,31.90,407695,0.00,12/18/2012,AIRM,2.91,n/a,Air Methods Corporation,N/A,30.57,31.98,04 August 2016

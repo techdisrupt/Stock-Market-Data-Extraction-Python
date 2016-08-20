@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,66.03,55.14,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NMS,N/A,0,N/A,N/A,CHXF,N/A,n/a,WisdomTree China Dividend Ex-Financials Fund,N/A,50.04,55.14,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,1.15,7.15,5.47,16.22M,['NYSE'],N/A,Technology,12.49,7/7/2016,N/A,161.24,NYQ,5.34,8434,0.07,6/23/2016,MIXT,0.43,2013,MiX Telematics Limited,N/A,3.33,5.52,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Banks,USD,N/A,1.33,12.60,12.18,0.00,['NASDAQ'],N/A,Finance,18.69,5/19/2016,N/A,23.21,NGM,12.21,3260,0.16,8/4/2016,WVFC,0.65,n/a,WVS Financial Corp.,N/A,10.73,12.00,15 August 2016

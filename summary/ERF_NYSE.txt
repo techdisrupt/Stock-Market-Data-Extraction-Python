@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,1.49,7.02,6.18,272.98M,['NYSE'],N/A,Energy,N/A,7/15/2016,N/A,1340.00,NYQ,6.50,1288404,0.09,7/27/2016,ERF,-5.18,n/a,Enerplus Corporation,N/A,1.84,6.28,06 August 2016

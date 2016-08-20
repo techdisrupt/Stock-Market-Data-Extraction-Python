@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,44.45,40.36,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,40.59,536904,N/A,N/A,ACWX,N/A,n/a,iShares MSCI ACWI ex US Index Fund,N/A,34.47,40.34,07 August 2016

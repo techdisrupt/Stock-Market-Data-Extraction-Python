@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,4.47,4.14,-2.42M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,149.31,NMS,4.13,5402,N/A,6/13/2013,KMDA,-0.21,2013,Kamada Ltd.,N/A,3.19,4.10,07 August 2016

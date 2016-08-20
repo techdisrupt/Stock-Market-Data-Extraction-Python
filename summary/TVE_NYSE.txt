@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,N/A,26.2000,25.6700,4.10B,['NYSE'],N/A,Public Utilities,N/A,5/2/2016,N/A,N/A,NYQ,25.7000,9557,N/A,7/27/2016,TVE,N/A,n/a,Tennessee Valley Authority,N/A,23.5200,25.7450,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,7.1000,15.0000,14.8200,0.00,['NYSE'],N/A,n/a,N/A,7/18/2016,N/A,N/A,NYQ,14.6900,22760,0.9000,7/7/2016,EVN,0.9560,1999,Eaton Vance Municipal Income Trust,N/A,12.5300,14.7100,06 August 2016

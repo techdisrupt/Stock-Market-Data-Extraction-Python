@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,3.4700,0.8800,-316000.00,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,4.67,NCM,0.8598,348643,N/A,N/A,BLIN,-3.1350,n/a,Bridgeline Digital,N/A,0.4300,0.9100,05 August 2016

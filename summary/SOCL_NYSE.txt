@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.1000,22.5600,22.4100,N/A,['NYSE'],N/A,n/a,N/A,N/A,N/A,N/A,PCX,N/A,33226,0.0100,N/A,SOCL,-0.1030,n/a,Global X Social Media Index ETF,N/A,15.2000,22.4100,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,25.95,25.83,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NYQ,25.85,6655,0.00,6/29/2016,AFC,-1.17,n/a,Ares Capital Corporation,N/A,24.30,25.88,05 August 2016

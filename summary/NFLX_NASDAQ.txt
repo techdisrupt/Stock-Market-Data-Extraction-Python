@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,133.27,93.77,313.82M,['NASDAQ'],N/A,2002,303.22,N/A,N/A,41600.00,NMS,96.25,18364801,N/A,N/A,NFLX,0.32,n/a,Netflix,N/A,79.95,93.44,07 August 2016

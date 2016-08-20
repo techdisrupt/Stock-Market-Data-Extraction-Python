@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,N/A,22.44,13.79,305.79M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,523.95,NMS,13.63,204662,N/A,N/A,GNCMA,-0.22,n/a,General Communication,N/A,13.54,13.70,07 August 2016

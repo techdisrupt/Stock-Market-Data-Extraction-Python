@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,N/A,32.09,31.21,39.16M,['NASDAQ'],N/A,Finance,16.49,N/A,N/A,540.97,NMS,30.77,12695,N/A,N/A,GBLI,1.87,n/a,Global Indemnity plc,N/A,20.96,30.41,07 August 2016

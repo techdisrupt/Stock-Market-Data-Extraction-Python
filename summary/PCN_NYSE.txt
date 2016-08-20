@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,10.60,15.77,15.44,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,15.71,101701,1.35,7/7/2016,PCN,1.25,2001,Pimco Corporate & Income Stategy Fund,N/A,11.93,15.42,08 August 2016

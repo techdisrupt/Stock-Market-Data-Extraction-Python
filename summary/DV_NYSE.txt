@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,1.61,29.88,22.60,284.71M,['NYSE'],N/A,Consumer Services,39.65,6/24/2016,N/A,1420.00,NYQ,22.69,548658,0.36,6/1/2016,DV,0.57,n/a,DeVry Education Group Inc.,N/A,15.36,22.40,06 August 2016

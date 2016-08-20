@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,4.33,67.47,66.99,0.00,['NYSE'],N/A,Finance,12.40,3/31/2016,N/A,10970.00,NYQ,67.00,20570,2.90,3/16/2016,BCH,5.40,n/a,Banco De Chile,N/A,56.21,67.10,05 August 2016

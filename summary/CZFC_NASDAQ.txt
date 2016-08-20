@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.07,16.23,N/A,0.00,['NASDAQ'],N/A,Finance,9.90,5/18/2016,N/A,30.02,NGM,15.50,0,0.16,4/27/2016,CZFC,1.52,n/a,Citizens First Corporation,N/A,12.62,15.01,06 August 2016

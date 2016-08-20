@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.55,95.11,84.87,1.18B,['NYSE'],N/A,n/a,15.96,6/6/2016,N/A,11010.00,NYQ,84.74,672892,1.32,5/12/2016,COL,5.31,n/a,Rockwell Collins,N/A,76.03,84.73,09 August 2016

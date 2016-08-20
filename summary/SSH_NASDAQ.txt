@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Electromedical & Electrotherapeutic Apparatus,USD,N/A,N/A,3.57,0.81,-23.20M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,14.53,NCM,0.82,68719,N/A,N/A,SSH,-1.33,n/a,Sunshine Heart Inc,N/A,0.40,0.80,14 August 2016

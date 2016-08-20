@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.02,141.97,89.44,70.05M,['NASDAQ'],N/A,n/a,29.27,8/12/2016,N/A,693.54,NMS,89.97,37401,1.80,7/27/2016,VRTS,3.07,n/a,Virtus Investment Partners,N/A,66.12,89.15,15 August 2016

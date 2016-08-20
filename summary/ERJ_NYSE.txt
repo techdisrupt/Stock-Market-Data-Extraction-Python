@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Aerospace,USD,N/A,0.00,32.50,18.31,416.54M,['NYSE'],N/A,Capital Goods,511.67,7/21/2016,N/A,13530.00,NYQ,18.54,1653278,0.00,6/21/2016,ERJ,0.04,2000,Embraer-Empresa Brasileira de Aeronautica,N/A,17.24,18.19,06 August 2016

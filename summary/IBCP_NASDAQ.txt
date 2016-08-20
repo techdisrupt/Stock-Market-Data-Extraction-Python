@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.03,16.15,15.78,0.00,['NASDAQ'],N/A,Finance,16.76,5/16/2016,N/A,337.20,NMS,15.83,173860,0.32,8/4/2016,IBCP,0.94,n/a,Independent Bank Corporation,N/A,13.40,15.74,07 August 2016

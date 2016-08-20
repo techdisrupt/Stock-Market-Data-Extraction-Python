@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,5.66,52.49,47.13,1.59B,['NYSE'],N/A,2007,14.68,5/27/2016,N/A,14120.00,NYQ,46.68,435203,2.66,8/11/2016,SEP,3.18,n/a,Spectra Energy Partners,N/A,36.21,46.91,14 August 2016

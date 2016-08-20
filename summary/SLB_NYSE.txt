@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oilfield Services/Equipment,USD,N/A,2.47,83.85,81.80,7.59B,['NYSE'],N/A,Energy,N/A,7/8/2016,N/A,112920.00,NYQ,81.29,3902402,2.00,5/27/2016,SLB,-1.31,n/a,Schlumberger N.V.,N/A,59.60,81.50,13 August 2016

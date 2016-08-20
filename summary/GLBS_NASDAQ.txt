@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,0.00,1.78,0.65,-3.33M,['NASDAQ'],N/A,Transportation,N/A,5/31/2012,N/A,7.38,NCM,0.81,1513335,0.00,5/23/2012,GLBS,-3.20,n/a,Globus Maritime Limited,N/A,0.05,0.62,07 August 2016

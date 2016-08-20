@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,4.12,3.64,1.92,-5.80M,['NYSE'],N/A,n/a,N/A,6/23/2016,N/A,661.36,NYQ,1.95,82026,0.08,6/2/2016,VHI,-0.20,n/a,Valhi,N/A,0.85,1.94,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,10.85,11.13,10.94,0.00,['NYSE'],N/A,Consumer Services,11020.00,7/29/2016,N/A,10190.00,NYQ,11.02,7406573,1.20,7/7/2016,NLY,0.00,n/a,Annaly Capital Management Inc,N/A,8.25,10.99,05 August 2016

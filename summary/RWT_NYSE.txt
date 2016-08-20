@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,7.78,15.42,14.66,0.00,['NYSE'],N/A,1995,12.79,6/30/2016,N/A,1160.00,NYQ,15.10,739028,1.12,6/14/2016,RWT,1.18,n/a,Redwood Trust,N/A,9.26,14.31,09 August 2016

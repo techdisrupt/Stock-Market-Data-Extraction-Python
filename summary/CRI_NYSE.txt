@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,1.33,112.58,99.66,473.03M,['NYSE'],N/A,2003,21.65,6/3/2016,N/A,5040.00,NYQ,100.69,574235,1.32,5/19/2016,CRI,4.65,n/a,Carter&'s,N/A,82.22,98.83,06 August 2016

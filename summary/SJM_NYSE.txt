@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Packaged Foods,USD,N/A,1.96,157.31,156.64,1.69B,['NYSE'],N/A,Consumer Non-Durables,26.95,6/1/2016,N/A,18070.00,NYQ,161.77,962322,3.00,5/11/2016,SJM,5.76,n/a,J.M. Smucker Company (The),N/A,104.30,156.20,07 August 2016

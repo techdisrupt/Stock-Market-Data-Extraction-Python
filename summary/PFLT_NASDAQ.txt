@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.98,13.55,12.70,0.00,['NASDAQ'],N/A,n/a,N/A,7/1/2016,N/A,N/A,NMS,13.09,56083,1.14,7/18/2016,PFLT,0.46,2011,PennantPark Floating Rate Capital Ltd.,N/A,9.73,12.70,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.32,91.30,79.34,489.50M,['NYSE'],N/A,n/a,14.70,6/24/2016,N/A,3370.00,NYQ,78.98,189224,1.84,6/8/2016,THG,5.37,n/a,The Hanover Insurance Group,N/A,75.39,79.46,14 August 2016

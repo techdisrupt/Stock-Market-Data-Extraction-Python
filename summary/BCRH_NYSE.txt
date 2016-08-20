@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,6.63,19.51,17.55,0.00,['NYSE'],N/A,Finance,9.44,7/15/2016,N/A,157.68,NYQ,18.05,15191,1.20,3/29/2016,BCRH,1.91,2013,Blue Capital Reinsurance Holdings Ltd.,N/A,15.90,17.58,05 August 2016

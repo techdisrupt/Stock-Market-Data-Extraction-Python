@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Restaurants,USD,N/A,N/A,224.15,216.08,386.16M,['NASDAQ'],N/A,Consumer Services,37.08,N/A,N/A,5160.00,NMS,219.99,413942,N/A,N/A,PNRA,5.91,n/a,Panera Bread Company,N/A,165.17,214.68,07 August 2016

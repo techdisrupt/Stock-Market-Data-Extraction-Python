@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,1.71,24.00,23.53,69.24M,['NYSE'],N/A,n/a,14.72,7/27/2016,N/A,645.16,NYQ,24.00,75771,0.40,7/11/2016,WGO,1.63,n/a,Winnebago Industries,N/A,15.41,23.44,15 August 2016

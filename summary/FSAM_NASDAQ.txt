@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,9.90,9.10,3.76,39.73M,['NASDAQ'],N/A,Finance,N/A,7/15/2016,N/A,21.85,NMS,9.99,113768,0.40,6/28/2016,FSAM,-0.04,2014,Fifth Street Asset Management Inc.,N/A,1.31,3.87,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Manufacturing,USD,N/A,0.95,69.46,67.45,228.70M,['NASDAQ'],N/A,Technology,15.90,6/2/2016,N/A,4040.00,NMS,N/A,85719,0.64,5/19/2016,NICE,4.28,n/a,NICE-Systems Limited,N/A,53.06,67.32,07 August 2016

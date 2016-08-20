@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,6.56,2.79,-16.52M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,84.41,NCM,3.24,56731,N/A,N/A,OHRP,-0.61,n/a,Ohr Pharmaceuticals,N/A,2.20,2.78,07 August 2016

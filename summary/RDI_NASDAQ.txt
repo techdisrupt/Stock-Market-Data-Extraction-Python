@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Movies/Entertainment,USD,N/A,N/A,17.31,13.29,38.22M,['NASDAQ'],N/A,Consumer Services,14.13,N/A,N/A,306.61,NCM,13.21,8944,N/A,N/A,RDI,0.93,n/a,Reading International Inc,N/A,9.71,13.30,08 August 2016

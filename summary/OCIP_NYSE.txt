@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,3.48,16.28,6.81,113.46M,['NYSE'],N/A,Basic Industries,35.77,7/8/2016,N/A,566.35,NYQ,7.53,8184,0.24,6/22/2016,OCIP,0.52,2013,OCI Partners LP,N/A,5.57,6.89,07 August 2016

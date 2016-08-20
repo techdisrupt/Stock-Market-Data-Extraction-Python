@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,11.45,18.25,16.15,0.00,['NYSE'],N/A,Consumer Services,17.56,7/15/2016,N/A,1090.00,NYQ,16.60,665529,1.84,6/28/2016,ARI,0.93,2009,Apollo Commercial Real Estate Finance,N/A,12.92,16.13,05 August 2016

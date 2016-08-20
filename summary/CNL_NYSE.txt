@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,2.89,55.37,N/A,0.00,['NYSE'],N/A,Public Utilities,N/A,2/16/2016,N/A,N/A,NYQ,N/A,0,1.60,2/4/2016,CNL,2.19,n/a,Cleco Corporation,N/A,44.78,55.36,06 August 2016

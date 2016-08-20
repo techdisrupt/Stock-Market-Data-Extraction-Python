@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,8.70,24.31,19.72,597.85M,['NASDAQ'],N/A,Public Utilities,N/A,12/15/2015,N/A,1990.00,NMS,19.83,387959,1.72,11/25/2015,ABY,-2.25,2014,Abengoa Yield plc,N/A,13.11,19.73,04 August 2016

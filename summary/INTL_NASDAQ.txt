@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,N/A,36.97,31.49,0.00,['NASDAQ'],N/A,Finance,10.75,N/A,N/A,584.86,NMS,N/A,75928,N/A,N/A,INTL,2.93,n/a,INTL FCStone Inc.,N/A,24.27,31.31,07 August 2016

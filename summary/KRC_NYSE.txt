@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.10,74.17,71.74,347.63M,['NYSE'],N/A,Consumer Services,20.55,7/13/2016,N/A,6640.00,NYQ,71.95,324295,1.50,6/28/2016,KRC,3.50,1997,Kilroy Realty Corporation,N/A,46.76,71.50,07 August 2016

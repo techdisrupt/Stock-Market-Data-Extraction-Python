@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,22.97,20.93,130.95M,['NYSE'],N/A,2014,36.82,N/A,N/A,1470.00,NYQ,21.00,339265,N/A,N/A,TNET,0.57,n/a,TriNet Group,N/A,11.10,21.00,14 August 2016

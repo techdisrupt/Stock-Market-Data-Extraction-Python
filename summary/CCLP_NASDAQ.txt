@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,17.52,16.00,8.48,115.06M,['NASDAQ'],N/A,n/a,N/A,5/13/2016,N/A,295.65,NMS,8.90,76139,1.51,7/28/2016,CCLP,-7.52,2011,CSI Compressco LP,N/A,3.74,8.79,06 August 2016

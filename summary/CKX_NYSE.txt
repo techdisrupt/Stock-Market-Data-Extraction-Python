@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.00,13.01,N/A,486905.00,['NYSE'],N/A,n/a,46.38,5/28/2015,N/A,21.89,ASE,11.50,17,0.00,5/12/2015,CKX,0.24,n/a,CKX Lands,N/A,9.05,11.27,06 August 2016

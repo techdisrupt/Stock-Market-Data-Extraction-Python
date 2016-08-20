@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.53,33.80,30.99,0.00,['NYSE'],N/A,Finance,18.47,7/1/2016,N/A,3840.00,NYQ,31.75,560112,0.48,6/14/2016,SNV,1.69,n/a,Synovus Financial Corp.,N/A,25.48,31.36,14 August 2016

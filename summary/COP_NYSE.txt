@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,3.70,57.24,40.29,3.58B,['NYSE'],N/A,Energy,N/A,6/1/2016,N/A,50280.00,NYQ,40.65,8736148,1.49,7/21/2016,COP,-5.69,n/a,ConocoPhillips,N/A,31.05,40.10,06 August 2016

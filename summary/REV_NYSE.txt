@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,38.00,35.22,310.70M,['NYSE'],N/A,1996,36.60,N/A,N/A,1840.00,NYQ,35.12,23956,N/A,12/23/2009,REV,0.96,n/a,Revlon,N/A,24.20,35.12,09 August 2016

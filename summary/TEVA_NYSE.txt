@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,2.55,70.09,53.13,6.32B,['NYSE'],N/A,Health Care,35.98,6/7/2016,N/A,49230.00,NYQ,54.02,6969655,1.36,5/20/2016,TEVA,1.50,n/a,Teva Pharmaceutical Industries Limited,N/A,48.01,53.42,14 August 2016

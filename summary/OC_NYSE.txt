@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,1.35,58.69,53.50,1.01B,['NYSE'],N/A,Capital Goods,15.09,8/2/2016,N/A,6130.00,NYQ,53.53,1519068,0.72,7/14/2016,OC,3.54,n/a,Owens Corning Inc,N/A,38.95,53.19,07 August 2016

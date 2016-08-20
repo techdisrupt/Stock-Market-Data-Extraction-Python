@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Publishing,USD,N/A,2.79,10.50,7.19,2.64M,['NYSE'],N/A,Miscellaneous,47.95,5/12/2016,N/A,20.23,ASE,7.28,4095,0.20,7/21/2016,ISDR,0.15,n/a,Issuer Direct Corporation,N/A,4.88,7.05,07 August 2016

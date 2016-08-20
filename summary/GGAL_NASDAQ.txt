@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,0.28,33.08,29.89,0.00,['NASDAQ'],N/A,Finance,12.05,6/3/2016,N/A,3820.00,NCM,30.90,97490,0.08,5/19/2016,GGAL,2.44,n/a,Grupo Financiero Galicia S.A.,N/A,15.30,29.50,07 August 2016

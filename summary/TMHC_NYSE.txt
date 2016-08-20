@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Homebuilding,USD,N/A,N/A,21.55,17.20,285.38M,['NYSE'],N/A,Capital Goods,11.31,N/A,N/A,512.66,NYQ,16.89,149464,N/A,N/A,TMHC,1.49,2013,Taylor Morrison Home Corporation,N/A,10.33,17.17,14 August 2016

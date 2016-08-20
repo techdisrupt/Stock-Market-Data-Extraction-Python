@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.90,205.74,204.90,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,205.50,17726,1.68,N/A,ONEQ,13.32,n/a,Fidelity Nasdaq Composite Index Tracking Stock,N/A,141.00,203.50,06 August 2016

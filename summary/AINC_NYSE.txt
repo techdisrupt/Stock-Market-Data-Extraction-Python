@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Professional Services,USD,N/A,N/A,78.00,46.44,12.31M,['NYSE'],N/A,Consumer Services,N/A,N/A,N/A,95.70,ASE,48.74,322,N/A,N/A,AINC,-2.35,2014,Ashford Inc.,N/A,36.60,49.00,05 August 2016

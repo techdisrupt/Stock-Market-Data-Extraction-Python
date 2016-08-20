@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.72,117.00,110.89,242.64M,['NYSE'],N/A,n/a,44.10,6/30/2016,N/A,2980.00,NYQ,110.27,25027,3.00,6/13/2016,PSB,2.50,n/a,PS Business Parks,N/A,70.15,110.38,08 August 2016

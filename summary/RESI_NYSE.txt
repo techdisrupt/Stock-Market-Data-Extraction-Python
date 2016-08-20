@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,6.15,17.09,9.87,11.64M,['NYSE'],N/A,Finance,N/A,7/15/2016,N/A,533.83,NYQ,10.70,590934,0.60,6/28/2016,RESI,-1.85,n/a,Altisource Residential Corporation,N/A,7.81,9.87,05 August 2016

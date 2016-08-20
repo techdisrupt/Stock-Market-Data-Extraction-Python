@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,7.6100,4.4300,5.90M,['NASDAQ'],N/A,Miscellaneous,30.4957,N/A,N/A,65.35,NGM,4.2900,1384,N/A,N/A,ULBI,0.1410,1992,Ultralife Corporation,N/A,3.7300,4.3700,15 August 2016

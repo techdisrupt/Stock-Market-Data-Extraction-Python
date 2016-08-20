@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,N/A,15.00,12.60,38.03M,['NYSE'],N/A,Consumer Services,N/A,N/A,N/A,490.77,NYQ,13.08,130323,N/A,N/A,LRN,-0.04,n/a,K12 Inc,N/A,7.11,12.48,07 August 2016

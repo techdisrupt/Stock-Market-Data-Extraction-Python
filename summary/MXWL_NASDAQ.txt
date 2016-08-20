@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,0.00,8.04,4.82,-1.17M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,154.75,NMS,5.80,322796,0.00,12/27/1994,MXWL,-0.26,n/a,Maxwell Technologies,N/A,4.16,4.81,07 August 2016

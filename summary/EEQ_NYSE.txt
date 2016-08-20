@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,10.17,27.86,22.93,0.00,['NYSE'],N/A,Energy,N/A,N/A,N/A,1780.00,NYQ,46.22,135683,2.33,8/3/2010,EEQ,-7.80,2002,Enbridge Energy Management LLC,N/A,13.80,22.88,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,26.95,26.72,0.00,['NYSE'],N/A,n/a,N/A,6/15/2016,N/A,N/A,NYQ,26.75,308215,N/A,5/26/2016,HSEB,0.75,n/a,HSBC Holdings plc,N/A,25.05,26.75,07 August 2016

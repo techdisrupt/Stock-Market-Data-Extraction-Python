@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.74,446.38,441.13,133.89M,['NYSE'],N/A,n/a,26.69,5/20/2016,N/A,2280.00,NYQ,446.38,9390,16.00,5/6/2016,ALX,15.86,n/a,Alexander&#39;s,N/A,350.03,438.97,04 August 2016

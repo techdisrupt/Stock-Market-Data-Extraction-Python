@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,N/A,12.08,6.78,-7.43M,['NASDAQ'],N/A,Basic Industries,N/A,N/A,N/A,86.15,NGM,25.00,37317,N/A,N/A,HYGS,-0.96,n/a,Hydrogenics Corporation,N/A,5.41,6.75,07 August 2016

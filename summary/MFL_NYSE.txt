@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.200,16.430,16.270,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,16.110,172371,0.860,7/13/2016,MFL,0.672,1997,Blackrock MuniHoldings Investment Quality Fund,N/A,13.830,16.250,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,64.43,39.39,15.46M,['NASDAQ'],N/A,Health Care,28.55,N/A,N/A,278.58,NGM,39.69,15784,N/A,N/A,BSTC,1.39,n/a,BioSpecifics Technologies Corp,N/A,30.70,39.02,05 August 2016

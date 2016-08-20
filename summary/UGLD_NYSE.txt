@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,N/A,15.060,13.710,N/A,['NYSE'],N/A,Finance,N/A,N/A,N/A,N/A,PCX,13.830,151127,N/A,N/A,UGLD,N/A,n/a,VelocityShares 3x Long Gold ETN linked to the S&P GSCI Gold In,N/A,7.100,13.650,15 August 2016

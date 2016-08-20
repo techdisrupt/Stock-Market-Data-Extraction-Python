@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,0.00,17.00,11.10,-237892.00,['NASDAQ'],N/A,Consumer Services,N/A,3/5/2014,N/A,24.21,NCM,10.47,627430,0.00,2/13/2014,HMNY,-0.99,n/a,Helios and Matheson Analytics Inc,N/A,1.03,10.83,07 August 2016

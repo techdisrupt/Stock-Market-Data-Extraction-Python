@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,4.58,18.34,16.02,224.96M,['NYSE'],N/A,Basic Industries,21.30,6/29/2016,N/A,1030.00,NYQ,17.40,149965,0.75,6/2/2016,OEC,0.77,2014,Orion Engineered Carbons S.A,N/A,9.69,16.30,07 August 2016

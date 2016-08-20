@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,9.71,5.76,-16.46M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,390.21,NMS,5.76,92182,N/A,N/A,XNET,-0.26,2014,Xunlei Limited,N/A,5.02,5.76,15 August 2016

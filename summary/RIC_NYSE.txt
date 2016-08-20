@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,11.48,10.42,32.95M,['NYSE'],N/A,n/a,72.70,N/A,N/A,601.17,ASE,10.24,616660,N/A,N/A,RIC,0.14,n/a,Richmont Mines,N/A,2.41,10.54,09 August 2016

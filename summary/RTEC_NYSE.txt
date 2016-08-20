@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,17.72,17.24,42.29M,['NYSE'],N/A,1999,17.27,N/A,N/A,533.72,NYQ,17.31,319947,N/A,N/A,RTEC,1.00,n/a,Rudolph Technologies,N/A,11.17,17.15,10 August 2016

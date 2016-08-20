@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,14.3200,4.5400,1.5000,110.07M,['NASDAQ'],N/A,1991,N/A,11/2/2015,N/A,31.19,NMS,5.0000,155281,0.2000,10/14/2015,BONT,-3.0800,n/a,The Bon-Ton Stores,N/A,1.1000,1.5195,14 August 2016

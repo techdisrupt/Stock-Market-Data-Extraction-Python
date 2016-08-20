@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,N/A,2.54,1.80,-11.03M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,49.22,NMS,2.00,262876,N/A,N/A,OIIM,-0.98,n/a,O2Micro International Limited,N/A,1.21,1.80,07 August 2016

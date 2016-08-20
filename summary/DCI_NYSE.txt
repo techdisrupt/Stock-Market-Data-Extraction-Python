@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.94,37.08,36.43,352.41M,['NYSE'],N/A,n/a,26.51,6/29/2016,N/A,4880.00,NYQ,36.62,319197,0.70,6/8/2016,DCI,1.38,n/a,Donaldson Company,N/A,25.21,36.22,06 August 2016

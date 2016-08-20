@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,7.53,N/A,0.00,['NASDAQ'],N/A,2010,N/A,N/A,N/A,N/A,NCM,N/A,0,N/A,N/A,CPGI,0.27,n/a,China Shengda Packaging Group,N/A,2.73,6.73,06 August 2016

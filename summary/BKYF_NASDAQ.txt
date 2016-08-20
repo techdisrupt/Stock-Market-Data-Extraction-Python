@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,1.40,51.52,N/A,0.00,['NASDAQ'],N/A,Finance,N/A,N/A,N/A,N/A,NMS,N/A,0,0.72,4/8/2015,BKYF,2.30,n/a,The Bank of Kentucky Financial Corp.,N/A,34.07,50.99,14 August 2016

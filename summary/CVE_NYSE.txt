@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,1.07,17.23,14.65,761.04M,['NYSE'],N/A,Energy,20.58,6/30/2016,N/A,12060.00,NYQ,17.99,1367303,0.15,6/13/2016,CVE,0.70,n/a,Cenovus Energy Inc,N/A,9.10,14.74,06 August 2016

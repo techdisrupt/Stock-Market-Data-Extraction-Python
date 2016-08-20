@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,7.23,24.60,23.72,0.00,['NASDAQ'],N/A,Finance,N/A,5/23/2016,N/A,N/A,NMS,24.00,572344,1.72,7/20/2016,GOV,-2.25,2009,Government Properties Income Trust,N/A,12.33,23.73,07 August 2016

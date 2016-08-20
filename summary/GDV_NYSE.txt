@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,1.70,20.36,19.74,0.00,['NYSE'],N/A,n/a,N/A,7/22/2016,N/A,N/A,NYQ,19.83,94536,0.30,7/13/2016,GDV,-1.27,2003,Gabelli Dividend,N/A,14.82,19.72,07 August 2016

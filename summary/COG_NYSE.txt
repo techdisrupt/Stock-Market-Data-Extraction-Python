@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.33,27.24,24.46,423.83M,['NYSE'],N/A,Energy,N/A,5/31/2016,N/A,11420.00,NYQ,24.54,3686779,0.08,5/12/2016,COG,-0.56,1990,Cabot Oil & Gas Corporation,N/A,14.88,24.42,05 August 2016

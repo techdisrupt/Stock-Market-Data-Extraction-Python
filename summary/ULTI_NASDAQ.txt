@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,224.07,213.88,66.34M,['NASDAQ'],N/A,1998,336.15,N/A,N/A,6220.00,NMS,N/A,159161,N/A,N/A,ULTI,0.64,n/a,The Ultimate Software Group,N/A,148.26,214.64,14 August 2016

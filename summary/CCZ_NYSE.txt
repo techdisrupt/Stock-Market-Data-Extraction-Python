@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Television Services,USD,N/A,0.00,57.00,N/A,3.39B,['NYSE'],N/A,Consumer Services,41.04,7/15/2016,N/A,45560.00,NYQ,50.50,70,0.00,6/29/2016,CCZ,1.17,n/a,Comcast Corporation,N/A,40.21,48.10,06 August 2016

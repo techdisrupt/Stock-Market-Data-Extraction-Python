@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,2.90,41.48,35.36,279.95M,['NYSE'],N/A,n/a,19.75,6/30/2016,N/A,2210.00,NYQ,35.36,394665,1.02,6/13/2016,OMI,1.79,n/a,Owens & Minor,N/A,31.89,35.22,07 August 2016

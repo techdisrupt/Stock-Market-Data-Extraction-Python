@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,N/A,26.26,25.61,999.52M,['NYSE'],N/A,n/a,33.39,6/1/2016,N/A,2800.00,NYQ,25.61,10976,N/A,11/25/2014,TDA,0.77,n/a,Telephone and Data Systems,N/A,23.34,25.69,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,29.68,26.65,583.17M,['NYSE'],N/A,n/a,N/A,N/A,N/A,5360.00,NYQ,26.53,1233012,N/A,N/A,LYV,-0.24,n/a,Live Nation Entertainment,N/A,18.77,26.59,07 August 2016

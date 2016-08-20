@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.00,6.66,6.45,0.00,['NYSE'],N/A,1988,N/A,7/29/2016,N/A,N/A,NYQ,6.56,290946,0.30,7/13/2016,GIM,-0.75,n/a,Templeton Global Income Fund,N/A,5.86,6.47,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.00,23.55,20.23,0.00,['NYSE'],N/A,Finance,67.23,6/15/2016,N/A,600.40,NYQ,20.84,104876,0.20,5/25/2016,NBHC,0.31,2012,National Bank Holdings Corporation,N/A,18.41,20.08,07 August 2016

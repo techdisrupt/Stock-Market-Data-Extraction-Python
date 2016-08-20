@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,2.77,110.94,108.74,12.12B,['NYSE'],N/A,n/a,30.70,6/30/2016,N/A,156380.00,NYQ,108.88,3189398,3.01,6/1/2016,PEP,3.54,n/a,Pepsico,N/A,76.48,108.42,08 August 2016

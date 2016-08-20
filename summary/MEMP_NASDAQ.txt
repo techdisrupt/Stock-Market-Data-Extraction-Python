@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,6.98,7.69,1.87,350.02M,['NASDAQ'],N/A,Energy,N/A,5/13/2016,N/A,167.67,NMS,2.06,1210462,0.12,8/3/2016,MEMP,-3.26,2011,Memorial Production Partners LP,N/A,1.34,1.88,07 August 2016

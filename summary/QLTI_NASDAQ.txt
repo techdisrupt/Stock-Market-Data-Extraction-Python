@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,0.0000,3.7800,1.4000,-21.04M,['NASDAQ'],N/A,Health Care,N/A,6/27/2013,N/A,75.01,NMS,1.4200,85395,0.0000,6/28/2013,QLTI,-0.7420,n/a,QLT Inc.,N/A,1.2200,1.3900,08 August 2016

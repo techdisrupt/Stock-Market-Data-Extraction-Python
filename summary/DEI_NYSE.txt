@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.35,38.25,37.68,407.55M,['NYSE'],N/A,2006,94.75,7/15/2016,N/A,5510.00,NYQ,37.31,673040,0.88,6/28/2016,DEI,0.39,n/a,Douglas Emmett,N/A,24.73,37.58,06 August 2016

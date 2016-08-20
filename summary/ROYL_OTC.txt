@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.000,1.080,0.710,-4.07M,['OTC'],N/A,n/a,N/A,N/A,N/A,12.86,PNK,N/A,25153,0.000,2/14/2007,ROYL,-0.096,n/a,Royale Energy,N/A,0.060,0.640,10 August 2016

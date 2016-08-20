@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,35.93,25.03,641.20M,['NYSE'],N/A,n/a,36.84,N/A,N/A,5810.00,NYQ,25.75,2589154,N/A,8/1/2008,FTI,0.70,n/a,FMC Technologies,N/A,22.30,24.98,07 August 2016

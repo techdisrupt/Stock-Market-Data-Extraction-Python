@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,30.7300,27.8800,-20.98M,['NYSE'],N/A,2014,N/A,N/A,N/A,1060.00,NYQ,26.7400,441388,N/A,N/A,QTWO,-0.9000,n/a,Q2 Holdings,N/A,16.4300,27.9300,08 August 2016

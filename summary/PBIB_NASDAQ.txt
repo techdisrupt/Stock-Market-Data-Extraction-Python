@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.00,2.55,1.65,0.00,['NASDAQ'],N/A,2006,N/A,N/A,N/A,42.16,NCM,1.64,17928,0.00,6/15/2011,PBIB,-0.07,n/a,Porter Bancorp,N/A,1.09,1.62,08 August 2016

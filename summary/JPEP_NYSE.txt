@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil Refining/Marketing,USD,N/A,14.24,10.08,9.14,37.72M,['NYSE'],N/A,Energy,N/A,5/13/2016,N/A,328.04,NYQ,8.98,81522,1.30,8/3/2016,JPEP,-1.71,2014,JP Energy Partners LP,N/A,1.89,9.13,07 August 2016

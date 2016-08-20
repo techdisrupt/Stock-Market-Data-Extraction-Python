@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Steel/Iron Ore,USD,N/A,3.40,18.50,16.47,431.94M,['NYSE'],N/A,Basic Industries,15.15,7/21/2016,N/A,1910.00,NYQ,16.68,1084595,0.48,7/5/2016,CMC,1.10,n/a,Commercial Metals Company,N/A,12.44,16.46,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,97.38,94.00,-264.84M,['NASDAQ'],N/A,2012,N/A,N/A,N/A,4950.00,NMS,96.70,1551832,N/A,N/A,TSRO,-6.99,n/a,TESARO,N/A,29.51,93.40,14 August 2016

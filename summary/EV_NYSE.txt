@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,2.83,39.72,38.04,445.35M,['NYSE'],N/A,Finance,18.45,5/13/2016,N/A,4240.00,NYQ,40.00,730707,1.06,7/27/2016,EV,2.10,n/a,Eaton Vance Corporation,N/A,26.44,37.62,06 August 2016

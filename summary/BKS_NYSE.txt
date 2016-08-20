@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,4.7500,18.1700,12.7700,165.02M,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,973.43,NYQ,13.1900,244800,0.6000,7/6/2016,BKS,-0.4900,n/a,Barnes & Noble,N/A,7.2500,12.7100,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,N/A,12.36,11.16,23.22M,['NASDAQ'],N/A,Capital Goods,18.60,N/A,N/A,302.68,NMS,11.80,28342,N/A,N/A,NVMI,0.57,2000,Nova Measuring Instruments Ltd.,N/A,8.57,11.10,07 August 2016

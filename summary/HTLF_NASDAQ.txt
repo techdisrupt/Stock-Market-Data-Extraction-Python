@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.10,39.45,36.29,0.00,['NASDAQ'],N/A,n/a,12.11,6/3/2016,N/A,904.66,NMS,36.86,88222,0.40,5/18/2016,HTLF,3.04,n/a,Heartland Financial USA,N/A,25.95,36.11,07 August 2016

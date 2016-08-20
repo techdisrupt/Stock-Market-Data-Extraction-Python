@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Beverages (Production/Distribution),USD,N/A,2.33,36.22,34.16,153.28M,['NYSE'],N/A,Consumer Non-Durables,16.42,6/7/2016,N/A,1280.00,NYQ,34.40,29,0.80,5/12/2016,VCO,2.08,1994,Vina Concha Y Toro,N/A,28.22,34.16,15 August 2016

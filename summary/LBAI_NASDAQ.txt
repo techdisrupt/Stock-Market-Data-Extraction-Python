@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.10,12.69,12.31,0.00,['NASDAQ'],N/A,n/a,14.53,5/16/2016,N/A,520.04,NMS,N/A,93410,0.38,8/1/2016,LBAI,0.87,n/a,Lakeland Bancorp,N/A,9.72,12.25,07 August 2016

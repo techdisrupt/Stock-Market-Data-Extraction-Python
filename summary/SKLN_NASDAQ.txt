@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,6.7600,0.1165,-6.42M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,7.56,NCM,0.1100,2218037,N/A,N/A,SKLN,-0.8840,n/a,Skyline Medical Inc.,N/A,0.1010,0.1162,14 August 2016

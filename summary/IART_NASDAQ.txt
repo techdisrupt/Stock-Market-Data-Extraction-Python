@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Laboratory Analytical Instruments,USD,N/A,N/A,85.43,84.69,211.03M,['NASDAQ'],N/A,Capital Goods,351.03,N/A,N/A,3170.00,NMS,85.10,162797,N/A,N/A,IART,0.24,n/a,Integra LifeSciences Holdings Corporation,N/A,54.75,84.60,07 August 2016

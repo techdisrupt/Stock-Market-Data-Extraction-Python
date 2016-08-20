@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,5.76,28.78,26.11,274.46M,['NASDAQ'],N/A,2005,N/A,8/1/2016,N/A,1310.00,NMS,28.00,411938,1.55,7/13/2016,CNSL,-0.02,n/a,Consolidated Communications Holdings,N/A,17.76,26.58,06 August 2016

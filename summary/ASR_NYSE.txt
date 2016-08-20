@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,1.94,167.86,152.30,266.19M,['NYSE'],N/A,n/a,269.91,6/27/2016,N/A,46240.00,NYQ,154.34,30306,2.95,6/10/2016,ASR,0.57,n/a,Grupo Aeroportuario del Sureste,N/A,119.99,152.14,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,2.70,36.15,33.19,342.65M,['NYSE'],N/A,n/a,225.03,5/13/2016,N/A,2600.00,NYQ,32.63,759148,0.88,8/4/2016,PNM,0.14,n/a,PNM Resources,N/A,24.65,33.46,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,8.77,37.40,25.22,705.95M,['NASDAQ'],N/A,2006,9.20,5/20/2016,N/A,1480.00,NMS,25.39,82042,2.20,5/11/2016,AHGP,2.69,n/a,Alliance Holdings GP,N/A,12.05,25.22,04 August 2016

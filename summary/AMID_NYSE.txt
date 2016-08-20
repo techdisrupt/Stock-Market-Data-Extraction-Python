@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,15.79,16.71,11.14,32.46M,['NYSE'],N/A,2011,N/A,5/13/2016,N/A,371.20,NYQ,11.94,174282,1.65,8/1/2016,AMID,-4.81,n/a,American Midstream Partners,N/A,3.80,11.25,05 August 2016

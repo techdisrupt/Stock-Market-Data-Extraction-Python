@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,1.36,54.99,47.13,1.07B,['NYSE'],N/A,Basic Industries,26.74,6/17/2016,N/A,9230.00,NYQ,46.99,1393191,0.64,6/1/2016,SEE,1.75,n/a,Sealed Air Corporation,N/A,38.02,47.15,13 August 2016

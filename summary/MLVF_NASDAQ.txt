@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.00,17.70,15.86,0.00,['NASDAQ'],N/A,n/a,19.10,1/20/2011,N/A,102.51,NGM,16.00,1145,0.00,12/29/2010,MLVF,0.84,n/a,Malvern Bancorp,N/A,14.51,15.99,07 August 2016

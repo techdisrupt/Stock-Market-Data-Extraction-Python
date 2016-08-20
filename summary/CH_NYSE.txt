@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.8300,6.6000,6.3100,0.00,['NYSE'],N/A,n/a,N/A,6/30/2016,N/A,N/A,ASE,6.3600,9706,0.5600,6/16/2016,CH,-1.1220,n/a,Aberdeen Chile Fund,N/A,4.9100,6.3900,04 August 2016

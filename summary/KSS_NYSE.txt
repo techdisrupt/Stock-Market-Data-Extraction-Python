@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Department/Specialty Retail Stores,USD,N/A,5.17,64.18,39.19,2.38B,['NYSE'],N/A,Consumer Services,13.27,6/22/2016,N/A,7220.00,NYQ,39.59,2504757,2.00,6/6/2016,KSS,2.96,1992,Kohl's Corporation,N/A,33.87,38.85,07 August 2016

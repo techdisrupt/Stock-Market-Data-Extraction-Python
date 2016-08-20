@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.82,39.76,37.29,0.00,['NYSE'],N/A,Finance,8.01,4/22/2016,N/A,17580.00,NYQ,37.11,31450,1.04,3/16/2009,SHG,4.64,n/a,Shinhan Financial Group Co Ltd,N/A,29.08,37.41,13 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Manufacturing,USD,N/A,9.32,6.65,5.20,-1.93M,['NASDAQ'],N/A,Technology,72.36,6/28/2016,N/A,47.77,NGM,7.50,84848,0.48,6/10/2016,CCUR,0.07,n/a,Concurrent Computer Corporation,N/A,4.54,5.22,06 August 2016

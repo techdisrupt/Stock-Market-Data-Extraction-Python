@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,5.29,41.75,22.37,604.93M,['NYSE'],N/A,Energy,N/A,5/31/2016,N/A,2240.00,NYQ,22.91,1895151,1.20,8/5/2016,PBF,-0.03,2012,PBF Energy Inc.,N/A,20.57,22.37,07 August 2016

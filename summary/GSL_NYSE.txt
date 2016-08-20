@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,0.00,6.40,1.60,114.18M,['NYSE'],N/A,n/a,N/A,11/24/2015,N/A,87.39,NYQ,1.83,35497,0.00,11/12/2015,GSL,-0.44,n/a,Global Ship Lease,N/A,1.02,1.60,07 August 2016

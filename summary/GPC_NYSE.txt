@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Automotive Aftermarket,USD,N/A,2.79,105.97,101.22,1.25B,['NYSE'],N/A,Capital Goods,21.97,7/1/2016,N/A,15140.00,NYQ,101.67,419832,2.63,6/1/2016,GPC,4.63,n/a,Genuine Parts Company,N/A,76.50,100.80,07 August 2016

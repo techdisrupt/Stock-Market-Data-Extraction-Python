@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Steel/Iron Ore,USD,N/A,5.26,55.60,49.67,4.73B,['NYSE'],N/A,Basic Industries,109.84,9/14/2015,N/A,15780.00,NYQ,49.32,187962,2.60,12/26/2012,PKX,0.45,1994,POSCO,N/A,30.97,48.91,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,89.00,84.99,890.30M,['NYSE'],N/A,2012,N/A,N/A,N/A,5830.00,NYQ,84.36,1239687,N/A,N/A,POST,-0.69,n/a,Post Holdings,N/A,50.93,85.72,08 August 2016

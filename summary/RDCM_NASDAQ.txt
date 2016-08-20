@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer peripheral equipment,USD,N/A,N/A,17.60,16.56,672999.00,['NASDAQ'],N/A,Technology,138.80,N/A,N/A,160.37,NCM,16.24,63543,N/A,N/A,RDCM,0.12,1997,Radcom Ltd.,N/A,9.02,16.67,08 August 2016

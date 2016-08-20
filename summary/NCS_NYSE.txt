@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,17.59,16.78,132.34M,['NYSE'],N/A,n/a,37.48,N/A,N/A,1250.00,NYQ,17.12,549685,N/A,N/A,NCS,0.46,n/a,NCI Building Systems,N/A,9.07,16.68,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,55.94,52.05,52.17M,['NASDAQ'],N/A,2005,61.64,N/A,N/A,1220.00,NMS,55.74,151621,N/A,N/A,CYNO,0.85,n/a,Cynosure,N/A,29.00,51.87,06 August 2016

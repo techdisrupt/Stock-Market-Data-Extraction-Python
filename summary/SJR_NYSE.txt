@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Television Services,USD,N/A,4.49,21.41,20.46,1.75B,['NYSE'],N/A,Consumer Services,9.74,7/28/2016,N/A,9890.00,NYQ,20.47,242704,0.91,8/11/2016,SJR,2.13,n/a,Shaw Communications Inc.,N/A,15.66,20.47,13 August 2016

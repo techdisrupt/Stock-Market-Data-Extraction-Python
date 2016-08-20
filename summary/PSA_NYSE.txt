@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.12,277.60,232.50,1.81B,['NYSE'],N/A,Consumer Services,36.62,6/30/2016,N/A,40050.00,NYQ,232.00,424376,7.20,6/13/2016,PSA,6.32,n/a,Public Storage,N/A,196.61,232.76,08 August 2016

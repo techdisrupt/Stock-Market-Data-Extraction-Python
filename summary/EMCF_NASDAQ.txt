@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,4.2700,25.0200,N/A,0.00,['NASDAQ'],N/A,Finance,12.6086,6/17/2016,N/A,52.25,NCM,24.8800,20,1.0400,5/27/2016,EMCF,1.9310,n/a,Emclaire Financial Corp,N/A,22.6000,24.3472,06 August 2016

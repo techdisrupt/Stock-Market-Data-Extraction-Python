@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Air Freight/Delivery Services,USD,N/A,0.00,9.24,8.97,1.26B,['NYSE'],N/A,Transportation,N/A,5/31/2013,N/A,4830.00,NYQ,8.85,447356,0.00,5/8/2013,LFL,-0.14,n/a,LATAM Airlines Group S.A.,N/A,4.35,8.95,07 August 2016

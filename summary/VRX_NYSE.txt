@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.00,252.51,25.630,4.63B,['NYSE'],N/A,n/a,N/A,N/A,N/A,9290.00,NYQ,26.760,23179411,0.00,11/10/2010,VRX,-2.93,n/a,Valeant Pharmaceuticals International,N/A,18.55,24.92,15 August 2016

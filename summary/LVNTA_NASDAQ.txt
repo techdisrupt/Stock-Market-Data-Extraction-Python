@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Catalog/Specialty Distribution,USD,N/A,N/A,45.39,37.59,-32.00M,['NASDAQ'],N/A,Consumer Services,25.00,N/A,N/A,5220.00,NMS,36.76,558312,N/A,N/A,LVNTA,1.47,n/a,Liberty Interactive Corporation,N/A,32.35,37.35,07 August 2016

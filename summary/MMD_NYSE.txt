@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.70,20.99,20.49,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,20.51,53353,1.18,7/13/2016,MMD,N/A,2012,MainStay DefinedTerm Municipal Opportunities Fund,N/A,17.06,20.46,07 August 2016

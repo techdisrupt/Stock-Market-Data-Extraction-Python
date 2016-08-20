@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.64,16.39,15.99,0.00,['NYSE'],N/A,n/a,N/A,7/18/2016,N/A,N/A,ASE,16.05,1384,0.73,7/7/2016,EVO,0.79,1999,Eaton Vance Ohio Municipal Income Trust,N/A,13.09,15.96,06 August 2016

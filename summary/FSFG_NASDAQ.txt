@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.49,36.98,35.25,0.00,['NASDAQ'],N/A,n/a,11.75,3/31/2016,N/A,77.14,NCM,35.25,5003,0.52,6/1/2016,FSFG,2.98,n/a,First Savings Financial Group,N/A,29.80,35.25,06 August 2016

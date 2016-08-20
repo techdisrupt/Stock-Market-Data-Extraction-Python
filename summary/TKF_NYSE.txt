@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.2000,9.6300,8.5800,0.00,['NYSE'],N/A,1989,N/A,1/15/2016,N/A,N/A,NYQ,8.5500,2050,0.0200,12/16/2015,TKF,0.0940,n/a,Turkish Investment Fund,N/A,7.0500,8.5000,15 August 2016

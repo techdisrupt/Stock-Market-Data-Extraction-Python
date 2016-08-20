@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,18.75,18.08,0.00,['NASDAQ'],N/A,2014,17.20,N/A,N/A,333.89,NMS,18.44,55596,N/A,N/A,TBK,1.07,n/a,Triumph Bancorp,N/A,12.63,18.20,14 August 2016

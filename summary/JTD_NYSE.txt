@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.40,15.74,14.95,0.00,['NYSE'],N/A,n/a,N/A,7/1/2016,N/A,N/A,NYQ,15.05,54415,0.62,6/13/2016,JTD,-0.34,n/a,Nuveen Tax-Advantaged Dividend Growth Fund,N/A,11.75,14.91,07 August 2016

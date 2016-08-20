@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,2.83,114.66,106.99,2.72B,['NYSE'],N/A,Public Utilities,28.25,7/15/2016,N/A,26760.00,NYQ,109.00,527810,3.02,6/28/2016,SRE,3.79,n/a,Sempra Energy,N/A,86.72,106.99,13 August 2016

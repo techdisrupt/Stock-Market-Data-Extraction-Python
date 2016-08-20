@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Foods,USD,N/A,0.00,14.99,13.50,14.13M,['NASDAQ'],N/A,Consumer Non-Durables,7.49,12/24/2012,N/A,120.71,NGM,13.85,75,0.00,11/23/2012,BRID,1.78,n/a,Bridgford Foods Corporation,N/A,8.06,13.30,05 August 2016

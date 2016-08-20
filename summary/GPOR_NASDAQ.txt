@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,36.66,27.60,414.75M,['NASDAQ'],N/A,Energy,N/A,N/A,N/A,3290.00,NMS,26.21,5784817,N/A,N/A,GPOR,-14.05,n/a,Gulfport Energy Corporation,N/A,20.21,26.81,07 August 2016

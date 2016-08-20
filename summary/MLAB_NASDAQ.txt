@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.61,131.88,103.40,24.81M,['NASDAQ'],N/A,n/a,39.17,6/15/2016,N/A,393.18,NMS,108.08,30079,0.64,5/26/2016,MLAB,2.74,n/a,Mesa Laboratories,N/A,77.00,103.37,07 August 2016

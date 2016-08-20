@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,15.76,16.12,14.18,205.00M,['NYSE'],N/A,2013,6.93,6/1/2016,N/A,637.70,NYQ,13.81,345949,2.38,8/11/2016,SXCP,1.99,n/a,SunCoke Energy Partners,N/A,5.16,14.24,14 August 2016

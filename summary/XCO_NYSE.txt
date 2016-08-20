@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,1.94,1.36,596.22M,['NYSE'],N/A,Energy,N/A,9/30/2014,N/A,375.78,NYQ,1.34,810138,0.00,9/18/2014,XCO,-2.40,2006,EXCO Resources NL,N/A,0.50,1.33,06 August 2016

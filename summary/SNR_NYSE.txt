@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,8.77,12.20,11.84,188.50M,['NYSE'],N/A,Consumer Services,N/A,6/22/2016,N/A,969.10,NYQ,11.79,522203,1.04,6/6/2016,SNR,-1.03,2014,New Senior Investment Group Inc.,N/A,7.78,11.82,07 August 2016

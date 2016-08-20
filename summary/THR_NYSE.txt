@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,23.83,19.39,56.71M,['NYSE'],N/A,2011,30.23,N/A,N/A,633.85,NYQ,19.65,141472,N/A,N/A,THR,0.65,n/a,Thermon Group Holdings,N/A,13.97,19.49,14 August 2016

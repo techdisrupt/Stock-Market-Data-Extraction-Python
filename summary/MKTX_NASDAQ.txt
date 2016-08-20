@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.64,163.39,163.17,184.11M,['NASDAQ'],N/A,2004,56.15,5/26/2016,N/A,6130.00,NMS,N/A,181898,1.04,5/10/2016,MKTX,2.90,n/a,MarketAxess Holdings,N/A,86.19,162.41,07 August 2016

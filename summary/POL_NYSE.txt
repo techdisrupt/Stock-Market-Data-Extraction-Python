@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,1.35,38.41,35.28,387.50M,['NYSE'],N/A,Basic Industries,22.40,7/8/2016,N/A,2980.00,NYQ,35.50,334370,0.48,6/15/2016,POL,1.59,n/a,PolyOne Corporation,N/A,22.35,35.07,08 August 2016

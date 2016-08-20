@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,3.28,103.58,82.78,15.10B,['NYSE'],N/A,Health Care,29.68,4/15/2016,N/A,197930.00,NYQ,83.24,1331613,2.72,2/24/2016,NVS,2.80,n/a,Novartis AG,N/A,69.90,82.90,07 August 2016

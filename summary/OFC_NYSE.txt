@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.73,30.55,29.49,299.91M,['NYSE'],N/A,Consumer Services,29.76,7/15/2016,N/A,2790.00,NYQ,29.58,632042,1.10,6/28/2016,OFC,0.99,n/a,Corporate Office Properties Trust,N/A,19.52,29.49,06 August 2016

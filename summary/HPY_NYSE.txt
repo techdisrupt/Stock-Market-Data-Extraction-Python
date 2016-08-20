@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,0.00,105.00,N/A,0.00,['NYSE'],N/A,2005,N/A,3/15/2016,N/A,N/A,NYQ,N/A,0,0.00,2/26/2016,HPY,2.28,n/a,Heartland Payment Systems,N/A,50.72,103.09,07 August 2016

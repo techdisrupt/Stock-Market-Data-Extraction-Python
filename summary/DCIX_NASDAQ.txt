@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,0.00,15.44,3.79,4.06M,['NASDAQ'],N/A,Transportation,N/A,6/15/2016,N/A,35.33,NMS,N/A,83756,0.00,5/26/2016,DCIX,-3.47,n/a,Diana Containerships Inc.,N/A,2.48,3.75,06 August 2016

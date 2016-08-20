@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,91.49,66.73,526.00M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,3620.00,NMS,68.66,568302,N/A,N/A,ZBRA,-2.21,1991,Zebra Technologies Corporation,N/A,46.13,66.72,15 August 2016

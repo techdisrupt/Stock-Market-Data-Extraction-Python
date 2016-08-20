@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,1.70,17.94,15.01,0.00,['NYSE'],N/A,n/a,N/A,1/6/2016,N/A,N/A,NYQ,15.77,20583,0.30,12/23/2015,CHN,-6.93,n/a,China Fund,N/A,12.50,15.03,06 August 2016

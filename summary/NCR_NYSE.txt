@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Office Equipment/Supplies/Services,USD,N/A,N/A,33.26,32.63,895.00M,['NYSE'],N/A,Miscellaneous,23.28,N/A,N/A,4050.00,NYQ,34.57,736495,N/A,10/1/2007,NCR,1.40,n/a,NCR Corporation,N/A,18.02,32.37,07 August 2016

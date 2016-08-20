@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,N/A,13.46,11.96,23.34M,['NASDAQ'],N/A,Basic Industries,N/A,N/A,N/A,327.80,NMS,13.00,99477,N/A,N/A,LNDC,-0.43,1996,Landec Corporation,N/A,9.48,11.97,07 August 2016

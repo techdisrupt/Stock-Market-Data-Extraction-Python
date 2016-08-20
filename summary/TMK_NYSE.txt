@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,0.90,63.10,61.49,859.03M,['NYSE'],N/A,Finance,14.05,8/1/2016,N/A,7320.00,NYQ,61.18,644018,0.56,6/29/2016,TMK,4.35,n/a,Torchmark Corporation,N/A,48.47,61.95,14 August 2016

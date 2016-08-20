@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,21.60,12.13,5.88M,['NASDAQ'],N/A,2005,N/A,N/A,N/A,131.40,NGM,N/A,166189,N/A,N/A,KONA,-0.53,n/a,Kona Grill,N/A,9.90,12.10,07 August 2016

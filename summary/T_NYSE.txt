@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,4.45,43.89,43.16,53.35B,['NYSE'],N/A,Public Utilities,18.56,8/1/2016,N/A,265030.00,NYQ,43.10,12918306,1.92,7/6/2016,T,2.32,n/a,AT&T Inc.,N/A,30.97,43.08,05 August 2016

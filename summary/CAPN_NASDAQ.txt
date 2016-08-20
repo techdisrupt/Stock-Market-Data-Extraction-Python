@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,4.040,0.960,-13.88M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,14.50,NCM,1.090,11983,N/A,N/A,CAPN,-0.654,n/a,Capnia,N/A,0.802,0.968,06 August 2016

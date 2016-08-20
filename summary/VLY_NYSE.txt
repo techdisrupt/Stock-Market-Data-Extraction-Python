@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,4.800,11.240,9.180,0.00,['NYSE'],N/A,Finance,21.319,7/1/2016,N/A,2360.00,NYQ,9.300,714460,0.440,6/13/2016,VLY,0.436,n/a,Valley National Bancorp,N/A,8.310,9.170,15 August 2016

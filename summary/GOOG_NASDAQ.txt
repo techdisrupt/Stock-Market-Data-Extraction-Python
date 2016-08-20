@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Programming,USD,N/A,N/A,789.87,773.78,26.91B,['NASDAQ'],N/A,Technology,30.27,N/A,N/A,537210.00,NMS,782.35,1801205,N/A,N/A,GOOG,25.84,2004,Google Inc.,N/A,565.05,771.61,07 August 2016

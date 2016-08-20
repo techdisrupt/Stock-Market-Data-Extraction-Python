@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.1100,11.3800,10.9000,32.24M,['NASDAQ'],N/A,1995,6.6737,6/27/2016,N/A,107.31,NGM,10.8700,34543,0.1200,6/8/2016,RICK,1.6260,n/a,RCI Hospitality Holdings,N/A,7.5000,10.8500,08 August 2016

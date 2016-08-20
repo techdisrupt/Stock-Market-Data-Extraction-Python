@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,1.29,21.18,18.62,0.00,['NYSE'],N/A,Finance,20.71,5/20/2016,N/A,2340.00,NYQ,19.35,927797,0.24,5/9/2016,EVER,0.90,2012,EverBank Financial Corp.,N/A,12.32,18.51,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,7.600,18.480,18.100,0.00,['NYSE'],N/A,n/a,N/A,5/13/2016,N/A,N/A,NYQ,18.270,5424,1.200,7/28/2016,MCI,0.551,n/a,Babson Capital Corporate Investors,N/A,15.460,18.100,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,3.22,7.87,7.49,882.00M,['NYSE'],N/A,Technology,88.81,6/28/2016,N/A,6590.00,NYQ,8.00,555610,0.24,6/17/2016,STM,0.08,n/a,STMicroelectronics N.V.,N/A,5.11,7.46,14 August 2016

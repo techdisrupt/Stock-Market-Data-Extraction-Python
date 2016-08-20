@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.99,25.01,23.82,0.00,['NASDAQ'],N/A,Finance,18.72,7/1/2016,N/A,296.13,NCM,24.25,4918,0.24,6/8/2016,WFBI,1.29,n/a,WashingtonFirst Bankshares Inc,N/A,17.70,24.18,15 August 2016

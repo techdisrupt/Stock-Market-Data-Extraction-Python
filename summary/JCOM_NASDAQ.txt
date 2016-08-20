@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,1.85,84.15,69.39,312.29M,['NASDAQ'],N/A,1999,24.14,6/2/2016,N/A,3390.00,NMS,N/A,472360,1.28,5/16/2016,JCOM,2.89,n/a,j2 Global,N/A,55.43,69.22,07 August 2016

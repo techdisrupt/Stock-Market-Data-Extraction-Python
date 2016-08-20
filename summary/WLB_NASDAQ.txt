@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Coal Mining,USD,N/A,0.0000,16.5400,8.1400,186.38M,['NASDAQ'],N/A,Energy,N/A,N/A,N/A,158.21,NGM,8.5000,119415,0.0000,9/8/2003,WLB,-8.2230,n/a,Westmoreland Coal Company,N/A,3.4400,8.1300,15 August 2016

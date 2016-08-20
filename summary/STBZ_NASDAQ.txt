@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.52,23.73,22.00,0.00,['NASDAQ'],N/A,Finance,17.66,6/14/2016,N/A,790.23,NCM,22.06,26704,0.56,6/2/2016,STBZ,1.25,n/a,State Bank Financial Corporation.,N/A,17.34,22.16,14 August 2016

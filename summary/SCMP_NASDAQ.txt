@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,29.67,11.75,98.64M,['NASDAQ'],N/A,2007,40.74,N/A,N/A,497.02,NGM,12.71,362404,N/A,N/A,SCMP,0.28,n/a,Sucampo Pharmaceuticals,N/A,9.59,11.77,14 August 2016

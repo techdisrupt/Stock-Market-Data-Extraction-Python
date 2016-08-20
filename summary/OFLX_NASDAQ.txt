@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,43.20,35.21,23.63M,['NASDAQ'],N/A,n/a,23.71,1/6/2016,N/A,362.27,NGM,35.90,1724,0.00,12/17/2015,OFLX,1.51,n/a,Omega Flex,N/A,27.51,34.92,07 August 2016

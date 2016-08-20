@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,3.97,2.55,32.16M,['NASDAQ'],N/A,2006,0.86,6/5/2014,N/A,65.98,NGM,3.88,60618,0.00,5/20/2014,CLUB,3.07,n/a,Town Sports International Holdings,N/A,0.92,2.64,14 August 2016

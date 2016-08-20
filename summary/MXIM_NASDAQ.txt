@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,3.23,42.37,41.13,726.88M,['NASDAQ'],N/A,1988,51.56,6/2/2016,N/A,11580.00,NMS,42.60,2416947,1.32,5/17/2016,MXIM,0.79,n/a,Maxim Integrated Products,N/A,29.47,40.83,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,N/A,6.85,4.14,24.85M,['NASDAQ'],N/A,Miscellaneous,4.14,N/A,N/A,94.64,NMS,4.22,78178,N/A,N/A,JRJC,1.01,2004,China Finance Online Co. Limited,N/A,2.90,4.14,06 August 2016

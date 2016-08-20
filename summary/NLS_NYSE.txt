@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,0.00,21.62,21.40,55.68M,['NYSE'],N/A,n/a,23.08,N/A,N/A,653.44,NYQ,24.00,575531,0.00,8/16/2007,NLS,0.91,n/a,Nautilus Group,N/A,13.82,21.34,07 August 2016

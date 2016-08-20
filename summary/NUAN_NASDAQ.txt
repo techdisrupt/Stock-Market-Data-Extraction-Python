@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,21.83,15.85,305.72M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,4550.00,NMS,17.45,4076137,N/A,N/A,NUAN,-0.23,n/a,Nuance Communications,N/A,14.37,15.82,07 August 2016

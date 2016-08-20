@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,7.10,15.12,10.94,0.00,['NYSE'],N/A,n/a,N/A,7/27/2016,N/A,N/A,NYQ,11.07,100193,1.25,7/13/2016,CEN,0.19,2013,Center Coast MLP & Infrastructure Fund,N/A,6.21,10.95,06 August 2016

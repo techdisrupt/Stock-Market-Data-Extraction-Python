@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,3.38,32.03,31.28,257.11M,['NYSE'],N/A,n/a,22.00,7/5/2016,N/A,2470.00,NYQ,31.18,270538,1.06,6/8/2016,SJI,1.42,n/a,South Jersey Industries,N/A,21.24,31.19,14 August 2016

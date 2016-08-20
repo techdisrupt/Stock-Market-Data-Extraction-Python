@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer peripheral equipment,USD,N/A,N/A,14.45,7.08,1.10M,['NASDAQ'],N/A,Technology,803.75,N/A,N/A,185.32,NMS,8.25,1538625,N/A,N/A,IMMR,0.01,1999,Immersion Corporation,N/A,5.90,7.50,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.20,41.03,40.28,418.10M,['NYSE'],N/A,n/a,47.28,7/1/2016,N/A,1950.00,NYQ,40.82,174294,1.68,6/16/2016,GEF,0.86,n/a,Greif Bros. Corporation,N/A,23.88,39.99,07 August 2016

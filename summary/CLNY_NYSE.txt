@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,8.99,23.08,17.89,0.00,['NYSE'],N/A,2009,16.62,7/15/2016,N/A,2040.00,NYQ,18.96,548190,1.60,6/28/2016,CLNY,1.08,n/a,Colony Financial,N/A,14.73,17.88,06 August 2016

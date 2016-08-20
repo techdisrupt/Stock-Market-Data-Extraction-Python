@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.00,5.62,5.49,-12.91M,['NYSE'],N/A,n/a,N/A,N/A,N/A,111.31,NYQ,5.56,19731,0.00,6/11/2009,KFS,-0.27,n/a,Kingsway Financial Services,N/A,3.65,5.51,07 August 2016

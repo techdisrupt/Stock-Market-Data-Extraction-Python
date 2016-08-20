@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,1.81,88.89,64.00,2.54B,['NYSE'],N/A,Capital Goods,11.26,5/25/2016,N/A,18090.00,NYQ,68.00,2815206,1.16,5/9/2016,DLPH,5.88,2011,Delphi Automotive plc,N/A,55.59,63.49,06 August 2016

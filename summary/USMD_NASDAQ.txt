@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,22.95,20.00,-6.43M,['NASDAQ'],N/A,n/a,512.82,N/A,N/A,227.86,NCM,20.00,0,N/A,N/A,USMD,0.04,n/a,USMD Holdings,N/A,6.51,20.00,15 August 2016

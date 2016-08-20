@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,6.710,6.260,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NYQ,6.320,56526,N/A,7/1/2016,IRR,N/A,n/a,Voya Natural Resources Equity Income Fund,N/A,4.350,6.230,15 August 2016

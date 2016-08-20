@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,0.00,82.61,78.53,466.70M,['NYSE'],N/A,2003,54.55,9/12/2008,N/A,4580.00,NYQ,78.31,804919,0.00,8/27/2008,TPX,1.44,n/a,Tempur Sealy International,N/A,50.80,78.55,14 August 2016

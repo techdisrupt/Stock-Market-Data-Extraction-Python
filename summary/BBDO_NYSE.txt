@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,0.11,9.56,8.95,0.00,['NYSE'],N/A,Capital Goods,9.59,7/25/2016,N/A,51450.00,NYQ,9.40,4300,0.01,8/2/2016,BBDO,0.97,n/a,Banco Bradesco Sa,N/A,4.15,9.16,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,10.210,9.980,8.980,0.00,['NYSE'],N/A,Consumer Services,45.660,7/20/2016,N/A,3130.00,NYQ,9.000,631313,0.920,6/28/2016,TWO,0.197,n/a,Two Harbors Investments Corp,N/A,6.910,9.010,15 August 2016

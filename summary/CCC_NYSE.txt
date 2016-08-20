@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,1.46,18.22,14.02,91.49M,['NYSE'],N/A,Basic Industries,17.99,6/15/2016,N/A,657.14,NYQ,13.08,666589,0.20,6/2/2016,CCC,0.72,n/a,Calgon Carbon Corporation,N/A,12.70,13.94,05 August 2016

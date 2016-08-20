@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.14,13.13,11.23,0.00,['NASDAQ'],N/A,n/a,19.57,5/25/2016,N/A,3410.00,NMS,11.39,2133706,0.24,5/6/2016,ISBC,0.58,n/a,Investors Bancorp,N/A,10.67,11.11,07 August 2016

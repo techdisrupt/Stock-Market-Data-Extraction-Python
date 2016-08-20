@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Dental Instruments,USD,N/A,N/A,48.25,42.49,59.89M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,768.82,NMS,42.41,113196,N/A,N/A,OFIX,-0.08,1992,Orthofix International N.V.,N/A,32.25,42.29,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,1.76,13.43,12.98,366.61M,['NYSE'],N/A,Miscellaneous,20.32,6/30/2016,N/A,3560.00,NYQ,13.21,44060,0.23,6/13/2016,CAE,0.65,n/a,CAE Inc,N/A,9.34,13.16,05 August 2016

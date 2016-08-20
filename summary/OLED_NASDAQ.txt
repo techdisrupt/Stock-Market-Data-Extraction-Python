@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,N/A,74.39,60.15,86.55M,['NASDAQ'],N/A,Capital Goods,59.54,N/A,N/A,2860.00,NMS,61.01,499326,N/A,N/A,OLED,1.02,n/a,Universal Display Corporation,N/A,32.47,59.66,15 August 2016

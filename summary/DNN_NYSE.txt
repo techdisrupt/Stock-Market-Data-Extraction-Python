@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,0.6700,0.5100,-15.60M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,260.93,ASE,0.5002,401842,N/A,N/A,DNN,-0.0990,n/a,Denison Mine Corp,N/A,0.3500,0.5061,06 August 2016

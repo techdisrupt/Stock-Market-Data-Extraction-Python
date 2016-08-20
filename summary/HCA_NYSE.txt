@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.00,92.99,75.60,7.96B,['NYSE'],N/A,2011,13.14,12/21/2012,N/A,30230.00,NYQ,76.26,2955255,0.00,12/13/2012,HCA,5.77,n/a,HCA Holdings,N/A,43.91,75.25,07 August 2016

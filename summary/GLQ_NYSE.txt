@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,12.64,14.87,11.23,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,ASE,11.28,74882,1.38,7/14/2016,GLQ,-2.15,2005,Clough Global Equity Fund,N/A,10.05,11.18,06 August 2016

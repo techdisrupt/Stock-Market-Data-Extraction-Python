@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,0.74,38.24,32.35,77.87M,['NASDAQ'],N/A,Consumer Services,13.21,8/3/2016,N/A,352.88,NMS,32.81,7586,0.24,7/18/2016,VSEC,2.47,n/a,VSE Corporation,N/A,16.76,32.39,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,N/A,11.2400,10.8413,0.00,['NYSE'],N/A,Finance,N/A,3/1/2016,N/A,N/A,NYQ,10.9500,859,N/A,2/25/2016,CVB,N/A,n/a,Lehman ABS Corporation,N/A,10.1400,10.7200,07 August 2016

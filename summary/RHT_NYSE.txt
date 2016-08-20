@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,84.44,75.72,374.62M,['NYSE'],N/A,n/a,65.94,N/A,N/A,13610.00,NYQ,75.18,431244,N/A,N/A,RHT,1.14,n/a,Red Hat,N/A,59.59,75.83,08 August 2016

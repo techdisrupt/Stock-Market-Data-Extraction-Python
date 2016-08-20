@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.32,41.78,39.70,247.05M,['NYSE'],N/A,n/a,18.31,6/10/2016,N/A,2160.00,NYQ,40.09,107134,0.52,5/24/2016,B,2.19,n/a,Barnes Group,N/A,30.07,39.46,05 August 2016

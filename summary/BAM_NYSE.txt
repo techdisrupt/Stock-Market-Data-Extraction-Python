@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building operators,USD,N/A,1.52,35.63,34.37,7.32B,['NYSE'],N/A,Consumer Services,19.67,6/30/2016,N/A,33300.00,NYQ,34.70,552971,0.52,5/27/2016,BAM,1.77,n/a,Brookfield Asset Management Inc,N/A,25.72,34.46,05 August 2016

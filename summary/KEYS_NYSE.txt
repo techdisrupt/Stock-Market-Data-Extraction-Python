@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,34.13,28.67,571.00M,['NYSE'],N/A,Capital Goods,9.95,N/A,N/A,4920.00,NYQ,34.66,479892,N/A,N/A,KEYS,2.91,2014,Keysight Technologies Inc.,N/A,21.07,28.49,07 August 2016

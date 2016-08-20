@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.14,13.50,11.15,0.00,['NYSE'],N/A,n/a,13.99,6/30/2016,N/A,69.58,ASE,N/A,1023,0.24,6/16/2016,BKJ,0.80,n/a,Bancorp of New Jersey,N/A,9.75,11.18,05 August 2016

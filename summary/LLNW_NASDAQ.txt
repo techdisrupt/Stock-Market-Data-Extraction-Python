@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,3.45,1.72,25000.00,['NASDAQ'],N/A,2007,N/A,N/A,N/A,183.14,NMS,2.10,124527,N/A,N/A,LLNW,-0.71,n/a,Limelight Networks,N/A,0.90,1.72,07 August 2016

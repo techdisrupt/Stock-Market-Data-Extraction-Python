@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Television Services,USD,N/A,2.00,80.74,79.99,7.95B,['NYSE'],N/A,Consumer Services,16.03,6/15/2016,N/A,62660.00,NYQ,82.50,3571676,1.61,5/26/2016,TWX,5.03,n/a,Time Warner Inc.,N/A,55.53,80.42,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,3.84,57.93,41.77,238.31M,['NASDAQ'],N/A,2006,7.74,6/30/2016,N/A,812.04,NMS,45.00,84614,1.60,6/15/2016,ARII,5.41,n/a,American Railcar Industries,N/A,33.02,42.08,05 August 2016

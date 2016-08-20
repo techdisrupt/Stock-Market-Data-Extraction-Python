@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical Specialities,USD,N/A,0.00,2.70,2.19,9.47M,['NYSE'],N/A,Health Care,N/A,7/16/2007,N/A,12.44,ASE,N/A,35123,0.00,6/28/2007,AMS,-0.29,n/a,American Shared Hospital Services,N/A,1.50,2.23,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,81.50,78.67,1.75B,['NYSE'],N/A,1997,11.96,N/A,N/A,6840.00,NYQ,79.29,542916,N/A,N/A,URI,6.63,n/a,United Rentals,N/A,41.90,78.37,15 August 2016

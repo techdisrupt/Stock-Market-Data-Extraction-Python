@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.78,244.71,229.81,862.37M,['NYSE'],N/A,1994,55.45,7/15/2016,N/A,15100.00,NYQ,230.55,200190,6.40,6/28/2016,ESS,4.16,n/a,Essex Property Trust,N/A,191.25,229.51,06 August 2016

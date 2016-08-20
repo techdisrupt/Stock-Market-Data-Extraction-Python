@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.21,26.34,25.42,0.00,['NASDAQ'],N/A,n/a,14.62,5/13/2016,N/A,2320.00,NMS,25.60,151962,0.56,8/3/2016,WAFD,1.75,n/a,Washington Federal,N/A,19.11,25.34,15 August 2016

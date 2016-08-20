@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.63,93.10,89.57,101.52M,['NYSE'],N/A,Technology,20.32,5/25/2016,N/A,1140.00,NYQ,89.41,19056,0.56,8/4/2016,SXI,4.39,n/a,Standex International Corporation,N/A,65.53,89.57,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,2.07,20.75,19.25,0.00,['NASDAQ'],N/A,Finance,22.44,5/19/2016,N/A,110.69,NCM,19.30,1000,0.40,5/3/2016,OFED,0.86,2011,Oconee Federal Financial Corp.,N/A,17.01,19.32,07 August 2016

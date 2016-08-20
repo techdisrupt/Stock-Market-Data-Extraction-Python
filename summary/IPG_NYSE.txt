@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,2.65,24.82,22.87,1.05B,['NYSE'],N/A,n/a,19.19,6/15/2016,N/A,9260.00,NYQ,23.14,3245594,0.60,5/27/2016,IPG,1.20,n/a,Interpublic Group of Companies,N/A,18.16,22.78,07 August 2016

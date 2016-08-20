@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,17.81,17.15,29.64M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,641.85,NMS,N/A,410588,N/A,12/4/1997,HWAY,-1.17,n/a,Healthways,N/A,9.18,17.12,07 August 2016

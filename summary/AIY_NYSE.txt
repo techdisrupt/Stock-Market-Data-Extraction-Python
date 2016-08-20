@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,27.21,26.96,0.00,['NYSE'],N/A,n/a,N/A,10/17/2016,N/A,6100.00,NYQ,26.98,10817,N/A,6/29/2016,AIY,-0.19,2013,Apollo Investment Corporation,N/A,22.73,26.91,05 August 2016

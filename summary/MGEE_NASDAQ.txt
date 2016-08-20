@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,2.11,57.37,55.74,170.63M,['NASDAQ'],N/A,Energy,26.80,6/15/2016,N/A,1950.00,NMS,56.26,105264,1.18,5/27/2016,MGEE,2.02,n/a,MGE Energy Inc.,N/A,36.75,55.67,07 August 2016

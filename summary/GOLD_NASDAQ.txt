@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.60,126.55,108.59,405.00M,['NASDAQ'],N/A,Basic Industries,54.22,6/7/2016,N/A,10270.00,NMS,109.61,531829,0.66,3/17/2016,GOLD,2.02,n/a,Randgold Resources Limited,N/A,54.88,109.49,08 August 2016

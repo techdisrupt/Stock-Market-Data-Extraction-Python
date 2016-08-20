@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Air Freight/Delivery Services,USD,N/A,N/A,56.54,55.94,225.10M,['NASDAQ'],N/A,Transportation,7.85,N/A,N/A,2500.00,NMS,56.00,366693,N/A,N/A,VA,7.14,2014,Virgin America Inc.,N/A,26.30,55.95,15 August 2016

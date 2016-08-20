@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,21.10,8.52,4.77,227.15M,['NYSE'],N/A,2005,4.39,5/25/2016,N/A,455.91,NYQ,4.89,2094062,1.00,5/12/2016,DHT,1.11,n/a,DHT Holdings,N/A,4.49,4.76,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,5.05,3.09,49.76M,['NYSE'],N/A,Energy,N/A,N/A,N/A,206.65,NYQ,3.20,873094,N/A,N/A,PES,-1.91,n/a,Pioneer Energy Services Corp.,N/A,0.95,3.13,08 August 2016

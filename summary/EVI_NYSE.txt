@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,5.11,4.47,2.63M,['NYSE'],N/A,n/a,19.12,12/18/2015,N/A,30.66,ASE,4.75,4305,0.00,12/2/2015,EVI,0.23,n/a,EnviroStarm,N/A,3.00,4.34,06 August 2016

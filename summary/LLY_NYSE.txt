@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,2.47,92.85,82.42,5.06B,['NYSE'],N/A,Health Care,35.16,9/9/2016,N/A,86270.00,NYQ,82.74,5886901,2.04,5/11/2016,LLY,2.32,n/a,Eli Lilly and Company,N/A,67.88,82.42,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.20,17.91,12.16,369.15M,['NYSE'],N/A,n/a,14.05,6/20/2016,N/A,1430.00,NYQ,12.28,1775175,0.80,6/2/2016,GCI,0.87,n/a,Gannett Co.,N/A,11.84,12.05,07 August 2016

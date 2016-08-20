@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.90,9.80,8.75,0.00,['NYSE'],N/A,1992,N/A,1/12/2016,N/A,N/A,NYQ,8.73,30963,0.07,12/29/2015,GCH,-0.71,n/a,Aberdeen Greater China Fund,N/A,7.25,8.69,04 August 2016

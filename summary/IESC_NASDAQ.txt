@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,16.77,13.59,24.41M,['NASDAQ'],N/A,n/a,15.74,N/A,N/A,302.29,NGM,14.21,54230,N/A,N/A,IESC,0.90,n/a,Integrated Electrical Services,N/A,6.41,13.57,07 August 2016

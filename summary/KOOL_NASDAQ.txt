@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical Specialities,USD,N/A,N/A,14.80,4.45,-9.82M,['NASDAQ'],N/A,Capital Goods,N/A,N/A,N/A,12.75,NCM,4.25,399227,N/A,N/A,KOOL,-7.82,n/a,Cesca Therapeutics Inc.,N/A,1.60,4.48,06 August 2016

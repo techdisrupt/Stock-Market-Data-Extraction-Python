@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,12.34,13.75,11.53,0.00,['NASDAQ'],N/A,2012,N/A,7/6/2016,N/A,N/A,NMS,11.52,34108,1.42,6/16/2016,WHF,-0.13,n/a,WhiteHorse Finance,N/A,9.14,11.50,15 August 2016

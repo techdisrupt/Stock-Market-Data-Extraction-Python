@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Clothing/Shoe/Accessory Stores,USD,N/A,N/A,24.63,15.91,72.83M,['NASDAQ'],N/A,Consumer Services,18.34,N/A,N/A,415.56,NMS,16.52,354687,N/A,N/A,ZUMZ,0.90,2005,Zumiez Inc.,N/A,11.53,16.01,15 August 2016

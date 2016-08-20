@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.78,23.05,17.56,0.00,['NASDAQ'],N/A,Finance,16.41,5/13/2016,N/A,455.35,NMS,17.87,65444,0.48,7/29/2016,LION,1.09,n/a,Fidelity Southern Corporation,N/A,14.01,17.36,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Package Goods/Cosmetics,USD,N/A,2.11,75.34,74.70,4.34B,['NYSE'],N/A,Consumer Non-Durables,48.02,8/15/2016,N/A,66490.00,NYQ,74.67,2290176,1.56,7/20/2016,CL,1.55,n/a,Colgate-Palmolive Company,N/A,50.84,74.78,06 August 2016

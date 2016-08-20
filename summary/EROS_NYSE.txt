@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Movies/Entertainment,USD,N/A,N/A,39.01,18.30,38.91M,['NYSE'],N/A,Consumer Services,364.23,N/A,N/A,1070.00,NYQ,18.89,240227,N/A,N/A,EROS,0.05,2013,Eros International PLC,N/A,5.59,18.28,06 August 2016

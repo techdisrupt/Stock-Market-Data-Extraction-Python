@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Electromedical & Electrotherapeutic Apparatus,USD,N/A,N/A,14.36,10.74,-26.49M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,619.72,NGM,14.00,130415,N/A,N/A,NVDQ,-0.65,n/a,Novadaq Technologies Inc,N/A,8.26,10.71,07 August 2016

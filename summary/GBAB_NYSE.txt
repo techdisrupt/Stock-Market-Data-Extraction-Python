@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,24.75,23.84,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,23.61,100813,N/A,7/13/2016,GBAB,N/A,2010,Guggenheim Build America Bonds Managed Duration Trust,N/A,20.92,23.72,07 August 2016

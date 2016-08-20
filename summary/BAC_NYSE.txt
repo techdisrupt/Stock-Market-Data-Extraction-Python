@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.070,18.090,14.750,0.00,['NYSE'],N/A,Finance,12.586,6/24/2016,N/A,157900.00,NYQ,15.020,93103484,0.300,6/1/2016,BAC,1.193,n/a,Bank of America Corporation,N/A,10.990,14.480,05 August 2016

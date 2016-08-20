@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Paper,USD,N/A,1.40,44.91,42.35,0.00,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,N/A,NMS,N/A,0,0.56,3/11/2015,USTR,2.41,1981,United Stationers Inc.,N/A,36.50,42.35,15 August 2016

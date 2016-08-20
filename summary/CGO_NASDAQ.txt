@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.70,13.27,11.48,0.00,['NASDAQ'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NMS,11.50,27816,1.10,7/8/2016,CGO,-1.05,2005,Calamos Global Total Return Fund,N/A,9.30,11.40,05 August 2016

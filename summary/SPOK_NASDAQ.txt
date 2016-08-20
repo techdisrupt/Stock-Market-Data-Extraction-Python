@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,2.92,20.96,17.08,38.36M,['NASDAQ'],N/A,n/a,4.09,6/24/2016,N/A,341.47,NMS,16.62,114595,0.50,5/19/2016,SPOK,4.06,n/a,Spok Holdings,N/A,15.49,17.10,14 August 2016

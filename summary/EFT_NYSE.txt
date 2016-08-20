@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,14.05,13.94,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,13.96,56740,0.00,7/20/2016,EFT,-0.40,2004,Eaton Vance Floating Rate Income Trust,N/A,11.56,13.91,06 August 2016

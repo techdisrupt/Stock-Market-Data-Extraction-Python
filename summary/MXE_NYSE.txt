@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,15.400,12.270,10.670,0.00,['NYSE'],N/A,n/a,N/A,1/29/2016,N/A,N/A,NYQ,10.820,2677,1.620,12/28/2015,MXE,-0.673,n/a,Mexico Equity and Income Fund,N/A,9.300,10.670,07 August 2016

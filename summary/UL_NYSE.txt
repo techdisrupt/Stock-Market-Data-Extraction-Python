@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Package Goods/Cosmetics,USD,N/A,3.02,48.29,46.71,9.51B,['NYSE'],N/A,Basic Industries,24.36,6/1/2016,N/A,132660.00,NYQ,46.73,772962,1.41,8/3/2016,UL,1.92,n/a,Unilever PLC,N/A,38.60,46.79,15 August 2016

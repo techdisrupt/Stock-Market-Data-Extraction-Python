@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Materials,USD,N/A,4.71,9.50,9.44,0.00,['NYSE'],N/A,Capital Goods,N/A,10/26/2015,N/A,1010.00,NYQ,9.28,45559,0.43,10/1/2015,CPAC,0.47,2012,Cementos Pacasmayo S.A.A.,N/A,5.23,9.49,06 August 2016

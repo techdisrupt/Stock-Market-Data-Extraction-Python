@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,10.44,23.99,21.59,21.64M,['NASDAQ'],N/A,n/a,N/A,7/15/2016,N/A,1440.00,NCM,21.58,5092,2.25,6/28/2016,WHLRP,-0.48,n/a,Wheeler Real Estate Investment Trust,N/A,16.52,21.55,15 August 2016

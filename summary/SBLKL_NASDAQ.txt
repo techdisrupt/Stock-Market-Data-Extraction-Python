@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,N/A,21.23,18.61,33.88M,['NASDAQ'],N/A,Transportation,N/A,5/15/2016,N/A,3060.00,NMS,18.71,5375,N/A,N/A,SBLKL,-0.20,n/a,Star Bulk Carriers Corp.,N/A,7.83,18.85,14 August 2016

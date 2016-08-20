@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.10,20.88,15.65,700.40M,['NYSE'],N/A,n/a,10.34,6/24/2016,N/A,2700.00,NYQ,15.39,3652695,0.32,6/8/2016,CNO,1.49,n/a,CNO Financial Group,N/A,14.66,15.49,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,N/A,19.45,17.75,5.67M,['NASDAQ'],N/A,Capital Goods,32.38,N/A,N/A,121.14,NGM,17.82,68060,N/A,N/A,CYBE,0.55,1987,CyberOptics Corporation,N/A,5.00,17.64,06 August 2016

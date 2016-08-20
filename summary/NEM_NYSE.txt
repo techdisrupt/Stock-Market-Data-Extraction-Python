@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.22,45.91,43.79,3.06B,['NYSE'],N/A,Basic Industries,600.41,6/23/2016,N/A,23570.00,NYQ,44.51,7108746,0.10,6/7/2016,NEM,0.07,n/a,Newmont Mining Corporation,N/A,15.39,44.91,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Department/Specialty Retail Stores,USD,N/A,0.00,32.50,N/A,0.00,['NYSE'],N/A,Consumer Services,N/A,1/9/2012,N/A,N/A,NYQ,N/A,0,0.00,12/13/2011,BSI,-49.75,n/a,Alon Blue Square Israel Ltd.,N/A,2.00,3.19,04 August 2016

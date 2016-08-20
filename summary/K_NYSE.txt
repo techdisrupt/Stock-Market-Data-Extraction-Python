@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Packaged Foods,USD,N/A,2.57,87.16,82.84,2.05B,['NYSE'],N/A,Consumer Non-Durables,52.72,6/15/2016,N/A,28950.00,NYQ,82.72,2490263,2.08,5/27/2016,K,1.57,n/a,Kellogg Company,N/A,63.52,82.42,07 August 2016

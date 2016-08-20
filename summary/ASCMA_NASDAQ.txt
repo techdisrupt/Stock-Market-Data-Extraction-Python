@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,40.50,17.99,311.01M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,237.42,NMS,19.12,60944,N/A,N/A,ASCMA,-7.59,n/a,Ascent Capital Group,N/A,7.77,18.18,05 August 2016

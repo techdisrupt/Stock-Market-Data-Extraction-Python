@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.61,13.94,12.45,0.00,['NASDAQ'],N/A,Finance,19.54,5/9/2016,N/A,519.32,NMS,12.68,57530,0.20,7/28/2016,COBZ,0.65,1998,CoBiz Financial Inc.,N/A,10.31,12.34,06 August 2016

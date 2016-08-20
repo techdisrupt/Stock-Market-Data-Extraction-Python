@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,N/A,20.50,16.78,124.18M,['NYSE'],N/A,Public Utilities,20.20,N/A,N/A,742.75,NYQ,21.50,17486,N/A,N/A,EDN,0.82,2007,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor),N/A,11.50,16.74,06 August 2016

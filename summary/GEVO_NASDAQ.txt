@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,2.7400,0.7100,-21.73M,['NASDAQ'],N/A,2011,N/A,N/A,N/A,16.05,NCM,0.7400,7710948,N/A,N/A,GEVO,-1.8340,n/a,Gevo,N/A,0.2200,0.6800,07 August 2016

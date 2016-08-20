@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.52,34.09,31.82,346.13M,['NASDAQ'],N/A,1993,23.47,6/3/2016,N/A,4380.00,NMS,40.00,772165,0.48,5/18/2016,FLIR,1.36,n/a,FLIR Systems,N/A,25.12,31.65,07 August 2016

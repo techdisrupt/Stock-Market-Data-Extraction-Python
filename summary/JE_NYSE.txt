@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,6.36,7.54,6.07,148.94M,['NYSE'],N/A,n/a,18.03,6/30/2016,N/A,889.06,NYQ,6.03,83623,0.39,6/13/2016,JE,0.34,n/a,Just Energy Group,N/A,5.07,6.08,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,4.23,82.09,79.87,3.45B,['NYSE'],N/A,Public Utilities,82.22,6/1/2016,N/A,14240.00,NYQ,79.56,1272518,3.40,5/10/2016,ETR,0.97,n/a,Entergy Corporation,N/A,61.27,80.01,06 August 2016

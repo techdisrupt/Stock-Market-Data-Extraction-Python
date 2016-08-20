@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,32.77,30.42,164.79M,['NASDAQ'],N/A,1995,16.00,N/A,N/A,1120.00,NMS,N/A,335549,N/A,N/A,NSIT,1.91,n/a,Insight Enterprises,N/A,18.26,30.27,07 August 2016

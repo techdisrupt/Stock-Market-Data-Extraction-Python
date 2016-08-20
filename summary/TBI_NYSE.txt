@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,30.25,22.48,148.66M,['NYSE'],N/A,n/a,N/A,N/A,N/A,940.21,NYQ,22.86,84740,N/A,N/A,TBI,-0.20,n/a,TrueBlue,N/A,17.35,22.47,15 August 2016

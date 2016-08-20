@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Foods,USD,N/A,1.95,21.17,18.42,433.54M,['NYSE'],N/A,Consumer Non-Durables,16.73,6/2/2016,N/A,1730.00,NYQ,18.95,2640620,0.36,5/19/2016,DF,1.12,n/a,Dean Foods Company,N/A,14.56,18.39,06 August 2016

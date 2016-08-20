@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,0.81,45.82,30.00,54.09M,['NASDAQ'],N/A,n/a,20.36,7/15/2016,N/A,245.78,NMS,38.00,4092,0.24,6/28/2016,ALCO,1.45,n/a,Alico,N/A,20.99,29.92,01 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.23,4.92,4.28,15.12M,['NYSE'],N/A,Basic Industries,142.67,2/12/2016,N/A,1280.00,NYQ,4.29,3864946,0.01,2/1/2016,MUX,-0.05,n/a,McEwen Mining Inc.,N/A,0.70,4.51,07 August 2016

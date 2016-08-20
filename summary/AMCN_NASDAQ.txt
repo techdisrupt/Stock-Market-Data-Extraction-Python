@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Advertising,USD,N/A,N/A,5.71,2.75,-70.29M,['NASDAQ'],N/A,Technology,1.21,N/A,N/A,186.59,NMS,2.99,1031509,N/A,N/A,AMCN,2.46,2007,AirMedia Group Inc,N/A,2.57,2.74,04 August 2016

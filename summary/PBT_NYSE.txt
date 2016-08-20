@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,4.68,7.79,6.36,0.00,['NYSE'],N/A,Energy,21.28,7/15/2016,N/A,301.55,NYQ,6.48,100176,0.30,7/27/2016,PBT,0.30,n/a,Permian Basin Royalty Trust,N/A,4.20,6.32,08 August 2016

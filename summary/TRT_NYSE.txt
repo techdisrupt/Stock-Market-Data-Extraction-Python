@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.00,4.10,3.46,3.11M,['NYSE'],N/A,Technology,12.99,N/A,N/A,12.23,ASE,3.49,1700,0.00,2/21/2008,TRT,0.27,n/a,Trio-Tech International,N/A,2.26,3.47,14 August 2016

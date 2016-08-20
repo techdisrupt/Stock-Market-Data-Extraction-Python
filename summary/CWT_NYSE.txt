@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Water Supply,USD,N/A,2.12,35.62,32.34,160.75M,['NYSE'],N/A,Public Utilities,34.98,5/20/2016,N/A,1540.00,NYQ,32.20,226100,0.69,8/4/2016,CWT,0.92,n/a,California Water  Service Group Holding,N/A,19.55,32.33,05 August 2016

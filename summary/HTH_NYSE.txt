@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.00,23.12,22.07,0.00,['NYSE'],N/A,Finance,17.67,7/15/2005,N/A,2220.00,NYQ,22.49,466780,0.00,6/28/2005,HTH,1.27,n/a,Hilltop Holdings Inc.,N/A,14.28,21.90,07 August 2016

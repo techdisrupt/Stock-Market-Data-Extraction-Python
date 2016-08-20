@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,0.00,9.55,7.10,10.77M,['NYSE'],N/A,Consumer Services,N/A,3/31/2011,N/A,142.01,NYQ,7.10,12473,0.00,N/A,RLH,-0.51,n/a,Red Lion Hotels Corporation,N/A,5.45,7.06,08 August 2016

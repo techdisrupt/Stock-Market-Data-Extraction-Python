@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,1.64,87.08,69.60,43.98M,['NYSE'],N/A,Capital Goods,84.19,5/31/2016,N/A,744.63,NYQ,70.05,56473,1.16,5/13/2016,LNN,0.83,n/a,Lindsay Corporation,N/A,62.99,69.37,07 August 2016

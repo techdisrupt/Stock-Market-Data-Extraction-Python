@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,35.49,31.77,94.51M,['NASDAQ'],N/A,2004,22.98,N/A,N/A,1880.00,NMS,31.84,76201,N/A,N/A,JOBS,1.38,n/a,51job,N/A,22.32,31.65,04 August 2016

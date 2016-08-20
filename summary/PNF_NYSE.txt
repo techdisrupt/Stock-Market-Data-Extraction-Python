@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.00,14.40,14.23,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,14.09,14569,0.68,7/7/2016,PNF,1.40,2001,PIMCO New York Municipal Income Fund,N/A,11.23,14.21,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,5.39,5.10,0.00,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,34.03,NCM,5.08,86316,N/A,N/A,BVA,-0.31,n/a,Cordia Bancorp Inc.,N/A,3.51,5.08,06 August 2016

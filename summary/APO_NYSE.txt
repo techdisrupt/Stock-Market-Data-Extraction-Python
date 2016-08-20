@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,5.83,22.04,17.89,0.00,['NYSE'],N/A,2011,58.04,5/31/2016,N/A,3320.00,NYQ,18.99,1577277,1.00,5/18/2016,APO,0.31,n/a,Apollo Global Management,N/A,12.35,17.61,05 August 2016

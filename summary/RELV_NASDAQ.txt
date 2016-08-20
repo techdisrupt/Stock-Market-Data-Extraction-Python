@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.00,1.30,1.00,-886820.00,['NASDAQ'],N/A,n/a,N/A,11/26/2013,N/A,10.08,NCM,0.80,158480,0.00,11/13/2013,RELV,-0.11,n/a,Reliv' International,N/A,0.37,1.01,09 August 2016

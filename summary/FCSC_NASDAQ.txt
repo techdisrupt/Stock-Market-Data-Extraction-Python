@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,7.21,1.03,-36.92M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,44.34,NCM,1.27,163210,N/A,N/A,FCSC,-0.72,n/a,Fibrocell Science Inc,N/A,0.91,1.03,06 August 2016

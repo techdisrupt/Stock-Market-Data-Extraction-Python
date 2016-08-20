@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,N/A,10.19,9.92,0.00,['NASDAQ'],N/A,Finance,N/A,N/A,N/A,152.56,NCM,9.99,15,N/A,N/A,TRTL,-0.12,2014,Terrapin 3 Acquisition Corporation,N/A,9.80,10.00,14 August 2016

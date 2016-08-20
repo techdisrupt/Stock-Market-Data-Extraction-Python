@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,1.030,29.230,23.350,355.10M,['NASDAQ'],N/A,1986,15.641,7/19/2016,N/A,1670.00,NMS,23.170,644370,0.240,7/6/2016,WERN,1.481,n/a,Werner Enterprises,N/A,20.910,23.400,15 August 2016

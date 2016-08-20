@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.20,8.15,7.97,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,7.98,49901,0.44,7/20/2016,PMM,0.55,1989,Putnam Managed Municipal Income Trust,N/A,6.99,7.95,08 August 2016

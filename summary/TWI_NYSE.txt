@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.22,9.50,8.85,27.01M,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,479.39,NYQ,13.87,247645,0.02,6/28/2016,TWI,-2.20,n/a,Titan International,N/A,2.50,8.93,14 August 2016

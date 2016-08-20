@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hospital/Nursing Management,USD,N/A,N/A,81.89,76.25,2.52B,['NYSE'],N/A,Health Care,34.53,N/A,N/A,15890.00,NYQ,77.10,869666,N/A,N/A,DVA,2.23,n/a,DaVita healthCare Partners Inc.,N/A,61.36,75.91,06 August 2016

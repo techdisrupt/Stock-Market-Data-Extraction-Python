@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,2.47,43.83,42.63,128.30M,['NYSE'],N/A,Finance,29.26,6/23/2016,N/A,1980.00,NYQ,43.09,65611,1.04,5/31/2016,CNS,1.47,2004,Cohn & Steers Inc,N/A,25.84,42.25,06 August 2016

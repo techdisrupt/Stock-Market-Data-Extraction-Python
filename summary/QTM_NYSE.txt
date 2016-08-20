@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,N/A,1.2300,0.5601,6.73M,['NYSE'],N/A,Technology,N/A,N/A,N/A,162.81,NYQ,0.6119,654193,N/A,N/A,QTM,-0.2560,n/a,Quantum Corporation,N/A,0.3500,0.6102,08 August 2016

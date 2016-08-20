@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,2.83,79.81,65.13,2.16B,['NYSE'],N/A,Basic Industries,11.01,7/1/2016,N/A,9660.00,NYQ,71.75,1066061,1.84,6/13/2016,EMN,5.94,n/a,Eastman Chemical Company,N/A,56.03,64.78,06 August 2016

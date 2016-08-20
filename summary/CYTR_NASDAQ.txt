@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Biological Products (No Diagnostic Substances),USD,N/A,N/A,3.6600,0.6100,-58.11M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,58.69,NCM,0.6800,1017235,N/A,3/7/2008,CYTR,-0.9130,1986,CytRx Corporation,N/A,0.5500,0.6084,06 August 2016

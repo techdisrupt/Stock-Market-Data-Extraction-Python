@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Broadcasting,USD,N/A,N/A,29.73,21.97,0.00,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,N/A,NMS,21.63,466148,N/A,N/A,LMCK,0.19,n/a,Liberty Media Corporation,N/A,17.47,21.63,07 August 2016

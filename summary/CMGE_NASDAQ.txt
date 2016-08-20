@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,0.60,29.70,N/A,0.00,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,N/A,NGM,N/A,0,0.14,4/15/2015,CMGE,1.30,n/a,China Mobile Games and Entertainment Group Limited,N/A,14.61,21.80,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.6100,13.8500,13.2700,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,ASE,13.2600,25549,0.9000,8/11/2016,ERH,-0.5190,2004,Wells Fargo Advantage Utilities and High Income Fund,N/A,10.3000,13.2368,15 August 2016

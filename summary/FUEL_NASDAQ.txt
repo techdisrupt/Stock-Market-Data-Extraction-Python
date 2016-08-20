@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Programming,USD,N/A,N/A,7.48,2.34,-16.31M,['NASDAQ'],N/A,Technology,N/A,3/9/2012,N/A,105.29,NMS,2.70,853228,N/A,N/A,FUEL,-4.30,2013,Rocket Fuel Inc.,N/A,2.09,2.34,09 August 2016

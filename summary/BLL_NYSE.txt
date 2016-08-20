@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Containers/Packaging,USD,N/A,0.74,79.44,78.51,1.07B,['NYSE'],N/A,Consumer Durables,84.58,6/15/2016,N/A,11200.00,NYQ,79.0000,2532171,0.52,5/27/2016,BLL,0.93,n/a,Ball Corporation,N/A,57.95,78.51,05 August 2016

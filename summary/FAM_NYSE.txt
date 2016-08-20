@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,7.60,11.73,11.51,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NYQ,11.60,54837,0.79,8/1/2016,FAM,-1.00,2006,First Trust/Aberdeen Global Opportunity Income Fund,N/A,9.50,11.54,06 August 2016

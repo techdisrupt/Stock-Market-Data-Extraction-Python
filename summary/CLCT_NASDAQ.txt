@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,6.48,22.11,21.76,13.28M,['NASDAQ'],N/A,1999,25.15,5/27/2016,N/A,196.47,NGM,22.27,32042,1.40,5/16/2016,CLCT,0.88,n/a,Collectors Universe,N/A,11.66,21.76,06 August 2016

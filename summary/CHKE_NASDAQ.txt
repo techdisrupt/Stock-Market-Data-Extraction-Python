@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Apparel,USD,N/A,0.00,28.52,10.99,13.88M,['NASDAQ'],N/A,Consumer Non-Durables,13.22,9/15/2014,N/A,95.92,NMS,N/A,19478,0.00,8/27/2014,CHKE,0.83,n/a,Cherokee Inc.,N/A,10.21,10.91,06 August 2016

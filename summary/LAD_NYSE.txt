@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,1.19,126.56,84.73,393.55M,['NYSE'],N/A,n/a,12.04,5/27/2016,N/A,2120.00,NYQ,123.00,306747,1.00,5/11/2016,LAD,7.00,n/a,Lithia Motors,N/A,68.70,83.83,07 August 2016

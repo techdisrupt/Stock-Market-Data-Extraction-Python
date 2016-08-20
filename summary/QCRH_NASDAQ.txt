@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.54,30.00,29.68,0.00,['NASDAQ'],N/A,n/a,13.53,7/6/2016,N/A,385.70,NGM,29.59,4708,0.16,6/15/2016,QCRH,2.18,n/a,QCR Holdings,N/A,18.05,29.62,08 August 2016

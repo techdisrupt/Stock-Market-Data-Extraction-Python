@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,34.87,15.75,60.60M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,238.51,NMS,22.00,107248,N/A,N/A,DXPE,-3.70,n/a,DXP Enterprises,N/A,12.67,15.68,06 August 2016

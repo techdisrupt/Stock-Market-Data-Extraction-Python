@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Mining & Quarrying of Nonmetallic Minerals (No Fuels),USD,N/A,0.00,17.63,12.90,-13.80M,['NYSE'],N/A,Basic Industries,N/A,8/14/2015,N/A,632.42,NYQ,25.00,602125,0.00,8/3/2015,HCLP,-1.87,2012,Hi-Crush Partners LP,N/A,3.55,12.77,07 August 2016

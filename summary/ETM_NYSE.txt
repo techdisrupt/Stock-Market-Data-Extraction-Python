@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Broadcasting,USD,N/A,2.16,14.94,13.79,106.79M,['NYSE'],N/A,Consumer Services,15.15,6/15/2016,N/A,571.17,NYQ,14.07,44272,0.30,5/23/2016,ETM,0.93,1999,Entercom Communications Corporation,N/A,8.88,13.77,06 August 2016

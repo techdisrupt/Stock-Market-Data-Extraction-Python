@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,2.68,9.38,9.06,23.54M,['NYSE'],N/A,Capital Goods,21.73,6/10/2016,N/A,346.73,NYQ,12.00,12105,0.24,5/6/2016,MPX,0.42,n/a,Marine Products Corporation,N/A,4.92,8.95,07 August 2016

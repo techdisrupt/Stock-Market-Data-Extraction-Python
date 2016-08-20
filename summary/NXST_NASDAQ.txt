@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.90,61.79,52.00,322.53M,['NASDAQ'],N/A,2003,19.31,5/27/2016,N/A,1610.00,NMS,52.36,377050,0.96,5/11/2016,NXST,2.71,n/a,Nexstar Broadcasting Group,N/A,34.65,51.52,07 August 2016

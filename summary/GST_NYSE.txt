@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,2.2100,0.9201,46.64M,['NYSE'],N/A,Energy,N/A,N/A,N/A,74.05,ASE,1.2900,1244831,N/A,N/A,GST,-6.9860,n/a,Gastar Exploration Inc.,N/A,0.5700,0.9499,07 August 2016

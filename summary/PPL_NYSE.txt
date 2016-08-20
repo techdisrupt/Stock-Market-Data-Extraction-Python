@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,4.13,39.92,36.80,3.73B,['NYSE'],N/A,Public Utilities,48.50,7/1/2016,N/A,24880.00,NYQ,36.76,4534768,1.52,6/8/2016,PPL,0.76,n/a,PPL Corporation,N/A,29.18,36.96,08 August 2016

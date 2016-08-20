@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,0.53,70.91,64.60,129.56M,['NASDAQ'],N/A,Basic Industries,36.58,1/21/2016,N/A,2060.00,NMS,65.11,60913,0.34,12/23/2015,BCPC,1.78,n/a,Balchem Corporation,N/A,53.11,64.44,05 August 2016

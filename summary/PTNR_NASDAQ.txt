@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.00,5.50,4.72,146.62M,['NASDAQ'],N/A,Public Utilities,N/A,9/18/2012,N/A,747.67,NMS,8.00,5345,0.00,8/27/2012,PTNR,-0.09,n/a,Partner Communications Company Ltd.,N/A,3.63,4.74,07 August 2016

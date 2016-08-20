@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.40,25.96,24.49,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,24.62,13776,1.01,7/20/2016,MTT,N/A,2009,Western Asset Municipal Defined Opportunity Trust Inc,N/A,22.68,24.33,15 August 2016

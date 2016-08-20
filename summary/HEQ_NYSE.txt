@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.50,15.82,15.22,0.00,['NYSE'],N/A,n/a,N/A,6/30/2016,N/A,N/A,NYQ,15.84,109541,0.51,6/9/2016,HEQ,N/A,2011,John Hancock Hedged Equity & Income Fund,N/A,12.56,15.23,07 August 2016

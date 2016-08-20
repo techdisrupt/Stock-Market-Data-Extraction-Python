@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,23.99,23.57,148.95M,['NYSE'],N/A,n/a,14.50,N/A,N/A,1180.00,NYQ,23.87,196004,N/A,N/A,BHE,1.65,n/a,Benchmark Electronics,N/A,18.36,23.49,05 August 2016

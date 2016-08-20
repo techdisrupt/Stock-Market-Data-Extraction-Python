@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Recreational Products/Toys,USD,N/A,1.08,31.45,30.05,40.95M,['NASDAQ'],N/A,Consumer Non-Durables,15.53,7/28/2016,N/A,306.19,NMS,31.40,34727,0.32,7/12/2016,JOUT,2.01,n/a,Johnson Outdoors Inc.,N/A,18.33,29.75,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.63,46.16,32.35,502.78M,['NYSE'],N/A,1994,4.96,5/11/2016,N/A,937.78,NYQ,33.94,338027,0.84,7/18/2016,GBX,6.70,n/a,Greenbrier Companies,N/A,19.89,32.12,07 August 2016

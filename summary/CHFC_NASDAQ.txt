@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.48,43.39,42.00,0.00,['NASDAQ'],N/A,Finance,16.85,6/17/2016,N/A,1660.00,NMS,43.26,244416,1.04,6/1/2016,CHFC,2.57,n/a,Chemical Financial Corporation,N/A,29.40,41.78,06 August 2016

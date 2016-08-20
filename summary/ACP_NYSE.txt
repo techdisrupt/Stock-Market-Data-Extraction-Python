@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,11.20,14.01,12.26,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,12.28,58128,1.44,7/7/2016,ACP,N/A,2011,Avenue Income Credit Strategies Fund,N/A,9.33,12.23,05 August 2016

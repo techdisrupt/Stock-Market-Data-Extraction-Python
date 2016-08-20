@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,4.35,30.38,28.49,0.00,['NASDAQ'],N/A,Finance,18.69,8/1/2016,N/A,105.86,NGM,28.90,3611,1.24,7/13/2016,NWFL,1.54,n/a,Norwood Financial Corp.,N/A,26.25,28.50,07 August 2016

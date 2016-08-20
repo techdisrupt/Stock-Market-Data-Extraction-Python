@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.03,31.25,29.31,0.00,['NASDAQ'],N/A,2010,15.14,5/13/2016,N/A,1340.00,NMS,N/A,92123,0.88,7/28/2016,FIBK,1.97,n/a,First Interstate BancSystem,N/A,24.92,29.04,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.61,70.45,66.38,137.50M,['NYSE'],N/A,Technology,34.76,6/9/2016,N/A,1950.00,NYQ,66.83,112473,0.40,5/24/2016,JBT,1.92,n/a,John Bean Technologies Corporation,N/A,31.89,66.02,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Programming,USD,N/A,N/A,23.874,23.480,660.57M,['NASDAQ'],N/A,Technology,23.046,N/A,N/A,7510.00,NMS,23.420,1475546,N/A,N/A,YNDX,1.016,2011,Yandex N.V.,N/A,9.940,23.210,15 August 2016

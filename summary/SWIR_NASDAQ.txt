@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,25.94,14.49,29.09M,['NASDAQ'],N/A,n/a,111.09,N/A,N/A,453.96,NMS,14.30,243148,N/A,N/A,SWIR,0.13,n/a,Sierra Wireless,N/A,9.69,14.50,13 August 2016

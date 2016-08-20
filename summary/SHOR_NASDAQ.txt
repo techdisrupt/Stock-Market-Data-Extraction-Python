@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,N/A,10.56,8.24,20.03M,['NASDAQ'],N/A,2007,N/A,N/A,N/A,549.17,NMS,10.10,227876,N/A,N/A,SHOR,-0.07,n/a,ShoreTel,N/A,5.83,8.23,13 August 2016

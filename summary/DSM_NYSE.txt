@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.50,9.24,9.10,0.00,['NYSE'],N/A,1989,N/A,7/29/2016,N/A,N/A,NYQ,9.10,80581,0.50,7/13/2016,DSM,0.52,n/a,Dreyfus Strategic Municipal Bond Fund,N/A,7.61,9.10,06 August 2016

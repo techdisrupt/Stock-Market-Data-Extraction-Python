@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,3.430,45.160,41.310,105.20M,['NYSE'],N/A,Public Utilities,23.570,5/27/2016,N/A,578.30,NYQ,41.390,21902,1.420,8/10/2016,UTL,1.746,n/a,UNITIL Corporation,N/A,33.750,41.450,15 August 2016

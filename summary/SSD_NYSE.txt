@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.73,42.05,41.81,156.70M,['NYSE'],N/A,n/a,25.78,7/28/2016,N/A,2020.00,NYQ,41.79,66149,0.72,7/5/2016,SSD,1.62,n/a,Simpson Manufacturing Company,N/A,30.25,41.91,14 August 2016

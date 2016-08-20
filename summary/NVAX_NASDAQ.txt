@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,15.01,7.55,-200.66M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,2070.00,NMS,7.66,2731510,N/A,N/A,NVAX,-0.78,n/a,Novavax,N/A,4.08,7.51,07 August 2016

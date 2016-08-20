@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Television Services,USD,N/A,N/A,49.36,31.24,8.42B,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,25330.00,NMS,36.00,8439061,N/A,N/A,LBTYK,-0.94,n/a,Liberty Global plc,N/A,25.86,31.41,07 August 2016

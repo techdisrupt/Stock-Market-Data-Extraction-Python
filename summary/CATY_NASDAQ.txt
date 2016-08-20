@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.41,34.69,30.11,0.00,['NASDAQ'],N/A,Finance,15.56,6/13/2016,N/A,2430.00,NMS,31.79,677673,0.72,5/27/2016,CATY,1.98,n/a,Cathay General Bancorp,N/A,25.62,29.76,06 August 2016

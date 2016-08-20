@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.04,18.48,18.11,0.00,['NYSE'],N/A,2014,N/A,7/29/2016,N/A,N/A,NYQ,18.05,93051,1.56,6/28/2016,TSLX,1.04,n/a,TPG Specialty Lending,N/A,12.68,18.05,14 August 2016

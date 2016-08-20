@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,N/A,54.02,52.20,647.00M,['NYSE'],N/A,Consumer Services,44.74,N/A,N/A,7060.00,NYQ,52.48,215826,N/A,N/A,H,1.17,2009,Hyatt Hotels Corporation,N/A,34.06,52.05,07 August 2016

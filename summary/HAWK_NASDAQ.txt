@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,48.40,34.29,148.83M,['NASDAQ'],N/A,2013,85.30,N/A,N/A,1940.00,NMS,34.47,565288,N/A,N/A,HAWK,0.40,n/a,Blackhawk Network Holdings,N/A,29.91,34.00,05 August 2016

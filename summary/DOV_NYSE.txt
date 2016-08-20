@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,2.38,73.58,71.38,1.21B,['NYSE'],N/A,Technology,20.85,6/15/2016,N/A,11250.00,NYQ,72.48,860802,1.68,5/26/2016,DOV,3.48,n/a,Dover Corporation,N/A,50.91,71.15,06 August 2016

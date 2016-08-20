@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,2.21,75.72,69.20,4.32B,['NYSE'],N/A,Basic Industries,27.53,6/10/2016,N/A,60520.00,NYQ,69.21,1766955,1.52,5/11/2016,DD,2.51,n/a,E.I. du Pont de Nemours and Company,N/A,47.11,68.85,06 August 2016

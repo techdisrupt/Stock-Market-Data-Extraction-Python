@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,49.66,46.30,-89.99M,['NASDAQ'],N/A,2001,N/A,N/A,N/A,6580.00,NMS,46.86,429218,N/A,N/A,SGEN,-0.76,n/a,Seattle Genetics,N/A,26.02,46.50,13 August 2016

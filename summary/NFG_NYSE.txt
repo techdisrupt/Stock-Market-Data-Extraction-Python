@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil/Gas Transmission,USD,N/A,2.89,58.11,56.91,772.41M,['NYSE'],N/A,Public Utilities,N/A,7/15/2016,N/A,4760.00,NYQ,56.00,349926,1.62,6/28/2016,NFG,-9.66,n/a,National Fuel Gas Company,N/A,37.03,56.21,07 August 2016

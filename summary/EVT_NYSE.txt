@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.40,21.07,20.64,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,21.70,151783,0.80,7/20/2016,EVT,-1.54,2003,Eaton Vance Tax Advantaged Dividend Income Fund,N/A,15.24,20.62,06 August 2016

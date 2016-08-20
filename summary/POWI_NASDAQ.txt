@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.92,59.61,55.64,67.45M,['NASDAQ'],N/A,1997,37.44,6/30/2016,N/A,1630.00,NMS,56.31,128878,0.52,5/26/2016,POWI,1.50,n/a,Power Integrations,N/A,36.04,55.41,08 August 2016

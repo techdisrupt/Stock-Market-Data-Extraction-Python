@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,4.60,34.76,33.18,868.14M,['NASDAQ'],N/A,n/a,33.61,6/10/2016,N/A,11560.00,NMS,34.90,4219585,1.52,5/17/2016,MAT,1.01,n/a,Mattel,N/A,19.45,33.06,07 August 2016

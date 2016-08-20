@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,2.15,2.01,-16.69M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,313.89,NGM,2.00,413733,N/A,N/A,BLDP,-0.14,n/a,Ballard Power Systems,N/A,1.07,2.00,05 August 2016

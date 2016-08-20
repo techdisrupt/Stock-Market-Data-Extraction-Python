@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Air Freight/Delivery Services,USD,N/A,0.00,18.46,18.16,86.46M,['NYSE'],N/A,Transportation,N/A,8/21/2015,N/A,610.58,NYQ,17.69,282539,0.00,5/5/2011,GOL,-30.06,2004,Gol Linhas Aereas Inteligentes S.A.,N/A,2.40,17.69,07 August 2016

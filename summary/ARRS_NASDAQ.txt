@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,32.93,27.160,668.80M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,5180.00,NMS,27.210,751022,N/A,N/A,ARRS,-0.37,n/a,ARRIS Group,N/A,20.05,26.93,05 August 2016

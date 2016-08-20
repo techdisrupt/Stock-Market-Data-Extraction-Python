@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Broadcasting,USD,N/A,N/A,2.96,2.35,156.57M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,328.84,NMS,2.77,102182,N/A,N/A,CETV,-1.58,1994,Central European Media Enterprises Ltd.,N/A,1.84,2.34,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,11.53,9.00,10.63M,['NYSE'],N/A,n/a,N/A,N/A,N/A,368.68,ASE,8.77,235103,N/A,N/A,REI,-0.80,n/a,Ring Energy,N/A,4.00,8.99,09 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.26,18.00,15.26,0.00,['NASDAQ'],N/A,Finance,15.64,7/29/2016,N/A,110.12,NGM,N/A,122875,0.04,6/29/2016,ISTR,0.98,2014,Investar Holding Corporation,N/A,13.63,15.31,07 August 2016

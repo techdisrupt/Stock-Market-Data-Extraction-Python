@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.40,82.67,67.10,0.00,['NYSE'],N/A,Finance,9.61,5/26/2016,N/A,34850.00,NYQ,68.19,3695909,1.60,8/4/2016,COF,7.09,1994,Capital One Financial Corporation,N/A,58.03,66.20,06 August 2016

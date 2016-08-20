@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,4.89,48.00,41.40,0.00,['NASDAQ'],N/A,Finance,15.84,5/31/2016,N/A,5120.00,NMS,45.59,732436,2.00,5/12/2016,PACW,2.69,n/a,PacWest Bancorp,N/A,29.05,40.88,07 August 2016

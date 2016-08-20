@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.60,52.57,33.77,498.32M,['NYSE'],N/A,n/a,N/A,7/5/2016,N/A,3600.00,NYQ,35.25,1126858,0.88,6/9/2016,LM,-0.82,n/a,Legg Mason,N/A,24.93,33.28,07 August 2016

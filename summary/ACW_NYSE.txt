@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,N/A,4.10,1.37,68.37M,['NYSE'],N/A,Capital Goods,N/A,N/A,N/A,67.06,NYQ,1.39,164053,N/A,N/A,ACW,-0.34,n/a,Accuride Corporation New,N/A,0.74,1.36,04 August 2016

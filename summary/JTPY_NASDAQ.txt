@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,N/A,3.2500,2.1700,3.65M,['NASDAQ'],N/A,Finance,N/A,N/A,N/A,30.26,NCM,2.1800,4371,N/A,N/A,JTPY,-0.5230,2011,JetPay Corporation,N/A,2.0000,2.0700,07 August 2016

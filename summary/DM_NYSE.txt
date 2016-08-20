@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,3.44,37.93,26.83,231.50M,['NYSE'],N/A,2014,22.23,5/13/2016,N/A,1970.00,NYQ,25.35,162970,0.94,8/3/2016,DM,1.14,n/a,Dominion Midstream Partners,N/A,23.12,26.73,06 August 2016

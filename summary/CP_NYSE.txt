@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Railroads,USD,N/A,1.04,161.28,143.19,2.38B,['NYSE'],N/A,Transportation,19.39,7/25/2016,N/A,21280.00,NYQ,144.09,1337162,1.53,6/22/2016,CP,7.43,n/a,Canadian Pacific Railway Limited,N/A,97.09,143.18,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.96,22.00,22.00,118.68M,['NYSE'],N/A,n/a,16.29,5/12/2016,N/A,1480.00,NYQ,21.13,294314,0.82,7/29/2016,RMP,1.28,2014,Rice Midstream Partners LP,N/A,8.40,21.77,09 August 2016

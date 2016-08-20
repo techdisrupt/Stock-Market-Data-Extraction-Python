@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.01,139.00,137.00,14.09B,['NYSE'],N/A,n/a,24.05,6/16/2016,N/A,170320.00,NYQ,137.18,3022121,2.76,5/31/2016,HD,5.69,n/a,Home Depot,N/A,92.17,136.05,07 August 2016

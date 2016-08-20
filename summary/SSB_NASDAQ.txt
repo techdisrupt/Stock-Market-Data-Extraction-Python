@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.71,81.80,72.13,0.00,['NASDAQ'],N/A,Finance,17.60,5/20/2016,N/A,1740.00,NMS,72.44,61614,1.24,8/10/2016,SSB,4.11,n/a,South State Corporation,N/A,59.19,72.55,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.13,28.09,24.31,0.00,['NASDAQ'],N/A,Finance,14.21,6/30/2016,N/A,811.08,NMS,25.44,210993,0.76,8/4/2016,HAFC,1.79,n/a,Hanmi Financial Corporation,N/A,18.92,24.05,07 August 2016

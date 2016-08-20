@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.98,25.00,22.15,0.00,['NASDAQ'],N/A,n/a,11.05,6/20/2016,N/A,90.39,NGM,N/A,2975,0.88,6/8/2016,CBFV,2.01,n/a,CB Financial Services,N/A,19.00,22.15,06 August 2016

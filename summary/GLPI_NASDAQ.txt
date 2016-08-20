@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,6.32,35.98,35.46,369.71M,['NASDAQ'],N/A,n/a,32.88,6/17/2016,N/A,5170.00,NMS,36.00,799320,2.24,5/31/2016,GLPI,1.08,n/a,Gaming and Leisure Properties,N/A,24.21,35.42,07 August 2016

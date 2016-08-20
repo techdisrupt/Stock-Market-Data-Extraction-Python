@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Diversified Commercial Services,USD,N/A,N/A,14.8800,8.7000,15.16M,['NYSE'],N/A,Technology,2.2649,N/A,N/A,14.00,ASE,8.9800,300,N/A,N/A,ACY,3.9470,n/a,AeroCentury Corp.,N/A,7.7000,8.9760,04 August 2016

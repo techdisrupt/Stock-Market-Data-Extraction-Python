@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,1.2800,0.7899,-4.23M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,226.88,ASE,1.3100,154107,N/A,N/A,PLM,-0.0290,n/a,Polymet Mining Corp.,N/A,0.5500,0.7900,08 August 2016

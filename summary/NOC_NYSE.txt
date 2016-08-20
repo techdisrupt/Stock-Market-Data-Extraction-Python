@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,1.65,224.12,218.64,3.48B,['NYSE'],N/A,Capital Goods,19.70,6/22/2016,N/A,39100.00,NYQ,219.90,603044,3.60,6/2/2016,NOC,11.12,n/a,Northrop Grumman Corporation,N/A,152.31,218.34,07 August 2016

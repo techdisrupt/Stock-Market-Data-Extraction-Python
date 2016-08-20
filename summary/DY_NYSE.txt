@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,97.30,93.51,335.59M,['NYSE'],N/A,n/a,28.90,N/A,N/A,3030.00,NYQ,96.89,919153,N/A,N/A,DY,3.35,n/a,Dycom Industries,N/A,47.10,92.62,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,28.07,14.98,27.01M,['NASDAQ'],N/A,2014,55.27,N/A,N/A,271.20,NGM,18.72,115536,N/A,N/A,HABT,0.27,n/a,The Habit Restaurants,N/A,13.92,15.06,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,27.87,25.97,0.00,['NYSE'],N/A,n/a,32.53,7/15/2016,N/A,9510.00,NYQ,25.83,95989,N/A,7/12/2016,MFO,0.79,n/a,MFA Financial,N/A,23.44,25.93,07 August 2016

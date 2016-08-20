@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.14,94.51,86.02,725.73M,['NYSE'],N/A,Consumer Services,14.48,6/3/2016,N/A,12470.00,NYQ,86.18,631886,2.72,5/3/2016,MAC,5.95,1994,Macerich Company (The),N/A,71.82,85.88,07 August 2016

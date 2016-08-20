@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,1.29,32.03,28.02,121.00M,['NYSE'],N/A,Finance,9.51,5/25/2016,N/A,928.38,NYQ,28.62,237809,0.36,5/9/2016,EIG,3.01,2007,Employers Holdings Inc,N/A,20.86,27.80,06 August 2016

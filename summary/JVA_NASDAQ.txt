@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,0.000,6.150,5.890,3.82M,['NASDAQ'],N/A,2005,19.542,12/28/2012,N/A,34.98,NCM,6.110,24128,0.000,12/13/2012,JVA,0.295,n/a,Coffee Holding Co.,N/A,3.000,5.810,06 August 2016

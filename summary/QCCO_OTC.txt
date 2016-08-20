@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.00,2.18,0.87,0.00,['OTC'],N/A,2004,N/A,6/2/2015,N/A,15.08,PNK,N/A,1281,0.00,5/15/2015,QCCO,-0.05,n/a,QC Holdings,N/A,0.30,0.85,08 August 2016

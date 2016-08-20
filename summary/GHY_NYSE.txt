@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,10.90,15.40,15.24,0.00,['NYSE'],N/A,2012,N/A,7/29/2016,N/A,N/A,NYQ,15.25,68512,1.50,7/13/2016,GHY,N/A,n/a,Prudential Global Short Duration High Yield Fund,N/A,13.21,15.23,08 August 2016

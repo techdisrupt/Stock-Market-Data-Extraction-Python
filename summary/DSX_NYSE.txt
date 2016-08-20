@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,0.00,7.61,2.40,-745999.00,['NYSE'],N/A,Transportation,N/A,12/11/2008,N/A,206.97,NYQ,2.58,924203,0.00,11/24/2008,DSX,-1.36,2005,Diana Shipping inc.,N/A,1.95,2.39,06 August 2016

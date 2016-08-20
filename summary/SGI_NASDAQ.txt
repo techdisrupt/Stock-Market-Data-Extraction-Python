@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Manufacturing,USD,N/A,N/A,7.79,7.71,9.93M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,279.29,NMS,7.75,17815903,N/A,N/A,SGI,-0.59,n/a,Silicon Graphics International Corp,N/A,3.88,5.98,13 August 2016

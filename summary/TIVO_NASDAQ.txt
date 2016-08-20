@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Television Services,USD,N/A,N/A,10.61,10.57,84.20M,['NASDAQ'],N/A,Consumer Services,59.27,N/A,N/A,1060.00,NMS,10.62,975399,N/A,N/A,TIVO,0.18,1999,TiVo Inc.,N/A,7.29,10.59,14 August 2016

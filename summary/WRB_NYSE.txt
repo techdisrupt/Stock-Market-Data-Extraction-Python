@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,0.89,60.08,58.18,926.75M,['NYSE'],N/A,Finance,15.27,7/5/2016,N/A,7140.00,NYQ,58.20,62321,0.52,6/13/2016,WRB,3.81,n/a,W.R. Berkley Corporation,N/A,47.54,58.13,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,1.8800,37.8500,N/A,63.16M,['NASDAQ'],N/A,Technology,7.5787,8/4/2016,N/A,513.25,NMS,36.7000,59,0.6800,7/11/2016,FORTY,4.7770,n/a,Formula Systems (1985) Ltd.,N/A,23.5400,36.2033,07 August 2016

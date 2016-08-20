@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.4000,47.6000,35.79,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,36.00,19346,0.1600,7/13/2016,BME,4.0480,2005,Blackrock Health Sciences Trust,N/A,29.6700,35.6800,05 August 2016

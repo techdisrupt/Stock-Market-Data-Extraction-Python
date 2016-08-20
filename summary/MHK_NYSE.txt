@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,214.05,211.11,1.73B,['NYSE'],N/A,n/a,N/A,N/A,N/A,15860.00,NYQ,213.95,1202165,N/A,N/A,MHK,49.90,n/a,Mohawk Industries,N/A,148.56,207.70,07 August 2016

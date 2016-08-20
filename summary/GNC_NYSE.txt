@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,4.10,50.89,19.47,450.26M,['NYSE'],N/A,2011,7.43,6/24/2016,N/A,1360.00,NYQ,20.07,4145965,0.80,6/8/2016,GNC,2.67,n/a,GNC Holdings,N/A,18.92,19.32,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.78,50.71,50.41,591.09M,['NYSE'],N/A,2007,10.73,6/30/2016,N/A,4050.00,NYQ,50.38,88246,1.40,6/13/2016,VR,4.69,n/a,Validus Holdings,N/A,41.73,50.37,15 August 2016

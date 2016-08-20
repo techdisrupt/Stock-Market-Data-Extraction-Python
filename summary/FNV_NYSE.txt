@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,1.12,80.22,76.93,352.50M,['NYSE'],N/A,Basic Industries,347.34,6/30/2016,N/A,13710.00,NYQ,77.10,557212,0.88,6/14/2016,FNV,0.22,n/a,Franco-Nevada Corporation,N/A,39.05,78.64,07 August 2016

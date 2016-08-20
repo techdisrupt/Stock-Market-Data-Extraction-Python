@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,9.49,6.82,5.06,3.83M,['NASDAQ'],N/A,Finance,8.03,6/30/2016,N/A,30.60,NCM,5.15,6500,0.48,6/16/2016,OXBR,0.63,2014,Oxbridge Re Holdings Limited,N/A,4.52,5.06,07 August 2016

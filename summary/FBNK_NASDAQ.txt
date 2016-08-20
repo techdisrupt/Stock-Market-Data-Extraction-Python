@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.74,18.40,16.27,0.00,['NASDAQ'],N/A,2011,18.01,6/13/2016,N/A,242.00,NMS,17.21,15678,0.28,6/1/2016,FBNK,0.91,n/a,First Connecticut Bancorp,N/A,14.42,16.14,06 August 2016

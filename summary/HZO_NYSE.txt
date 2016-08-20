@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,22.03,20.24,45.45M,['NYSE'],N/A,1998,10.00,N/A,N/A,489.46,NYQ,20.23,431091,N/A,N/A,HZO,2.03,n/a,MarineMax,N/A,13.56,20.04,07 August 2016

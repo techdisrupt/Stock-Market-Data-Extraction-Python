@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,16.57,5.30,3.62,0.00,['NASDAQ'],N/A,2011,N/A,12/18/2015,N/A,N/A,NCM,N/A,0,0.60,12/2/2015,BDCV,-0.45,n/a,BDCA Venture,N/A,3.61,3.62,05 August 2016

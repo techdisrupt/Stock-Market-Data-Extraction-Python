@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.59,31.94,30.80,0.00,['NASDAQ'],N/A,Finance,15.79,7/15/2016,N/A,482.64,NCM,32.92,23905,0.80,6/30/2016,FLIC,1.95,n/a,The First of Long Island Corporation,N/A,22.81,30.85,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,35.00,27.74,-41.57M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,554.58,NGM,28.14,70725,N/A,N/A,LOXO,-2.34,n/a,Loxo Oncology,N/A,16.21,27.53,07 August 2016

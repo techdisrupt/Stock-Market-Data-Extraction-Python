@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,0.00,10.40,1.47,135.62M,['NYSE'],N/A,Transportation,4.17,11/13/2015,N/A,129.71,NYQ,1.69,454228,0.00,11/9/2015,NMM,0.37,2007,Navios Maritime Partners LP,N/A,0.79,1.47,07 August 2016

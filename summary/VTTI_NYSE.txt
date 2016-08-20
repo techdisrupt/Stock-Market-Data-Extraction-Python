@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil Refining/Marketing,USD,N/A,6.50,22.91,18.99,194.30M,['NYSE'],N/A,Energy,29.87,5/13/2016,N/A,782.81,NYQ,19.06,102366,1.23,8/4/2016,VTTI,0.64,2014,VTTI Energy Partners LP,N/A,14.80,18.86,15 August 2016

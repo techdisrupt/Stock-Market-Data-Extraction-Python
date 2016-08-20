@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,2.41,19.27,18.23,13.74M,['NASDAQ'],N/A,Capital Goods,16.40,6/15/2016,N/A,114.97,NGM,26.57,1428,0.44,5/16/2016,EML,1.12,n/a,Eastern Company (The),N/A,15.01,18.21,06 August 2016

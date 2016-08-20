@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,32.10,29.76,763.00M,['NYSE'],N/A,2014,72.65,N/A,N/A,9850.00,NYQ,29.92,832981,N/A,N/A,IMS,0.41,n/a,IMS Health Holdings,N/A,22.36,29.77,07 August 2016

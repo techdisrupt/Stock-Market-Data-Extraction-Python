@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.480,28.570,28.25,818.57M,['NYSE'],N/A,Consumer Services,35.90,7/15/2016,N/A,8430.00,NYQ,28.01,1578674,0.980,7/1/2016,BRX,0.780,2013,Brixmor Property Group Inc.,N/A,19.910,28.200,05 August 2016

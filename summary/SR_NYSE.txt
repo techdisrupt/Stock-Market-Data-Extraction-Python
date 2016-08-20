@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Office Equipment/Supplies/Services,USD,N/A,2.89,71.21,68.04,416.90M,['NYSE'],N/A,Consumer Services,21.20,7/5/2016,N/A,3080.00,NYQ,67.56,135428,1.96,6/8/2016,SR,3.19,n/a,Standard Register Company (The),N/A,49.66,67.85,14 August 2016

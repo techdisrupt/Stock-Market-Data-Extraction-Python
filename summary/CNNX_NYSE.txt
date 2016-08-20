@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,5.97,18.43,16.88,149.70M,['NYSE'],N/A,Public Utilities,12.43,5/13/2016,N/A,996.50,NYQ,17.09,50427,1.02,8/2/2016,CNNX,1.37,2014,Cone Midstream Partners LP,N/A,7.55,16.83,06 August 2016

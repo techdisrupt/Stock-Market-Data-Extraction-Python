@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Water Supply,USD,N/A,2.03,42.94,39.96,134.71M,['NYSE'],N/A,Public Utilities,18.03,6/1/2016,N/A,825.04,NYQ,40.37,39488,0.81,8/4/2016,SJW,2.24,n/a,SJW Corporation,N/A,27.60,39.89,14 August 2016

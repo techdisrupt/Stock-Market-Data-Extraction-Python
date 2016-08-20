@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.50,14.28,13.71,0.00,['NYSE'],N/A,n/a,N/A,6/24/2016,N/A,N/A,NYQ,13.71,79642,0.64,6/15/2016,SCD,-2.93,2004,LMP Capital and Income Fund Inc.,N/A,9.95,13.71,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Packaged Foods,USD,N/A,N/A,44.88,N/A,117.47M,['NASDAQ'],N/A,Consumer Non-Durables,7.02,N/A,N/A,352.73,NMS,39.68,1,N/A,N/A,SENEB,5.13,n/a,Seneca Foods Corp.,N/A,32.00,36.00,13 August 2016

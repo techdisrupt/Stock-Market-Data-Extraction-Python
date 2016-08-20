@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,24.22,17.47,0.00,['NYSE'],N/A,1997,5.24,N/A,N/A,215.64,ASE,17.56,27604,0.00,4/4/2007,IMH,3.34,n/a,Impac Mortgage Holdings,N/A,11.51,17.47,07 August 2016

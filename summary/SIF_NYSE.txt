@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,14.10,7.40,5.76M,['NYSE'],N/A,n/a,N/A,11/20/2014,N/A,38.62,ASE,7.17,4978,0.00,11/4/2014,SIF,-0.79,n/a,SIFCO Industries,N/A,7.03,7.25,13 August 2016

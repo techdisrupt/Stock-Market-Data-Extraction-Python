@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,2.57,0.35,-97.92M,['NASDAQ'],N/A,2010,N/A,N/A,N/A,80.25,NMS,0.40,6208956,N/A,N/A,AMRS,-1.26,n/a,Amyris,N/A,0.31,0.34,05 August 2016

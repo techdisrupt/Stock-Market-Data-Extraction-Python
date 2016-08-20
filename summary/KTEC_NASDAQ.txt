@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,13.1600,N/A,3.00M,['NASDAQ'],N/A,1993,N/A,N/A,N/A,61.61,NGM,10.0400,201,N/A,N/A,KTEC,-0.4400,n/a,Key Technology,N/A,6.2500,9.8000,07 August 2016

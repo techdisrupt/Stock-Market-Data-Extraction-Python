@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,5.20,12.84,9.51,258.08M,['NYSE'],N/A,Consumer Services,22.04,7/12/2016,N/A,2020.00,NYQ,10.08,4157922,0.50,6/28/2016,DRH,0.46,2005,Diamondrock Hospitality Company,N/A,7.28,9.42,06 August 2016

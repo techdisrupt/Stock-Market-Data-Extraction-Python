@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,17.31,16.77,248.00M,['NYSE'],N/A,Miscellaneous,N/A,N/A,N/A,707.19,NYQ,16.77,104311,N/A,N/A,KODK,-0.95,n/a,Eastman Kodak Company,N/A,7.56,16.60,06 August 2016

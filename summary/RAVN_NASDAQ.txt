@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.43,21.66,21.45,35.43M,['NASDAQ'],N/A,n/a,87.07,7/22/2016,N/A,774.50,NMS,21.43,56856,0.52,7/6/2016,RAVN,0.25,n/a,Raven Industries,N/A,12.88,21.36,08 August 2016

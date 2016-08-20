@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.60,15.01,14.94,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,15.01,6195,0.59,7/13/2016,NNC,0.63,1993,Nuveen North Carolina Premium Income Municipal Fund,N/A,12.52,14.99,07 August 2016

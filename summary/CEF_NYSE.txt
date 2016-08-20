@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,14.88,14.44,0.00,['NYSE'],N/A,n/a,N/A,11/13/2015,N/A,N/A,ASE,14.25,964358,0.00,10/28/2015,CEF,1.05,n/a,Central Fund of Canada Limited,N/A,9.84,14.62,06 August 2016

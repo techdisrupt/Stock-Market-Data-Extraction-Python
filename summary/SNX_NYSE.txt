@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Retail: Computer Software & Peripheral Equipment,USD,N/A,0.77,105.15,104.55,454.67M,['NYSE'],N/A,Technology,20.71,7/29/2016,N/A,4160.00,NYQ,104.58,170609,0.80,7/13/2016,SNX,5.05,2003,Synnex Corporation,N/A,73.13,104.54,14 August 2016

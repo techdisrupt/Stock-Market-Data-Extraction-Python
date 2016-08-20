@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hospital/Nursing Management,USD,N/A,2.86,69.40,63.22,107.36M,['NYSE'],N/A,Health Care,18.94,9/1/2016,N/A,983.05,ASE,64.47,22780,1.80,6/28/2016,NHC,3.34,n/a,National HealthCare Corporation,N/A,57.16,63.04,07 August 2016

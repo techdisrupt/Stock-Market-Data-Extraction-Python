@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,70.87,43.92,85.31M,['NYSE'],N/A,1993,N/A,N/A,N/A,574.99,NYQ,47.00,412796,N/A,N/A,CWEI,-9.47,n/a,Clayton Williams Energy,N/A,6.35,43.94,06 August 2016

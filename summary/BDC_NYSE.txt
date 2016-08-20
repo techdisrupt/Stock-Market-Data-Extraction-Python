@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.28,75.71,71.90,400.53M,['NYSE'],N/A,Basic Industries,25.24,7/6/2016,N/A,3060.00,NYQ,72.62,188528,0.20,6/14/2016,BDC,2.87,n/a,Belden Inc,N/A,36.51,71.13,05 August 2016

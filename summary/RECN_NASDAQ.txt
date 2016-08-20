@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,2.91,18.71,15.05,58.30M,['NASDAQ'],N/A,2000,18.57,6/16/2016,N/A,544.88,NMS,15.87,165289,0.44,5/17/2016,RECN,0.81,n/a,Resources Connection,N/A,12.30,15.01,09 August 2016

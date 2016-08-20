@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.56,79.98,42.37,1.61B,['NYSE'],N/A,n/a,15.64,6/15/2016,N/A,7550.00,NYQ,43.99,3112485,1.48,5/26/2016,JWN,2.78,n/a,Nordstrom,N/A,35.01,42.00,07 August 2016

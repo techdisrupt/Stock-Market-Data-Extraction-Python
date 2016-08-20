@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Fluid Controls,USD,N/A,1.51,91.23,90.49,519.73M,['NYSE'],N/A,Capital Goods,24.15,7/29/2016,N/A,6940.00,NYQ,91.09,336285,1.36,7/13/2016,IEX,3.77,1989,IDEX Corporation,N/A,66.88,90.30,07 August 2016

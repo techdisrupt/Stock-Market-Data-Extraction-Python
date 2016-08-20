@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,3.55,65.71,64.78,3.20B,['NYSE'],N/A,n/a,16.16,5/20/2016,N/A,29920.00,NYQ,65.60,2300665,2.28,8/3/2016,ETN,4.05,n/a,Eaton Corporation,N/A,46.19,64.50,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical Specialities,USD,N/A,N/A,75.57,71.72,1.26B,['NYSE'],N/A,Health Care,27.38,N/A,N/A,12110.00,NYQ,71.53,983525,N/A,N/A,CNC,2.59,n/a,Centene Corporation,N/A,47.36,71.27,06 August 2016

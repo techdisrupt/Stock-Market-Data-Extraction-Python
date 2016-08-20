@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,3.050,21.420,20.98,1.39B,['NYSE'],N/A,Miscellaneous,12.67,6/30/2016,N/A,10260.00,NYQ,21.04,1243874,0.640,6/14/2016,WU,1.662,n/a,Western Union Company (The),N/A,16.020,20.970,15 August 2016

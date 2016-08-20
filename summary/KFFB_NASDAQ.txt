@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,4.87,10.37,N/A,0.00,['NASDAQ'],N/A,Finance,41.26,5/16/2016,N/A,68.76,NGM,8.39,1,0.40,7/27/2016,KFFB,0.20,n/a,Kentucky First Federal Bancorp,N/A,8.00,8.21,07 August 2016

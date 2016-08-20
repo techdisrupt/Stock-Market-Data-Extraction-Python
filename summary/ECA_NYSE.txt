@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.73,9.23,8.23,1.09B,['NYSE'],N/A,Energy,N/A,6/30/2016,N/A,7090.00,NYQ,8.37,7924179,0.06,6/13/2016,ECA,-3.34,n/a,Encana Corporation,N/A,3.00,8.27,06 August 2016

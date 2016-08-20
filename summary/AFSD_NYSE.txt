@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Accident &Health Insurance,USD,N/A,N/A,27.36,27.11,4.51B,['NYSE'],N/A,Finance,4.49,9/15/2016,N/A,11210.00,NYQ,27.39,25409,N/A,5/27/2016,AFSD,6.08,n/a,Aflac Incorporated,N/A,24.90,27.24,04 August 2016

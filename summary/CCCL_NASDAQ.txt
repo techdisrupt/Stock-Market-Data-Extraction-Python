@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,10.08,3.93,22.65M,['NASDAQ'],N/A,n/a,N/A,1/14/2015,N/A,10.32,NCM,4.69,27768,0.00,12/10/2014,CCCL,-20.90,n/a,China Ceramics Co.,N/A,2.01,3.98,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.56,14.22,14.00,0.00,['NASDAQ'],N/A,n/a,17.28,6/30/2016,N/A,145.96,NMS,14.00,20375,0.36,6/14/2016,ESSA,0.81,n/a,ESSA Bancorp,N/A,12.00,13.96,06 August 2016

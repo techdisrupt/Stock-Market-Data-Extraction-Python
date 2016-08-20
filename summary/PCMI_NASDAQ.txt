@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,18.90,17.29,30.08M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,200.32,NGM,N/A,146276,N/A,4/12/2005,PCMI,-0.62,n/a,PCM,N/A,7.48,16.95,07 August 2016

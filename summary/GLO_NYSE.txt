@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,12.50,12.27,9.61,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,ASE,9.75,111294,1.20,7/14/2016,GLO,-1.52,2006,Clough Global Opportunities Fund,N/A,8.67,9.59,06 August 2016

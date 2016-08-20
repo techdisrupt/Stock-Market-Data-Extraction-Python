@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,7.80,14.25,13.26,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,13.41,202567,0.96,7/14/2016,MAV,0.82,n/a,Pioneer Municipal High Income Advantage Trust,N/A,12.38,13.27,08 August 2016

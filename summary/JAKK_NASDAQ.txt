@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,0.00,10.28,9.37,46.45M,['NASDAQ'],N/A,1996,18.25,7/1/2013,N/A,157.13,NMS,10.18,239443,0.00,6/12/2013,JAKK,0.52,n/a,JAKKS Pacific,N/A,6.17,9.36,07 August 2016

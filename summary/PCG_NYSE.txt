@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,3.04,65.43,64.40,4.09B,['NYSE'],N/A,Public Utilities,42.07,7/15/2016,N/A,31850.00,NYQ,63.97,2954026,1.96,6/28/2016,PCG,1.52,n/a,Pacific Gas & Electric Co.,N/A,47.33,64.51,07 August 2016

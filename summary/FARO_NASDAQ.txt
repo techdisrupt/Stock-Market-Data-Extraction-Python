@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,43.19,32.82,27.21M,['NASDAQ'],N/A,1997,38.22,N/A,N/A,544.91,NMS,40.88,189478,N/A,N/A,FARO,0.86,n/a,FARO Technologies,N/A,20.72,32.52,06 August 2016

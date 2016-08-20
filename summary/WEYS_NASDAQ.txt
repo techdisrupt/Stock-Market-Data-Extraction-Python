@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,3.28,29.18,26.00,29.70M,['NASDAQ'],N/A,n/a,17.04,6/30/2016,N/A,272.64,NMS,25.97,8330,0.84,5/25/2016,WEYS,1.52,n/a,Weyco Group,N/A,22.94,25.62,15 August 2016

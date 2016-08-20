@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,21.48,10.21,155.07M,['NASDAQ'],N/A,2005,5.99,N/A,N/A,469.38,NMS,N/A,163465,N/A,N/A,UEPS,1.74,n/a,Net 1 UEPS Technologies,N/A,8.44,10.13,07 August 2016

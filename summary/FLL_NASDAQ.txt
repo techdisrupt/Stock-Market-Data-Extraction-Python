@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,2.08,1.81,14.19M,['NASDAQ'],N/A,n/a,300.00,N/A,N/A,34.14,NCM,2.60,23927,N/A,N/A,FLL,0.01,n/a,Full House Resorts,N/A,1.18,1.81,07 August 2016

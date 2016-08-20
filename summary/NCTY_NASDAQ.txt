@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,0.00,4.49,1.80,-43.31M,['NASDAQ'],N/A,Miscellaneous,N/A,2/9/2009,N/A,42.66,NMS,1.90,8288,0.00,1/29/2009,NCTY,-2.48,2004,The9 Limited,N/A,0.90,1.81,14 August 2016

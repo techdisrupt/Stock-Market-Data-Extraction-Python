@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,5.40,38.47,36.43,2.66B,['NYSE'],N/A,n/a,20.87,9/2/2016,N/A,28180.00,NYQ,36.32,96871,1.57,7/19/2016,CHT,1.74,n/a,Chunghwa Telecom Co.,N/A,28.49,36.42,06 August 2016

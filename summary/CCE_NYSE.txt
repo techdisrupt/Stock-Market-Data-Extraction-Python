@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,3.28,54.54,36.80,0.00,['NYSE'],N/A,1986,25.48,5/25/2016,N/A,17900.00,NYQ,40.00,1812156,1.20,5/31/2016,CCE,1.44,n/a,Coca-Cola Enterprises,N/A,33.67,36.73,06 August 2016

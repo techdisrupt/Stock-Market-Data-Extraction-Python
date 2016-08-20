@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,0.00,8.49,7.49,1.57M,['NYSE'],N/A,Consumer Services,N/A,1/25/2013,N/A,13.36,ASE,7.50,463,0.00,1/10/2013,PW,-0.29,n/a,Power REIT,N/A,3.84,7.51,08 August 2016

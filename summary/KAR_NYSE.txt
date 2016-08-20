@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,2.82,43.91,41.01,696.40M,['NYSE'],N/A,2009,25.54,7/5/2016,N/A,5600.00,NYQ,40.83,1724098,1.16,6/20/2016,KAR,1.60,n/a,KAR Auction Services,N/A,31.54,40.78,07 August 2016

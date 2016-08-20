@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,0.00,14.96,10.55,203.40M,['NYSE'],N/A,Technology,N/A,N/A,N/A,528.35,NYQ,10.56,367827,0.00,6/18/1990,UIS,-0.54,n/a,Unisys Corporation,N/A,6.72,10.55,15 August 2016

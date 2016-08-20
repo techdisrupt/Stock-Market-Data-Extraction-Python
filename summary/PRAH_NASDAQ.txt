@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,51.35,49.35,263.78M,['NASDAQ'],N/A,2014,42.38,N/A,N/A,3010.00,NMS,49.43,331247,N/A,N/A,PRAH,1.17,n/a,PRA Health Sciences,N/A,33.00,49.13,08 August 2016

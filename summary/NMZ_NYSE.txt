@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.10,15.42,15.13,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,ASE,15.14,72221,0.91,7/13/2016,NMZ,0.95,2003,Nuveen Municipal High Income Opportunity Fund,N/A,13.23,15.10,07 August 2016

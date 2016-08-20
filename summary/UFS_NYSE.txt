@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Paper,USD,N/A,4.27,42.95,38.95,633.00M,['NYSE'],N/A,Basic Industries,27.41,7/15/2016,N/A,2460.00,NYQ,39.22,305551,1.66,6/30/2016,UFS,1.43,n/a,Domtar Corporation,N/A,29.88,39.02,06 August 2016

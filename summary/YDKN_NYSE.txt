@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.5700,28.2300,25.5600,0.00,['NYSE'],N/A,Finance,20.2206,5/19/2016,N/A,1330.00,NYQ,25.6600,221899,0.4000,8/9/2016,YDKN,1.2690,n/a,Yadkin Financial Corporation,N/A,18.8000,25.4800,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,N/A,46.88,45.87,157.68M,['NASDAQ'],N/A,Technology,19.46,N/A,N/A,1540.00,NMS,46.18,109748,N/A,N/A,PLXS,2.37,n/a,Plexus Corp.,N/A,28.72,45.50,08 August 2016

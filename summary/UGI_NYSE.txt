@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,2.07,46.54,45.91,1.48B,['NYSE'],N/A,Public Utilities,20.07,7/1/2016,N/A,7930.00,NYQ,45.78,232151,0.95,6/13/2016,UGI,2.28,n/a,UGI Corporation,N/A,31.51,45.85,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Coal Mining,USD,N/A,0.24,7.02,6.32,1.06B,['NYSE'],N/A,Energy,22.61,7/27/2015,N/A,3110.00,NYQ,6.33,18643,0.02,6/20/2016,YZC,0.28,1998,Yanzhou Coal Mining Company Limited,N/A,3.66,6.36,15 August 2016

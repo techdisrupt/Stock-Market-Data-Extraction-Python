@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,19.20,1.47,-24.60M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,29.07,NGM,1.55,292182,N/A,N/A,MRNS,-1.54,n/a,Marinus Pharmaceuticals,N/A,1.19,1.49,07 August 2016

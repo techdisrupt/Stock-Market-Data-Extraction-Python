@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,6.5400,28.7100,26.7700,0.00,['NASDAQ'],N/A,n/a,36.4719,6/15/2016,N/A,2210.00,NMS,28.0100,100,1.7400,5/12/2016,BPFHP,0.7270,n/a,Boston Private Financial Holdings,N/A,23.5300,26.8000,05 August 2016

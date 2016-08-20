@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.49,24.88,24.70,194.10M,['NASDAQ'],N/A,n/a,N/A,7/29/2016,N/A,1820.00,NMS,N/A,804348,1.56,6/28/2016,PEGI,-0.50,2013,Pattern Energy Group Inc.,N/A,14.56,24.05,07 August 2016

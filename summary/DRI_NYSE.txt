@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.69,73.13,61.29,903.80M,['NYSE'],N/A,n/a,21.54,8/1/2016,N/A,7880.00,NYQ,63.87,1938264,2.24,7/7/2016,DRI,2.90,n/a,Darden Restaurants,N/A,53.38,61.05,06 August 2016

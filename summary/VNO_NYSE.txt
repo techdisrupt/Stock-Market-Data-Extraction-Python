@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.40,108.69,105.53,1.22B,['NYSE'],N/A,Consumer Services,37.02,5/20/2016,N/A,19730.00,NYQ,104.46,387715,2.52,8/5/2016,VNO,2.82,n/a,Vornado Realty Trust,N/A,78.91,105.14,15 August 2016

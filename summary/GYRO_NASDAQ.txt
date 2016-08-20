@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,34.00,20.23,-1.85M,['NASDAQ'],N/A,n/a,53.44,6/15/2016,N/A,6.77,NCM,22.82,666,0.00,6/16/2016,GYRO,0.38,n/a,Gyrodyne Company of America,N/A,19.76,20.23,07 August 2016

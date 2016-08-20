@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.30,16.89,16.50,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,ASE,16.49,46502,0.88,7/13/2016,BLE,0.76,2002,BlackRock Municipal Income Trust II,N/A,14.18,16.49,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,1.6400,N/A,0.00,['NYSE'],N/A,n/a,N/A,N/A,N/A,N/A,ASE,N/A,0,N/A,N/A,SVLC,0.0090,n/a,SilverCrest Mines,N/A,0.6500,0.8607,13 August 2016

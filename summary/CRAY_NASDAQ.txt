@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Manufacturing,USD,N/A,N/A,43.79,20.96,39.47M,['NASDAQ'],N/A,Technology,68.10,N/A,N/A,874.75,NMS,22.01,974205,N/A,N/A,CRAY,0.31,n/a,Cray Inc,N/A,18.00,21.03,06 August 2016

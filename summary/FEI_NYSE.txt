@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.80,18.08,15.41,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NYQ,15.47,48708,1.36,8/1/2016,FEI,N/A,1984,First Trust MLP and Energy Income Fund,N/A,8.36,15.39,06 August 2016

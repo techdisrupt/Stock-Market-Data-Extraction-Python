@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil Refining/Marketing,USD,N/A,1.140,36.520,35.90,230.60M,['NYSE'],N/A,Transportation,1898.42,6/1/2016,N/A,1790.00,NYQ,36.09,417928,0.400,7/22/2016,BCO,0.019,n/a,Brink&'s Company (The),N/A,25.800,35.670,05 August 2016

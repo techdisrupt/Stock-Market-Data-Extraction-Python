@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,9.60,6.39,-34.38M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,147.44,NCM,7.70,30902,N/A,N/A,SHOS,-1.42,n/a,Sears Hometown and Outlet Stores,N/A,5.06,6.36,13 August 2016

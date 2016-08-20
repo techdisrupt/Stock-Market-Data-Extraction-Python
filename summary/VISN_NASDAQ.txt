@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,11.780,5.040,-29.70M,['NASDAQ'],N/A,2007,N/A,N/A,N/A,26.61,NMS,5.260,23517,N/A,N/A,VISN,-7.422,n/a,VisionChina Media,N/A,4.880,5.110,15 August 2016

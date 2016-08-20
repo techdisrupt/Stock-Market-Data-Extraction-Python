@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,20.95,8.74,21.68M,['NASDAQ'],N/A,n/a,4.99,N/A,N/A,29.55,NGM,8.87,144127,N/A,8/21/2014,SPU,1.78,n/a,SkyPeople Fruit Juice,N/A,1.62,9.13,14 August 2016

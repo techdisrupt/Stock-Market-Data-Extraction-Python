@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,4.27,11.98,11.79,8.60M,['NYSE'],N/A,Consumer Services,N/A,7/15/2016,N/A,138.81,NYQ,11.71,119510,0.51,6/29/2016,FPI,-0.08,2014,Farmland Partners Inc.,N/A,9.54,11.79,06 August 2016

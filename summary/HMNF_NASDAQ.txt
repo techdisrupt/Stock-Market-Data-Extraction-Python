@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.00,14.44,13.91,0.00,['NASDAQ'],N/A,n/a,12.90,N/A,N/A,60.04,NGM,14.25,69,0.00,8/21/2008,HMNF,1.10,n/a,HMN Financial,N/A,10.81,14.22,07 August 2016

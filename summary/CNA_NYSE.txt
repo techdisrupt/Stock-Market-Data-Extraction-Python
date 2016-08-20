@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,3.13,39.64,32.24,658.00M,['NYSE'],N/A,Finance,23.13,6/1/2016,N/A,8860.00,NYQ,32.75,322827,1.00,5/12/2016,CNA,1.42,n/a,CNA Financial Corporation,N/A,27.99,32.09,06 August 2016

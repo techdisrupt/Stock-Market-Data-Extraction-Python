@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,20.00,3.47,-31.13M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,34.49,NCM,3.55,92267,N/A,N/A,AEZS,-8.70,n/a,AEterna Zentaris Inc.,N/A,2.60,3.43,04 August 2016

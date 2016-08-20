@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Biological Products (No Diagnostic Substances),USD,N/A,N/A,8.34,5.78,-80.87M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,490.88,NCM,5.81,772488,N/A,N/A,AGEN,-1.04,2000,Agenus Inc.,N/A,2.61,5.75,04 August 2016

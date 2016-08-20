@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,8.01,3.54,608.00M,['NASDAQ'],N/A,n/a,7.31,N/A,N/A,1940.00,NMS,3.68,5817764,N/A,N/A,ODP,0.01,n/a,Office Depot,N/A,3.11,3.51,07 August 2016

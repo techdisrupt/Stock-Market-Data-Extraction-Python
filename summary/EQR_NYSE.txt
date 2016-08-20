@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.05,82.39,66.57,1.69B,['NYSE'],N/A,Consumer Services,5.87,7/8/2016,N/A,24580.00,NYQ,70.25,2018100,2.02,6/23/2016,EQR,11.46,n/a,Equity Residential,N/A,61.90,66.36,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,3.51,25.99,25.24,308.85M,['NYSE'],N/A,Energy,N/A,N/A,N/A,3850.00,NYQ,24.71,3314088,0.89,N/A,RICE,-2.90,2014,Rice Energy Inc.,N/A,7.92,25.13,09 August 2016

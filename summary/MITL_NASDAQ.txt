@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Radio And Television Broadcasting And Communications Equipment,USD,N/A,N/A,8.96,8.17,136.70M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,990.65,NMS,N/A,958761,N/A,N/A,MITL,-0.41,n/a,Mitel Networks Corporation,N/A,5.81,8.16,07 August 2016

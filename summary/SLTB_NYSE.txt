@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,N/A,21.23,19.80,-61.32M,['NYSE'],N/A,Transportation,N/A,6/15/2016,N/A,3450.00,NYQ,19.99,5719,N/A,11/26/2014,SLTB,-1.07,2014,Scorpio Bulkers Inc.,N/A,7.43,19.96,13 August 2016

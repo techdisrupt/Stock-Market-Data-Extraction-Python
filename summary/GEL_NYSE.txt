@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,7.91,45.59,34.90,374.08M,['NYSE'],N/A,1996,8.48,5/13/2016,N/A,3830.00,NYQ,34.79,676484,2.76,7/27/2016,GEL,4.10,n/a,Genesis Energy,N/A,19.55,34.91,07 August 2016

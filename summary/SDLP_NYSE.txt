@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,10.31,12.29,4.10,1.12B,['NYSE'],N/A,Energy,1.66,5/13/2016,N/A,370.04,NYQ,4.11,841002,0.40,8/3/2016,SDLP,2.42,2012,Seadrill Partners LLC,N/A,1.70,4.10,13 August 2016

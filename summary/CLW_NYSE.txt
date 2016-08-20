@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Paper,USD,N/A,N/A,69.75,62.70,243.46M,['NYSE'],N/A,Basic Industries,14.91,N/A,N/A,1050.00,NYQ,61.83,73078,N/A,5/13/2014,CLW,4.14,n/a,Clearwater Paper Corporation,N/A,32.00,62.61,06 August 2016

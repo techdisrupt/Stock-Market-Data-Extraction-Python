@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.34,37.88,36.67,565.43M,['NYSE'],N/A,n/a,20.59,5/18/2016,N/A,5160.00,NYQ,36.85,650906,0.49,5/5/2016,BRO,1.79,n/a,Brown & Brown,N/A,28.41,36.38,05 August 2016

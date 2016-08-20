@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.30,22.00,21.72,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,21.75,72929,1.63,7/20/2016,FFC,0.82,2003,Flaherty & Crumrine Preferred Securities Income Fund Inc,N/A,17.50,21.71,07 August 2016

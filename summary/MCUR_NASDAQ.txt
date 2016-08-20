@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Biological Products (No Diagnostic Substances),USD,N/A,N/A,13.92,1.45,-20.72M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,26.47,NGM,1.88,50812,N/A,N/A,MCUR,-1.16,2014,MACROCURE LTD.,N/A,0.75,1.52,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Clothing/Shoe/Accessory Stores,USD,N/A,1.76,33.24,25.48,1.09B,['NYSE'],N/A,Consumer Services,20.40,6/7/2016,N/A,9640.00,NYQ,25.43,3697154,0.44,5/13/2016,HBI,1.25,n/a,Hanesbrands Inc.,N/A,23.25,25.29,07 August 2016

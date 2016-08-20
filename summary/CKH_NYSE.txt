@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,0.00,67.60,55.37,128.30M,['NYSE'],N/A,n/a,N/A,12/26/2012,N/A,939.61,NYQ,69.01,72715,0.00,12/13/2012,CKH,-7.78,n/a,SEACOR Holdings,N/A,41.24,55.02,13 August 2016

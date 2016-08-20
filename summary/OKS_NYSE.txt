@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,7.73,42.34,40.38,1.62B,['NYSE'],N/A,n/a,34.21,5/13/2016,N/A,11500.00,NYQ,42.00,664261,3.16,8/4/2016,OKS,1.18,n/a,ONEOK Partners,N/A,21.86,40.32,07 August 2016

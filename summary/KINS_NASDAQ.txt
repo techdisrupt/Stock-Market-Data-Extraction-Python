@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.900,10.000,8.680,11.55M,['NASDAQ'],N/A,n/a,9.039,6/15/2016,N/A,68.65,NCM,8.680,1493,0.250,5/26/2016,KINS,0.960,n/a,Kingstone Companies,N/A,7.210,8.610,07 August 2016

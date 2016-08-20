@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,819.54,809.68,2.32B,['NYSE'],N/A,n/a,20.50,N/A,N/A,23590.00,NYQ,807.03,83212,N/A,N/A,AZO,39.36,n/a,AutoZone,N/A,667.00,808.24,05 August 2016

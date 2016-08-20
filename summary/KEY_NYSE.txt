@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.91,15.00,11.91,0.00,['NYSE'],N/A,Finance,12.68,6/15/2016,N/A,10330.00,NYQ,12.24,23633784,0.34,7/27/2016,KEY,0.97,n/a,KeyCorp,N/A,9.88,11.73,07 August 2016

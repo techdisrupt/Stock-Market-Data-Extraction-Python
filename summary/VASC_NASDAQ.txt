@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,47.67,47.48,26.00M,['NASDAQ'],N/A,2000,87.69,N/A,N/A,828.20,NMS,47.43,47559,N/A,N/A,VASC,0.54,n/a,Vascular Solutions,N/A,24.34,47.18,15 August 2016

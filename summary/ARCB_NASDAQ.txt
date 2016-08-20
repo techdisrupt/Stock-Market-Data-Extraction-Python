@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Trucking Freight/Courier Services,USD,N/A,1.790,34.100,17.650,141.68M,['NASDAQ'],N/A,Transportation,17.612,5/24/2016,N/A,483.88,NMS,18.810,75097,0.320,5/6/2016,ARCB,1.067,n/a,ArcBest Corporation,N/A,14.850,17.550,05 August 2016

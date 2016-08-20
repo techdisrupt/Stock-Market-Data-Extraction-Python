@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.41,35.63,25.66,733.64M,['NASDAQ'],N/A,n/a,9.19,7/15/2016,N/A,4450.00,NMS,25.95,634412,0.60,6/29/2016,AFSI,2.43,n/a,AmTrust Financial Services,N/A,23.55,25.60,05 August 2016

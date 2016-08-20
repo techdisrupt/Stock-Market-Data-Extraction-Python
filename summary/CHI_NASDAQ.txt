@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,11.30,11.42,10.42,0.00,['NASDAQ'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NMS,10.42,197209,1.14,7/8/2016,CHI,-1.24,2002,Calamos Convertible Opportunities and Income Fund,N/A,8.16,10.40,05 August 2016

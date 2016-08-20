@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.70,16.72,16.51,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,16.53,36906,1.06,7/20/2016,BSL,N/A,2010,Blackstone GSO Senior Floating Rate Term Fund,N/A,13.39,16.51,05 August 2016

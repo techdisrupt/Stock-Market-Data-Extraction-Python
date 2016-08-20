@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,8.8199,8.5000,3.63M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,143.49,NGM,8.9000,18322,N/A,N/A,UPLD,-1.0190,n/a,Upland Software,N/A,5.9500,8.4850,15 August 2016

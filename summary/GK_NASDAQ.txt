@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.84,81.68,80.43,148.72M,['NASDAQ'],N/A,n/a,24.43,6/17/2016,N/A,1600.00,NMS,81.04,54465,1.48,5/31/2016,GK,3.32,n/a,G&K Services,N/A,51.94,80.05,07 August 2016

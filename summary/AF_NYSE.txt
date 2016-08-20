@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,1.09,18.13,14.85,0.00,['NYSE'],N/A,Finance,22.97,5/17/2016,N/A,1490.00,NYQ,14.86,245035,0.16,8/4/2016,AF,0.65,n/a,Astoria Financial Corporation,N/A,13.92,14.71,05 August 2016

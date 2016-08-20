@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.00,4.75,4.48,0.00,['NYSE'],N/A,Finance,13.19,N/A,N/A,976.61,NYQ,5.00,570415,0.00,6/11/2009,FBP,0.35,n/a,First BanCorp.,N/A,2.06,4.42,06 August 2016

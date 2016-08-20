@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,6.79,29.09,21.50,0.00,['NYSE'],N/A,Finance,11.34,5/19/2016,N/A,2110.00,NYQ,21.79,284059,1.60,5/5/2016,AB,1.92,n/a,Allianceberstein Holding L.P.,N/A,16.11,21.59,04 August 2016

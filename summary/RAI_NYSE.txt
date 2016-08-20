@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Farming/Seeds/Milling,USD,N/A,3.43,54.48,49.23,5.39B,['NYSE'],N/A,Consumer Non-Durables,13.35,7/1/2016,N/A,70600.00,NYQ,49.45,3272954,1.68,6/8/2016,RAI,3.71,n/a,Reynolds American Inc,N/A,35.69,49.18,09 August 2016

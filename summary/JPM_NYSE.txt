@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.97,69.03,65.14,0.00,['NYSE'],N/A,Finance,11.24,7/31/2016,N/A,241050.00,NYQ,66.33,20752730,1.92,7/1/2016,JPM,5.90,n/a,J P Morgan Chase & Co,N/A,50.07,64.56,07 August 2016

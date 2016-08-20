@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Radio And Television Broadcasting And Communications Equipment,USD,N/A,N/A,2.48,2.18,28.46M,['NASDAQ'],N/A,Technology,25.44,N/A,N/A,177.83,NMS,2.45,618693,N/A,N/A,CRNT,0.09,n/a,Ceragon Networks Ltd.,N/A,0.89,2.19,06 August 2016

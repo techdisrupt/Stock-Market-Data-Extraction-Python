@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,4.770,4.090,8.52M,['NASDAQ'],N/A,Public Utilities,50.301,N/A,N/A,152.35,NMS,4.190,43131,N/A,N/A,AUDC,0.083,1999,AudioCodes Ltd.,N/A,2.850,4.140,05 August 2016

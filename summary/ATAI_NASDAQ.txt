@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,0.000,7.320,3.740,9.06M,['NASDAQ'],N/A,Consumer Services,21.924,7/18/2014,N/A,85.73,NGM,3.750,5640,0.000,6/26/2014,ATAI,0.171,2008,ATA Inc.,N/A,2.250,3.530,05 August 2016

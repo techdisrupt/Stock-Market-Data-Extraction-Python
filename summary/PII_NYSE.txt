@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,2.31,139.88,94.90,753.86M,['NYSE'],N/A,Capital Goods,16.45,6/15/2016,N/A,6110.00,NYQ,99.72,643465,2.20,5/27/2016,PII,5.79,n/a,Polaris Industries Inc.,N/A,67.80,94.37,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,2.93,45.21,43.66,602.00M,['NYSE'],N/A,Public Utilities,20.81,7/15/2016,N/A,3840.00,NYQ,43.16,541289,1.28,6/23/2016,POR,2.10,n/a,Portland General Electric Company,N/A,33.33,43.75,08 August 2016

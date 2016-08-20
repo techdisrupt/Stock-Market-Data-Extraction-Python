@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,1.65,136.75,136.04,701.59M,['NYSE'],N/A,n/a,26.50,7/7/2016,N/A,10680.00,NYQ,133.94,637169,2.24,6/23/2016,IFF,5.06,n/a,Internationa Flavors & Fragrances,N/A,97.24,135.76,07 August 2016

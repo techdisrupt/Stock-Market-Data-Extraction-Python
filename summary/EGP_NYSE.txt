@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.30,74.56,72.99,147.37M,['NYSE'],N/A,n/a,26.32,6/30/2016,N/A,2380.00,NYQ,72.66,179511,2.40,6/15/2016,EGP,2.76,n/a,EastGroup Properties,N/A,49.31,72.80,06 August 2016

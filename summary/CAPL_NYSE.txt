@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil Refining/Marketing,USD,N/A,10.00,27.69,23.06,73.10M,['NYSE'],N/A,Energy,52.03,5/31/2016,N/A,785.08,NYQ,24.70,157953,2.41,8/4/2016,CAPL,0.45,2012,CrossAmerica Partners LP,N/A,17.39,23.44,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,0.46,22.09,21.58,130.61M,['NASDAQ'],N/A,1986,21.55,6/28/2016,N/A,713.60,NMS,21.99,108169,0.10,6/10/2016,MRTN,1.02,n/a,Marten Transport,N/A,14.62,21.52,07 August 2016

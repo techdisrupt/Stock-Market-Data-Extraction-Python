@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.61,35.21,32.84,0.00,['NASDAQ'],N/A,Finance,17.72,7/11/2016,N/A,1150.00,NMS,33.02,142233,0.20,6/28/2016,ABCB,1.86,1994,Ameris Bancorp,N/A,24.96,32.80,05 August 2016

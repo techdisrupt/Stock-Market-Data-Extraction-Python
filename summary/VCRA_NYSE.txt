@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,16.020,15.020,-10.64M,['NYSE'],N/A,2012,N/A,N/A,N/A,411.65,NYQ,15.200,52852,N/A,N/A,VCRA,-0.523,n/a,Vocera Communications,N/A,10.080,15.080,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,2.12,1.47,-20.81M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,54.99,NCM,1.66,1122296,N/A,N/A,MEIP,-0.60,n/a,MEI Pharma,N/A,0.87,1.48,07 August 2016

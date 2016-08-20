@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,0.99,22.89,N/A,0.00,['NYSE'],N/A,Consumer Durables,N/A,6/9/2016,N/A,N/A,NYQ,N/A,0,0.18,3/26/2008,NJ,0.69,n/a,Nidec Corporation (Nihon Densan Kabushiki Kaisha),N/A,14.72,18.11,07 August 2016

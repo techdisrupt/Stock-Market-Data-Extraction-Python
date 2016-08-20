@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,4.17,54.00,51.47,134.42M,['NYSE'],N/A,n/a,24.55,7/29/2016,N/A,2030.00,NYQ,53.00,161271,2.16,7/19/2016,LTC,2.11,n/a,LTC Properties,N/A,38.64,51.83,07 August 2016

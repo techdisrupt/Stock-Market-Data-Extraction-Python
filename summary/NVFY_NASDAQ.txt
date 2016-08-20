@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,2.6200,0.5870,4.94M,['NASDAQ'],N/A,n/a,21.4250,N/A,N/A,14.57,NGM,0.8800,42023,N/A,N/A,NVFY,0.0280,n/a,Nova Lifestyle,N/A,0.3800,0.5699,07 August 2016

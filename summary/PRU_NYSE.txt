@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.84,91.920,76.360,6.97B,['NYSE'],N/A,2001,7.935,6/16/2016,N/A,33900.00,NYQ,77.290,2129574,2.80,5/20/2016,PRU,10.72,n/a,Prudential Financial,N/A,57.19,76.03,08 August 2016

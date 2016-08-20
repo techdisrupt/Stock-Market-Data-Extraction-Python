@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,4.74,2.82,3.43M,['NASDAQ'],N/A,2000,N/A,N/A,N/A,93.85,NGM,3.36,96606,N/A,N/A,HBIO,-0.57,n/a,Harvard Bioscience,N/A,2.41,2.80,07 August 2016

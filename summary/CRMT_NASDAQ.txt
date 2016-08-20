@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,46.66,34.74,26.38M,['NASDAQ'],N/A,n/a,25.70,N/A,N/A,273.99,NMS,34.21,28272,N/A,N/A,CRMT,1.33,n/a,America&#39;s Car-Mart,N/A,19.49,34.95,05 August 2016

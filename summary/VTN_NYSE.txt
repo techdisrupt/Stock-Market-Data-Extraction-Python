@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.20,16.68,16.34,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,16.35,37112,0.83,7/11/2016,VTN,0.89,n/a,Invesco Trust  for Investment Grade New York Municipal,N/A,13.37,16.36,07 August 2016

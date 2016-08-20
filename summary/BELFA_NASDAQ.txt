@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,1.3900,21.8000,17.4100,48.48M,['NASDAQ'],N/A,Capital Goods,N/A,8/1/2016,N/A,205.35,NMS,18.6700,0,0.2400,7/13/2016,BELFA,-5.8980,n/a,Bel Fuse Inc.,N/A,9.6900,17.2501,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,4.47,0.99,-121.54M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,420.58,NGM,1.01,2236453,N/A,N/A,MNKD,-0.88,2004,MannKind Corporation,N/A,0.64,1.00,07 August 2016

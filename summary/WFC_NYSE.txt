@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.1700,57.72,48.05,0.00,['NYSE'],N/A,Finance,11.92,6/1/2016,N/A,243550.00,NYQ,48.27,8121983,1.5200,8/3/2016,WFC,4.0500,n/a,Wells Fargo & Company,N/A,44.500,47.900,15 August 2016

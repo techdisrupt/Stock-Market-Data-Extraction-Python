@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.32,101.11,73.29,2.65B,['NYSE'],N/A,n/a,19.10,6/17/2016,N/A,21450.00,NYQ,76.64,2046605,2.40,6/1/2016,LB,3.91,n/a,L Brands,N/A,60.00,72.81,07 August 2016

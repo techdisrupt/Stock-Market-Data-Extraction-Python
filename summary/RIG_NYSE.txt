@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,17.19,10.44,2.05B,['NYSE'],N/A,Energy,2.89,9/23/2015,N/A,3620.00,NYQ,9.97,18382818,0.00,8/21/2015,RIG,3.43,n/a,Transocean Ltd.,N/A,7.67,10.37,14 August 2016

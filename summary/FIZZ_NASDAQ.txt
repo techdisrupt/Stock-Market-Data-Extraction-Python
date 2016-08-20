@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Beverages (Production/Distribution),USD,N/A,0.00,64.73,54.52,105.11M,['NASDAQ'],N/A,Consumer Non-Durables,41.28,12/27/2012,N/A,2520.00,NMS,55.43,129939,0.00,12/5/2012,FIZZ,1.31,n/a,National Beverage Corp.,N/A,23.05,54.30,07 August 2016

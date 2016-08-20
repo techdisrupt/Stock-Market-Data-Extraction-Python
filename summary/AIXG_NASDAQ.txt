@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.00,8.05,6.26,-25.03M,['NASDAQ'],N/A,Technology,N/A,5/29/2012,N/A,696.27,NMS,N/A,16611,0.00,5/17/2012,AIXG,-0.35,n/a,Aixtron SE,N/A,3.25,6.20,04 August 2016

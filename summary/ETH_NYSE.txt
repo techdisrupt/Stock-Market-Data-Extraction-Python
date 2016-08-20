@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Home Furnishings,USD,N/A,1.97,36.77,35.03,108.69M,['NYSE'],N/A,Consumer Durables,17.42,7/25/2016,N/A,966.64,NYQ,34.85,82793,0.68,7/6/2016,ETH,2.00,1993,Ethan Allen Interiors Inc.,N/A,22.46,34.71,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,3.06,32.23,26.55,219.81M,['NYSE'],N/A,Capital Goods,N/A,5/27/2016,N/A,2200.00,NYQ,27.58,1146447,0.80,5/11/2016,KMT,-2.83,n/a,Kennametal Inc.,N/A,15.11,26.44,07 August 2016

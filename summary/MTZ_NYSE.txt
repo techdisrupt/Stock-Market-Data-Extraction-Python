@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,29.30,25.99,282.01M,['NYSE'],N/A,n/a,N/A,N/A,N/A,2270.00,NYQ,28.61,3657398,N/A,N/A,MTZ,-0.94,n/a,MasTec,N/A,12.44,24.37,07 August 2016

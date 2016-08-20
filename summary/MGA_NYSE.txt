@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.63,55.52,39.37,3.36B,['NYSE'],N/A,n/a,8.02,6/10/2016,N/A,15840.00,NYQ,40.10,2335410,1.00,5/25/2016,MGA,4.98,n/a,Magna International,N/A,30.41,38.30,07 August 2016

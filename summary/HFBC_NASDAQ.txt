@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.38,12.52,11.57,0.00,['NASDAQ'],N/A,n/a,46.22,7/18/2016,N/A,72.48,NGM,11.58,6770,0.16,6/28/2016,HFBC,0.25,n/a,HopFed Bancorp,N/A,10.81,11.60,07 August 2016

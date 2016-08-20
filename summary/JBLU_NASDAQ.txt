@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Air Freight/Delivery Services,USD,N/A,N/A,27.36,17.16,1.66B,['NASDAQ'],N/A,Transportation,7.66,N/A,N/A,5590.00,NMS,17.40,6337699,N/A,N/A,JBLU,2.25,2002,JetBlue Airways Corporation,N/A,14.76,17.03,07 August 2016

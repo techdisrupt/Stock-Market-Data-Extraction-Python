@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Fluid Controls,USD,N/A,1.56,32.60,27.11,51.36M,['NYSE'],N/A,Capital Goods,29.06,6/10/2016,N/A,696.68,ASE,26.68,29828,0.42,5/11/2016,GRC,0.92,n/a,Gorman-Rupp Company (The),N/A,18.14,26.87,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,0.82,56.69,48.69,768.59M,['NYSE'],N/A,n/a,24.88,7/1/2016,N/A,8980.00,NYQ,49.00,1671570,0.40,6/21/2016,TSS,1.96,n/a,Total System Services,N/A,37.47,48.54,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,0.600,0.051,-14.07M,['OTC'],N/A,Energy,N/A,N/A,N/A,633006.00,PNK,N/A,780,N/A,2/4/2009,ZAZA,-1.145,n/a,ZaZa Energy Corporation,N/A,0.040,0.043,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.44,14.58,10.32,0.00,['NYSE'],N/A,Finance,15.13,7/1/2016,N/A,117.26,NYQ,10.39,10221,0.36,6/13/2016,MSL,0.68,n/a,MidSouth Bancorp,N/A,6.51,10.22,07 August 2016

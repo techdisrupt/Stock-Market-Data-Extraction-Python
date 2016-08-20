@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,45.93,31.33,79.87M,['NYSE'],N/A,n/a,N/A,N/A,N/A,937.58,NYQ,31.95,242839,0.00,2/3/1993,TISI,-0.05,n/a,Team,N/A,21.61,31.25,14 August 2016

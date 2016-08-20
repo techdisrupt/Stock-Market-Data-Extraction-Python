@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,117.51,115.96,564.80M,['NYSE'],N/A,2004,28.98,N/A,N/A,5140.00,NYQ,116.01,163458,N/A,N/A,WCG,4.00,n/a,WellCare Health Plans,N/A,69.16,115.91,15 August 2016

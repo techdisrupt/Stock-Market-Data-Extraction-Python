@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,1.90,22.19,21.31,10.82M,['NYSE'],N/A,Capital Goods,14.09,7/22/2016,N/A,71.06,ASE,21.40,2921,0.40,6/29/2016,ACU,1.52,1988,Acme United Corporation.,N/A,13.01,21.49,04 August 2016

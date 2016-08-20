@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,4.17,15.27,13.57,261.33M,['NYSE'],N/A,Consumer Services,N/A,5/26/2016,N/A,1130.00,NYQ,15.00,891372,0.56,5/12/2016,GLOG,-0.24,2012,GasLog LP.,N/A,5.24,13.44,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,84.41,66.90,148.98M,['NYSE'],N/A,2012,37.50,N/A,N/A,3380.00,NYQ,66.64,748205,N/A,N/A,EPAM,1.78,n/a,EPAM Systems,N/A,54.88,66.59,06 August 2016

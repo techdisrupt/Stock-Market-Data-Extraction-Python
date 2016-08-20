@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Farming/Seeds/Milling,USD,N/A,3.34,70.15,66.55,9.25B,['NYSE'],N/A,Consumer Non-Durables,23.13,7/11/2016,N/A,130180.00,NYQ,66.63,3512780,2.26,6/13/2016,MO,2.88,n/a,Altria Group,N/A,47.41,66.37,05 August 2016

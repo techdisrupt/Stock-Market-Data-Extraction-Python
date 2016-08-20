@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Multi-Sector Companies,USD,N/A,0.00,9.64,2.71,-27.79M,['NYSE'],N/A,Miscellaneous,N/A,N/A,N/A,151.28,ASE,2.68,331950,0.00,6/29/2010,VHC,-0.52,n/a,VirnetX Holding Corp,N/A,1.95,2.72,15 August 2016

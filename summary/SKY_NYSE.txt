@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Homebuilding,USD,N/A,0.00,11.86,10.04,3.25M,['NYSE'],N/A,Basic Industries,49.25,10/3/2011,N/A,82.65,ASE,10.00,22986,0.00,9/14/2011,SKY,0.20,n/a,Skyline Corporation,N/A,2.17,10.10,14 August 2016

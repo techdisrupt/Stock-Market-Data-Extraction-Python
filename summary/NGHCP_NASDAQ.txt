@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,7.20,26.19,26.05,290.68M,['NASDAQ'],N/A,Finance,18.62,7/15/2016,N/A,2760.00,NGM,26.18,500,1.88,6/29/2016,NGHCP,1.40,n/a,National General Holdings Corp,N/A,23.75,26.05,07 August 2016

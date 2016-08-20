@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,N/A,54.54,53.26,685.14M,['NYSE'],N/A,Basic Industries,28.41,N/A,N/A,6550.00,NYQ,53.83,1176334,N/A,N/A,JEC,1.89,n/a,Jacobs Engineering Group Inc.,N/A,34.76,53.01,07 August 2016

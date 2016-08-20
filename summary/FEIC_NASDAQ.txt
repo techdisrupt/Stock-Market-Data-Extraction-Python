@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Laboratory Analytical Instruments,USD,N/A,1.13,108.35,106.60,220.85M,['NASDAQ'],N/A,Capital Goods,37.26,7/20/2016,N/A,4360.00,NMS,106.95,171481,1.20,7/5/2016,FEIC,2.86,1995,FEI Company,N/A,64.93,106.56,06 August 2016

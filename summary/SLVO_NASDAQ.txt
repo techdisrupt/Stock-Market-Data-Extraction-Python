@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,N/A,10.91,10.65,0.00,['NASDAQ'],N/A,Finance,N/A,6/27/2016,N/A,N/A,NGM,10.69,74672,N/A,7/18/2016,SLVO,N/A,n/a,Credit Suisse Silver Shares Covered Call ETN,N/A,9.13,10.78,06 August 2016

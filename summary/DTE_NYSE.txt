@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,3.02,100.45,96.68,2.05B,['NYSE'],N/A,Public Utilities,22.97,10/15/2016,N/A,17060.00,NYQ,95.48,1101610,2.92,6/16/2016,DTE,4.14,n/a,DTE Energy Company,N/A,74.56,96.92,06 August 2016

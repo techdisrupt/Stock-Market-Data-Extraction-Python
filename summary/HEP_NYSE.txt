@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,6.86,36.99,34.10,266.96M,['NYSE'],N/A,2004,18.23,5/13/2016,N/A,2000.00,NYQ,34.08,128483,2.34,7/28/2016,HEP,1.87,n/a,Holly Energy Partners,N/A,21.44,34.10,07 August 2016

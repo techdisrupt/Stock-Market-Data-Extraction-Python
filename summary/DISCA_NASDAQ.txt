@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,31.80,26.53,2.48B,['NASDAQ'],N/A,n/a,14.32,N/A,N/A,15990.00,NMS,26.35,2542910,N/A,N/A,DISCA,1.84,n/a,Discovery Communications,N/A,23.66,26.42,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Paper,USD,N/A,N/A,10.60,5.90,267.00M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,529.84,NYQ,5.93,173428,N/A,N/A,RFP,-2.55,n/a,Resolute Forest Products Inc.,N/A,3.79,5.89,09 August 2016

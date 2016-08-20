@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Programming,USD,N/A,N/A,45.94,43.13,93.98M,['NASDAQ'],N/A,Technology,151.70,N/A,N/A,9430.00,NMS,45.53,1071340,N/A,N/A,WB,0.30,2014,Weibo Corporation,N/A,8.78,42.71,15 August 2016

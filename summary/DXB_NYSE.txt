@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,N/A,26.73,25.15,0.00,['NYSE'],N/A,Finance,N/A,5/23/2016,N/A,N/A,NYQ,25.21,65088,N/A,5/18/2016,DXB,N/A,n/a,Deutsche Bank AG,N/A,18.64,25.15,06 August 2016

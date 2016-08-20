@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer peripheral equipment,USD,N/A,N/A,11.11,7.57,16.49M,['NASDAQ'],N/A,Technology,13.02,N/A,N/A,80.97,NGM,8.45,10176,N/A,N/A,KTCC,0.58,1983,Key Tronic Corporation,N/A,6.09,7.57,07 August 2016

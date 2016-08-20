@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,2.14,48.81,47.00,1.58B,['NYSE'],N/A,n/a,N/A,6/1/2016,N/A,20320.00,NYQ,46.38,3493828,1.00,7/27/2016,CAG,-1.56,n/a,ConAgra Foods,N/A,37.97,46.81,06 August 2016

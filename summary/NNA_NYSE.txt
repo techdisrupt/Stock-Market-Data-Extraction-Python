@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,13.79,4.16,1.45,197.28M,['NYSE'],N/A,Transportation,2.62,6/22/2016,N/A,230.85,NYQ,1.54,788711,0.20,6/15/2016,NNA,0.58,n/a,Navios Maritime Acquisition Corporation,N/A,1.41,1.45,07 August 2016

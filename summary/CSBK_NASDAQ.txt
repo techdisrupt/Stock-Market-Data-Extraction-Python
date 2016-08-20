@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,1.65,15.43,14.66,0.00,['NASDAQ'],N/A,Finance,78.37,6/10/2016,N/A,339.10,NMS,14.89,61228,0.24,5/25/2016,CSBK,0.19,n/a,Clifton Bancorp Inc.,N/A,13.09,14.68,06 August 2016

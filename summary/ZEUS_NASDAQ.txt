@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.32,31.19,25.35,21.03M,['NASDAQ'],N/A,1994,N/A,6/15/2016,N/A,278.80,NMS,25.46,136418,0.08,5/27/2016,ZEUS,-0.25,n/a,Olympic Steel,N/A,7.98,25.24,07 August 2016

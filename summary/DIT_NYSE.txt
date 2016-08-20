@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Food Distributors,USD,N/A,0.79,93.00,90.49,13.83M,['NYSE'],N/A,Consumer Non-Durables,10.25,5/30/2016,N/A,53.12,ASE,92.00,129,0.72,8/4/2016,DIT,8.82,n/a,AMCON Distributing Company,N/A,69.50,90.82,05 August 2016

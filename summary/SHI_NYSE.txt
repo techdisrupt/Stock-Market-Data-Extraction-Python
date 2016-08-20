@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,2.87,53.48,52.66,1.02B,['NYSE'],N/A,n/a,8.85,7/25/2016,N/A,5740.00,NYQ,52.74,4019,1.52,6/23/2016,SHI,6.00,n/a,SINOPEC Shangai Petrochemical Company,N/A,29.84,53.05,14 August 2016

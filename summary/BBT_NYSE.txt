@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.230,41.080,37.390,0.00,['NYSE'],N/A,Finance,14.664,6/1/2016,N/A,30950.00,NYQ,38.000,3110527,1.200,5/11/2016,BBT,2.591,n/a,BB&T Corporation,N/A,29.950,36.970,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,0.00,29.03,N/A,0.00,['NYSE'],N/A,Energy,N/A,2/19/2016,N/A,N/A,NYQ,N/A,0,0.00,2/10/2016,NTI,2.52,2012,Northern Tier Energy LP,N/A,20.54,21.15,07 August 2016

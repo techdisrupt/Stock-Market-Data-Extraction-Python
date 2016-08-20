@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.00,139.59,110.32,42.45M,['NASDAQ'],N/A,n/a,27.40,12/26/2012,N/A,1300.00,NMS,110.50,163375,0.00,12/13/2012,TREE,4.03,n/a,Tree.com,N/A,52.11,110.77,14 August 2016

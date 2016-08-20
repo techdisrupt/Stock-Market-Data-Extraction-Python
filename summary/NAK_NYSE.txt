@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,0.7000,0.6812,-26.89M,['NYSE'],N/A,n/a,N/A,N/A,N/A,154.55,ASE,0.7200,1984261,N/A,N/A,NAK,-0.1610,n/a,Northern Dynasty Minerals,N/A,0.2000,0.6790,07 August 2016

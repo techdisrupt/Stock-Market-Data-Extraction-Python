@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.500,24.200,21.920,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,22.030,8792,2.030,N/A,QYLD,N/A,n/a,Recon Capital NASDAQ-100 Covered Call ETF,N/A,17.960,22.010,08 August 2016

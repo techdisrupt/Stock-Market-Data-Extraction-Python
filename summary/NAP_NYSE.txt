@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,12.18,15.21,14.07,67.18M,['NYSE'],N/A,n/a,9.92,5/12/2016,N/A,284.70,NYQ,14.04,287897,1.69,5/4/2016,NAP,1.42,2014,Navios Maritime Midstream Partners LP,N/A,6.58,13.92,07 August 2016

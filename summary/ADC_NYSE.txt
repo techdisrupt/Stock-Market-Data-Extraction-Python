@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.78,51.33,49.36,63.44M,['NYSE'],N/A,Consumer Services,24.28,7/15/2016,N/A,1150.00,NYQ,54.24,109018,1.92,6/28/2016,ADC,2.03,n/a,Agree Realty Corporation,N/A,27.74,49.36,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,2.88,82.99,69.52,1.25B,['NYSE'],N/A,Consumer Services,13.86,6/10/2016,N/A,7700.00,NYQ,70.17,401600,2.00,5/25/2016,WYN,5.06,n/a,Wyndham Worldwide Corp,N/A,60.59,69.38,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.50,15.05,13.81,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,13.86,83888,0.07,7/13/2016,CII,0.64,2004,Blackrock Capital and Income Strategies Fund Inc,N/A,11.62,13.78,05 August 2016

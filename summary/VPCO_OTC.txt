@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Tobacco,USD,N/A,N/A,7.7000,0.0001,-12.84M,['OTC'],N/A,Consumer Non-Durables,N/A,N/A,N/A,24.90,PNK,N/A,22870250,N/A,N/A,VPCO,-20.8740,n/a,Vapor Corp.,N/A,0.0001,0.0001,15 August 2016

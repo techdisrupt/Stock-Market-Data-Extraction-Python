@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,60.45,31.93,240.11M,['NYSE'],N/A,Health Care,16.20,N/A,N/A,1200.00,NYQ,32.55,471458,N/A,N/A,LCI,2.01,n/a,Lannett Co Inc,N/A,16.91,31.78,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Packaged Foods,USD,N/A,N/A,3.99,2.08,-5.06M,['NASDAQ'],N/A,Consumer Non-Durables,N/A,N/A,N/A,74.53,NGM,2.14,1500,N/A,N/A,BUR,-0.14,n/a,Burcon Nutrascience Corp,N/A,1.22,2.07,05 August 2016

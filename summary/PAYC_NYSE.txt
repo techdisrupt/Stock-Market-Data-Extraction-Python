@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,52.06,50.70,67.12M,['NYSE'],N/A,2014,80.59,N/A,N/A,2960.00,NYQ,51.58,1209630,N/A,N/A,PAYC,0.64,n/a,Paycom Software,N/A,22.42,51.29,07 August 2016

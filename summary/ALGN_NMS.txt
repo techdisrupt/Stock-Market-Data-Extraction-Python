@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,89.58,85.25,234.81M,['NASDAQ'],N/A,2001,43.49,N/A,N/A,7130.00,NMS,100.00,1811124,N/A,N/A,ALGN,2.05,n/a,Align Technology,N/A,52.01,85.28,01 August 2016

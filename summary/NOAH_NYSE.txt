@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,0.00,33.55,26.39,102.58M,['NYSE'],N/A,Finance,17.30,4/9/2013,N/A,1490.00,NYQ,26.58,250956,0.00,3/18/2013,NOAH,1.54,2010,Noah Holdings Ltd.,N/A,18.66,26.30,07 August 2016

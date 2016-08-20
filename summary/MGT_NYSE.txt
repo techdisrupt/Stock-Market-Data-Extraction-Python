@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Multi-Sector Companies,USD,N/A,N/A,5.58,3.71,-2.07M,['NYSE'],N/A,Miscellaneous,N/A,N/A,N/A,84.24,ASE,3.63,3281744,N/A,N/A,MGT,-0.31,n/a,MGT Capital Investments Inc,N/A,0.15,3.58,07 August 2016

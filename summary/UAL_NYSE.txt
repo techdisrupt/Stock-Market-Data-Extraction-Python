@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,0.00,62.21,47.16,7.34B,['NYSE'],N/A,n/a,2.63,1/23/2008,N/A,15540.00,NYQ,48.20,1678883,0.00,1/7/2008,UAL,18.30,n/a,United Continental Holdings,N/A,37.41,47.10,15 August 2016

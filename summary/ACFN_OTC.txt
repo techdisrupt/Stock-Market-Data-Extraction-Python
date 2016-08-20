@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,0.49,0.23,-7.56M,['OTC'],N/A,n/a,N/A,3/4/2013,N/A,6.34,PNK,N/A,7821,0.00,2/15/2013,ACFN,-0.41,n/a,Acorn Energy,N/A,0.07,0.22,04 August 2016

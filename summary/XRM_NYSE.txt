@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.00,14.83,8.28,89.53M,['NYSE'],N/A,2005,N/A,12/17/2007,N/A,128.08,NYQ,8.04,60862,0.00,12/3/2007,XRM,-0.30,n/a,Xerium Technologies,N/A,4.15,8.18,15 August 2016

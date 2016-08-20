@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Plastic Products,USD,N/A,N/A,41.95,41.82,951.00M,['NYSE'],N/A,Consumer Non-Durables,51.41,N/A,N/A,4980.00,NYQ,41.21,1298217,N/A,N/A,BERY,0.80,2012,BPC Acquisition Corp,N/A,27.79,41.37,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,1.42,63.41,62.85,251.22M,['NYSE'],N/A,Capital Goods,21.79,7/22/2016,N/A,3090.00,NYQ,63.40,221651,0.88,7/12/2016,CLC,2.91,n/a,CLARCOR Inc.,N/A,44.13,62.41,06 August 2016

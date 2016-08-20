@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,0.53,19.15,16.89,39.24M,['NYSE'],N/A,Finance,2.26,7/20/2016,N/A,290.34,NYQ,16.94,27772,0.09,7/1/2016,IHC,7.49,n/a,Independence Holding Company,N/A,11.76,16.88,07 August 2016

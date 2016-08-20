@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,1.60,59.20,58.00,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,58.27,475972,0.81,N/A,AAXJ,N/A,n/a,iShares MSCI All Country Asia ex Japan Index Fund,N/A,46.14,57.43,07 August 2016

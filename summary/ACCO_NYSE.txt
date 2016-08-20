@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Publishing,USD,N/A,0.00,11.75,10.11,212.10M,['NYSE'],N/A,Consumer Durables,8.14,N/A,N/A,1050.00,NYQ,9.83,1293637,0.00,N/A,ACCO,0.88,n/a,Acco Brands Corporation,N/A,5.47,10.06,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.85,29.05,22.01,120.69M,['NASDAQ'],N/A,1992,55.84,6/13/2016,N/A,918.86,NMS,22.61,399459,0.40,5/25/2016,FINL,0.40,n/a,The Finish Line,N/A,15.37,22.06,14 August 2016

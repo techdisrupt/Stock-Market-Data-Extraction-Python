@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Coal Mining,USD,N/A,0.00,19.62,19.13,649.09M,['NYSE'],N/A,Energy,N/A,3/3/2016,N/A,4370.00,NYQ,19.11,2790823,0.00,2/11/2016,CNX,-1.82,1999,CONSOL Energy Inc.,N/A,4.54,18.94,06 August 2016

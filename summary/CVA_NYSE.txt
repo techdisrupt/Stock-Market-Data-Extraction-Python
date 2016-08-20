@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,6.34,20.94,15.33,343.00M,['NYSE'],N/A,Basic Industries,43.91,7/6/2016,N/A,1950.00,NYQ,15.15,906706,1.00,6/23/2016,CVA,0.34,n/a,Covanta Holding Corporation,N/A,12.48,15.26,06 August 2016

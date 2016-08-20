@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.10,21.64,21.01,0.00,['NYSE'],N/A,n/a,N/A,6/30/2016,N/A,N/A,NYQ,21.14,126329,0.86,6/20/2016,RNP,1.49,2003,Cohen & Steers Reit and Preferred Income Fund Inc,N/A,16.16,21.10,06 August 2016

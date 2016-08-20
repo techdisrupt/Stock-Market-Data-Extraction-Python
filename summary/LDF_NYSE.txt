@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.60,10.11,10.10,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NYQ,10.08,4057,0.21,6/28/2016,LDF,-3.83,n/a,Latin American Discovery Fund,N/A,6.18,10.00,07 August 2016

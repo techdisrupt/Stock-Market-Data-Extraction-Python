@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,2.9100,0.9800,28.93M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,18.22,NCM,1.0000,5010,N/A,N/A,RLOG,-0.3100,n/a,Rand Logistics,N/A,0.7300,1.0000,08 August 2016

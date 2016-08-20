@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,0.06,130.99,128.92,212.76M,['NYSE'],N/A,Miscellaneous,37.83,6/8/2016,N/A,3980.00,NYQ,129.08,137785,0.08,5/23/2016,FICO,3.41,n/a,Fair Isaac Corporation,N/A,77.57,127.96,06 August 2016

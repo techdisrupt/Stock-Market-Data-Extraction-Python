@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Steel/Iron Ore,USD,N/A,4.52,12.95,6.58,5.55M,['NASDAQ'],N/A,Basic Industries,N/A,12/8/2015,N/A,59.16,NGM,7.18,14341,0.30,11/24/2015,SYNL,-1.91,n/a,Synalloy Corporation,N/A,6.20,6.64,14 August 2016

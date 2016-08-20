@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,17.80,16.00,18.69M,['NASDAQ'],N/A,2014,8110.00,N/A,N/A,727.39,NMS,17.56,422380,N/A,N/A,AMPH,0.00,n/a,Amphastar Pharmaceuticals,N/A,10.50,16.29,05 August 2016

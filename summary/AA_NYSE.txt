@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,1.15,11.50,10.36,2.63B,['NYSE'],N/A,Capital Goods,N/A,5/25/2016,N/A,13680.00,NYQ,10.40,11810875,0.12,8/3/2016,AA,-0.44,n/a,Alcoa Inc.,N/A,6.14,10.41,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Biological Products (No Diagnostic Substances),USD,N/A,N/A,333.650,316.160,6.15B,['NASDAQ'],N/A,Health Care,18.525,N/A,N/A,69490.00,NMS,317.110,897432,N/A,N/A,BIIB,17.119,n/a,Biogen Idec Inc.,N/A,223.020,314.560,05 August 2016

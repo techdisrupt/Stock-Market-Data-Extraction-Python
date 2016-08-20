@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.48,32.12,28.98,101.91M,['NYSE'],N/A,n/a,18.36,7/19/2016,N/A,731.70,NYQ,28.80,97008,0.72,6/30/2016,SUP,1.57,n/a,Superior Industries International,N/A,16.35,29.05,14 August 2016

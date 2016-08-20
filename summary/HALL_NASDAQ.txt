@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,13.29,10.39,36.71M,['NASDAQ'],N/A,n/a,9.75,N/A,N/A,195.33,NGM,10.34,30218,N/A,N/A,HALL,1.06,n/a,Hallmark Financial Services,N/A,9.50,10.31,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,11.49,37.00,20.85,428.90M,['NYSE'],N/A,Consumer Services,N/A,5/13/2016,N/A,1460.00,NYQ,21.10,263765,2.40,8/3/2016,CEQP,-31.84,n/a,Crestwood Equity Partners LP,N/A,7.90,20.86,06 August 2016

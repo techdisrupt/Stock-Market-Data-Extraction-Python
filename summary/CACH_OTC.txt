@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,0.001,0.001,-26.56M,['OTC'],N/A,n/a,N/A,N/A,N/A,30520.00,PNK,N/A,130,N/A,N/A,CACH,-1.520,n/a,Cache,N/A,0.001,0.001,05 August 2016

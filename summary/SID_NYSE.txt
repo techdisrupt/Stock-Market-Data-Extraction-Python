@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Steel/Iron Ore,USD,N/A,0.00,3.92,3.48,745.40M,['NYSE'],N/A,Capital Goods,494.29,3/30/2015,N/A,4700.00,NYQ,3.49,835202,0.00,3/19/2015,SID,0.01,n/a,National Steel Company,N/A,0.73,3.41,07 August 2016

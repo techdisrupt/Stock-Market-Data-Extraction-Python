@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.00,6.26,5.72,8.73B,['NYSE'],N/A,Basic Industries,N/A,11/6/2015,N/A,29680.00,NYQ,5.77,10426250,0.00,10/16/2015,VALE,-1.83,n/a,VALE S.A.,N/A,2.13,5.64,15 August 2016

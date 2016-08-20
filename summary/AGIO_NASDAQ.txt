@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,109.08,46.10,-132.88M,['NASDAQ'],N/A,2013,N/A,N/A,N/A,1660.00,NMS,43.73,653950,N/A,N/A,AGIO,-3.62,n/a,Agios Pharmaceuticals,N/A,33.50,46.02,04 August 2016

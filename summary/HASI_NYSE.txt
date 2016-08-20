@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,5.29,23.00,22.79,0.00,['NYSE'],N/A,2013,106.44,7/14/2016,N/A,863.62,NYQ,22.98,151117,1.20,7/1/2016,HASI,0.22,n/a,Hannon Armstrong Sustainable Infrastructure Capital,N/A,15.46,22.70,07 August 2016

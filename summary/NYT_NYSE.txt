@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Newspapers/Magazines,USD,N/A,1.25,14.27,12.83,233.45M,['NYSE'],N/A,Consumer Services,39.63,7/28/2016,N/A,2070.00,NYQ,12.89,591854,0.16,7/11/2016,NYT,0.32,n/a,New York Times Company (The),N/A,11.45,12.74,07 August 2016

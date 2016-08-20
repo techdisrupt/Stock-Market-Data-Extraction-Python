@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,59.62,54.46,783.22M,['NYSE'],N/A,2012,44.62,N/A,N/A,8370.00,NYQ,53.81,633612,N/A,N/A,VNTV,1.21,n/a,Vantiv,N/A,38.20,54.44,15 August 2016

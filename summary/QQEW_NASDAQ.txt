@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.70,45.12,44.83,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,45.05,31950,0.27,N/A,QQEW,N/A,n/a,First Trust NASDAQ-100 Equal Weighted Index Fund,N/A,32.40,44.56,06 August 2016

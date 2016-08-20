@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.50,16.46,14.65,0.00,['NYSE'],N/A,n/a,N/A,7/1/2016,N/A,N/A,NYQ,14.67,27587,0.07,6/13/2016,JCE,N/A,2007,Nuveen Core Equity Alpha Fund,N/A,11.98,14.60,07 August 2016

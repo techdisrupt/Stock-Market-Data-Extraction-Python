@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,10.0000,7.0800,N/A,-14.42M,['NASDAQ'],N/A,n/a,N/A,8/1/2016,N/A,17.13,NCM,6.0000,200,0.6000,7/13/2016,CYCCP,-4.3530,n/a,Cyclacel Pharmaceuticals,N/A,3.6000,5.9400,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,5.41,44.82,37.01,-449000.00,['NASDAQ'],N/A,n/a,N/A,6/1/2016,N/A,264.16,NMS,37.51,12953,2.00,5/19/2016,ASEI,-0.45,n/a,American Science and Engineering,N/A,22.63,36.90,05 August 2016

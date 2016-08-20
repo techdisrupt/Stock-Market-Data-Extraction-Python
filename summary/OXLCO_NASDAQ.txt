@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,7.44,25.50,25.21,0.00,['NASDAQ'],N/A,n/a,N/A,7/29/2016,N/A,476.28,NMS,25.49,1201,1.88,7/13/2016,OXLCO,-4.57,n/a,Oxford Lane Capital Corp.,N/A,21.34,25.45,07 August 2016

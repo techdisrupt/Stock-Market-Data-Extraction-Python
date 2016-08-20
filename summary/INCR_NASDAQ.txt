@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,57.11,45.18,221.97M,['NASDAQ'],N/A,2014,22.50,N/A,N/A,2500.00,NMS,47.00,739032,N/A,N/A,INCR,2.03,n/a,INC Research Holdings,N/A,34.19,44.95,07 August 2016

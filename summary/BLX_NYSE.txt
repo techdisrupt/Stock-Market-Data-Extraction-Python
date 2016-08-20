@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,5.71,29.25,27.14,0.00,['NYSE'],N/A,1992,10.17,5/11/2016,N/A,1080.00,NYQ,27.73,92922,1.54,8/1/2016,BLX,2.72,n/a,Banco Latinoamericano de Comercio Exterior,N/A,19.63,26.90,05 August 2016

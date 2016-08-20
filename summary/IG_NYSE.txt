@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,12.05,N/A,0.00,['NYSE'],N/A,n/a,N/A,N/A,N/A,N/A,ASE,N/A,0,N/A,12/13/1995,IG,0.06,n/a,IGI Laboratories,N/A,4.75,7.68,07 August 2016

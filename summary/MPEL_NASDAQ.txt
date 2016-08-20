@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,0.64,24.00,13.64,681.70M,['NASDAQ'],N/A,Consumer Services,80.76,5/31/2016,N/A,7050.00,NMS,14.00,3228090,0.09,5/13/2016,MPEL,0.16,2006,Melco Crown Entertainment Limited,N/A,11.91,13.53,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.23,129.37,104.91,1.27B,['NYSE'],N/A,n/a,16.61,9/1/2016,N/A,9390.00,NYQ,106.45,156987,2.32,5/16/2016,ALV,6.41,n/a,Autoliv,N/A,95.34,105.06,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,61.65,31.86,24.47,1.02B,['NASDAQ'],N/A,Consumer Services,20.43,6/29/2016,N/A,731.68,NMS,25.62,210,15.54,6/13/2016,BCOM,1.20,n/a,B Communications Ltd.,N/A,17.24,24.35,05 August 2016

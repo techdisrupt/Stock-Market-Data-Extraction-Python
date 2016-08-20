@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.09,23.07,22.09,0.00,['NASDAQ'],N/A,Finance,10.45,6/30/2016,N/A,655.61,NMS,22.58,109038,0.68,6/8/2016,FFIC,2.16,n/a,Flushing Financial Corporation,N/A,18.95,21.98,07 August 2016

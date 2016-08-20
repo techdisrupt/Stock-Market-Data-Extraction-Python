@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.82,17.46,17.25,0.00,['NASDAQ'],N/A,Finance,10.43,5/23/2016,N/A,73.54,NGM,17.44,2158,0.48,5/9/2016,MPB,1.67,n/a,Mid Penn Bancorp,N/A,14.65,17.25,07 August 2016

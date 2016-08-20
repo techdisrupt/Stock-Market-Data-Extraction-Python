@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Electronics/Appliances,USD,N/A,0.0000,2.9600,2.2900,1.23M,['NASDAQ'],N/A,Consumer Non-Durables,9.8054,4/15/2014,N/A,14.84,NCM,2.9000,3175,0.0000,3/27/2014,KOSS,0.2050,n/a,Koss Corporation,N/A,1.5100,2.1900,07 August 2016

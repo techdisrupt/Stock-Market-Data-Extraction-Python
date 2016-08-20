@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Apparel,USD,N/A,0.99,109.11,106.97,947.03M,['NASDAQ'],N/A,Consumer Non-Durables,17.12,12/4/2015,N/A,11140.00,NMS,109.55,594268,1.05,11/4/2015,CTAS,6.24,1983,Cintas Corporation,N/A,78.00,106.56,06 August 2016

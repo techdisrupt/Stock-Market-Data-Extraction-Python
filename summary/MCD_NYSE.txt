@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Restaurants,USD,N/A,3.03,131.96,118.78,9.11B,['NYSE'],N/A,Consumer Services,22.76,6/20/2016,N/A,101730.00,NYQ,119.42,3883771,3.56,6/2/2016,MCD,5.24,n/a,McDonald's Corporation,N/A,87.50,118.30,07 August 2016

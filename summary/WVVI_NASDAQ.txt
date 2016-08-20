@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,9.0000,7.8500,4.71M,['NASDAQ'],N/A,n/a,22.4289,N/A,N/A,39.25,NCM,7.8900,9482,N/A,N/A,WVVI,0.3500,n/a,Willamette Valley Vineyards,N/A,4.5000,7.9000,15 August 2016

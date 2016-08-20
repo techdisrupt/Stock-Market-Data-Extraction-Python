@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,45.00,14.3200,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,14.4200,1852724,N/A,N/A,SQQQ,N/A,n/a,ProShares UltraPro Short QQQ,N/A,14.21,14.31,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.00,16.03,15.20,156.56M,['NYSE'],N/A,n/a,N/A,N/A,N/A,2520.00,NYQ,15.46,5465232,0.00,4/3/1997,CDE,-2.21,n/a,Coeur Mining,N/A,1.62,15.74,06 August 2016

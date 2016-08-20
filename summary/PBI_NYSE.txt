@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Office Equipment/Supplies/Services,USD,N/A,4.03,21.81,18.38,776.44M,['NYSE'],N/A,Miscellaneous,12.68,6/13/2016,N/A,3440.00,NYQ,18.64,1178503,0.75,5/25/2016,PBI,1.47,n/a,Pitney Bowes Inc.,N/A,16.24,18.30,08 August 2016

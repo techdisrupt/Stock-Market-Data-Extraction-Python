@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,39.74,31.88,43.49M,['NASDAQ'],N/A,2012,65.69,N/A,N/A,1120.00,NMS,31.53,198243,N/A,N/A,QLYS,0.48,n/a,Qualys,N/A,16.96,31.84,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,27.66,11.70,-121.79M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,725.82,NMS,13.98,277055,N/A,N/A,INSM,-2.02,n/a,Insmed,N/A,9.02,11.76,07 August 2016

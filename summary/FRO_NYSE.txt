@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,20.81,17.05,7.72,316.47M,['NYSE'],N/A,Transportation,4.64,6/20/2016,N/A,1240.00,NYQ,8.24,924471,1.60,6/9/2016,FRO,1.71,n/a,Frontline Ltd.,N/A,7.21,7.68,07 August 2016

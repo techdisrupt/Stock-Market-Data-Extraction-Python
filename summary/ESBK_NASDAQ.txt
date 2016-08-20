@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,4.87,21.13,18.97,0.00,['NASDAQ'],N/A,Finance,16.08,6/17/2016,N/A,52.77,NCM,19.50,5132,0.92,6/7/2016,ESBK,1.20,n/a,Elmira Savings Bank NY (The),N/A,16.83,19.16,06 August 2016

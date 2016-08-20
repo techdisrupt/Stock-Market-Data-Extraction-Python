@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,12.00,7.12,-1.89M,['NASDAQ'],N/A,n/a,39.95,N/A,N/A,348.61,NMS,7.99,461230,N/A,N/A,KNDI,0.18,n/a,Kandi Technologies Group,N/A,5.05,7.10,07 August 2016

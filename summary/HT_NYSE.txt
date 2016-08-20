@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,5.89,26.25,18.98,158.45M,['NYSE'],N/A,Consumer Services,8.17,7/15/2016,N/A,831.14,NYQ,19.65,557719,1.12,6/28/2016,HT,2.40,1999,Hersha Hospitality Trust,N/A,15.36,18.88,07 August 2016

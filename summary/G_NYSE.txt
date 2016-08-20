@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Professional Services,USD,N/A,0.00,28.52,24.29,412.60M,['NYSE'],N/A,Consumer Services,20.99,9/24/2012,N/A,5130.00,NYQ,24.39,1634246,0.00,9/6/2012,G,1.16,2007,Genpact Limited,N/A,20.95,24.29,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.60,25.22,24.99,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,24.94,78929,1.92,7/20/2016,DFP,3.34,2013,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.,N/A,19.87,24.86,07 August 2016

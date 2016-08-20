@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.03,21.06,20.93,292.21M,['NYSE'],N/A,2013,67.62,6/30/2016,N/A,2610.00,NYQ,21.05,692670,0.42,6/13/2016,ESRT,0.31,n/a,Empire State Realty Trust,N/A,14.58,20.89,06 August 2016

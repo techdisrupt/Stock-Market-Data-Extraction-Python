@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,4.16,34.35,33.88,2.98B,['NYSE'],N/A,Public Utilities,18.67,7/4/2016,N/A,19950.00,NYQ,33.70,221342,1.41,6/8/2016,TU,1.83,n/a,TELUS Corporation,N/A,24.34,33.84,14 August 2016

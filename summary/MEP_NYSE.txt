@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,18.64,13.58,7.60,82.50M,['NYSE'],N/A,2013,N/A,5/13/2016,N/A,332.37,NYQ,7.36,271506,1.43,8/3/2016,MEP,-1.39,n/a,Midcoast Energy Partners,N/A,3.76,7.67,07 August 2016

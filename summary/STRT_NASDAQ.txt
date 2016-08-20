@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,1.12,71.61,47.92,31.03M,['NASDAQ'],N/A,Capital Goods,18.64,6/24/2016,N/A,167.95,NGM,47.70,2507,0.52,6/8/2016,STRT,2.53,n/a,Strattec Security Corporation,N/A,39.38,46.37,14 August 2016

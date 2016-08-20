@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.68,38.74,36.73,99.74M,['NASDAQ'],N/A,n/a,N/A,7/22/2016,N/A,1050.00,NMS,42.00,53371,0.62,6/29/2016,ANDE,-1.73,n/a,The Andersons,N/A,23.25,36.81,14 August 2016

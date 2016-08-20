@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,2.45,60.63,51.24,0.00,['NYSE'],N/A,Finance,40.16,6/10/2016,N/A,2040.00,NYQ,51.49,480328,1.24,5/25/2016,EVR,1.28,2006,Evercore Partners Inc,N/A,40.35,50.52,06 August 2016

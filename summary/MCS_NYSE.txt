@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Movies/Entertainment,USD,N/A,2.04,22.95,22.25,120.11M,['NYSE'],N/A,Consumer Services,14.87,6/15/2016,N/A,635.81,NYQ,22.87,78172,0.45,5/23/2016,MCS,1.54,n/a,Marcus Corporation (The),N/A,17.44,22.07,07 August 2016

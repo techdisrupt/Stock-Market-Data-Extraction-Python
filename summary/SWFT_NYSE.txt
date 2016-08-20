@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Trucking Freight/Courier Services,USD,N/A,N/A,23.46,18.88,576.58M,['NYSE'],N/A,Transportation,14.17,N/A,N/A,2490.00,NYQ,18.65,1026169,N/A,N/A,SWFT,1.36,2010,Swift Transportation Company,N/A,11.74,18.94,14 August 2016

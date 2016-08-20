@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Environmental Services,USD,N/A,N/A,10.49,4.33,806333.00,['NASDAQ'],N/A,Basic Industries,4290.00,N/A,N/A,66.25,NCM,6.24,43190,N/A,N/A,SMED,0.07,n/a,Sharps Compliance Corp,N/A,4.09,4.42,13 August 2016

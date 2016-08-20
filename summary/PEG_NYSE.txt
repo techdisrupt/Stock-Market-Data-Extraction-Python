@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,3.73,47.41,43.99,3.75B,['NYSE'],N/A,Public Utilities,15.94,6/30/2016,N/A,22340.00,NYQ,44.16,1119277,1.64,6/7/2016,PEG,2.77,n/a,Public Service Enterprise Group Incorporated,N/A,36.80,43.96,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,1.15,25.77,17.41,312.57M,['NYSE'],N/A,1997,8.82,7/15/2016,N/A,788.05,NYQ,17.35,238629,0.20,6/13/2016,SAH,1.97,n/a,Sonic Automotive,N/A,15.68,17.46,14 August 2016

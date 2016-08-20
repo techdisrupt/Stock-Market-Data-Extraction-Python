@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,5.58,4.95,17.90M,['NASDAQ'],N/A,n/a,22.99,N/A,N/A,321.02,NMS,5.38,2662255,N/A,N/A,KTOS,0.23,n/a,Kratos Defense & Security Solutions,N/A,2.80,4.55,07 August 2016

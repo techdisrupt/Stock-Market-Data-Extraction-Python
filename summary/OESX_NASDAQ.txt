@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,2.50,1.40,-9.96M,['NASDAQ'],N/A,2007,N/A,N/A,N/A,39.89,NCM,1.54,150037,N/A,N/A,OESX,-0.71,n/a,Orion Energy Systems,N/A,1.04,1.40,07 August 2016

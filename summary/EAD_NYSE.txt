@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,10.02,8.41,8.28,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,ASE,8.30,124608,0.82,8/11/2016,EAD,-0.38,2003,Wells Fargo Advantage Income Opportunities Fund,N/A,6.65,8.28,15 August 2016

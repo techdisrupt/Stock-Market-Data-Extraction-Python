@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,0.00,28.05,11.49,233.40M,['NYSE'],N/A,Consumer Services,23.86,10/11/2013,N/A,734.41,NYQ,11.50,613278,0.00,9/25/2013,WTW,0.48,2001,Weight Watchers International Inc,N/A,4.95,11.47,15 August 2016

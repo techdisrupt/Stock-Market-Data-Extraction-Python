@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,74.29,44.14,1.00B,['NASDAQ'],N/A,2006,5.80,N/A,N/A,4510.00,NMS,44.39,4495986,N/A,N/A,FSLR,7.60,n/a,First Solar,N/A,40.25,43.72,06 August 2016

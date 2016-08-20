@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,11.80,6.48,6.84M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,124.58,NCM,6.60,70078,N/A,N/A,RVLT,-0.19,n/a,Revolution Lighting Technologies,N/A,5.16,6.47,09 August 2016

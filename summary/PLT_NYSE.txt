@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,1.18,57.66,50.91,145.63M,['NYSE'],N/A,1994,25.20,6/10/2016,N/A,1640.00,NYQ,50.87,301154,0.60,5/18/2016,PLT,2.02,n/a,Plantronics,N/A,32.13,51.03,08 August 2016

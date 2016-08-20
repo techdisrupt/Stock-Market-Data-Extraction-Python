@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,69.43,55.09,247.66M,['NYSE'],N/A,1997,12.44,N/A,N/A,2120.00,NYQ,56.30,396051,N/A,N/A,DRQ,4.53,n/a,Dril-Quip,N/A,48.88,55.13,06 August 2016

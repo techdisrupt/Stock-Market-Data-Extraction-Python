@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Specialty Stores,USD,N/A,N/A,12.740,7.530,35.46M,['NASDAQ'],N/A,Consumer Services,47.404,N/A,N/A,207.97,NMS,7.390,392854,N/A,N/A,ZAGG,0.156,n/a,ZAGG Inc,N/A,4.710,7.460,15 August 2016

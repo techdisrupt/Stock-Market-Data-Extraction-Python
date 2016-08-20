@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,26.71,26.70,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,26.71,8191,N/A,N/A,VUSE,N/A,n/a,Vident Core US Equity ETF,N/A,21.66,26.46,15 August 2016

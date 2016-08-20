@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,63.85,47.08,80.18M,['NASDAQ'],N/A,1996,13.74,12/10/2012,N/A,500.76,NMS,47.20,50536,0.00,11/21/2012,STRA,3.43,n/a,Strayer Education,N/A,42.39,47.13,14 August 2016

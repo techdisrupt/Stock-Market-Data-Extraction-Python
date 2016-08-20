@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Chemicals,USD,N/A,0.00,7.59,7.06,4.25M,['NASDAQ'],N/A,Basic Industries,32.13,7/28/2011,N/A,23.93,NCM,7.49,163,0.00,7/14/2011,CTIB,0.22,1997,CTI Industries Corporation,N/A,3.29,7.10,06 August 2016

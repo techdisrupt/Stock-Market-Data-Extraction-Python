@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Movies/Entertainment,USD,N/A,4.050,24.19,21.510,551.80M,['NYSE'],N/A,Consumer Services,22.448,6/16/2016,N/A,3370.00,NYQ,21.600,766095,0.880,6/2/2016,RGC,0.962,2002,Regal Entertainment Group,N/A,16.500,21.890,09 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Foods,USD,N/A,1.28,125.62,121.49,154.86M,['NASDAQ'],N/A,Consumer Non-Durables,30.29,7/7/2016,N/A,2260.00,NMS,121.15,76655,1.56,6/13/2016,JJSF,4.00,1986,J & J Snack Foods Corp.,N/A,97.73,120.96,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.91,33.52,27.62,285.49M,['NYSE'],N/A,Consumer Services,56.35,7/15/2016,N/A,4980.00,NYQ,27.81,1452581,0.84,6/29/2016,CUBE,0.49,n/a,CubeSmart,N/A,24.32,27.59,06 August 2016

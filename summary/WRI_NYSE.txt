@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.51,43.70,41.58,368.43M,['NYSE'],N/A,Consumer Services,22.44,6/15/2016,N/A,5320.00,NYQ,41.60,378147,1.46,6/6/2016,WRI,1.85,n/a,Weingarten Realty Investors,N/A,30.21,41.60,15 August 2016

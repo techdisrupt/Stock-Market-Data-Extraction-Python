@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,5.23,18.93,15.05,20.55M,['NASDAQ'],N/A,n/a,46.22,5/12/2016,N/A,476.38,NMS,N/A,44674,0.80,7/28/2016,DMLP,0.34,n/a,Dorchester Minerals,N/A,8.57,15.05,06 August 2016

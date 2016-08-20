@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,11.69,10.97,10.98M,['NASDAQ'],N/A,Technology,11.65,N/A,N/A,148.83,NMS,99.00,80697,N/A,N/A,TZOO,0.92,n/a,Travelzoo Inc.,N/A,6.63,11.07,14 August 2016

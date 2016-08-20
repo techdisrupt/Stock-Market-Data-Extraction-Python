@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Fluid Controls,USD,N/A,1.52,40.52,32.94,395.80M,['NYSE'],N/A,Capital Goods,8.67,7/1/2016,N/A,3000.00,NYQ,35.10,936197,0.50,6/8/2016,ITT,3.84,2011,ITT Corporation,N/A,29.15,32.70,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Pharmaceuticals,USD,N/A,0.00,72.22,67.50,715.30M,['NYSE'],N/A,Health Care,16.09,3/18/2014,N/A,6230.00,NYQ,67.04,1059692,0.00,2/28/2014,HLF,4.17,2004,Herbalife LTD.,N/A,42.26,67.54,07 August 2016

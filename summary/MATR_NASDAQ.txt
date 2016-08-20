@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Professional Services,USD,N/A,N/A,8.10,4.55,-11.65M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,114.35,NGM,9.90,199746,N/A,N/A,MATR,-0.76,n/a,Mattersight Corporation,N/A,3.23,4.61,07 August 2016

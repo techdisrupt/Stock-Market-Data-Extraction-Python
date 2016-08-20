@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,N/A,27.60,26.46,0.00,['NYSE'],N/A,Finance,N/A,7/29/2016,N/A,N/A,NYQ,26.54,61420,N/A,7/26/2016,GEH,N/A,n/a,General Electric Capital Corporation,N/A,24.55,26.50,07 August 2016

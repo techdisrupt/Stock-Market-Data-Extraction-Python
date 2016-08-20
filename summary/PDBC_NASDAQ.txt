@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,19.47,16.62,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NIM,16.69,118308,0.00,N/A,PDBC,N/A,n/a,PowerShares DB Optimum Yield Diversified Commodity Strategy Po,N/A,13.62,16.62,08 August 2016

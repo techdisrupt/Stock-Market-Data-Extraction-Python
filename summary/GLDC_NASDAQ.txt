@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,1.14,12.44,11.87,8.57M,['NASDAQ'],N/A,n/a,42.46,4/27/2016,N/A,134.25,NGM,N/A,31665,0.14,7/21/2016,GLDC,0.28,n/a,Golden Enterprises,N/A,3.86,11.88,07 August 2016

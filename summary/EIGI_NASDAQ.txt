@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,17.42,6.79,147.67M,['NASDAQ'],N/A,2013,N/A,N/A,N/A,908.08,NMS,N/A,1149447,N/A,N/A,EIGI,-0.23,n/a,Endurance International Group Holdings,N/A,6.55,6.77,06 August 2016

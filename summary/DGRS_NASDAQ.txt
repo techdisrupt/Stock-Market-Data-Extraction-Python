@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.90,30.55,30.31,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,30.49,22567,0.84,N/A,DGRS,N/A,n/a,WisdomTree U.S. SmallCap Dividend Growth Fund,N/A,22.86,30.22,15 August 2016

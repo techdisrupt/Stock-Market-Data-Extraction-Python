@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,N/A,0.57,0.31,-606518.00,['NYSE'],N/A,Capital Goods,N/A,N/A,N/A,20.06,ASE,0.31,86199,N/A,N/A,UAMY,-0.03,n/a,United States Antimony Corporation,N/A,0.16,0.31,15 August 2016

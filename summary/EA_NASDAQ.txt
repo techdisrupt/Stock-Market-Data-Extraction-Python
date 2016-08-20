@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,79.99,78.94,1.12B,['NASDAQ'],N/A,Technology,22.49,N/A,N/A,24030.00,NMS,80.00,4293955,N/A,N/A,EA,3.55,n/a,Electronic Arts Inc.,N/A,53.01,78.23,06 August 2016

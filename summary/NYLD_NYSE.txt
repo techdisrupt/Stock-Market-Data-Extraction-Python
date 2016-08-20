@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,5.12,18.56,18.03,631.00M,['NYSE'],N/A,2013,38.22,6/15/2016,N/A,1760.00,NYQ,18.08,466824,0.92,5/27/2016,NYLD,0.47,n/a,NRG Yield,N/A,10.49,18.02,07 August 2016

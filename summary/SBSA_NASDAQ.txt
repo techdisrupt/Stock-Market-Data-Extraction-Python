@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,6.48,3.56,37.04M,['NASDAQ'],N/A,1999,N/A,N/A,N/A,25.58,NGM,6.22,555,N/A,N/A,SBSA,-4.08,n/a,Spanish Broadcasting System,N/A,2.55,3.56,14 August 2016

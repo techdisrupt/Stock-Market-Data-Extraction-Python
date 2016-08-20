@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Railroads,USD,N/A,0.00,2.50,1.30,-2.25M,['NYSE'],N/A,Capital Goods,N/A,4/30/2014,N/A,56.67,ASE,1.23,16717,0.00,4/13/2015,KIQ,-0.08,n/a,Kelso Technologies Inc,N/A,0.75,1.26,07 August 2016

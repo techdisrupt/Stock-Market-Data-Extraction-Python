@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,1.3300,0.3720,-54.83M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,90.69,NCM,0.3799,738816,N/A,N/A,PPHM,-0.2780,n/a,Peregrine Pharmaceuticals Inc.,N/A,0.2900,0.3702,08 August 2016

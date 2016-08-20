@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical Specialities,USD,N/A,N/A,14.930,5.540,-237.95M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,754.66,NCM,5.79,1668386,N/A,N/A,ZIOP,-1.314,n/a,ZIOPHARM Oncology Inc,N/A,4.450,5.460,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Aerospace,USD,N/A,1.25,27.42,23.93,116.10M,['NYSE'],N/A,Capital Goods,17.49,5/10/2016,N/A,815.65,NYQ,23.93,97695,0.30,7/20/2016,AIR,1.37,n/a,AAR Corp.,N/A,18.36,23.99,04 August 2016

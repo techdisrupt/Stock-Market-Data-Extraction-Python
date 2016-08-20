@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.2000,4.9100,4.8500,0.00,['NYSE'],N/A,1993,N/A,6/24/2016,N/A,N/A,NYQ,4.8500,120805,0.4100,8/11/2016,MHY,-0.6760,n/a,Western Asset Managed High Income Fund,N/A,4.0000,4.8500,15 August 2016

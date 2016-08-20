@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,5.710,72.890,68.600,713.03M,['NYSE'],N/A,Consumer Services,40.032,7/15/2016,N/A,7200.00,NYQ,68.070,310724,3.920,6/28/2016,WPC,1.700,n/a,W.P. Carey Inc.,N/A,51.120,68.620,15 August 2016

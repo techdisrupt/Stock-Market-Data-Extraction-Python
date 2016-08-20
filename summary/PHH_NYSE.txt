@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Diversified Financial Services,USD,N/A,N/A,18.68,14.76,0.00,['NYSE'],N/A,Finance,N/A,N/A,N/A,802.23,NYQ,15.04,509684,N/A,N/A,PHH,-3.51,2002,PHH Corp,N/A,8.26,14.54,08 August 2016

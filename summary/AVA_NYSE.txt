@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,3.19,45.22,42.76,436.27M,['NYSE'],N/A,Public Utilities,19.99,6/15/2016,N/A,2680.00,NYQ,42.44,160411,1.37,5/24/2016,AVA,2.12,n/a,Avista Corporation,N/A,29.77,42.81,05 August 2016

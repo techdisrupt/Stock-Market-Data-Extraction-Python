@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,1.46,163.15,159.33,0.00,['NYSE'],N/A,Finance,N/A,5/13/2016,N/A,12720.00,NYQ,159.92,207973,2.32,4/14/2016,BAP,11.51,n/a,Credicorp Ltd.,N/A,81.78,159.33,06 August 2016

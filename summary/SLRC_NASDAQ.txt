@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.30,20.55,20.16,0.00,['NASDAQ'],N/A,n/a,N/A,7/1/2016,N/A,N/A,NMS,20.55,101108,1.60,6/21/2016,SLRC,0.74,2010,Solar Capital Ltd.,N/A,15.05,20.18,14 August 2016

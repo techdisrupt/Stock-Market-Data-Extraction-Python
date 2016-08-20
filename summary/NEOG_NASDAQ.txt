@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: In Vitro & In Vivo Diagnostic Substances,USD,N/A,N/A,60.56,55.32,68.93M,['NASDAQ'],N/A,Health Care,56.89,N/A,N/A,2070.00,NMS,60.00,120018,N/A,N/A,NEOG,0.97,1989,Neogen Corporation,N/A,43.00,55.11,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,9.25,8.56,-13.05M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,162.73,NGM,11.28,43431,N/A,N/A,GLYC,-0.69,n/a,GlycoMimetics,N/A,3.70,8.49,07 August 2016

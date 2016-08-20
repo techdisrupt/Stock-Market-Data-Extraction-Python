@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.71,27.69,26.26,0.00,['NASDAQ'],N/A,n/a,13.40,6/17/2016,N/A,225.04,NMS,26.15,3216,0.96,6/1/2016,AMNB,1.95,n/a,American National Bankshares,N/A,21.88,26.30,05 August 2016

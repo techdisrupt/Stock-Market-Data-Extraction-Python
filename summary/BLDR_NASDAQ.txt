@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,16.69,12.00,219.85M,['NASDAQ'],N/A,2005,N/A,N/A,N/A,1380.00,NMS,12.75,2295293,N/A,N/A,BLDR,-0.31,n/a,Builders FirstSource,N/A,6.50,13.11,05 August 2016

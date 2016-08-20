@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,4.73,84.67,81.56,382.16M,['NYSE'],N/A,Consumer Services,26.60,7/15/2016,N/A,5160.00,NYQ,81.25,275773,3.84,7/27/2016,EPR,3.05,1997,EPR Properties,N/A,49.24,81.56,06 August 2016

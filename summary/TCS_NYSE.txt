@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Home Furnishings,USD,N/A,N/A,17.70,5.30,55.89M,['NYSE'],N/A,Consumer Services,51.68,N/A,N/A,265.36,NYQ,5.75,131840,N/A,N/A,TCS,0.11,2013,Container Store (The),N/A,3.77,5.30,06 August 2016

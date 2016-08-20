@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,69.66,56.50,127.33M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,853.27,NCM,57.14,177925,N/A,N/A,USCR,-1.24,n/a,U S Concrete,N/A,40.42,56.23,15 August 2016

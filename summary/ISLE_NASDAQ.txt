@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,21.43,18.46,206.15M,['NASDAQ'],N/A,n/a,16.52,N/A,N/A,763.59,NMS,18.65,155984,N/A,N/A,ISLE,1.12,n/a,Isle of Capri Casinos,N/A,10.62,18.42,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Forest Products,USD,N/A,0.00,20.97,20.74,94.50M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,2920.00,NYQ,21.00,2751092,0.00,5/14/2008,LPX,-0.30,n/a,Louisiana-Pacific Corporation,N/A,13.31,20.49,07 August 2016

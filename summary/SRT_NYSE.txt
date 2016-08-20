@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.00,5.02,4.26,8.85M,['NYSE'],N/A,1997,N/A,11/27/2006,N/A,68.76,NYQ,4.37,8350,0.00,11/13/2006,SRT,-0.58,n/a,StarTek,N/A,2.86,4.30,14 August 2016

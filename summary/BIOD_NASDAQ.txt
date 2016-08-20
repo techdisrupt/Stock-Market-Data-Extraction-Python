@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,1.0500,0.4030,-19.19M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,26.61,NCM,0.4149,164316,N/A,N/A,BIOD,-0.3120,2007,Biodel Inc.,N/A,0.2200,0.4051,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,5.40,2.59,36.64M,['NASDAQ'],N/A,n/a,10.00,N/A,N/A,88.31,NGM,2.60,255765,N/A,N/A,MHGC,0.25,2006,Morgans Hotel Group Co.,N/A,0.79,2.56,07 August 2016

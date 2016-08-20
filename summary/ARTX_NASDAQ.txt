@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,4.13,2.89,2.88M,['NASDAQ'],N/A,Miscellaneous,N/A,N/A,N/A,73.15,NGM,2.96,105796,N/A,N/A,ARTX,-0.13,1994,Arotech Corporation,N/A,1.11,2.88,05 August 2016

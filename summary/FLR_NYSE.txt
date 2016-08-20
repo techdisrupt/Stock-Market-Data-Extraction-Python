@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,1.59,55.69,50.49,1.08B,['NYSE'],N/A,Basic Industries,20.12,7/5/2016,N/A,7230.00,NYQ,55.00,2665561,0.84,5/31/2016,FLR,2.58,n/a,Fluor Corporation,N/A,39.48,52.94,07 August 2016

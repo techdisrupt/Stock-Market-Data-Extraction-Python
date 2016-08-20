@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,0,10,6,0.00,['NYSE'],N/A,1994,N/A,N/A,N/A,N/A,NYQ,N/A,0,0,3/28/2014,BTH,4,n/a,Blyth,N/A,3,N/A,05 August 2016

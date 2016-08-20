@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.40,14.02,13.97,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,13.90,190027,0.76,7/11/2016,IQI,0.86,n/a,Invesco Quality Municipal Income Trust,N/A,11.79,13.92,07 August 2016

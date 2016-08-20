@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.94,18.70,16.84,0.00,['NASDAQ'],N/A,n/a,13.49,7/15/2016,N/A,71.79,NGM,16.60,1036,0.32,6/30/2016,GFED,1.22,n/a,Guaranty Federal Bancshares,N/A,14.15,16.50,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,72.31,59.22,209.05M,['NASDAQ'],N/A,n/a,40.31,N/A,N/A,1460.00,NMS,59.27,232466,N/A,N/A,MGLN,1.47,n/a,Magellan Health,N/A,45.40,59.10,07 August 2016

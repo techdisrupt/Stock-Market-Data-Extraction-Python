@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.30,14.26,14.15,0.00,['NYSE'],N/A,1993,N/A,6/30/2016,N/A,N/A,NYQ,14.17,48673,0.40,6/20/2016,RFI,0.76,n/a,Cohen & Steers Total Return Realty Fund,N/A,9.09,14.19,06 August 2016

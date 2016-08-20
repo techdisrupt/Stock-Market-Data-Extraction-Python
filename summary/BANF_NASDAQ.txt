@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.19,67.83,65.98,0.00,['NASDAQ'],N/A,Finance,16.20,7/15/2016,N/A,1040.00,NMS,66.93,30954,1.44,6/28/2016,BANF,4.12,1993,BancFirst Corporation,N/A,51.14,65.46,05 August 2016

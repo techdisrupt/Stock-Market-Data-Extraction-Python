@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,N/A,26.23,25.74,0.00,['NASDAQ'],N/A,Consumer Services,N/A,6/30/2016,N/A,N/A,NGM,N/A,1350,N/A,6/13/2016,SOHOL,0.22,n/a,Sotherly Hotels LP,N/A,25.12,25.74,14 August 2016

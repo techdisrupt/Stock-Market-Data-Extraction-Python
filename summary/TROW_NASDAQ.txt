@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.13,79.00,68.87,1.90B,['NASDAQ'],N/A,1986,16.56,6/29/2016,N/A,17080.00,NMS,74.99,1003215,2.16,6/13/2016,TROW,4.15,n/a,T. Rowe Price Group,N/A,63.57,69.01,14 August 2016

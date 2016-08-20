@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,12.00,6.28,-2.50M,['NASDAQ'],N/A,1992,16.21,N/A,N/A,50.63,NGM,6.67,8200,N/A,N/A,MSON,0.40,n/a,MISONIX,N/A,3.83,6.30,07 August 2016

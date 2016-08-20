@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,2.67,66.91,63.07,1.23B,['NASDAQ'],N/A,n/a,30.75,6/7/2016,N/A,19470.00,NMS,64.59,1783760,1.68,5/25/2016,ADI,2.06,n/a,Analog Devices,N/A,47.24,62.87,05 August 2016

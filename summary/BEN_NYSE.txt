@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.02,44.94,35.82,2.59B,['NYSE'],N/A,n/a,13.48,7/15/2016,N/A,20990.00,NYQ,37.06,2980296,0.72,6/28/2016,BEN,2.70,n/a,Franklin Resources,N/A,30.56,35.38,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.8000,17.7300,17.4300,0.00,['NYSE'],N/A,1992,N/A,8/1/2016,N/A,N/A,NYQ,17.4400,16569,0.8900,7/13/2016,MYC,0.6300,n/a,Blackrock MuniYield California Fund,N/A,15.2300,17.4500,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,0.00,171.66,167.30,313.79M,['NASDAQ'],N/A,Finance,14.82,1/30/2007,N/A,3260.00,NMS,168.75,23102,0.00,1/31/2007,ESGR,11.38,n/a,Enstar Group Limited,N/A,142.35,167.08,06 August 2016

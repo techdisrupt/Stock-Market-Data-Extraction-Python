@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,68.68,52.24,370.09M,['NASDAQ'],N/A,n/a,27.70,N/A,N/A,5730.00,NMS,55.85,6544696,N/A,N/A,HAIN,2.00,n/a,The Hain Celestial Group,N/A,33.12,52.13,14 August 2016

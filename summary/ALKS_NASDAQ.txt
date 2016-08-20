@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,80.71,49.70,-180.20M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,7410.00,NMS,49.00,390410,N/A,N/A,ALKS,-1.83,1991,Alkermes plc,N/A,27.14,49.55,04 August 2016

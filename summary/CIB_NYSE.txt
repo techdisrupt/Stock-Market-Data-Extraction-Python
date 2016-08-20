@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,3.470,39.830,34.380,0.00,['NYSE'],N/A,Finance,11.492,7/11/2016,N/A,8400.00,NYQ,34.970,104391,1.190,6/30/2016,CIB,3.040,n/a,BanColombia S.A.,N/A,23.690,34.210,05 August 2016

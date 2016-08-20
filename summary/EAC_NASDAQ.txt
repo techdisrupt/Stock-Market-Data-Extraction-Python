@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Aerospace,USD,N/A,N/A,3.88,0.69,46.99M,['NASDAQ'],N/A,Capital Goods,N/A,N/A,N/A,9.45,NGM,0.68,80053,N/A,6/13/2013,EAC,-2.72,2012,Erickson Incorporated,N/A,0.51,0.69,06 August 2016

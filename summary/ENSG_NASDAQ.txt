@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.86,25.09,18.58,123.27M,['NASDAQ'],N/A,2007,20.62,7/31/2016,N/A,937.48,NMS,28.00,246833,0.16,6/28/2016,ENSG,0.90,n/a,The Ensign Group,N/A,17.60,18.71,14 August 2016

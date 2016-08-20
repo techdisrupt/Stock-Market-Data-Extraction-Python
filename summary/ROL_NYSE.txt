@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.45,30.42,27.46,296.30M,['NYSE'],N/A,n/a,38.98,6/10/2016,N/A,6090.00,NYQ,27.91,956345,0.40,8/8/2016,ROL,0.72,n/a,Rollins,N/A,23.69,27.39,09 August 2016

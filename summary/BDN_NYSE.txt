@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.88,17.05,16.73,251.54M,['NYSE'],N/A,Consumer Services,N/A,10/19/2016,N/A,2900.00,NYQ,16.68,1417299,0.64,7/1/2016,BDN,-0.03,n/a,Brandywine Realty Trust,N/A,11.22,16.73,05 August 2016

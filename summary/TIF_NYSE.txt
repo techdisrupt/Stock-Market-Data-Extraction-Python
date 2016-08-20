@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Specialties,USD,N/A,2.83,92.20,66.25,939.20M,['NYSE'],N/A,Consumer Services,19.38,7/11/2016,N/A,8480.00,NYQ,67.35,2120947,1.80,6/16/2016,TIF,3.47,1987,Tiffany & Co.,N/A,56.99,66.25,14 August 2016

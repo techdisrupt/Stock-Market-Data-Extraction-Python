@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,3.14,2.62,3.82M,['NYSE'],N/A,Basic Industries,2650.00,N/A,N/A,107.31,ASE,2.64,225728,N/A,N/A,ASM,0.00,n/a,Avino Silver,N/A,0.71,2.69,05 August 2016

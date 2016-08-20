@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.07,25.10,10.43,117.67M,['NASDAQ'],N/A,n/a,24.64,5/25/2016,N/A,1420.00,NMS,10.62,1071918,0.32,8/8/2016,WETF,0.43,n/a,WisdomTree Investments,N/A,8.70,10.42,15 August 2016

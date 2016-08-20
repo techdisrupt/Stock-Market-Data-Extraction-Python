@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,1.76,48.67,41.39,42.33M,['NASDAQ'],N/A,n/a,13.50,7/7/2016,N/A,317.38,NMS,41.43,14314,0.72,6/22/2016,FLXS,3.07,n/a,Flexsteel Industries,N/A,27.61,41.00,07 August 2016

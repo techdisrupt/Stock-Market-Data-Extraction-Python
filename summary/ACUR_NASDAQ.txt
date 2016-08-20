@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,3.5200,1.8800,-8.31M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,22.02,NCM,2.3200,4293,N/A,N/A,ACUR,-0.8480,n/a,Acura Pharmaceuticals,N/A,1.6100,1.8801,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,2.79,30.62,18.65,51.83M,['NASDAQ'],N/A,1999,21.13,5/20/2016,N/A,353.41,NMS,24.80,77069,0.52,8/3/2016,HSII,0.90,n/a,Heidrick & Struggles International,N/A,16.23,18.62,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,172.39,125.34,1.22B,['NASDAQ'],N/A,Health Care,6.11,N/A,N/A,5490.00,NMS,126.38,163373,N/A,N/A,UTHR,20.68,1999,United Therapeutics Corporation,N/A,97.52,125.19,15 August 2016

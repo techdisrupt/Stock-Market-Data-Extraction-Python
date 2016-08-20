@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,9.82,9.30,21.10M,['NASDAQ'],N/A,Technology,28.06,N/A,N/A,214.98,NMS,9.70,201181,N/A,N/A,DTLK,0.34,1999,Datalink Corporation,N/A,5.12,9.17,06 August 2016

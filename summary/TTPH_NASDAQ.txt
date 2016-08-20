@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,46.25,4.00,-70.00M,['NASDAQ'],N/A,2013,N/A,N/A,N/A,148.99,NMS,4.20,339704,N/A,N/A,TTPH,-1.92,n/a,Tetraphase Pharmaceuticals,N/A,3.12,4.01,14 August 2016

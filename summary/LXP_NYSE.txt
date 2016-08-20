@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,6.56,10.92,10.40,353.62M,['NYSE'],N/A,Consumer Services,20.06,7/15/2016,N/A,2450.00,NYQ,13.00,736247,0.68,6/28/2016,LXP,0.52,n/a,Lexington Realty Trust,N/A,6.52,10.36,07 August 2016

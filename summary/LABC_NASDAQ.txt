@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.12,25.50,N/A,0.00,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,N/A,0,0.28,8/6/2015,LABC,1.08,n/a,Louisiana Bancorp,N/A,19.50,24.36,07 August 2016

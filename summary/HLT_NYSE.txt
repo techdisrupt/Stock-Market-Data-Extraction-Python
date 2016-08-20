@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,1.21,26.27,23.23,2.69B,['NYSE'],N/A,Consumer Services,14.13,6/17/2016,N/A,23210.00,NYQ,25.00,4032273,0.28,5/18/2016,HLT,1.66,2013,Hilton Worldwide Holdings Inc.,N/A,16.16,23.08,07 August 2016

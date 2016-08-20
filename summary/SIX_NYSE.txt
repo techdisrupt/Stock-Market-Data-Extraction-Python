@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Services-Misc. Amusement & Recreation,USD,N/A,4.38,62.69,53.20,504.62M,['NYSE'],N/A,Consumer Services,29.97,6/13/2016,N/A,4920.00,NYQ,53.67,729331,2.32,5/24/2016,SIX,1.77,n/a,Six Flags Entertainment Corporation New,N/A,41.60,53.20,14 August 2016

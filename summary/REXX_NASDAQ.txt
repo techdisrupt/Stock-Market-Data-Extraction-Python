@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,3.7400,0.6100,43.03M,['NASDAQ'],N/A,Energy,N/A,N/A,N/A,36.82,NMS,0.6100,1393485,N/A,N/A,REXX,-7.5720,2007,Rex Energy Corporation,N/A,0.4900,0.5919,09 August 2016

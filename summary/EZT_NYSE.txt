@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,N/A,27.87,27.29,307.56M,['NYSE'],N/A,Public Utilities,18.78,9/1/2016,N/A,1270.00,NYQ,27.28,3489,N/A,5/26/2016,EZT,1.45,2014,Entergy Texas Inc,N/A,24.72,27.29,06 August 2016

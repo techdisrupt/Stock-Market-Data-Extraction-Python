@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,4.49,25.19,23.20,66.59M,['NYSE'],N/A,Consumer Services,22.31,7/15/2016,N/A,797.17,NYQ,23.19,25644,1.04,6/29/2016,UBA,1.04,n/a,Urstadt Biddle Properties Inc.,N/A,17.33,23.17,15 August 2016

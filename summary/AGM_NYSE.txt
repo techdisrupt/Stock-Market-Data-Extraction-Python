@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance Companies,USD,N/A,2.69,45.48,38.06,0.00,['NYSE'],N/A,Finance,7.66,6/30/2016,N/A,398.46,NYQ,38.12,28662,1.04,6/13/2016,AGM,4.98,n/a,Federal Agricultural Mortgage Corporation,N/A,22.03,37.80,06 August 2016

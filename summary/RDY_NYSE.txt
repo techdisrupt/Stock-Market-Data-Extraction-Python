@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,0.68,68.00,44.71,501.92M,['NYSE'],N/A,Health Care,34.40,8/17/2015,N/A,7700.00,NYQ,45.22,254332,0.30,7/14/2016,RDY,1.31,n/a,Dr. Reddy's Laboratories Ltd,N/A,40.67,44.61,06 August 2016

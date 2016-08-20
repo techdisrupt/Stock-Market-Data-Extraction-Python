@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.89,33.17,31.91,1.64B,['NYSE'],N/A,Consumer Services,41.13,6/24/2016,N/A,23900.00,NYQ,31.93,1622512,1.24,6/8/2016,WY,0.78,n/a,Weyerhaeuser Company,N/A,22.06,31.86,15 August 2016

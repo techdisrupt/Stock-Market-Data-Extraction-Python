@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,144.29,123.11,144.84M,['NASDAQ'],N/A,n/a,40.13,N/A,N/A,3570.00,NMS,N/A,767869,N/A,N/A,CBPO,3.34,n/a,China Biologic Products,N/A,80.60,121.47,06 August 2016

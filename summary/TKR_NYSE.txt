@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,3.07,37.07,33.74,417.90M,['NYSE'],N/A,Capital Goods,20.13,6/2/2016,N/A,2620.00,NYQ,35.01,300884,1.04,8/11/2016,TKR,1.66,n/a,Timken Company (The),N/A,22.22,33.88,14 August 2016

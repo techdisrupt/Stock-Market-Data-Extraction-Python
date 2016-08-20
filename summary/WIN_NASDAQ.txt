@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,6.76,9.74,8.85,1.97B,['NASDAQ'],N/A,n/a,N/A,7/15/2016,N/A,839.42,NMS,8.72,1099033,0.60,6/28/2016,WIN,-1.04,n/a,Windstream Holdings,N/A,4.75,8.87,15 August 2016

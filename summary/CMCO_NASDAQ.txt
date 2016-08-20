@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Construction/Ag Equipment/Trucks,USD,N/A,0.95,22.73,16.82,68.62M,['NASDAQ'],N/A,Capital Goods,18.35,5/16/2016,N/A,348.36,NMS,17.25,35555,0.16,5/4/2016,CMCO,0.94,1996,Columbus McKinnon Corporation,N/A,12.62,16.73,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,14.12,9.79,283.00M,['NYSE'],N/A,n/a,12.26,12/8/2008,N/A,876.31,NYQ,10.11,886807,0.00,11/20/2008,MTOR,0.52,n/a,Meritor,N/A,5.69,9.73,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,N/A,28.38,27.15,1.60B,['NYSE'],N/A,Finance,N/A,5/16/2016,N/A,56540.00,NYQ,27.00,26682,N/A,4/27/2016,AEK,-0.38,n/a,Aegon NV,N/A,25.04,27.01,04 August 2016

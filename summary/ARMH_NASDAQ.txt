@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,0.57,67.49,65.86,613.48M,['NASDAQ'],N/A,Technology,66.10,5/23/2016,N/A,30990.00,NMS,66.04,1032783,0.39,4/20/2016,ARMH,1.00,n/a,ARM Holdings plc,N/A,36.68,66.33,05 August 2016

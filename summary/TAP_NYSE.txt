@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Beverages (Production/Distribution),USD,N/A,1.65,104.15,99.90,633.10M,['NYSE'],N/A,Consumer Non-Durables,51.36,6/16/2016,N/A,21280.00,NYQ,105.00,1394690,1.64,6/2/2016,TAP,1.93,n/a,Molson Coors Brewing  Company,N/A,63.91,99.90,07 August 2016

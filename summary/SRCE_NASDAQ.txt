@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.14,34.83,34.01,0.00,['NASDAQ'],N/A,Finance,15.88,5/13/2016,N/A,883.32,NMS,34.16,16596,0.72,7/29/2016,SRCE,2.15,n/a,1st Source Corporation,N/A,27.01,33.96,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,0.00,11.31,4.02,17.20M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,60.08,NGM,3.84,14782,0.00,9/10/1998,DXYN,-0.23,n/a,The Dixie Group,N/A,3.00,3.95,14 August 2016

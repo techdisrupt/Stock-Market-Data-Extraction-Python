@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,1.70,81.50,76.74,467.53M,['NYSE'],N/A,n/a,24.93,5/18/2016,N/A,4830.00,NYQ,76.78,172619,1.12,7/25/2016,ATR,3.08,n/a,AptarGroup,N/A,63.62,76.62,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Paints/Coatings,USD,N/A,0.00,14.88,13.22,170.79M,['NYSE'],N/A,Basic Industries,20.59,N/A,N/A,1100.00,NYQ,13.26,432166,0.00,2/11/2009,FOE,0.64,n/a,Ferro Corporation,N/A,8.47,13.11,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,0.00,8.17,5.06,-136.68M,['NYSE'],N/A,Technology,N/A,3/31/2015,N/A,2410.00,NYQ,5.08,6617503,0.00,3/11/2015,SFUN,-0.31,2010,SouFun Holdings Limited,N/A,4.37,5.03,14 August 2016

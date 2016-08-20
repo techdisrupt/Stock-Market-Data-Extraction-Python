@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Products,USD,N/A,1.82,13.45,11.02,21.66M,['NASDAQ'],N/A,Consumer Durables,28.05,5/10/2016,N/A,272.60,NMS,12.63,85960,0.20,4/28/2016,LYTS,0.39,1985,LSI Industries Inc.,N/A,7.89,10.96,07 August 2016

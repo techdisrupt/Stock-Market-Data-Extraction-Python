@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.92,18.77,16.68,0.00,['NASDAQ'],N/A,Finance,17.55,7/21/2016,N/A,1850.00,NMS,17.70,473172,0.48,7/5/2016,CVBF,0.98,n/a,CVB Financial Corporation,N/A,14.02,16.51,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,6.73,25.85,24.50,45.67M,['NYSE'],N/A,n/a,27.82,7/7/2016,N/A,439.85,NYQ,25.68,51994,1.64,6/22/2016,OLP,0.92,n/a,One Liberty Properties,N/A,18.80,24.36,07 August 2016

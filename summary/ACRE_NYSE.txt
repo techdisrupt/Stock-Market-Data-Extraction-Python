@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,8.23,13.18,12.80,0.00,['NYSE'],N/A,Consumer Services,11.39,7/15/2016,N/A,366.89,NYQ,12.87,93491,1.04,6/28/2016,ACRE,1.13,2012,Ares Commercial Real Estate Corporation,N/A,8.91,12.79,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,11.68,9.53,100.35M,['NYSE'],N/A,n/a,10.86,N/A,N/A,86.73,NYQ,9.75,30480,N/A,N/A,NEFF,0.88,2014,Neff Corporation,N/A,3.62,9.44,07 August 2016

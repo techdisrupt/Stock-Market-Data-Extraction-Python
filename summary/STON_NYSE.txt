@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,10.86,31.15,24.50,13.16M,['NYSE'],N/A,Consumer Services,N/A,5/13/2016,N/A,865.77,NYQ,25.54,160284,2.64,5/4/2016,STON,-0.83,2004,StoneMor Partners L.P.,N/A,22.04,24.32,14 August 2016

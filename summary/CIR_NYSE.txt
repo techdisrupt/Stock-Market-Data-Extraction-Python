@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.26,62.61,57.50,73.20M,['NYSE'],N/A,n/a,144.32,6/10/2016,N/A,959.92,NYQ,58.45,77903,0.15,5/24/2016,CIR,0.41,n/a,CIRCOR International,N/A,32.79,57.32,06 August 2016

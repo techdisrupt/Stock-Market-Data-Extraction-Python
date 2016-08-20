@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.38,21.32,17.83,131.15M,['NYSE'],N/A,1995,24.26,6/6/2016,N/A,746.73,NYQ,18.18,16517,0.60,8/11/2016,TRK,0.75,n/a,Speedway Motorsports,N/A,16.62,17.77,14 August 2016

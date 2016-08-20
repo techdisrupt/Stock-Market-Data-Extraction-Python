@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Engineering & Construction,USD,N/A,0,9,N/A,0.00,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,N/A,NYQ,N/A,0,0,7/2/2001,FRM,0,n/a,Furmanite Corporation,N/A,5,N/A,07 August 2016

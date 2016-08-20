@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,7.42,5.61,96.59M,['NYSE'],N/A,Public Utilities,84.79,N/A,N/A,1300.00,NYQ,6.02,5936824,N/A,N/A,VG,0.07,2006,Vonage Holdings Corp.,N/A,3.82,5.61,15 August 2016

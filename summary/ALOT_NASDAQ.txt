@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,1.78,16.17,15.92,8.38M,['NASDAQ'],N/A,1983,26.98,6/28/2016,N/A,118.22,NGM,16.00,230,0.28,6/8/2016,ALOT,0.59,n/a,Astro-Med,N/A,11.18,15.90,05 August 2016

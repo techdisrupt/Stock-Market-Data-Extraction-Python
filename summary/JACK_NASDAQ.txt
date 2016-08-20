@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Restaurants,USD,N/A,1.37,98.85,97.31,305.47M,['NASDAQ'],N/A,Consumer Services,31.41,6/7/2016,N/A,3150.00,NMS,97.99,720248,1.20,5/20/2016,JACK,3.08,n/a,Jack In The Box Inc.,N/A,61.78,96.99,07 August 2016

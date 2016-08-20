@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.1300,14.6800,N/A,0.00,['NYSE'],N/A,n/a,N/A,7/18/2016,N/A,N/A,ASE,14.5000,0,0.6000,7/7/2016,EMI,0.7580,1999,Eaton Vance Michigan Municipal Income Trust,N/A,12.2800,14.4893,06 August 2016

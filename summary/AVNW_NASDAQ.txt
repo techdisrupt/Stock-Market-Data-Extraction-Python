@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,14.8800,7.6700,-11.40M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,39.99,NMS,7.6700,7691,N/A,N/A,AVNW,-3.1410,n/a,Aviat Networks,N/A,5.7100,7.7100,05 August 2016

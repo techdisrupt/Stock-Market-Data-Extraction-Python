@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,7.4000,26.2500,25.3300,70.43M,['NASDAQ'],N/A,Consumer Services,N/A,6/30/2016,N/A,572.24,NMS,25.8700,3013,1.8800,7/20/2016,GOODO,-0.0530,n/a,Gladstone Commercial Corporation,N/A,24.5000,25.3399,07 August 2016

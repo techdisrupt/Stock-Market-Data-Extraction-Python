@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.10,56.23,55.03,345.04M,['NYSE'],N/A,1994,10.17,6/7/2016,N/A,5390.00,NYQ,54.62,671053,1.70,5/16/2016,HIW,5.37,n/a,Highwoods Properties,N/A,36.57,54.92,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,0.00,57.36,43.35,-137.93M,['NASDAQ'],N/A,2003,97.40,N/A,N/A,19490.00,NMS,43.05,2974231,0.00,6/10/2008,CTRP,0.44,n/a,Ctrip.com International,N/A,27.25,42.94,06 August 2016

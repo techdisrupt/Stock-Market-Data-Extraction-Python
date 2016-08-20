@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,3.90,48.00,26.20,476.91M,['NASDAQ'],N/A,Finance,14.89,5/31/2016,N/A,2380.00,NMS,N/A,277847,1.00,5/18/2016,LPLA,1.79,2010,LPL Financial Holdings Inc.,N/A,15.38,25.77,07 August 2016

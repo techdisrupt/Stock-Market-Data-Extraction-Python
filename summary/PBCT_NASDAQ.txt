@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,4.39,16.93,15.18,0.00,['NASDAQ'],N/A,n/a,17.41,5/15/2016,N/A,4700.00,NMS,15.94,3238457,0.68,7/28/2016,PBCT,0.89,n/a,People's United Financial,N/A,13.62,15.08,08 August 2016

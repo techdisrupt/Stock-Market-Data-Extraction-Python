@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous manufacturing industries,USD,N/A,2.59,33.17,31.84,270.80M,['NYSE'],N/A,Consumer Durables,20.55,6/30/2016,N/A,1970.00,NYQ,31.25,343567,0.81,6/14/2016,HI,1.52,n/a,Hillenbrand Inc,N/A,24.12,31.75,07 August 2016

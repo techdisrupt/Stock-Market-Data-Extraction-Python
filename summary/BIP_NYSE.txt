@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,4.84,49.09,48.82,909.00M,['NYSE'],N/A,Consumer Services,64.55,6/30/2016,N/A,7940.00,NYQ,48.92,148478,2.28,5/26/2016,BIP,0.76,n/a,Brookfield Infrastructure Partners LP,N/A,30.50,48.52,05 August 2016

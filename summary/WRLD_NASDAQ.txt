@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,N/A,55.43,45.41,160.52M,['NASDAQ'],N/A,Finance,5.01,N/A,N/A,403.22,NMS,46.29,20554,N/A,N/A,WRLD,9.23,1991,World Acceptance Corporation,N/A,25.30,45.65,15 August 2016

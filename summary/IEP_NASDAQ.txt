@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,11.25,81.35,53.08,-704.00M,['NASDAQ'],N/A,Energy,N/A,6/16/2016,N/A,7560.00,NMS,59.01,163167,6.00,5/10/2016,IEP,-16.75,n/a,Icahn Enterprises L.P.,N/A,42.50,53.31,07 August 2016

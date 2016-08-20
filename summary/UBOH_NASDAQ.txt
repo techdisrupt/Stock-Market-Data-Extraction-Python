@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.25,21.66,19.65,0.00,['NASDAQ'],N/A,n/a,11.77,6/15/2016,N/A,64.77,NGM,19.80,134,0.44,5/26/2016,UBOH,1.67,n/a,United Bancshares,N/A,15.40,19.55,15 August 2016

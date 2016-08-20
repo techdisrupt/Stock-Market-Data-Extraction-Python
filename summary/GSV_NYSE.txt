@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Mining & Quarrying of Nonmetallic Minerals (No Fuels),USD,N/A,N/A,2.10,1.40,-4.02M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,292.93,ASE,1.53,606803,N/A,N/A,GSV,-0.03,n/a,Gold Standard Ventures Corporation,N/A,0.32,1.50,07 August 2016

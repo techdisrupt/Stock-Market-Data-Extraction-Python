@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,18.12,17.39,-59.10M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,2400.00,NMS,17.88,786431,N/A,N/A,NKTR,-1.01,n/a,Nektar Therapeutics,N/A,9.16,17.46,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,80.00,61.19,-155.35M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,2160.00,NMS,68.00,442128,N/A,N/A,OPHT,-4.27,2013,Ophthotech Corporation,N/A,35.72,61.13,07 August 2016

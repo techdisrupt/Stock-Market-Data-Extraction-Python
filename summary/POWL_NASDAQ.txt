@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,2.85,40.96,35.14,39.88M,['NASDAQ'],N/A,n/a,25.86,6/15/2016,N/A,416.30,NMS,36.57,52940,1.04,5/16/2016,POWL,1.41,n/a,Powell Industries,N/A,23.00,35.05,08 August 2016

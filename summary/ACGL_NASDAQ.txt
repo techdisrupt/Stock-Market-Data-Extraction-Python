@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,N/A,78.81,74.26,534.59M,['NASDAQ'],N/A,Finance,23.90,N/A,N/A,8920.00,NMS,74.04,114375,N/A,N/A,ACGL,3.10,n/a,Arch Capital Group Ltd.,N/A,59.83,74.08,05 August 2016

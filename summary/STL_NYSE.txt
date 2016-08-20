@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.63,17.75,16.97,0.00,['NYSE'],N/A,Finance,18.77,5/23/2016,N/A,2230.00,NYQ,17.04,1116376,0.28,8/4/2016,STL,0.91,n/a,Sterling Bancorp,N/A,13.20,17.14,14 August 2016

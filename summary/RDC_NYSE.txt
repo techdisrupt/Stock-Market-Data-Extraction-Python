@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,21.83,15.08,1.19B,['NYSE'],N/A,Energy,8.03,11/23/2015,N/A,1800.00,NYQ,14.41,3203353,0.00,11/5/2015,RDC,1.79,n/a,Rowan Companies plc,N/A,10.67,14.96,10 August 2016

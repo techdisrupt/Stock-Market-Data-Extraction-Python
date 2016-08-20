@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous manufacturing industries,USD,N/A,N/A,3.250,2.130,9.28M,['NASDAQ'],N/A,Consumer Durables,N/A,N/A,N/A,30.74,NCM,2.200,14035,N/A,N/A,EGT,-0.085,n/a,Entertainment Gaming Asia Incorporated,N/A,1.320,2.150,06 August 2016

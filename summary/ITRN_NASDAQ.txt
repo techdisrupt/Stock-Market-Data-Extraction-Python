@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,2.82,25.98,24.41,52.48M,['NASDAQ'],N/A,Consumer Non-Durables,20.31,7/6/2016,N/A,513.09,NMS,N/A,7602,0.68,6/20/2016,ITRN,1.21,2005,Ituran Location and Control Ltd.,N/A,16.32,24.42,07 August 2016

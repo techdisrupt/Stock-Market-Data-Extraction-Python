@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,10.74,7.95,-8.64M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,105.09,NCM,8.70,13727,N/A,N/A,ORMP,-0.68,n/a,Oramed Pharmaceuticals Inc.,N/A,4.15,7.93,07 August 2016

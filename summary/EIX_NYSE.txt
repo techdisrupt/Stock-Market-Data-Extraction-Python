@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,2.53,78.72,75.70,3.58B,['NYSE'],N/A,Public Utilities,27.80,7/31/2016,N/A,24430.00,NYQ,75.45,1233638,1.92,6/28/2016,EIX,2.70,n/a,Edison International,N/A,56.68,76.23,06 August 2016

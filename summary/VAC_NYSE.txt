@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,1.63,81.09,74.58,253.36M,['NYSE'],N/A,Finance,19.48,6/9/2016,N/A,2000.00,NYQ,74.05,194492,1.20,5/24/2016,VAC,3.80,n/a,Marriot Vacations Worldwide Corporation,N/A,45.95,73.82,07 August 2016

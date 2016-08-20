@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,3.26,42.29,30.92,221.30M,['NYSE'],N/A,2014,21.64,5/12/2016,N/A,5510.00,NYQ,31.09,273966,1.00,7/28/2016,SHLX,1.44,n/a,Shell Midstream Partners,N/A,25.13,30.70,13 August 2016

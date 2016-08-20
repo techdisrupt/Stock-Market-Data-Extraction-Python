@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Food Distributors,USD,N/A,2.39,52.31,51.82,2.48B,['NYSE'],N/A,Consumer Non-Durables,38.00,7/22/2016,N/A,29420.00,NYQ,53.00,3492024,1.24,6/29/2016,SYY,1.37,n/a,Sysco Corporation,N/A,38.12,51.76,14 August 2016

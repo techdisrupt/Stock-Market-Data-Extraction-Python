@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,8.57,47.52,28.34,254.77M,['NYSE'],N/A,Finance,18.93,5/31/2016,N/A,1220.00,NYQ,29.13,242587,2.40,5/13/2016,APAM,1.54,2013,Artisan Partners Asset Management Inc.,N/A,23.65,28.17,05 August 2016

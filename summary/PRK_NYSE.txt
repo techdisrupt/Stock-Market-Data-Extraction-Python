@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,4.21,104.58,90.00,0.00,['NYSE'],N/A,Finance,17.80,6/10/2016,N/A,1410.00,ASE,91.78,24779,3.76,5/18/2016,PRK,5.17,n/a,Park National Corporation,N/A,79.01,89.53,07 August 2016

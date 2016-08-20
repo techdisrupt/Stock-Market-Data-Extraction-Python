@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.03,183.86,182.49,568.84M,['NYSE'],N/A,n/a,43.26,2/9/2016,N/A,8860.00,NYQ,182.96,156496,0.06,7/20/2016,COO,4.23,n/a,Cooper Companies,N/A,119.28,181.77,06 August 2016

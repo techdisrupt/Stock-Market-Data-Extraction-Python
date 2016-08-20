@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,43.00,38.93,1.01B,['NASDAQ'],N/A,1990,42.97,N/A,N/A,10810.00,NMS,40.25,1498280,N/A,N/A,HOLX,0.91,n/a,Hologic,N/A,31.84,38.68,07 August 2016

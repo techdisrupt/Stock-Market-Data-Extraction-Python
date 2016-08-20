@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,2.55,37.49,22.05,195.02M,['NYSE'],N/A,Finance,6.64,7/5/2016,N/A,771.01,NYQ,22.01,90013,0.56,6/13/2016,UVE,3.31,n/a,UNIVERSAL INSURANCE HOLDINGS INC,N/A,15.86,21.92,15 August 2016

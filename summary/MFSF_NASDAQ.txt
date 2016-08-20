@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.00,28.99,27.66,0.00,['NASDAQ'],N/A,Finance,16.13,6/24/2016,N/A,203.24,NGM,27.80,6976,0.56,6/8/2016,MFSF,1.72,n/a,MutualFirst Financial Inc.,N/A,21.20,27.47,07 August 2016

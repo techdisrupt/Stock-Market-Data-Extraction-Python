@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.67,54.66,49.67,232.82M,['NYSE'],N/A,n/a,21.72,7/15/2016,N/A,2800.00,NYQ,49.81,219753,0.82,6/29/2016,CHH,2.29,n/a,Choice Hotels International,N/A,40.78,49.36,06 August 2016

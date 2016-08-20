@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,2.88,120.67,115.62,243.27M,['NASDAQ'],N/A,Finance,18.23,6/17/2016,N/A,3080.00,NMS,123.88,17016,3.28,6/1/2016,ANAT,6.29,n/a,American National Insurance Company,N/A,91.20,115.27,05 August 2016

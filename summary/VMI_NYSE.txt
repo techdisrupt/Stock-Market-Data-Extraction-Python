@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.15,145.94,130.40,332.89M,['NYSE'],N/A,n/a,53.25,7/15/2016,N/A,2960.00,NYQ,131.30,37004,1.50,6/22/2016,VMI,2.46,n/a,Valmont Industries,N/A,92.33,130.16,15 August 2016

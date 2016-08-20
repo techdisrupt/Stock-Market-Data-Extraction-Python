@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.90,17.92,16.76,7.77M,['NYSE'],N/A,2013,6.49,7/14/2016,N/A,172.46,ASE,16.83,41184,0.32,6/28/2016,ORM,2.60,n/a,Owens Realty Mortgage,N/A,13.03,16.75,07 August 2016

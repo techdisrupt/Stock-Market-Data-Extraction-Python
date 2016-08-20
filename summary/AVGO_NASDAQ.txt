@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,1.22,170.20,167.95,3.51B,['NASDAQ'],N/A,Technology,N/A,6/30/2016,N/A,67100.00,NMS,169.67,1477754,2.00,6/15/2016,AVGO,-0.69,2009,Avago Technologies Limited,N/A,100.00,166.99,05 August 2016

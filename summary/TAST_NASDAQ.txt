@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,14.80,11.89,85.81M,['NASDAQ'],N/A,2006,49.96,N/A,N/A,429.78,NMS,12.47,218855,N/A,5/8/2012,TAST,0.25,n/a,Carrols Restaurant Group,N/A,10.57,11.87,06 August 2016

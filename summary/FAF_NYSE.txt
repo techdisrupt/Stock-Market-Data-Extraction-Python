@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Insurers,USD,N/A,2.54,43.16,41.02,586.87M,['NYSE'],N/A,Finance,14.38,6/15/2016,N/A,4460.00,NYQ,40.68,913561,1.04,6/6/2016,FAF,2.83,n/a,First American Corporation (The),N/A,31.74,40.87,06 August 2016

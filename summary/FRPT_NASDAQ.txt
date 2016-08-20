@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,16.88,9.72,5.07M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,337.08,NGM,11.20,1390856,N/A,N/A,FRPT,-0.09,n/a,Freshpet,N/A,5.60,8.26,07 August 2016

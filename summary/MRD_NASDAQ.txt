@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,20.55,14.93,760.20M,['NASDAQ'],N/A,Energy,N/A,N/A,N/A,2870.00,NMS,15.92,1442334,N/A,N/A,MRD,-0.58,2014,Memorial Resource Development Corp.,N/A,8.30,14.89,07 August 2016

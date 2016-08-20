@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,3.23,30.70,28.02,3.82B,['NYSE'],N/A,Energy,N/A,6/24/2016,N/A,46790.00,NYQ,28.15,1706293,0.89,6/1/2016,SU,-1.45,n/a,Suncor Energy  Inc.,N/A,18.71,27.96,14 August 2016

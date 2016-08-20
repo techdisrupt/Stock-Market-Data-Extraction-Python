@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,45.98,42.40,210.90M,['NYSE'],N/A,n/a,23.30,N/A,N/A,1770.00,NYQ,43.26,130380,N/A,N/A,FCN,1.86,n/a,FTI Consulting,N/A,29.91,42.28,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.63,101.84,101.37,1.10B,['NYSE'],N/A,n/a,11.98,5/31/2016,N/A,6520.00,NYQ,101.75,201006,1.64,8/5/2016,RGA,8.50,n/a,Reinsurance Group of America,N/A,76.96,101.38,09 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Railroads,USD,N/A,2.39,98.28,92.46,9.50B,['NYSE'],N/A,Transportation,18.11,6/30/2016,N/A,77490.00,NYQ,93.03,1575485,2.20,5/26/2016,UNP,5.14,n/a,Union Pacific Corporation,N/A,67.06,91.90,15 August 2016

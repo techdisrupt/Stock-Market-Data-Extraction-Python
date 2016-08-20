@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,4.00,3.50,119.40M,['NASDAQ'],N/A,1999,N/A,N/A,N/A,163.04,NCM,3.30,5782,N/A,N/A,ROIA,-0.81,n/a,Radio One,N/A,1.08,3.30,08 August 2016

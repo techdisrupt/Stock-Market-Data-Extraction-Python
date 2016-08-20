@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,0.00,29.64,16.67,7.23M,['NASDAQ'],N/A,n/a,N/A,7/17/2012,N/A,151.64,NMS,21.74,9504,0.00,6/29/2012,LAWS,-0.01,n/a,Lawson Products,N/A,15.23,16.60,07 August 2016

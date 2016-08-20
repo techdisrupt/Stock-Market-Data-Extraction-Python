@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,5.47,4.76,5.60M,['NASDAQ'],N/A,1991,51.67,N/A,N/A,80.28,NCM,4.65,82224,N/A,N/A,ARIS,0.09,n/a,ARI Network Services,N/A,2.95,4.76,05 August 2016

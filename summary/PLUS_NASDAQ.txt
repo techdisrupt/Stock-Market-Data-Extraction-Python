@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Retail: Computer Software & Peripheral Equipment,USD,N/A,0.00,109.33,83.44,93.97M,['NASDAQ'],N/A,Technology,13.31,12/26/2012,N/A,608.82,NMS,84.96,67342,0.00,12/13/2012,PLUS,6.38,1996,ePlus inc.,N/A,61.78,83.23,06 August 2016

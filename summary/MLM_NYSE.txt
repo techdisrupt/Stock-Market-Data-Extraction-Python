@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.80,206.36,198.94,878.67M,['NYSE'],N/A,1994,35.33,6/30/2016,N/A,12580.00,NYQ,198.25,269724,1.60,5/27/2016,MLM,5.61,n/a,Martin Marietta Materials,N/A,108.31,198.47,07 August 2016

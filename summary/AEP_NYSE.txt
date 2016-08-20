@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,3.23,71.32,68.57,5.03B,['NYSE'],N/A,n/a,16.94,6/10/2016,N/A,33750.00,NYQ,69.99,1797590,2.24,5/6/2016,AEP,4.05,n/a,American Electric Power Company,N/A,52.29,68.45,05 August 2016

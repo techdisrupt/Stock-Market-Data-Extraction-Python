@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Packaged Foods,USD,N/A,2.7300,48.1700,43.8200,2.41B,['NYSE'],N/A,Consumer Non-Durables,17.9693,6/8/2016,N/A,26390.00,NYQ,44.4200,1736561,1.2000,5/16/2016,ADM,2.4720,n/a,Archer-Daniels-Midland Company,N/A,29.8600,43.7400,05 August 2016

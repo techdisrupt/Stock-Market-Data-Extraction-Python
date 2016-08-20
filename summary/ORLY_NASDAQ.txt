@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,292.84,289.07,1.85B,['NASDAQ'],N/A,1993,28.87,N/A,N/A,27560.00,NMS,311.00,653972,N/A,N/A,ORLY,10.06,n/a,O'Reilly Automotive,N/A,225.12,288.71,07 August 2016

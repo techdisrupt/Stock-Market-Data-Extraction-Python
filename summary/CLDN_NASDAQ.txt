@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Biological Products (No Diagnostic Substances),USD,N/A,N/A,25.49,N/A,0.00,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,N/A,NGM,N/A,0,N/A,N/A,CLDN,-2.15,2014,Celladon Corporation,N/A,0.86,1.15,06 August 2016

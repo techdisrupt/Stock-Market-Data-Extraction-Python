@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Apparel,USD,N/A,2.32,76.64,63.92,2.02B,['NYSE'],N/A,Consumer Non-Durables,25.39,6/20/2016,N/A,26620.00,NYQ,64.15,793976,1.48,6/8/2016,VFC,2.53,n/a,V.F. Corporation,N/A,52.21,63.86,15 August 2016

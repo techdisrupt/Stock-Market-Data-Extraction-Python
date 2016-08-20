@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,51.00,35.35,260.30M,['NYSE'],N/A,1992,22.24,N/A,N/A,1950.00,NYQ,36.49,465538,N/A,N/A,ASGN,1.64,n/a,On Assignment,N/A,29.34,34.97,07 August 2016

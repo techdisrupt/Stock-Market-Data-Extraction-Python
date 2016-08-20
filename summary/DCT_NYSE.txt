@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.34,50.57,49.35,241.85M,['NYSE'],N/A,Consumer Services,42.87,7/13/2016,N/A,4400.00,NYQ,48.87,1021186,1.16,6/29/2016,DCT,1.14,2006,DCT Industrial Trust Inc,N/A,31.08,49.35,06 August 2016

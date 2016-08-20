@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Pollution Control Equipment,USD,N/A,2.90,11.12,9.08,50.36M,['NASDAQ'],N/A,Capital Goods,N/A,6/30/2016,N/A,315.60,NMS,9.49,116638,0.26,6/15/2016,CECE,-0.09,n/a,CECO Environmental Corp.,N/A,5.60,9.05,06 August 2016

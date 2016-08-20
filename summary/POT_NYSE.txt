@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Agricultural Chemicals,USD,N/A,2.57,27.04,15.51,1.65B,['NYSE'],N/A,Basic Industries,19.77,8/2/2016,N/A,13440.00,NYQ,16.01,8038514,0.40,7/8/2016,POT,0.81,1989,Potash Corporation of Saskatchewan Inc.,N/A,14.64,15.57,08 August 2016

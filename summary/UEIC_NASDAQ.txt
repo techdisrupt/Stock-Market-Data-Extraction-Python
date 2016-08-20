@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Electronics/Appliances,USD,N/A,N/A,78.90,76.38,63.13M,['NASDAQ'],N/A,Consumer Non-Durables,45.87,N/A,N/A,1120.00,NMS,77.30,26021,N/A,N/A,UEIC,1.68,1993,Universal Electronics Inc.,N/A,40.28,76.46,15 August 2016

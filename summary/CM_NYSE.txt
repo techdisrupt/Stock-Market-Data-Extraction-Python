@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,4.91,82.60,74.77,0.00,['NYSE'],N/A,Finance,10.88,7/28/2016,N/A,29760.00,NYQ,75.47,359061,3.68,6/24/2016,CM,6.93,n/a,Canadian Imperial Bank of Commerce,N/A,56.29,75.31,06 August 2016

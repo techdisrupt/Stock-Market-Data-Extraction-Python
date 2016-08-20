@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,188.24,150.69,679.01M,['NASDAQ'],N/A,Health Care,28.42,N/A,N/A,9100.00,NMS,151.57,286624,N/A,N/A,JAZZ,5.30,2007,Jazz Pharmaceuticals plc,N/A,108.50,149.64,07 August 2016

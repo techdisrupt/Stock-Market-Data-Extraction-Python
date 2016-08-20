@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,2.63,54.63,53.04,609.40M,['NYSE'],N/A,n/a,19.03,7/15/2016,N/A,6940.00,NYQ,52.01,1242713,1.36,6/13/2016,LEG,2.73,n/a,Leggett & Platt,N/A,36.64,52.77,07 August 2016

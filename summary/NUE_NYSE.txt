@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Steel/Iron Ore,USD,N/A,2.80,57.08,53.34,1.97B,['NYSE'],N/A,Basic Industries,36.70,8/11/2016,N/A,17100.00,NYQ,55.10,1193951,1.50,6/28/2016,NUE,1.46,n/a,Nucor Corporation,N/A,33.90,53.30,07 August 2016

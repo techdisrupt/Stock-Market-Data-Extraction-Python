@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,3.98,49.47,36.57,4.74B,['NYSE'],N/A,Finance,13.62,5/27/2016,N/A,46630.00,NYQ,36.41,419178,1.43,3/24/2016,PUK,2.67,n/a,Prudential Public Limited Company,N/A,29.14,36.04,08 August 2016

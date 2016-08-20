@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,3.75,84.29,82.22,5.52B,['NYSE'],N/A,n/a,55.04,8/20/2016,N/A,48220.00,NYQ,82.79,3286094,3.08,7/18/2016,CAT,1.50,n/a,Caterpillar,N/A,56.36,81.77,06 August 2016

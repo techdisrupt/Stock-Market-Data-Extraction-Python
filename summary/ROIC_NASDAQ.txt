@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.23,23.05,22.14,136.05M,['NASDAQ'],N/A,Consumer Services,73.60,6/29/2016,N/A,2430.00,NMS,22.30,685124,0.72,6/13/2016,ROIC,0.30,n/a,Retail Opportunity Investments Corp.,N/A,15.30,22.21,09 August 2016

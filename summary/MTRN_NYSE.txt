@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,1.44,35.21,26.88,70.79M,['NYSE'],N/A,Capital Goods,22.10,6/1/2016,N/A,547.10,NYQ,54.69,100476,0.38,5/16/2016,MTRN,1.24,n/a,Materion Corporation,N/A,20.62,26.83,07 August 2016

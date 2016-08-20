@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,2.43,7.50,7.50,31.38M,['NASDAQ'],N/A,Technology,21.76,3/17/2016,N/A,326.58,NMS,7.94,25004,0.18,2/29/2016,MGIC,0.34,1991,Magic Software Enterprises Ltd.,N/A,5.13,7.47,07 August 2016

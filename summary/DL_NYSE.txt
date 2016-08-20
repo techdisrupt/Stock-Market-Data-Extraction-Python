@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,8.72,16.96,10.35,31.65M,['NYSE'],N/A,Consumer Services,14.79,1/13/2016,N/A,360.75,NYQ,10.49,114953,0.90,1/4/2016,DL,0.71,n/a,China Distance Education Holdings Limited,N/A,7.85,10.32,06 August 2016

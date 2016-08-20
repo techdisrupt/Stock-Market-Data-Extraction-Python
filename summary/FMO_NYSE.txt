@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.80,20.70,14.66,0.00,['NYSE'],N/A,n/a,N/A,5/31/2016,N/A,N/A,NYQ,14.58,143811,1.24,5/11/2016,FMO,-9.27,2004,Fiduciary/Claymore MLP Opportunity Fund,N/A,8.04,14.61,06 August 2016

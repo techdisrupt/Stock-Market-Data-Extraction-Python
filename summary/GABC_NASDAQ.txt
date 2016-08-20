@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.10,34.99,34.57,0.00,['NASDAQ'],N/A,n/a,15.97,5/20/2016,N/A,531.25,NMS,N/A,26159,0.72,5/6/2016,GABC,2.18,n/a,German American Bancorp,N/A,28.25,34.33,07 August 2016

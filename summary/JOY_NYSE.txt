@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.15,28.55,27.44,252.71M,['NYSE'],N/A,Energy,N/A,7/6/2016,N/A,2690.00,NYQ,27.45,2515034,0.04,6/20/2016,JOY,-13.46,n/a,Joy Global Inc.,N/A,8.35,27.32,07 August 2016

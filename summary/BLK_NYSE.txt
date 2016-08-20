@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.49,375.26,370.28,4.80B,['NYSE'],N/A,1999,19.97,6/23/2016,N/A,61640.00,NYQ,374.81,563600,9.16,6/2/2016,BLK,18.77,n/a,BlackRock,N/A,275.00,366.25,05 August 2016

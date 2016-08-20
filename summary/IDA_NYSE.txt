@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,2.56,83.40,79.59,419.24M,['NYSE'],N/A,n/a,21.14,5/31/2016,N/A,3960.00,NYQ,78.60,150520,2.04,8/3/2016,IDA,3.72,n/a,IDACORP,N/A,57.23,79.71,07 August 2016

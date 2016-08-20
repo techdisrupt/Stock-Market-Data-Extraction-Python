@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,2.00,21.09,17.85,6.14M,['NYSE'],N/A,Technology,46.13,6/23/2016,N/A,174.74,NYQ,18.00,18694,0.36,6/7/2016,GHM,0.39,n/a,Graham Corporation,N/A,14.39,17.75,07 August 2016

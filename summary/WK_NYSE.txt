@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,18.800,16.240,-45.48M,['NYSE'],N/A,n/a,N/A,N/A,N/A,682.18,NYQ,16.510,74736,N/A,N/A,WK,-1.203,2014,Workiva Inc.,N/A,10.915,16.320,15 August 2016

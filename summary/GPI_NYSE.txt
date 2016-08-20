@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,1.52,95.87,61.41,422.66M,['NYSE'],N/A,1997,15.44,6/15/2016,N/A,1300.00,NYQ,62.61,295925,0.92,5/27/2016,GPI,3.98,n/a,Group 1 Automotive,N/A,47.31,60.90,07 August 2016

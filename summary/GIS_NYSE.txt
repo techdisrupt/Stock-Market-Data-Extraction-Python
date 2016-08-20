@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,2.75,72.95,70.50,3.38B,['NYSE'],N/A,n/a,25.47,8/1/2016,N/A,42120.00,NYQ,70.53,2539154,1.92,7/7/2016,GIS,2.77,n/a,General Mills,N/A,47.50,70.49,07 August 2016

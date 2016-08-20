@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,10.36,3.24,1.98,-3.19M,['NASDAQ'],N/A,n/a,N/A,6/24/2016,N/A,63.66,NMS,5.00,9290,0.20,6/10/2016,HSON,-0.33,n/a,Hudson Global,N/A,1.85,1.96,07 August 2016

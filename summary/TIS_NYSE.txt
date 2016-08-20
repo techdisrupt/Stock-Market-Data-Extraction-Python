@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Paper,USD,N/A,4.94,36.31,28.21,35.84M,['NYSE'],N/A,Basic Industries,17.67,5/16/2016,N/A,287.99,ASE,32.00,109735,1.40,8/4/2016,TIS,1.59,2005,Orchids Paper Products Company,N/A,23.00,28.36,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,1.44,17.01,16.91,332.44M,['NYSE'],N/A,n/a,N/A,6/30/2016,N/A,5100.00,NYQ,16.58,1687177,0.24,7/19/2016,TAHO,-0.17,n/a,Tahoe Resources,N/A,6.48,16.62,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,1.1600,0.9801,-9.35M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,71.34,ASE,0.9800,919125,N/A,N/A,AUMN,-0.5020,n/a,Golden Minerals Company,N/A,0.1300,1.0100,07 August 2016

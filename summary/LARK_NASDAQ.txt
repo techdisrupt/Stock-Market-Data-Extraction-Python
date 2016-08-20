@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.0800,27.5500,25.9900,0.00,['NASDAQ'],N/A,Finance,9.8150,5/25/2016,N/A,93.94,NGM,N/A,4548,0.8000,5/9/2016,LARK,2.6490,n/a,Landmark Bancorp Inc.,N/A,23.8000,25.9900,07 August 2016

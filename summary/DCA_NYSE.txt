@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.80,4.68,4.60,0.00,['NYSE'],N/A,n/a,N/A,7/18/2016,N/A,N/A,NYQ,4.62,73587,0.26,7/7/2016,DCA,-0.04,2005,Virtus Total Return Fund,N/A,3.02,4.60,15 August 2016

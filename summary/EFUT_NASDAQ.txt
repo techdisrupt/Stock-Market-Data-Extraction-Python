@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,18.38,5.60,156423.00,['NASDAQ'],N/A,Technology,139.02,N/A,N/A,29.89,NCM,5.81,968,N/A,N/A,EFUT,0.04,n/a,eFuture Information Technology Inc.,N/A,3.80,5.60,06 August 2016

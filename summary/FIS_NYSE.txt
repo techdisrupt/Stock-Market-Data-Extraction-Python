@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,1.33,81.41,78.59,2.00B,['NYSE'],N/A,n/a,54.16,6/30/2016,N/A,25750.00,NYQ,79.57,1030778,1.04,6/14/2016,FIS,1.46,n/a,Fidelity National Information Services,N/A,55.11,78.22,06 August 2016

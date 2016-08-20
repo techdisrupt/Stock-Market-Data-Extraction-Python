@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,6.16,15.73,13.77,0.00,['NYSE'],N/A,2006,16.52,6/23/2016,N/A,1310.00,NYQ,13.86,69319,0.84,6/8/2016,OB,0.62,n/a,OneBeacon Insurance Group,N/A,11.68,13.64,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,0.00,57.73,55.60,807.00M,['NYSE'],N/A,Capital Goods,12.22,N/A,N/A,3140.00,NYQ,55.39,248247,0.00,11/21/2000,TEN,4.53,n/a,Tenneco Inc.,N/A,34.45,55.82,14 August 2016

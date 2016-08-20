@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,37.78,33.28,39.26M,['NASDAQ'],N/A,2012,38.75,N/A,N/A,550.21,NMS,40.00,312365,N/A,N/A,CHUY,0.86,n/a,Chuy&'s Holdings,N/A,26.42,33.36,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,3.65,1.35,-5.58M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,15.28,NCM,2.04,26526,N/A,N/A,MDVX,-0.60,n/a,Medovex Corp.,N/A,0.85,1.38,07 August 2016

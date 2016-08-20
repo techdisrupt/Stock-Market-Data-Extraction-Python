@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Biological Products (No Diagnostic Substances),USD,N/A,N/A,21.43,15.56,-12.13M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,275.00,NGM,33.00,85980,N/A,N/A,AGTC,-0.69,2014,Applied Genetic Technologies Corporation,N/A,10.89,15.51,05 August 2016

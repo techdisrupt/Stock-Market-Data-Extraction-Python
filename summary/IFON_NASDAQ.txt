@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,N/A,2.120,0.780,-2.17M,['NASDAQ'],N/A,Consumer Non-Durables,N/A,N/A,N/A,10.63,NCM,0.880,18872,N/A,N/A,IFON,-0.191,n/a,InfoSonics Corp,N/A,0.660,0.770,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,6.87,60.00,50.13,679.04M,['NYSE'],N/A,2008,301.36,5/13/2016,N/A,7260.00,NYQ,50.95,211744,3.32,7/28/2016,WES,0.17,n/a,Western Gas Partners,N/A,25.40,49.55,15 August 2016

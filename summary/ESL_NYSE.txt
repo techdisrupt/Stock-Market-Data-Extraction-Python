@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.00,96.44,65.65,244.54M,['NYSE'],N/A,Capital Goods,45.20,N/A,N/A,2040.00,NYQ,69.28,1194273,0.00,N/A,ESL,1.53,n/a,Esterline Technologies Corporation,N/A,45.12,62.29,06 August 2016

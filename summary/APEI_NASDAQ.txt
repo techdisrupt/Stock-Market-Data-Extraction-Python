@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,30.43,29.50,75.30M,['NASDAQ'],N/A,2007,14.20,N/A,N/A,468.67,NMS,30.00,62430,N/A,N/A,APEI,2.06,n/a,American Public Education,N/A,13.80,29.44,05 August 2016

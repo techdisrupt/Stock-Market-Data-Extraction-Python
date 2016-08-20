@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.78,109.86,107.54,200.79M,['NASDAQ'],N/A,1993,22.58,6/15/2016,N/A,2190.00,NMS,108.04,33495,0.84,5/27/2016,UFPI,4.78,n/a,Universal Forest Products,N/A,57.11,107.62,15 August 2016

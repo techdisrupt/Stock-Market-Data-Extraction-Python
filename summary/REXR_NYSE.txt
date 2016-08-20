@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.44,22.97,22.01,62.13M,['NYSE'],N/A,2013,84.60,7/15/2016,N/A,1460.00,NYQ,22.25,251531,0.54,6/28/2016,REXR,0.26,n/a,Rexford Industrial Realty,N/A,12.57,21.99,09 August 2016

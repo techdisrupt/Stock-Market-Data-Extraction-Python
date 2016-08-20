@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,3.42,2.01,4.52M,['NYSE'],N/A,n/a,77.78,N/A,N/A,115.06,ASE,2.09,904245,N/A,N/A,GIG,0.03,n/a,GigOptix,N/A,1.48,2.00,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,4.99,28.09,27.23,18.71B,['NYSE'],N/A,Public Utilities,2.75,5/1/2015,N/A,35260.00,NYQ,28.00,412958,1.37,12/27/2005,KEP,9.99,1994,Korea Electric Power Corporation,N/A,18.87,27.41,07 August 2016

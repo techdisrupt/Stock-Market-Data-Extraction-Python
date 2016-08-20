@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,27.45,23.77,235.04M,['NASDAQ'],N/A,n/a,22.27,N/A,N/A,922.15,NMS,26.18,111460,N/A,N/A,RUSHA,1.04,n/a,Rush Enterprises,N/A,14.19,23.82,10 August 2016

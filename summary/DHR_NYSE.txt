@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.79,82.19,81.26,5.09B,['NYSE'],N/A,Capital Goods,16.21,7/29/2016,N/A,56280.00,NYQ,81.63,2056144,0.64,6/1/2016,DHR,5.03,n/a,Danaher Corporation,N/A,61.60,81.12,06 August 2016

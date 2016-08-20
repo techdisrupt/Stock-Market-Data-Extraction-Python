@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,2.08,1.53,346.22M,['NYSE'],N/A,Energy,N/A,12/15/2015,N/A,810.22,NYQ,1.51,1542792,0.00,11/27/2015,PGH,-1.28,n/a,Pengrowth Energy Corporation,N/A,0.45,1.57,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.48,53.60,52.20,450.34M,['NYSE'],N/A,Consumer Services,39.01,5/16/2016,N/A,7540.00,NYQ,51.31,1254750,1.82,7/27/2016,NNN,1.31,n/a,National Retail Properties,N/A,33.62,52.19,07 August 2016

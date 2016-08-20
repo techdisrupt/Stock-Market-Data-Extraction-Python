@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,1.93,46.19,43.84,1.53B,['NYSE'],N/A,Consumer Services,35.77,8/17/2016,N/A,18750.00,NYQ,44.03,739873,0.84,8/3/2016,TYC,1.23,n/a,Tyco International plc,N/A,28.94,43.81,15 August 2016

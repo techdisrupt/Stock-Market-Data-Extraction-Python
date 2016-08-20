@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,N/A,3.42,1.80,-5.99M,['NASDAQ'],N/A,Capital Goods,N/A,N/A,N/A,24.00,NCM,1.83,8493,N/A,N/A,AEHR,-0.52,1997,Aehr Test Systems,N/A,0.95,1.80,04 August 2016

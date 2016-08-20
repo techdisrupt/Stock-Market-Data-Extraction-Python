@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.840,16.200,14.380,0.00,['NASDAQ'],N/A,n/a,64.842,6/21/2016,N/A,111.83,NGM,14.490,1444,0.120,6/3/2016,PBIP,0.222,n/a,Prudential Bancorp,N/A,13.760,14.280,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.97,16.90,16.51,0.00,['NASDAQ'],N/A,n/a,25.35,6/30/2016,N/A,810.16,NMS,18.25,167792,0.16,6/13/2016,CSFL,0.67,n/a,CenterState Banks,N/A,12.20,16.40,06 August 2016

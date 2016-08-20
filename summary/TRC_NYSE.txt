@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,0.00,26.99,24.71,1.21M,['NYSE'],N/A,Finance,351.43,N/A,N/A,510.03,NYQ,24.64,24026,0.00,11/17/1999,TRC,0.07,n/a,Tejon Ranch Co,N/A,16.85,24.72,14 August 2016

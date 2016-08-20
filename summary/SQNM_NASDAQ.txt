@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,2.53,2.37,-25.00M,['NASDAQ'],N/A,2000,N/A,N/A,N/A,282.61,NMS,2.38,2467094,N/A,N/A,SQNM,-0.35,n/a,Sequenom,N/A,0.82,2.38,13 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.45,103.09,62.35,659.88M,['NYSE'],N/A,n/a,9.97,8/1/2016,N/A,2170.00,NYQ,62.87,579804,0.28,6/28/2016,DDS,6.31,n/a,Dillard's,N/A,54.37,61.79,06 August 2016

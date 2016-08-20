@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+2007,USD,N/A,N/A,10.09,7.86,264.14M,['NASDAQ'],N/A,n/a,4.10,N/A,N/A,370.65,NMS,8.08,312862,N/A,N/A,JASO,1.93,355809741.94,JA Solar Holdings,N/A,6.16,7.85,07 August 2016

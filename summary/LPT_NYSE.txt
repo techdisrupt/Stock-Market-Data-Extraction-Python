@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,4.72,41.51,40.36,443.46M,['NYSE'],N/A,Consumer Services,21.24,7/15/2016,N/A,5870.00,NYQ,40.08,711453,1.90,6/29/2016,LPT,1.88,n/a,Liberty Property Trust,N/A,26.94,40.25,07 August 2016

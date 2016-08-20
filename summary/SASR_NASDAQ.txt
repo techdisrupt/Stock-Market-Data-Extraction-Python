@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.19,31.25,30.07,0.00,['NASDAQ'],N/A,n/a,16.16,5/18/2016,N/A,717.98,NMS,200000.00,52884,0.96,8/8/2016,SASR,1.86,n/a,Sandy Spring Bancorp,N/A,24.04,30.21,11 August 2016

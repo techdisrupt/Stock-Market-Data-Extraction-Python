@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.25,18.87,17.19,0.00,['NASDAQ'],N/A,n/a,7.73,5/17/2016,N/A,650.81,NMS,N/A,123060,0.56,8/4/2016,DCOM,2.25,n/a,Dime Community Bancshares,N/A,15.61,17.07,06 August 2016

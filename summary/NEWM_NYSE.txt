@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Newspapers/Magazines,USD,N/A,7.71,20.11,17.15,138.01M,['NYSE'],N/A,Consumer Services,10.20,5/19/2016,N/A,776.12,NYQ,17.56,292703,1.32,5/9/2016,NEWM,1.71,2014,New Media Investment Group Inc.,N/A,13.96,17.13,07 August 2016

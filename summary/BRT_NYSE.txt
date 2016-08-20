@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,0.00,7.48,7.07,35.79M,['NYSE'],N/A,Consumer Services,4.23,N/A,N/A,99.07,NYQ,7.18,6500,0.00,9/28/2009,BRT,1.68,n/a,BRT Realty Trust,N/A,5.41,7.18,05 August 2016

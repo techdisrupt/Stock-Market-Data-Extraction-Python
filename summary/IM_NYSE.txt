@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Retail: Computer Software & Peripheral Equipment,USD,N/A,0.00,36.66,33.90,762.81M,['NYSE'],N/A,Technology,19.82,11/24/2015,N/A,5070.00,NYQ,33.90,976566,0.00,11/6/2015,IM,1.71,1996,Ingram Micro Inc.,N/A,23.79,33.93,07 August 2016

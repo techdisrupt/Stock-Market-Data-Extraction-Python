@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,5.40,4.50,-19.43M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,90.95,NCM,4.52,8303,N/A,N/A,MARK,-1.81,n/a,Remark Media,N/A,3.66,4.52,09 August 2016

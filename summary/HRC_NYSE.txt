@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Dental Instruments,USD,N/A,1.25,58.73,54.93,405.70M,['NYSE'],N/A,Health Care,96.26,6/24/2016,N/A,3710.00,NYQ,56.68,997729,0.68,6/8/2016,HRC,0.59,n/a,Hill-Rom Holdings Inc,N/A,42.99,54.33,07 August 2016

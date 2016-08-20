@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.83,26.29,24.16,0.00,['NASDAQ'],N/A,Finance,18.22,5/27/2016,N/A,1110.00,NCM,24.59,94541,0.20,5/11/2016,BNCN,1.35,n/a,BNC Bancorp,N/A,19.45,24.06,05 August 2016

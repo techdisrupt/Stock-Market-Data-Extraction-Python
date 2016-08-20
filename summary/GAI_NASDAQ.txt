@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Home Furnishings,USD,N/A,0.00,8.82,N/A,0.00,['NASDAQ'],N/A,Consumer Durables,N/A,9/5/2012,N/A,N/A,NGM,N/A,0,0.00,8/20/2012,GAI,-2.34,n/a,Global-Tech Advanced Innovations Inc.,N/A,2.75,8.80,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,49.90,43.00,206.35M,['NASDAQ'],N/A,2014,26.19,N/A,N/A,1810.00,NMS,48.55,853251,N/A,N/A,PLAY,1.65,n/a,Dave & Buster's Entertainment,N/A,29.54,42.89,06 August 2016

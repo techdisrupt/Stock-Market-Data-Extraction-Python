@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,0.82,58.23,57.89,1.22B,['NASDAQ'],N/A,Technology,49.66,6/20/2016,N/A,31080.00,NMS,58.19,9289735,0.46,5/24/2016,NVDA,1.17,1999,NVIDIA Corporation,N/A,20.00,57.23,07 August 2016

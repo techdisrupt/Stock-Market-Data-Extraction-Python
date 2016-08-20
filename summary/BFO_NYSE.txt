@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.80,15.48,15.17,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,15.20,9036,0.42,7/13/2016,BFO,0.19,2003,Blackrock Florida Municipal 2020 Term Trust,N/A,14.78,15.18,05 August 2016

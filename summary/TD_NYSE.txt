@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,3.79,45.74,44.21,0.00,['NYSE'],N/A,Finance,13.24,7/31/2016,N/A,81680.00,NYQ,45.85,1033685,1.67,7/6/2016,TD,3.37,n/a,Toronto Dominion Bank (The),N/A,33.49,44.16,14 August 2016

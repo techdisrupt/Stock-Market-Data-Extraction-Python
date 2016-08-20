@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Multi-Sector Companies,USD,N/A,0.00,10.63,5.93,13.11M,['NASDAQ'],N/A,Miscellaneous,N/A,11/30/2015,N/A,282.58,NMS,7.98,541458,0.00,11/4/2015,ACTG,-3.89,n/a,Acacia Research Corporation,N/A,2.82,5.90,04 August 2016

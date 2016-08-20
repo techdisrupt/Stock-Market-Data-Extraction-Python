@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Electronics/Appliances,USD,N/A,0.55,33.50,32.87,6.38B,['NYSE'],N/A,Consumer Non-Durables,49.88,6/10/2014,N/A,41400.00,NYQ,32.86,673013,0.18,9/25/2008,SNE,0.66,n/a,Sony Corp Ord,N/A,19.90,33.04,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Fluid Controls,USD,N/A,1.2800,50.5050,49.2000,607.00M,['NYSE'],N/A,Capital Goods,26.8821,6/22/2016,N/A,9020.00,NYQ,50.3600,1459875,0.6200,5/23/2016,XYL,1.8730,2011,Xylem Inc.,N/A,29.9000,48.4500,15 August 2016

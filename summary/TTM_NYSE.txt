@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Manufacturing,USD,N/A,0.04,39.24,38.55,4.74B,['NYSE'],N/A,Capital Goods,15.86,8/14/2014,N/A,26280.00,NYQ,38.93,721226,0.01,7/14/2016,TTM,2.44,n/a,Tata Motors Ltd,N/A,20.00,38.18,14 August 2016

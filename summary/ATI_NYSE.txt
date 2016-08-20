@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Steel/Iron Ore,USD,N/A,1.83,22.67,17.66,-152.30M,['NYSE'],N/A,Basic Industries,N/A,6/9/2016,N/A,1880.00,NYQ,17.30,1238656,0.32,5/25/2016,ATI,-4.58,n/a,Allegheny Technologies Incorporated,N/A,7.08,17.67,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,4.37,60.25,59.66,47.22M,['NYSE'],N/A,Consumer Services,47.24,6/30/2016,N/A,815.20,NYQ,60.00,6312,2.60,6/16/2016,UHT,1.27,n/a,Universal Health Realty Income Trust,N/A,42.81,59.49,15 August 2016

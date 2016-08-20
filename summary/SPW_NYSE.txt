@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,3.03,103.27,N/A,0.00,['NYSE'],N/A,Technology,N/A,N/A,N/A,N/A,NYQ,N/A,0,1.50,6/12/2015,SPW,1.46,n/a,SPX Corporation,N/A,47.89,49.44,14 August 2016

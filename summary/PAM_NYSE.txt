@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,0.00,29.25,27.71,285.24M,['NYSE'],N/A,Public Utilities,8.53,N/A,N/A,1870.00,NYQ,27.55,150197,0.00,1/12/2012,PAM,3.22,n/a,Pampa Energia S.A.,N/A,14.34,27.67,07 August 2016

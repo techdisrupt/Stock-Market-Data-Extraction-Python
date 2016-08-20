@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Clothing/Shoe/Accessory Stores,USD,N/A,3.85,40.51,33.85,119.03M,['NYSE'],N/A,Consumer Services,13.33,6/20/2016,N/A,927.09,NYQ,34.20,200381,1.32,6/2/2016,CATO,2.57,n/a,Cato Corporation (The),N/A,30.94,33.59,06 August 2016

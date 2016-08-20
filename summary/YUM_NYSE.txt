@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.05,90.68,89.930,2.95B,['NYSE'],N/A,n/a,27.126,8/5/2016,N/A,35090.00,NYQ,89.990,1086700,1.84,7/13/2016,YUM,3.32,n/a,Yum! Brands,N/A,64.58,89.96,15 August 2016

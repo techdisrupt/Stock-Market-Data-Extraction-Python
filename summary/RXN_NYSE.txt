@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,22.97,21.25,314.50M,['NYSE'],N/A,Technology,33.13,N/A,N/A,2160.00,NYQ,21.08,244202,N/A,N/A,RXN,0.64,2012,Rexnord Corporation,N/A,14.04,21.25,09 August 2016

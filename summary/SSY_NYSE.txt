@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.00,1.86,0.66,-1.41M,['NYSE'],N/A,n/a,N/A,N/A,N/A,6.14,ASE,0.67,2744,0.00,11/22/1993,SSY,-1.36,n/a,SunLink Health Systems,N/A,0.36,0.65,14 August 2016

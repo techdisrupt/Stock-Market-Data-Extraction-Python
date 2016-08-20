@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,50.31,33.69,53.52M,['NASDAQ'],N/A,2009,904.32,N/A,N/A,5760.00,NMS,33.72,2694628,N/A,N/A,FTNT,0.04,n/a,Fortinet,N/A,23.16,33.81,07 August 2016

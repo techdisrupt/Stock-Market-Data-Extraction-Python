@@ -1,0 +1,31 @@
+Metadata-Version: 1.0
+Name: Quandl
+Version: 3.0.1
+Summary: Package for quandl API access
+Home-page: https://github.com/quandl/quandl-python
+Author: Quandl Development Team
+Author-email: dev@quandl.com
+License: MIT
+Description: Official Quandl API Client for Python
+        =========================================
+        
+        A Python library for Quandl's RESTful API.
+        
+        
+        Setup
+        =====
+        
+        You can install this package by using the pip tool and installing:
+        
+            $ pip install quandl
+        
+        Or:
+        
+            $ easy_install quandl
+        
+        Usage
+        =====
+        
+        You can read more about developing and using the library here: https://github.com/quandl/quandl-python
+Keywords: quandl,API,data,financial,economic
+Platform: UNKNOWN

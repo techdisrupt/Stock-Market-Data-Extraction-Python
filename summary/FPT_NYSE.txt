@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.10,14.99,14.50,0.00,['NYSE'],N/A,n/a,N/A,7/1/2016,N/A,N/A,NYQ,14.81,13698,0.67,7/20/2016,FPT,0.59,2002,Federated Premier Intermediate Municipal Income Fund,N/A,12.86,14.49,06 August 2016

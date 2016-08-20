@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Packaged Foods,USD,N/A,N/A,25.65,24.50,90.27M,['NYSE'],N/A,Consumer Non-Durables,18.00,N/A,N/A,543.39,NYQ,24.42,353084,N/A,N/A,OME,1.36,1998,Omega Protein Corporation,N/A,14.58,24.50,07 August 2016

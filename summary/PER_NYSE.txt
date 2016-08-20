@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,17.14,6.42,2.86,0.00,['NYSE'],N/A,Energy,2.20,5/27/2016,N/A,139.13,NYQ,3.05,304438,0.48,8/10/2016,PER,1.20,2011,SandRidge Permian Trust,N/A,2.01,2.89,11 August 2016

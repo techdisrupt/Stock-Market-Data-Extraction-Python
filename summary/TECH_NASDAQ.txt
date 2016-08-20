@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Biological Products (No Diagnostic Substances),USD,N/A,1.14,117.42,112.70,188.53M,['NASDAQ'],N/A,Health Care,40.08,5/27/2016,N/A,4190.00,NMS,112.59,96289,1.28,5/11/2016,TECH,2.81,n/a,Bio-Techne Corp,N/A,79.95,112.47,05 August 2016

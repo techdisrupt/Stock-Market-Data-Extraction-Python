@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,2.08,34.07,32.89,264.50M,['NASDAQ'],N/A,n/a,14.87,7/15/2016,N/A,2010.00,NMS,33.61,346046,0.68,5/25/2016,MLHR,2.26,n/a,Herman Miller,N/A,22.60,32.72,07 August 2016

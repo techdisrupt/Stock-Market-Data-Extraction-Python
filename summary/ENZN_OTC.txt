@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.000,1.560,0.395,0.00,['OTC'],N/A,1984,1.103,12/29/2015,N/A,17.55,PNK,N/A,80703,0.000,12/30/2015,ENZN,0.360,n/a,Enzon Pharmaceuticals,N/A,0.390,0.391,06 August 2016

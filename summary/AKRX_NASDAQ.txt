@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.00,45.21,35.30,435.88M,['NASDAQ'],N/A,n/a,24.89,N/A,N/A,3730.00,NMS,32.36,3522453,0.00,N/A,AKRX,1.25,n/a,Akorn,N/A,17.57,33.01,04 August 2016

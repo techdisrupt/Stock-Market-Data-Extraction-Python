@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Newspapers/Magazines,USD,N/A,N/A,2.08,0.40,0.00,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,N/A,NCM,N/A,0,N/A,N/A,REDF,-0.39,n/a,Rediff.com India Limited,N/A,0.25,0.38,09 August 2016

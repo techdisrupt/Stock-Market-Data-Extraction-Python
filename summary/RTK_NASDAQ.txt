@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.00,8.00,2.55,-17.64M,['NASDAQ'],N/A,1991,N/A,12/27/2012,N/A,59.68,NCM,2.60,58585,0.00,12/18/2012,RTK,-5.49,n/a,Rentech,N/A,0.65,2.57,09 August 2016

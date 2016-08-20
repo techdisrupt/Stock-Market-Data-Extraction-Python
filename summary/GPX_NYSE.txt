@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,N/A,28.59,23.29,40.75M,['NYSE'],N/A,Consumer Services,21.31,N/A,N/A,390.07,NYQ,23.46,48563,N/A,10/3/2005,GPX,1.10,n/a,GP Strategies Corporation,N/A,19.59,22.97,07 August 2016

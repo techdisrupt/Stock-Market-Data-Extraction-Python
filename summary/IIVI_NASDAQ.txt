@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,N/A,23.39,20.41,147.53M,['NASDAQ'],N/A,Capital Goods,19.77,N/A,N/A,1270.00,NMS,22.65,278293,N/A,N/A,IIVI,1.04,1987,II-VI Incorporated,N/A,15.04,20.23,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Diversified Electronic Products,USD,N/A,N/A,31.750,29.600,465.70M,['NASDAQ'],N/A,Consumer Durables,26.923,N/A,N/A,3890.00,NMS,29.620,623797,N/A,N/A,VWR,1.100,2014,VWR Corporation,N/A,21.560,29.550,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,5.25,2.48,-7.60M,['NASDAQ'],N/A,2000,N/A,N/A,N/A,69.57,NGM,2.51,174143,N/A,N/A,PXLW,-0.53,n/a,Pixelworks,N/A,1.22,2.48,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.00,2.18,N/A,0.00,['NASDAQ'],N/A,Finance,3.80,N/A,N/A,351.23,NMS,N/A,0,0.00,5/13/2009,HMPR,0.54,n/a,Hampton Roads Bankshares Inc,N/A,1.55,2.05,07 August 2016

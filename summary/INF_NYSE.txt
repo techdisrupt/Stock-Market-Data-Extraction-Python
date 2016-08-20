@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,10.80,15.10,13.76,0.00,['NYSE'],N/A,n/a,N/A,6/23/2016,N/A,N/A,NYQ,13.71,56321,1.40,7/19/2016,INF,N/A,n/a,Brookfield Global Listed Infrastructure Income Fund,N/A,8.48,13.67,05 August 2016

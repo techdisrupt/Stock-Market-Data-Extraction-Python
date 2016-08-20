@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,5.56,59.74,41.00,1.40B,['NYSE'],N/A,Public Utilities,26.36,4/11/2016,N/A,8820.00,NYQ,40.80,98447,2.27,3/9/2016,PHI,1.55,n/a,Philippine Long Distance Telephone Company,N/A,34.26,40.71,08 August 2016

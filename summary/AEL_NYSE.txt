@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,1.43,28.46,16.06,307.41M,['NYSE'],N/A,Finance,7.28,12/14/2015,N/A,1240.00,NYQ,15.14,940953,0.22,11/25/2015,AEL,2.08,2003,American Equity Investment Life Holding Company,N/A,12.65,16.08,05 August 2016

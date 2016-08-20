@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,N/A,64.27,41.95,1.25B,['NASDAQ'],N/A,Consumer Services,19.03,N/A,N/A,9780.00,NMS,48.00,1837222,N/A,N/A,NCLH,2.27,2013,Norwegian Cruise Line Holdings Ltd.,N/A,37.01,41.66,07 August 2016

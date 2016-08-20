@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,40.63,17.35,90.25M,['NASDAQ'],N/A,2013,25.46,N/A,N/A,1260.00,NGM,17.95,738101,N/A,N/A,INSY,0.69,n/a,Insys Therapeutics,N/A,11.45,17.30,07 August 2016

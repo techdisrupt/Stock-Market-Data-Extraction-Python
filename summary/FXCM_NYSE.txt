@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,0.00,24.77,10.17,-10.22M,['NYSE'],N/A,Finance,N/A,12/31/2014,N/A,55.46,NYQ,9.90,43505,0.00,12/17/2014,FXCM,-14.57,2010,FXCM Inc.,N/A,5.26,10.12,07 August 2016

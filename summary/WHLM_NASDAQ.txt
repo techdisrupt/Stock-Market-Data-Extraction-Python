@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,7.63,6.74,2.39M,['NASDAQ'],N/A,n/a,42.46,N/A,N/A,41.97,NCM,7.25,64,0.00,8/14/2006,WHLM,0.17,n/a,Wilhelmina International,N/A,5.50,7.26,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,2.10,12.77,11.46,67.67M,['NASDAQ'],N/A,Technology,N/A,7/12/2016,N/A,5810.00,NMS,11.58,2375534,0.24,6/10/2016,MRVL,-1.67,2000,Marvell Technology Group Ltd.,N/A,7.40,11.41,07 August 2016

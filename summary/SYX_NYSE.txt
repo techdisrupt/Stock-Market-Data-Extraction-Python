@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Catalog/Specialty Distribution,USD,N/A,2.30,10.00,8.58,19.50M,['NYSE'],N/A,Consumer Services,N/A,12/21/2012,N/A,313.03,NYQ,8.49,15690,0.20,12/10/2012,SYX,-1.82,n/a,Systemax Inc.,N/A,7.17,8.70,14 August 2016

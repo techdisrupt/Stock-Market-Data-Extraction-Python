@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,9.09,11.86,6.85,75.87M,['NYSE'],N/A,2011,93.84,5/16/2016,N/A,775.98,NYQ,6.83,243220,0.68,8/4/2016,UAN,0.07,n/a,CVR Partners,N/A,4.77,6.84,06 August 2016

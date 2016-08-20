@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Containers/Packaging,USD,N/A,1.40,56.06,48.68,460.56M,['NASDAQ'],N/A,Consumer Durables,18.71,6/15/2016,N/A,2910.00,NMS,48.13,222288,0.68,5/27/2016,SLGN,2.57,1997,Silgan Holdings Inc.,N/A,47.00,48.79,13 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,0.210,0.191,-1.87M,['OTC'],N/A,n/a,N/A,N/A,N/A,29.18,PNK,N/A,439052,N/A,N/A,SVBL,-0.115,n/a,Silver Bull Resources,N/A,0.020,0.179,13 August 2016

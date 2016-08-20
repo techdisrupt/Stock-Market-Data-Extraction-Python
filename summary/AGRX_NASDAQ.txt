@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,10.41,7.08,-33.08M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,199.76,NGM,7.03,19219,N/A,N/A,AGRX,-1.24,n/a,Agile Therapeutics,N/A,5.32,7.05,04 August 2016

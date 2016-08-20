@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.5400,10.7700,10.6500,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,ASE,10.6100,5773,0.4800,7/20/2016,SBI,0.3250,1992,Western Asset Intermediate Muni Fund Inc,N/A,9.5200,10.6400,15 August 2016

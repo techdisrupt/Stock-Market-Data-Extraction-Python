@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,7.42,56.92,46.09,645.00M,['NYSE'],N/A,Energy,20.26,5/13/2016,N/A,4560.00,NYQ,49.87,571479,3.37,7/29/2016,TLLP,2.23,2011,Tesoro Logistics LP,N/A,35.18,45.40,14 August 2016

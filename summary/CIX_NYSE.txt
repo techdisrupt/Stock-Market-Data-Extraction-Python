@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.00,15.99,12.47,17.18M,['NYSE'],N/A,Capital Goods,17.56,6/14/2016,N/A,155.39,ASE,12.91,1270,0.00,6/2/2016,CIX,0.71,1998,CompX International Inc.,N/A,8.46,12.33,06 August 2016

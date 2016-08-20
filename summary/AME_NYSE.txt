@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,0.78,57.67,43.50,1.07B,['NYSE'],N/A,n/a,18.89,6/30/2016,N/A,10720.00,NYQ,45.91,4362330,0.36,6/14/2016,AME,2.43,n/a,AMTEK,N/A,42.82,46.85,05 August 2016

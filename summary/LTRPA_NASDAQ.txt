@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,32.01,21.53,241.00M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,1540.00,NMS,39.78,1123445,N/A,N/A,LTRPA,-0.60,n/a,Liberty TripAdvisor Holdings,N/A,17.23,21.41,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,N/A,10.61,7.47,995.00M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,1080.00,NMS,7.91,801099,N/A,N/A,CZR,-22.39,2012,Caesars Entertainment Corporation,N/A,5.60,7.47,05 August 2016

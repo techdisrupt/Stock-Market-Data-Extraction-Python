@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.13,239.95,228.73,1.47B,['NYSE'],N/A,n/a,21.01,6/1/2016,N/A,13960.00,NYQ,231.00,155533,4.88,8/4/2016,GWW,10.99,n/a,W.W. Grainger,N/A,176.85,228.97,15 August 2016

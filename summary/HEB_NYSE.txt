@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,0.2000,0.1850,-14.17M,['NYSE'],N/A,n/a,N/A,N/A,N/A,46.24,ASE,0.1870,4561306,N/A,N/A,HEB,-0.0570,n/a,Hemispherx BioPharma,N/A,0.0600,0.1800,07 August 2016

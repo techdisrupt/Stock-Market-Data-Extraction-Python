@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,1.77,21.17,16.95,0.00,['NASDAQ'],N/A,n/a,12.60,8/1/2016,N/A,521.20,NMS,17.26,151233,0.30,7/14/2016,CNOB,1.37,n/a,ConnectOne Bancorp,N/A,14.86,16.78,06 August 2016

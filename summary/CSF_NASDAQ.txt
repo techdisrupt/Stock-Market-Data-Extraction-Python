@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,38.67,35.25,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,35.35,1775,0.00,N/A,CSF,N/A,n/a,Compass EMP U.S. Discovery 500 Enhanced Volatility Weighted Fu,N/A,29.98,34.85,06 August 2016

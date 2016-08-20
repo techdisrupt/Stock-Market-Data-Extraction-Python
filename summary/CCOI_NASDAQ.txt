@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,3.46,43.61,37.75,121.62M,['NASDAQ'],N/A,n/a,167.41,6/7/2016,N/A,1640.00,NMS,44.00,1214585,1.48,5/18/2016,CCOI,0.22,n/a,Cogent Communications Holdings,N/A,25.84,37.30,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,22.80,7.840,1.01B,['NYSE'],N/A,Energy,N/A,N/A,N/A,2310.00,NYQ,8.40,19363674,N/A,N/A,WLL,-11.6170,2003,Whiting Petroleum Corporation,N/A,3.3500,7.6600,15 August 2016

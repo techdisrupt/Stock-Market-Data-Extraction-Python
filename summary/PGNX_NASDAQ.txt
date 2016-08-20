@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,8.85,6.28,-33.36M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,445.80,NMS,6.37,865141,N/A,N/A,PGNX,-0.51,1997,Progenics Pharmaceuticals Inc.,N/A,3.61,6.28,08 August 2016

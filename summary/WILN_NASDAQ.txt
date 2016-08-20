@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Multi-Sector Companies,USD,N/A,2.13,3.04,1.82,60.57M,['NASDAQ'],N/A,Miscellaneous,45.50,7/7/2016,N/A,216.77,NMS,1.82,32286,0.04,6/9/2016,WILN,0.04,n/a,Wi-Lan Inc,N/A,0.93,1.79,15 August 2016

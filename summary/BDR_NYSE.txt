@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,1.10,0.64,-4.04M,['NYSE'],N/A,n/a,N/A,N/A,N/A,4.19,ASE,0.72,682568,N/A,N/A,BDR,-0.86,n/a,Blonder Tongue Laboratories,N/A,0.28,0.64,05 August 2016

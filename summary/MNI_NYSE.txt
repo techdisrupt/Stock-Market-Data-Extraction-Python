@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Newspapers/Magazines,USD,N/A,0.00,19.77,18.62,146.01M,['NYSE'],N/A,Consumer Services,N/A,N/A,N/A,148.08,NYQ,18.85,25932,0.00,3/9/2009,MNI,-2.45,1988,McClatchy Company (The),N/A,8.30,18.61,07 August 2016

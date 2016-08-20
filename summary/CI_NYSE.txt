@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical Specialities,USD,N/A,0.03,149.86,129.07,3.77B,['NYSE'],N/A,Health Care,16.67,4/11/2016,N/A,32970.00,NYQ,145.69,1504144,0.04,3/9/2016,CI,7.71,n/a,Cigna Corporation,N/A,121.87,128.28,06 August 2016

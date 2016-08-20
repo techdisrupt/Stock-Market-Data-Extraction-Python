@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.6900,26.7700,25.4300,0.00,['NASDAQ'],N/A,n/a,30.9853,6/30/2016,N/A,770.04,NMS,25.4300,701,1.6900,7/20/2016,GAINO,0.8210,n/a,Gladstone Investment Corporation,N/A,22.1000,25.3771,07 August 2016

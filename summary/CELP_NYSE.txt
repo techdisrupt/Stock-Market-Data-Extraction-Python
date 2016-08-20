@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,13.84,13.99,10.69,18.15M,['NYSE'],N/A,2014,83.17,5/13/2016,N/A,121.13,NYQ,10.50,38806,1.63,8/3/2016,CELP,0.12,n/a,Cypress Energy Partners,N/A,5.28,10.60,06 August 2016

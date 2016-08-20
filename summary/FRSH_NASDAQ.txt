@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,20.29,5.74,22.82M,['NASDAQ'],N/A,2014,30.28,N/A,N/A,90.93,NMS,5.94,826238,N/A,N/A,FRSH,0.18,n/a,Papa Murphy's Holdings,N/A,5.32,5.60,07 August 2016

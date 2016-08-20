@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Homebuilding,USD,N/A,2.07,1.53,1.31,38.20M,['NYSE'],N/A,Basic Industries,N/A,12/18/2014,N/A,248.05,NYQ,1.40,339319,0.03,4/26/2016,GFA,-0.02,2007,Gafisa SA,N/A,0.88,1.31,07 August 2016

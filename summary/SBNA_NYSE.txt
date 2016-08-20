@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,N/A,24.8600,24.1000,0.00,['NYSE'],N/A,Transportation,N/A,8/15/2016,N/A,N/A,NYQ,24.1900,2779,N/A,10/29/2014,SBNA,1.2000,2014,Scorpio Tankers Inc.,N/A,17.4500,24.0600,13 August 2016

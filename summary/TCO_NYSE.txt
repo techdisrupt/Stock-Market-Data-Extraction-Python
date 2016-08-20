@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.99,81.68,78.12,325.94M,['NYSE'],N/A,1992,41.43,6/30/2016,N/A,4750.00,NYQ,78.74,225052,2.38,6/13/2016,TCO,1.90,n/a,Taubman Centers,N/A,63.32,78.12,14 August 2016

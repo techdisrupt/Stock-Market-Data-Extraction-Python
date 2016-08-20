@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,15.73,8.47,14.78M,['NASDAQ'],N/A,2006,N/A,N/A,N/A,611.72,NMS,8.34,1861146,N/A,N/A,CROX,-1.17,n/a,Crocs,N/A,7.63,8.44,06 August 2016

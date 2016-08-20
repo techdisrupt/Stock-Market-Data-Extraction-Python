@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,8.87,7.21,3.80M,['NASDAQ'],N/A,Energy,N/A,12/27/2012,N/A,160.46,NMS,N/A,149645,0.00,12/13/2012,DWSN,-1.31,1981,Dawson Geophysical Company,N/A,2.90,7.24,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,6.08,4.68,145.25M,['NYSE'],N/A,Energy,N/A,11/18/2015,N/A,1360.00,NYQ,5.25,1543734,0.00,11/4/2015,PDS,-1.13,n/a,Precision Drilling Corporation,N/A,2.43,4.71,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,N/A,41.9200,17.0933,N/A,['NASDAQ'],N/A,Finance,N/A,N/A,N/A,N/A,NGM,17.2500,300,N/A,N/A,TAPR,N/A,n/a,Barclays Inverse US Treasury Composite ETN,N/A,17.0933,16.9000,05 August 2016

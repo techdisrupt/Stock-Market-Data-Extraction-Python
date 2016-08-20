@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,10.48,7.15,56.00M,['NYSE'],N/A,2007,N/A,N/A,N/A,360.13,NYQ,7.19,188355,N/A,N/A,DHX,-0.32,n/a,Dice Holdings,N/A,5.99,7.07,06 August 2016

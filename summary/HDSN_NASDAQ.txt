@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,5.63,4.95,15.51M,['NASDAQ'],N/A,n/a,20.70,N/A,N/A,158.03,NCM,4.90,340495,N/A,N/A,HDSN,0.23,n/a,Hudson Technologies,N/A,2.45,4.95,07 August 2016

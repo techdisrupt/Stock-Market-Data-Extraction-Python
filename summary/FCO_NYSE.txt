@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.60,8.99,8.87,0.00,['NYSE'],N/A,1992,N/A,6/27/2016,N/A,N/A,ASE,8.89,27047,0.84,7/19/2016,FCO,-0.38,n/a,Aberdeen Global Income Fund,N/A,6.81,8.83,04 August 2016

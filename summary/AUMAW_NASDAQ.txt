@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,N/A,0.058,0.055,0.00,['NASDAQ'],N/A,Finance,N/A,N/A,N/A,387420.00,NCM,0.062,30900,N/A,N/A,AUMAW,-0.110,2014,AR Capital Acquisition Corp.,N/A,0.053,0.055,05 August 2016

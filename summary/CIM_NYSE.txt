@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,11.35,16.98,16.57,0.00,['NYSE'],N/A,Consumer Services,12.22,7/29/2016,N/A,3110.00,NYQ,16.51,1952797,1.92,6/28/2016,CIM,1.35,2007,Chimera Investment Corporation,N/A,10.89,16.53,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,6.13,51.77,33.16,712.30M,['NYSE'],N/A,Energy,N/A,5/13/2016,N/A,10820.00,NYQ,36.48,1035601,2.04,7/29/2016,MPLX,-0.67,2012,MPLX LP,N/A,16.34,33.27,07 August 2016

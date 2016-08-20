@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,1.33,0.88,-17.91M,['NASDAQ'],N/A,2000,N/A,N/A,N/A,49.20,NMS,4.23,28698,N/A,N/A,SPRT,-0.36,n/a,support.com,N/A,0.70,0.85,14 August 2016

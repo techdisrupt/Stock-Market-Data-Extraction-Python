@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,90.53,47.71,148.18M,['NASDAQ'],N/A,2002,15.12,N/A,N/A,665.02,NMS,48.74,251799,N/A,N/A,RRGB,3.22,n/a,Red Robin Gourmet Burgers,N/A,45.04,47.33,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.8800,27.7300,25.7400,0.00,['NASDAQ'],N/A,2011,15.5116,1/8/2016,N/A,50.88,NCM,25.9500,1420,1.0000,12/28/2015,WBKC,1.6600,n/a,Wolverine Bancorp,N/A,25.2500,25.7500,15 August 2016

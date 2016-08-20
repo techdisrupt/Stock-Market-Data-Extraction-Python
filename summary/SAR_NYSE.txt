@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.36,18.71,N/A,0.00,['NYSE'],N/A,n/a,13.19,4/27/2016,N/A,100.93,NYQ,N/A,0,1.60,7/27/2016,SAR,1.33,n/a,Saratoga Investment Corp,N/A,13.41,17.58,11 August 2016

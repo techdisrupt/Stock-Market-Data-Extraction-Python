@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,N/A,1.65,1.12,3.09M,['NASDAQ'],N/A,Technology,13.86,N/A,N/A,11.66,NCM,N/A,12340,N/A,N/A,ELTK,0.08,1997,Eltek Ltd.,N/A,0.85,1.10,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,1.67,52.99,43.15,119.07M,['NASDAQ'],N/A,n/a,28.00,7/29/2016,N/A,957.14,NMS,43.98,42642,0.72,7/20/2016,ECOL,1.57,n/a,US Ecology,N/A,29.89,43.20,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,5.56,29.28,23.83,378.22M,['NYSE'],N/A,Consumer Services,14.96,7/15/2016,N/A,2910.00,NYQ,24.40,930243,1.32,6/28/2016,RLJ,1.58,2011,RLJ Lodging Trust,N/A,16.15,23.80,09 August 2016

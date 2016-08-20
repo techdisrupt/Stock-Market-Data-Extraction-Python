@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,1.09,116.97,110.05,1.41B,['NASDAQ'],N/A,Technology,29.12,7/18/2016,N/A,28530.00,NMS,N/A,900698,1.20,7/8/2016,INTU,3.83,1993,Intuit Inc.,N/A,79.63,109.90,07 August 2016

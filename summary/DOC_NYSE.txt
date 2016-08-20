@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,4.27,21.99,21.09,112.26M,['NYSE'],N/A,Consumer Services,107.40,7/18/2016,N/A,2770.00,NYQ,25.00,1044862,0.90,6/30/2016,DOC,0.20,2013,Physicians Realty Trust,N/A,13.86,21.06,08 August 2016

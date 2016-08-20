@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,0.00,66.38,60.77,103.88M,['NYSE'],N/A,Consumer Services,53.00,12/28/2012,N/A,4950.00,NYQ,63.54,784105,0.00,12/5/2012,XRS,1.15,2010,TAL Education Group,N/A,26.48,60.70,14 August 2016

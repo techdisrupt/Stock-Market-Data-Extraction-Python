@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Communications Equipment,USD,N/A,N/A,15.8267,15.7100,105.66M,['NASDAQ'],N/A,Technology,21.5035,N/A,N/A,1320.00,NMS,15.7900,1505578,N/A,N/A,QLGC,0.7340,n/a,QLogic Corporation,N/A,8.8100,15.7600,08 August 2016

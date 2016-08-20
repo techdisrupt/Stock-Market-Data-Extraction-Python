@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.70,15.06,14.73,0.00,['NYSE'],N/A,1992,N/A,8/1/2016,N/A,N/A,NYQ,14.72,45258,0.85,7/13/2016,MQT,1.10,n/a,Blackrock MuniYield Quality Fund II,N/A,12.55,14.73,05 August 2016

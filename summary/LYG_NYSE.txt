@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,3.13,5.15,2.78,0.00,['NYSE'],N/A,Finance,26.76,5/27/2016,N/A,41920.00,NYQ,2.92,9242912,0.09,4/6/2016,LYG,0.11,n/a,Lloyds Banking Group Plc,N/A,2.47,2.81,07 August 2016

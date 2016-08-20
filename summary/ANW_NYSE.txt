@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil Refining/Marketing,USD,N/A,1.26,11.85,6.39,107.82M,['NYSE'],N/A,Energy,8.97,6/21/2016,N/A,321.73,NYQ,6.44,132325,0.08,6/3/2016,ANW,0.72,2006,Aegean Marine Petroleum Network Inc.,N/A,5.00,6.38,04 August 2016

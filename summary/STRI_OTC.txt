@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.0000,1.0000,0.1858,-9.83M,['OTC'],N/A,2009,N/A,1/2/2015,N/A,3.18,PNK,N/A,84800,0.0000,1/5/2015,STRI,-0.6330,n/a,STR Holdings,N/A,0.1500,0.1652,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.00,4.84,4.65,-35.14M,['NASDAQ'],N/A,1997,N/A,8/23/2011,N/A,171.12,NMS,4.66,16637,0.00,8/24/2011,RNWK,-1.46,n/a,RealNetworks,N/A,3.04,4.68,08 August 2016

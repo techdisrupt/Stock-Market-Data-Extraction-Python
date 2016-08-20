@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Chemicals,USD,N/A,2.43,140.47,133.80,1.24B,['NYSE'],N/A,Consumer Durables,25.83,8/12/2016,N/A,17100.00,NYQ,132.17,1125442,3.20,7/25/2016,CLX,5.12,n/a,Clorox Company (The),N/A,106.00,133.91,06 August 2016

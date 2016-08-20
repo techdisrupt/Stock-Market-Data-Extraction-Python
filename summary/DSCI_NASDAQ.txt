@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,6.85,5.20,-13.01M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,135.39,NCM,6.24,43840,N/A,N/A,DSCI,-1.13,n/a,Derma Sciences,N/A,2.85,5.19,06 August 2016

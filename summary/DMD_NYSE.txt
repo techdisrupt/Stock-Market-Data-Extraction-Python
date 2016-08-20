@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,6.47,5.59,-22.42M,['NYSE'],N/A,Technology,N/A,N/A,N/A,109.14,NYQ,5.41,126071,N/A,N/A,DMD,-2.43,2011,Demand Media Inc.,N/A,3.94,5.66,06 August 2016

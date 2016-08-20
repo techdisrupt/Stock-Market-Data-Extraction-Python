@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,7.70,9.18,9.16,0.00,['NYSE'],N/A,n/a,N/A,6/30/2016,N/A,N/A,NYQ,9.18,20838,0.61,7/14/2016,KHI,-0.23,1988,Scudder High Income Trust,N/A,7.29,9.17,13 August 2016

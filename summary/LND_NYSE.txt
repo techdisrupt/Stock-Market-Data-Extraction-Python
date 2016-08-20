@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Farming/Seeds/Milling,USD,N/A,9.32,4.11,3.95,54.19M,['NYSE'],N/A,Consumer Non-Durables,4.00,11/23/2015,N/A,222.35,NYQ,N/A,59,0.36,12/26/2013,LND,0.99,n/a,Brasilagro Cia Brasileira De Propriedades Agricolas,N/A,2.15,3.95,05 August 2016

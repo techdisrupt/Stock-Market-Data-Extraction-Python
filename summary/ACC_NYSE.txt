@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.08,54.56,53.95,378.78M,['NYSE'],N/A,Consumer Services,69.48,5/27/2016,N/A,7020.00,NYQ,53.79,483727,1.68,5/12/2016,ACC,0.77,2004,American Campus Communities Inc,N/A,32.12,53.83,05 August 2016

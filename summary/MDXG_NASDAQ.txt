@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,11.74,7.71,25.98M,['NASDAQ'],N/A,n/a,36.35,N/A,N/A,844.02,NCM,8.01,901566,N/A,N/A,MDXG,0.21,n/a,MiMedx Group,N/A,6.64,7.68,07 August 2016

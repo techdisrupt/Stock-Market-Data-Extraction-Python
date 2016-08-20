@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Manufacturing,USD,N/A,3.47,163.60,162.00,17.97B,['NYSE'],N/A,Technology,13.30,6/10/2016,N/A,156280.00,NYQ,163.77,3812370,5.60,5/6/2016,IBM,12.30,n/a,International Business Machines Corporation,N/A,116.90,161.55,07 August 2016

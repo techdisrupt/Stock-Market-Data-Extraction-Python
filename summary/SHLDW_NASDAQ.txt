@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,5.69,5.57,0.00,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NMS,N/A,2506,N/A,N/A,SHLDW,N/A,n/a,Sears Holdings Corporation,N/A,5.03,5.43,13 August 2016

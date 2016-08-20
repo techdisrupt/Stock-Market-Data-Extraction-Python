@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,0.00,1.92,0.74,-17.74M,['NASDAQ'],N/A,1998,N/A,3/19/2015,N/A,60.83,NCM,0.77,45215,0.00,3/3/2015,BEBE,-0.73,n/a,bebe stores,N/A,0.29,0.73,05 August 2016

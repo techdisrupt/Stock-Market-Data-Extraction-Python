@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,N/A,11.00,10.22,7.29M,['NASDAQ'],N/A,Capital Goods,28.53,N/A,N/A,252.54,NMS,11.93,1134969,N/A,N/A,CTRL,0.38,2013,Control4 Corporation,N/A,5.41,9.51,06 August 2016

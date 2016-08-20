@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,1.93,70.38,67.99,3.26B,['NYSE'],N/A,Finance,16.75,7/1/2016,N/A,25690.00,NYQ,68.63,2144426,1.32,6/1/2016,ALL,4.10,n/a,Allstate Corporation (The),N/A,54.12,68.63,04 August 2016

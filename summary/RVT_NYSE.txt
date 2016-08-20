@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.00,13.04,12.76,0.00,['NYSE'],N/A,1986,N/A,6/27/2016,N/A,N/A,NYQ,13.00,135577,1.16,6/9/2016,RVT,-1.33,n/a,Royce Value Trust,N/A,9.42,12.75,10 August 2016

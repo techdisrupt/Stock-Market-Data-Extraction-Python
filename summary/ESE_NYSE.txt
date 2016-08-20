@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.74,43.86,42.94,94.70M,['NYSE'],N/A,Consumer Durables,26.76,7/19/2016,N/A,1120.00,NYQ,43.38,97685,0.32,6/30/2016,ESE,1.62,n/a,ESCO Technologies Inc.,N/A,31.50,42.86,06 August 2016

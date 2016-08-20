@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Laboratory Analytical Instruments,USD,N/A,0.00,161.22,158.55,685.14M,['NYSE'],N/A,Capital Goods,26.76,N/A,N/A,12870.00,NYQ,159.48,167995,0.00,N/A,WAT,5.97,1995,Waters Corporation,N/A,112.00,158.25,15 August 2016

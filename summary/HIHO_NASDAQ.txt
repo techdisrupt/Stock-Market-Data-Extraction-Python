@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,9.07,5.84,4.77,1.83M,['NASDAQ'],N/A,Capital Goods,14.10,4/18/2016,N/A,17.61,NCM,5.12,22409,0.40,12/4/2015,HIHO,0.33,n/a,Highway Holdings Limited,N/A,2.61,4.78,07 August 2016

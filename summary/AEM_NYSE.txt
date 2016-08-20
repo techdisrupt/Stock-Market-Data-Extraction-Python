@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.68,60.10,59.30,798.80M,['NYSE'],N/A,Basic Industries,412.21,9/15/2016,N/A,13360.00,NYQ,59.82,1111078,0.40,5/27/2016,AEM,0.14,n/a,Agnico Eagle Mines Limited,N/A,21.00,59.32,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Radio And Television Broadcasting And Communications Equipment,USD,N/A,N/A,14.78,12.64,-30.63M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,214.87,NCM,13.30,401060,N/A,N/A,WATT,-2.21,2014,Energous Corporation,N/A,3.65,12.58,06 August 2016

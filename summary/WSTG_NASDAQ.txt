@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,3.780,19.640,17.980,8.62M,['NASDAQ'],N/A,n/a,14.618,5/17/2016,N/A,82.08,NGM,18.290,3394,0.680,8/4/2016,WSTG,1.242,n/a,Wayside Technology Group,N/A,11.710,17.980,15 August 2016

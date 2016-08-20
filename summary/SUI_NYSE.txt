@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.33,85.98,78.40,324.89M,['NYSE'],N/A,1993,39.30,7/15/2016,N/A,5410.00,NYQ,78.71,289662,2.60,6/28/2016,SUI,2.00,n/a,Sun Communities,N/A,61.65,78.10,14 August 2016

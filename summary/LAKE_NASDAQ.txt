@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,15.78,10.02,9.69M,['NASDAQ'],N/A,1986,28.40,N/A,N/A,73.34,NGM,13.48,109873,N/A,N/A,LAKE,0.36,n/a,Lakeland Industries,N/A,8.00,10.00,07 August 2016

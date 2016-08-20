@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.3500,14.0600,13.6000,0.00,['NASDAQ'],N/A,n/a,11.0672,7/29/2016,N/A,92.77,NCM,N/A,4203,0.3200,7/13/2016,PKBK,1.9140,n/a,Parke Bancorp,N/A,10.8700,13.5999,07 August 2016

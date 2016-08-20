@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.88,9.99,9.74,0.00,['NYSE'],N/A,Finance,18.71,5/20/2016,N/A,879.50,NYQ,9.89,417582,0.28,8/4/2016,FCF,0.53,n/a,First Commonwealth Financial Corporation,N/A,7.85,9.66,06 August 2016

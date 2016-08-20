@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,1.76,51.81,47.37,600.50M,['NASDAQ'],N/A,1990,16.52,6/10/2016,N/A,4860.00,NMS,47.78,471327,0.84,5/12/2016,BEAV,2.89,n/a,B/E Aerospace,N/A,36.38,47.32,05 August 2016

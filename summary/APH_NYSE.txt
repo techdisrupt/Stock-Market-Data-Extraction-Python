@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,0.94,60.50,59.02,1.35B,['NYSE'],N/A,Capital Goods,24.35,7/7/2016,N/A,18250.00,NYQ,59.19,881391,0.56,6/10/2016,APH,2.43,n/a,Amphenol Corporation,N/A,44.50,59.03,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Broadcasting,USD,N/A,0.36,33.61,26.46,1.74B,['NYSE'],N/A,Consumer Services,152.89,6/10/2016,N/A,64900.00,NYQ,26.47,3289467,0.09,5/26/2016,TV,0.17,1993,Grupo Televisa S.A.,N/A,23.25,26.41,07 August 2016

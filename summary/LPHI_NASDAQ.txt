@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,0,3,N/A,0.00,['NASDAQ'],N/A,Finance,N/A,N/A,N/A,N/A,NMS,N/A,0,0,9/11/2014,LPHI,-0,n/a,Life Partners Holdings Inc,N/A,0,0,07 August 2016

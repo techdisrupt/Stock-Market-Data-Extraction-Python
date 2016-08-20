@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.93,27.25,26.74,51.20M,['NASDAQ'],N/A,n/a,12.98,6/7/2016,N/A,405.30,NGM,26.93,19727,1.04,5/20/2016,BWINB,2.07,n/a,Baldwin & Lyons,N/A,21.27,26.58,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,5.93,16.49,10.83,1.19B,['NYSE'],N/A,Finance,18.66,5/23/2016,N/A,22170.00,NYQ,10.97,207719,0.61,4/6/2016,AV,0.59,n/a,Aviva plc,N/A,9.11,10.82,05 August 2016

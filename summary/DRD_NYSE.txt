@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,4.82,9.10,8.33,18.68M,['NYSE'],N/A,Basic Industries,56.78,6/9/2016,N/A,356.61,NYQ,8.03,574613,0.39,5/25/2016,DRD,0.15,n/a,DRDGOLD Limited,N/A,1.10,8.64,06 August 2016

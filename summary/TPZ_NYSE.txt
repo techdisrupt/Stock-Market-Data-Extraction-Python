@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.80,23.54,20.34,0.00,['NYSE'],N/A,2009,N/A,7/29/2016,N/A,N/A,NYQ,20.41,11954,0.79,7/20/2016,TPZ,N/A,n/a,Tortoise Power and Energy Infrastructure Fund,N/A,12.33,20.16,14 August 2016

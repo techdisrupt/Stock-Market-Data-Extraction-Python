@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,6.40,25.72,16.19,675.80M,['NYSE'],N/A,n/a,N/A,5/13/2016,N/A,2880.00,NYQ,16.00,274718,1.02,7/28/2016,ENLC,-4.88,n/a,EnLink Midstream,N/A,6.41,16.08,06 August 2016

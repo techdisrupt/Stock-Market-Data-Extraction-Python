@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,N/A,20.28,19.03,11.16M,['NASDAQ'],N/A,n/a,41.30,N/A,N/A,260.04,NGM,21.90,42457,N/A,N/A,CLFD,0.47,n/a,Clearfield,N/A,11.59,19.00,06 August 2016

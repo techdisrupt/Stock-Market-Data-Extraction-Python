@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil Refining/Marketing,USD,N/A,8.63,27.69,19.01,369.11M,['NYSE'],N/A,Energy,N/A,5/13/2016,N/A,1890.00,NYQ,19.25,416426,1.56,8/2/2016,NGL,-2.35,2011,NGL ENERGY PARTNERS LP,N/A,5.57,18.76,07 August 2016

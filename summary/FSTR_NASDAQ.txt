@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,1.49,20.80,10.81,50.92M,['NASDAQ'],N/A,Basic Industries,N/A,6/24/2016,N/A,115.11,NMS,15.70,94402,0.16,6/8/2016,FSTR,-5.03,n/a,L.B. Foster Company,N/A,8.80,10.89,07 August 2016

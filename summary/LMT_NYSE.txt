@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,2.56,263.37,259.14,6.50B,['NYSE'],N/A,Capital Goods,21.67,9/23/2016,N/A,78840.00,NYQ,260.60,4418108,6.60,5/27/2016,LMT,12.01,n/a,Lockheed Martin Corporation,N/A,181.91,257.75,07 August 2016

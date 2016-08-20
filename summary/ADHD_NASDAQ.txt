@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,9.50,4.79,-19.65M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,133.40,NGM,6.88,94667,N/A,N/A,ADHD,-0.82,2013,Alcobra Ltd.,N/A,3.15,5.00,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,1.31,61.27,59.39,723.70M,['NASDAQ'],N/A,Technology,22.43,7/15/2016,N/A,8830.00,NMS,59.60,672183,0.78,6/28/2016,DOX,2.64,n/a,Amdocs Limited,N/A,50.06,59.42,05 August 2016

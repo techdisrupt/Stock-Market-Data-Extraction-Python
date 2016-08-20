@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer peripheral equipment,USD,N/A,2.78,20.62,20.22,202.86M,['NASDAQ'],N/A,Technology,25.56,9/22/2015,N/A,3310.00,NMS,22.00,393775,0.57,9/18/2015,LOGI,0.80,1997,Logitech International S.A.,N/A,12.52,20.59,07 August 2016

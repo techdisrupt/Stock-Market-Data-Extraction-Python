@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.67,22.40,21.55,921.77M,['NYSE'],N/A,n/a,14.09,7/1/2016,N/A,7350.00,NYQ,21.41,3017414,0.36,6/7/2016,PHM,1.52,n/a,PulteGroup,N/A,14.61,21.54,08 August 2016

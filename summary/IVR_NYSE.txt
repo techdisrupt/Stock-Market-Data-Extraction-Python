@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,10.82,15.54,14.99,0.00,['NYSE'],N/A,Consumer Services,N/A,7/26/2016,N/A,1730.00,NYQ,15.65,2758469,1.60,6/23/2016,IVR,-0.50,2009,INVESCO MORTGAGE CAPITAL INC,N/A,9.74,14.90,07 August 2016

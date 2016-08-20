@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,5.06,8.48,7.69,0.00,['NYSE'],N/A,Finance,12.53,8/9/2016,N/A,8660.00,NYQ,7.79,30972,0.39,7/27/2016,AVAL,0.62,2014,Grupo Aval Acciones y Valores S.A.,N/A,5.59,7.66,07 August 2016

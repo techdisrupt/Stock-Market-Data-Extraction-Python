@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.93,19.81,18.91,0.00,['NASDAQ'],N/A,n/a,18.48,7/12/2016,N/A,1560.00,NMS,19.24,593852,0.36,6/22/2016,FMBI,1.04,n/a,First Midwest Bancorp,N/A,14.56,18.71,06 August 2016

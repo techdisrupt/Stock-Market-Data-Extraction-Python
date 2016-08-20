@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,0.00,1.30,0.98,-3.16M,['OTC'],N/A,Capital Goods,N/A,N/A,N/A,5.77,PNK,N/A,0,0.00,12/13/2004,VIDE,-0.85,1985,Video Display Corporation,N/A,0.56,0.98,15 August 2016

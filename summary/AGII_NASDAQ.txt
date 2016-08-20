@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.63,60.36,54.55,190.20M,['NASDAQ'],N/A,n/a,12.54,6/17/2016,N/A,1640.00,NMS,54.35,66841,0.88,5/27/2016,AGII,4.33,n/a,Argo Group International Holdings,N/A,41.55,54.26,05 August 2016

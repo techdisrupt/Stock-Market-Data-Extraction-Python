@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Radio And Television Broadcasting And Communications Equipment,USD,N/A,N/A,7.95,5.95,10.86M,['NASDAQ'],N/A,Technology,13.67,N/A,N/A,46.70,NCM,6.09,8215,N/A,N/A,PNTR,0.44,n/a,Pointer Telocation Ltd.,N/A,4.97,6.22,08 August 2016

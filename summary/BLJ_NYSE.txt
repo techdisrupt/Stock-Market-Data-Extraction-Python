@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.920,17.570,17.431,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,ASE,17.390,481,0.830,7/13/2016,BLJ,0.506,2002,Blackrock New Jersey Municipal Bond Trust,N/A,13.730,17.376,05 August 2016

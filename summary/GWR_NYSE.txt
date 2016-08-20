@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,N/A,76.34,64.85,572.93M,['NYSE'],N/A,n/a,16.99,N/A,N/A,3730.00,NYQ,65.24,269041,N/A,N/A,GWR,3.84,n/a,Genesee & Wyoming,N/A,41.56,64.40,07 August 2016

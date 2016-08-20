@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,3.84,2.07,-374000.00,['NASDAQ'],N/A,Energy,N/A,N/A,N/A,9.69,NCM,2.07,9973,0.00,7/3/2007,USEG,-17.05,n/a,U.S. Energy Corp.,N/A,0.66,2.10,15 August 2016

@@ -1,0 +1,2 @@
+code,message
+QECx02,You have submitted an incorrect Quandl code. Please check your Quandl codes and try again.

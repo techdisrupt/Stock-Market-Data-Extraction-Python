@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,1.73,25.69,22.85,37.40M,['NASDAQ'],N/A,Finance,443.40,6/30/2016,N/A,979.39,NMS,23.50,45348,0.40,6/10/2016,STFC,0.05,1991,State Auto Financial Corporation,N/A,17.84,23.08,14 August 2016

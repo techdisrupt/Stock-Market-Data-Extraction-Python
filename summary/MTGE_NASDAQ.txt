@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,9.71,17.09,17.03,0.00,['NASDAQ'],N/A,Consumer Services,N/A,7/27/2016,N/A,778.57,NMS,17.18,609031,1.60,6/26/2015,MTGE,-0.32,2011,American Capital Mortgage Investment Corp.,N/A,12.01,16.98,05 August 2016

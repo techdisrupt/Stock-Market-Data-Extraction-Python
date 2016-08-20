@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.00,20.76,16.80,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,16.98,20959,1.60,6/28/2016,ECC,-3.34,2014,Eagle Point Credit Company Inc.,N/A,13.30,16.73,06 August 2016

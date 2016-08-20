@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.00,15.45,15.13,901.70M,['NYSE'],N/A,Miscellaneous,N/A,N/A,N/A,3060.00,NYQ,30.00,453100,0.00,5/16/2014,HRG,-1.45,n/a,Harbinger Group Inc,N/A,10.29,15.13,07 August 2016

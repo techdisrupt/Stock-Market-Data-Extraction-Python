@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,3.12,28.22,26.10,17.76M,['NASDAQ'],N/A,1981,35.36,6/15/2016,N/A,185.55,NMS,26.20,15238,0.82,5/27/2016,DGAS,0.74,n/a,Delta Natural Gas Company,N/A,20.00,26.13,06 August 2016

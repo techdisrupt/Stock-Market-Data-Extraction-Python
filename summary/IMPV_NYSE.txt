@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,77.99,45.50,-47.59M,['NYSE'],N/A,2011,N/A,N/A,N/A,1480.00,NYQ,48.89,2555520,N/A,N/A,IMPV,-1.70,n/a,Imperva,N/A,31.11,45.01,07 August 2016

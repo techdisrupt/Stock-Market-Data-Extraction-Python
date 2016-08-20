@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,4.95,54.73,25.91,1.29B,['NYSE'],N/A,Energy,9.17,6/24/2016,N/A,4650.00,NYQ,26.98,3898964,1.32,5/25/2016,HFC,2.88,n/a,HollyFrontier Corporation,N/A,22.07,25.61,07 August 2016

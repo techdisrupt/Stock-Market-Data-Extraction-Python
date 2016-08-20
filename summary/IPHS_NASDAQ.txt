@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,4.69,51.99,41.07,106.64M,['NASDAQ'],N/A,2006,31.40,6/2/2016,N/A,802.96,NMS,N/A,92381,1.92,5/18/2016,IPHS,1.30,n/a,Innophos Holdings,N/A,22.06,40.96,07 August 2016

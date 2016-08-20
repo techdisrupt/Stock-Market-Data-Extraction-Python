@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,4.580,20.250,16.510,60.63M,['NASDAQ'],N/A,Energy,N/A,5/23/2016,N/A,1370.00,NMS,17.170,58215,0.760,8/11/2016,VNOM,-0.050,2014,Viper Energy Partners LP,N/A,12.690,16.520,15 August 2016

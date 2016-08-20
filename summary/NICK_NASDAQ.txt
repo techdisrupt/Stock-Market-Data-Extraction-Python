@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.000,14.080,10.710,0.00,['NASDAQ'],N/A,n/a,7.139,9/27/2013,N/A,82.29,NMS,11.050,8017,0.000,9/18/2013,NICK,1.487,n/a,Nicholas Financial,N/A,9.920,10.690,07 August 2016

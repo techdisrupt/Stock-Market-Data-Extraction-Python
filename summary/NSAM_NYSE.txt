@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.36,18.95,11.88,218.85M,['NYSE'],N/A,2014,26.44,5/20/2016,N/A,2270.00,NYQ,13.70,1539019,0.40,5/12/2016,NSAM,0.59,n/a,NorthStar Asset Management Group,N/A,9.17,11.89,07 August 2016

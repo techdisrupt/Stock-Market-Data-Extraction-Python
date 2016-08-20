@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,1.70,23.74,19.49,0.00,['NYSE'],N/A,2011,N/A,5/31/2016,N/A,N/A,NYQ,19.63,31810,0.34,5/20/2016,TTP,N/A,n/a,Tortoise Pipeline & Energy Fund,N/A,9.24,19.32,14 August 2016

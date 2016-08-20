@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.84,70.19,64.74,117.90M,['NYSE'],N/A,n/a,15.18,6/15/2016,N/A,1080.00,NYQ,65.61,33907,1.18,5/27/2016,HY,4.33,n/a,Hyster-Yale Materials Handling,N/A,44.41,64.28,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,22.10,19.09,17.34,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,ASE,17.47,146749,3.98,7/13/2016,CRF,-0.05,n/a,Cornerstone Strategic Return Fund,N/A,12.12,17.27,06 August 2016

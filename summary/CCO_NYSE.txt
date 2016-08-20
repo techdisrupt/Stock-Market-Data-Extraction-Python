@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,9.36,6.82,687.21M,['NYSE'],N/A,2005,31.37,2/4/2016,N/A,2380.00,NYQ,6.61,479122,0.00,2/5/2016,CCO,0.21,n/a,Clear Channel Outdoor Holdings,N/A,2.97,6.80,06 August 2016

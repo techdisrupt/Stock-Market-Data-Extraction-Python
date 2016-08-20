@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,33.17,26.63,0.00,['NYSE'],N/A,2010,9.28,N/A,N/A,823.89,NYQ,26.74,81155,N/A,N/A,WD,2.88,n/a,Walker & Dunlop,N/A,19.50,26.62,15 August 2016

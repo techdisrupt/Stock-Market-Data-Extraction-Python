@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,50.00,20.19,0.00,['NYSE'],N/A,Public Utilities,N/A,N/A,N/A,244.39,ASE,21.69,74419,N/A,N/A,STRP,-0.65,2013,Straight Path Communications Inc.,N/A,7.62,19.85,14 August 2016

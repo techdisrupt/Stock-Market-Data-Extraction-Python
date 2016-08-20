@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,N/A,18.28,16.15,23.63M,['NYSE'],N/A,Consumer Services,36.24,N/A,N/A,229.65,NYQ,16.22,28116,N/A,N/A,FC,0.45,n/a,Franklin Covey Company,N/A,13.45,16.08,07 August 2016

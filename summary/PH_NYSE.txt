@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,2.12,121.17,119.75,1.48B,['NYSE'],N/A,Capital Goods,20.56,6/3/2016,N/A,16280.00,NYQ,121.05,1964622,2.52,5/6/2016,PH,5.39,n/a,Parker-Hannifin Corporation,N/A,83.32,118.96,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,0.67,50.00,47.76,124.60M,['NASDAQ'],N/A,n/a,43.26,6/15/2016,N/A,2210.00,NMS,N/A,167548,0.32,5/23/2016,CORE,1.11,n/a,Core-Mark Holding Company,N/A,28.11,47.58,06 August 2016

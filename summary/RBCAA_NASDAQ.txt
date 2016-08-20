@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.71,31.41,31.30,0.00,['NASDAQ'],N/A,1998,16.70,7/15/2016,N/A,650.45,NMS,31.18,25762,0.84,6/15/2016,RBCAA,1.87,n/a,Republic Bancorp,N/A,23.00,31.13,09 August 2016

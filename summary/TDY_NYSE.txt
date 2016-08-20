@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,109.40,106.04,356.60M,['NYSE'],N/A,Capital Goods,19.82,N/A,N/A,3660.00,NYQ,105.59,74288,N/A,N/A,TDY,5.32,n/a,Teledyne Technologies Incorporated,N/A,73.66,106.56,14 August 2016

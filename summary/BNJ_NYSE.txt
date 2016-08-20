@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.40,16.98,16.94,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,16.92,14528,0.90,7/13/2016,BNJ,0.36,n/a,BlackRock New Jersey Municipal Income Trust,N/A,13.79,16.80,05 August 2016

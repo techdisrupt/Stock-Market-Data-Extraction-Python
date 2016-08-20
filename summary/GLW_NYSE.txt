@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,2.43,22.73,22.45,2.18B,['NYSE'],N/A,Basic Industries,12.47,6/30/2016,N/A,23470.00,NYQ,22.75,10726075,0.54,5/26/2016,GLW,1.82,n/a,Corning Incorporated,N/A,15.42,22.38,06 August 2016

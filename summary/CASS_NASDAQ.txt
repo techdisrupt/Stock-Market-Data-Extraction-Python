@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,1.71,54.71,52.04,36.35M,['NASDAQ'],N/A,n/a,25.65,6/15/2016,N/A,596.84,NMS,56.95,16714,0.88,6/1/2016,CASS,2.07,n/a,Cass Information Systems,N/A,43.78,51.98,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,16.18,13.32,87.83M,['NYSE'],N/A,2013,10.24,N/A,N/A,691.31,NYQ,13.39,220197,N/A,N/A,SSNI,1.31,n/a,Silver Spring Networks,N/A,9.55,13.32,13 August 2016

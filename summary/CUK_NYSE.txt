@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,2.98,58.08,47.71,4.15B,['NYSE'],N/A,Consumer Services,16.69,6/17/2016,N/A,36090.00,NYQ,48.46,281743,1.40,5/25/2016,CUK,2.90,n/a,Carnival Corporation,N/A,42.45,47.61,06 August 2016

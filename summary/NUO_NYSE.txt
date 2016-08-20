@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.80,17.04,16.78,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,16.79,20291,0.84,7/13/2016,NUO,0.97,1991,Nuveen Ohio Quality Income Municipal Fund,N/A,14.12,16.80,07 August 2016

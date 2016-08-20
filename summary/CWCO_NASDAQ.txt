@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Water Supply,USD,N/A,2.20,14.69,13.60,14.01M,['NASDAQ'],N/A,Public Utilities,26.33,7/31/2016,N/A,201.67,NMS,13.73,40618,0.30,6/29/2016,CWCO,0.52,n/a,Consolidated Water Co. Ltd.,N/A,9.78,13.61,06 August 2016

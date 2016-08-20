@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.59,34.56,33.27,259.96M,['NYSE'],N/A,n/a,108.87,7/8/2016,N/A,4510.00,NYQ,34.00,642026,1.20,6/29/2016,HTA,0.30,n/a,Healthcare Trust of America,N/A,22.35,33.43,07 August 2016

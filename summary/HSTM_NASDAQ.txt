@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,28.16,24.21,24.51M,['NASDAQ'],N/A,2000,111.00,N/A,N/A,778.56,NMS,26.89,107302,N/A,N/A,HSTM,0.22,n/a,HealthStream,N/A,17.80,23.99,07 August 2016

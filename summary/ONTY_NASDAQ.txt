@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Commercial Physical & Biological Resarch,USD,N/A,0.00,4.11,N/A,0.00,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,N/A,NMS,N/A,0,0.00,N/A,ONTY,-0.40,n/a,Oncothyreon Inc.,N/A,0.90,1.21,07 August 2016

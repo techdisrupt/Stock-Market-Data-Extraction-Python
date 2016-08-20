@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,24.05,18.99,1.10B,['NYSE'],N/A,n/a,15.95,N/A,N/A,3100.00,NYQ,19.14,1327966,N/A,N/A,OI,1.20,n/a,Owens-Illinois,N/A,11.58,18.80,07 August 2016

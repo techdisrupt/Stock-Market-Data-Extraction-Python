@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Beverages (Production/Distribution),USD,N/A,2.52,87.58,74.18,1.65B,['NYSE'],N/A,Consumer Non-Durables,29.92,5/13/2016,N/A,15450.00,NYQ,102.50,45289,1.88,4/28/2016,KOF,2.49,1993,Coca Cola Femsa S.A.B. de C.V.,N/A,61.17,74.13,06 August 2016

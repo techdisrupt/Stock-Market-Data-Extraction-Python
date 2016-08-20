@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,5.13,350.00,N/A,221.48M,['NASDAQ'],N/A,Consumer Durables,N/A,6/15/2016,N/A,31470.00,NMS,330.00,12,16.88,5/27/2016,IRDMB,-0.00,n/a,Iridium Communications Inc,N/A,236.56,329.12,07 August 2016

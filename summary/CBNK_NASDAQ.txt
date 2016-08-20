@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.94,19.00,18.56,0.00,['NASDAQ'],N/A,n/a,31.89,5/23/2016,N/A,91.39,NGM,18.60,218,0.36,8/3/2016,CBNK,0.58,n/a,Chicopee Bancorp,N/A,16.00,18.30,06 August 2016

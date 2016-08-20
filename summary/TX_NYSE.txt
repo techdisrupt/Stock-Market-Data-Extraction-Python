@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Steel/Iron Ore,USD,N/A,3.99,23.60,22.43,1.21B,['NYSE'],N/A,Basic Industries,29.28,5/16/2016,N/A,4310.00,NYQ,24.94,248457,0.90,5/6/2016,TX,0.75,n/a,Ternium S.A.,N/A,10.28,22.58,14 August 2016

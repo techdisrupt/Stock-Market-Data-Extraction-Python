@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,N/A,91.27,90.49,393.89M,['NYSE'],N/A,Capital Goods,13.35,N/A,N/A,1570.00,NYQ,90.50,164986,N/A,N/A,CPS,6.78,n/a,Cooper-Standard Holdings Inc.,N/A,54.03,89.85,06 August 2016

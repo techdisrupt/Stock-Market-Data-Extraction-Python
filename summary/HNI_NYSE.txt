@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Office Equipment/Supplies/Services,USD,N/A,2.10,54.14,52.70,246.54M,['NYSE'],N/A,Consumer Durables,21.39,6/1/2016,N/A,2390.00,NYQ,53.80,441583,1.10,5/18/2016,HNI,2.51,n/a,HNI Corporation,N/A,29.84,52.47,07 August 2016

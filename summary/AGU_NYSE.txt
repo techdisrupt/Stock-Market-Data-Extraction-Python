@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Agricultural Chemicals,USD,N/A,3.89,106.76,88.83,2.04B,['NYSE'],N/A,Basic Industries,12.84,7/21/2016,N/A,12350.00,NYQ,89.43,1115563,3.50,6/28/2016,AGU,6.96,n/a,Agrium Inc.,N/A,79.94,90.20,04 August 2016

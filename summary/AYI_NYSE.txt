@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Products,USD,N/A,0.20,270.98,265.00,536.50M,['NYSE'],N/A,Consumer Durables,43.09,8/1/2016,N/A,11470.00,NYQ,280.00,152007,0.52,7/14/2016,AYI,6.12,n/a,Acuity Brands Inc,N/A,168.33,264.50,04 August 2016

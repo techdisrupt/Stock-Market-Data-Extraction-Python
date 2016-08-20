@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Agricultural Chemicals,USD,N/A,0.27,17.92,17.35,41.61M,['NYSE'],N/A,Basic Industries,42.49,7/12/2016,N/A,509.89,NYQ,31.00,338289,0.04,6/28/2016,AVD,0.41,n/a,American Vanguard Corporation,N/A,9.63,17.37,05 August 2016

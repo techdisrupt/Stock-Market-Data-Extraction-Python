@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.99,34.56,32.24,1.35B,['NYSE'],N/A,n/a,14.36,5/27/2016,N/A,12020.00,NYQ,34.70,3550131,0.32,8/4/2016,DHI,2.25,n/a,D.R. Horton,N/A,22.97,32.07,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,25.81,22.99,78.78M,['NASDAQ'],N/A,n/a,45.57,N/A,N/A,1030.00,NMS,24.00,170982,N/A,N/A,MMSI,0.51,n/a,Merit Medical Systems,N/A,15.47,22.95,07 August 2016

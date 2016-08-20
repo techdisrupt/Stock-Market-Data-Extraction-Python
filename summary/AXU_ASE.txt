@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,2.07,1.91,-4.37M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,147.59,ASE,1.91,559824,N/A,N/A,AXU,-0.08,n/a,Alexco Resource Corp,N/A,0.22,1.83,01 August 2016

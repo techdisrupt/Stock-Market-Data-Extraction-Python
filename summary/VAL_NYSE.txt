@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Paints/Coatings,USD,N/A,1.25,108.97,105.73,702.38M,['NYSE'],N/A,Basic Industries,25.44,6/15/2016,N/A,8400.00,NYQ,106.04,49653,1.32,5/27/2016,VAL,4.17,n/a,Valspar Corporation (The),N/A,70.58,105.55,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+RETAIL: Building Materials,USD,N/A,1.11,97.25,85.78,800.55M,['NASDAQ'],N/A,Consumer Services,27.73,6/1/2016,N/A,11560.00,NMS,86.70,1144706,0.96,8/11/2016,TSCO,3.12,1994,Tractor Supply Company,N/A,75.00,86.23,14 August 2016

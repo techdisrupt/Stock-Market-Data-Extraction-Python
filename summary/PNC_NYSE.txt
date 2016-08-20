@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.62,99.91,84.72,0.00,['NYSE'],N/A,n/a,11.92,5/5/2016,N/A,42480.00,NYQ,86.55,3227182,2.20,7/14/2016,PNC,7.25,n/a,PNC Financial Services Group,N/A,77.40,83.88,08 August 2016

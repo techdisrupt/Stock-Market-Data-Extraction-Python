@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,1.76,69.29,66.36,4.38B,['NYSE'],N/A,n/a,23.67,6/9/2016,N/A,32820.00,NYQ,66.22,58602,1.16,5/4/2016,TLK,2.80,n/a,PT Telekomunikasi Indonesia,N/A,34.09,66.11,08 August 2016

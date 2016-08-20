@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Beverages (Production/Distribution),USD,N/A,3.67,132.91,123.20,16.00B,['NYSE'],N/A,Consumer Non-Durables,52.42,5/20/2016,N/A,199250.00,NYQ,123.95,1346864,4.60,4/28/2016,BUD,2.36,n/a,Anheuser-Busch Inbev SA,N/A,102.58,123.65,05 August 2016

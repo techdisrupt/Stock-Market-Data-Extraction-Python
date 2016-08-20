@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation Services,USD,N/A,N/A,57.770,36.500,363.15M,['NASDAQ'],N/A,Transportation,N/A,N/A,N/A,895.06,NMS,36.090,476580,N/A,N/A,AAWW,-0.870,n/a,Atlas Air Worldwide Holdings,N/A,31.990,35.740,05 August 2016

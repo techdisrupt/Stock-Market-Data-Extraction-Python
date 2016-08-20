@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,8.33,59.34,52.39,352.62M,['NYSE'],N/A,2010,13.74,6/16/2016,N/A,2460.00,NYQ,52.27,271921,0.80,5/18/2016,PRI,3.80,n/a,Primerica,N/A,37.09,52.31,08 August 2016

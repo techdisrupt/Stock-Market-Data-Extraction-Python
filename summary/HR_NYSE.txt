@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.36,36.60,35.74,223.70M,['NYSE'],N/A,Consumer Services,48.48,5/31/2016,N/A,3710.00,NYQ,35.37,616158,1.20,5/12/2016,HR,0.73,1993,Healthcare Realty Trust Incorporated,N/A,22.01,35.71,07 August 2016

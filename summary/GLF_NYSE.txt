@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.00,9.21,2.84,14.90M,['NYSE'],N/A,n/a,N/A,12/29/2014,N/A,77.02,NYQ,3.34,403758,0.00,12/16/2014,GLF,-13.68,n/a,GulfMark Offshore,N/A,2.50,2.84,07 August 2016

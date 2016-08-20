@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Advertising,USD,N/A,6.16,23.90,13.93,145.38M,['NASDAQ'],N/A,Technology,N/A,6/7/2016,N/A,748.79,NMS,14.50,582243,0.84,5/20/2016,MDCA,-1.14,n/a,MDC Partners Inc.,N/A,12.38,13.83,07 August 2016

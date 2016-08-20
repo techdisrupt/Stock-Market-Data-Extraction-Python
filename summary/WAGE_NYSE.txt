@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,62.820,58.770,66.38M,['NYSE'],N/A,2012,97.500,N/A,N/A,2180.00,NYQ,59.470,158128,N/A,N/A,WAGE,0.610,n/a,WageWorks,N/A,38.990,58.820,15 August 2016

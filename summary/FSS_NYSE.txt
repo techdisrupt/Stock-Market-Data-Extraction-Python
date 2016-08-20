@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Manufacturing,USD,N/A,2.20,17.23,12.63,95.30M,['NYSE'],N/A,Capital Goods,15.28,6/7/2016,N/A,780.33,NYQ,13.02,386429,0.28,5/13/2016,FSS,0.85,n/a,Federal Signal Corporation,N/A,11.16,12.61,06 August 2016

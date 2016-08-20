@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,38.62,31.58,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,31.44,8393,N/A,N/A,BBP,N/A,n/a,BioShares Biotechnology Products Fund,N/A,21.47,31.33,05 August 2016

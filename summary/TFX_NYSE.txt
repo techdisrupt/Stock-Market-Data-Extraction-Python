@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Dental Instruments,USD,N/A,0.75,183.94,180.84,452.29M,['NYSE'],N/A,Health Care,32.22,6/15/2016,N/A,7990.00,NYQ,181.49,148193,1.36,8/11/2016,TFX,5.63,n/a,Teleflex Incorporated,N/A,122.13,181.52,14 August 2016

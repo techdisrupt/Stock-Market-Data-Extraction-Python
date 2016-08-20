@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,9.00,16.50,12.04,712.89M,['NYSE'],N/A,1993,28.40,7/15/2016,N/A,2090.00,NYQ,14.00,1737640,1.06,6/28/2016,CBL,0.43,n/a,CBL & Associates Properties,N/A,8.86,12.04,06 August 2016

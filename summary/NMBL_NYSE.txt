@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,27.40,7.67,-114.51M,['NYSE'],N/A,2013,N/A,N/A,N/A,646.65,NYQ,10.00,490516,N/A,N/A,NMBL,-1.66,n/a,Nimble Storage,N/A,5.64,7.63,07 August 2016

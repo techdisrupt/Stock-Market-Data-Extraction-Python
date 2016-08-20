@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,3.20,82.78,77.98,1.41B,['NYSE'],N/A,Public Utilities,20.38,9/1/2016,N/A,8580.00,NYQ,77.15,790602,2.50,7/28/2016,PNW,3.79,n/a,Pinnacle West Capital Corporation,N/A,57.33,78.15,08 August 2016

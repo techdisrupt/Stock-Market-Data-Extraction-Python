@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.790,5.500,4.430,2.33B,['NASDAQ'],N/A,Public Utilities,N/A,12/7/2015,N/A,7720.00,NMS,4.420,528521,0.040,11/19/2015,VIP,-0.375,n/a,VimpelCom Ltd.,N/A,2.710,4.410,15 August 2016

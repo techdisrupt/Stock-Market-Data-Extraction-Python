@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,29.0300,26.4875,0.00,['NYSE'],N/A,n/a,10.7717,7/30/2016,N/A,2100.00,NYQ,26.4500,446,N/A,4/13/2016,PVTD,2.4590,n/a,PrivateBancorp,N/A,25.5600,26.3200,08 August 2016

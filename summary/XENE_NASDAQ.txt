@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,11.00,8.00,-14.37M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,121.18,NGM,8.39,4608,N/A,N/A,XENE,-1.19,2014,Xenon Pharmaceuticals Inc.,N/A,5.65,7.99,15 August 2016

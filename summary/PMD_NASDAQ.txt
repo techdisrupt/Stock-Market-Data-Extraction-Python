@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical Specialities,USD,N/A,2.91,21.14,20.60,4.67M,['NASDAQ'],N/A,Health Care,40.55,5/18/2016,N/A,105.58,NCM,19.55,20478,0.60,8/3/2016,PMD,0.48,n/a,Psychemedics Corporation,N/A,7.76,20.63,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,N/A,18.99,18.31,0.00,['NYSE'],N/A,Finance,N/A,3/1/2016,N/A,40.92,NYQ,21.00,21915,N/A,2/25/2016,JBN,N/A,n/a,Select Asset Inc.,N/A,13.95,18.16,13 August 2016

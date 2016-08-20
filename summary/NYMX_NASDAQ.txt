@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: In Vitro & In Vivo Diagnostic Substances,USD,N/A,N/A,4.37,3.35,-22.55M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,147.80,NCM,10.24,119160,N/A,N/A,NYMX,-0.58,n/a,Nymox Pharmaceutical Corporation,N/A,1.79,3.20,07 August 2016

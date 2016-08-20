@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,N/A,30.07,26.76,77.92M,['NASDAQ'],N/A,Capital Goods,49.19,N/A,N/A,328.82,NCM,40.00,4965,N/A,N/A,HNH,0.55,n/a,Handy & Harman Ltd.,N/A,15.61,26.66,07 August 2016

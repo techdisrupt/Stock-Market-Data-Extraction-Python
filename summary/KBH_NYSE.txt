@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Homebuilding,USD,N/A,0.64,16.76,15.67,186.66M,['NYSE'],N/A,Capital Goods,16.10,5/19/2016,N/A,1330.00,NYQ,15.73,1758379,0.10,8/2/2016,KBH,0.98,1986,KB Home,N/A,9.04,15.59,07 August 2016

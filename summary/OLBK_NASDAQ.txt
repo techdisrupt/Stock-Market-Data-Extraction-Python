@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.26,19.64,19.01,0.00,['NASDAQ'],N/A,n/a,20.10,6/24/2016,N/A,208.75,NCM,19.32,10623,0.24,6/8/2016,OLBK,0.96,n/a,Old Line Bancshares,N/A,15.26,19.02,07 August 2016

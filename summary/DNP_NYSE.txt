@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,10.95,10.52,0.00,['NYSE'],N/A,1987,N/A,8/10/2016,N/A,N/A,NYQ,10.57,277717,N/A,7/27/2016,DNP,0.38,n/a,Duff & Phelps Utilities Income,N/A,8.12,10.50,06 August 2016

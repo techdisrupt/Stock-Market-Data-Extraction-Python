@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Diversified Commercial Services,USD,N/A,4.35,24.70,21.52,0.00,['NYSE'],N/A,Technology,15.20,6/15/2016,N/A,1700.00,NYQ,21.64,369887,0.96,5/26/2016,AYR,1.42,2006,Aircastle Limited,N/A,15.06,22.21,04 August 2016

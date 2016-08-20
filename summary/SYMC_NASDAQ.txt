@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,1.36,22.58,22.00,933.00M,['NASDAQ'],N/A,Technology,5.88,6/22/2016,N/A,13880.00,NMS,23.75,11946804,0.30,6/6/2016,SYMC,3.83,1989,Symantec Corporation,N/A,16.14,22.11,14 August 2016

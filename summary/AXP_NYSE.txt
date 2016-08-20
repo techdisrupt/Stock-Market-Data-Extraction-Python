@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,1.81,81.66,63.88,0.00,['NYSE'],N/A,Finance,11.31,8/10/2016,N/A,59070.00,NYQ,63.93,3680004,1.16,6/29/2016,AXP,5.65,n/a,American Express Company,N/A,50.27,63.83,05 August 2016

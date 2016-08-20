@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.12,27.60,26.54,0.00,['NASDAQ'],N/A,Finance,15.61,6/17/2016,N/A,1110.00,NMS,27.22,127200,0.56,6/1/2016,FRME,1.74,n/a,First Merchants Corporation,N/A,21.10,26.36,06 August 2016

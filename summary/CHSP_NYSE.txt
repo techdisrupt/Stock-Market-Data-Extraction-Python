@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,6.31,31.82,25.51,190.13M,['NYSE'],N/A,Consumer Services,21.72,7/15/2016,N/A,1520.00,NYQ,28.50,323799,1.60,6/28/2016,CHSP,1.20,2010,Chesapeake Lodging Trust,N/A,21.55,25.36,06 August 2016

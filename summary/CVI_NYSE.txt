@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,13.56,48.37,14.00,266.70M,['NYSE'],N/A,Energy,49.12,5/16/2016,N/A,1220.00,NYQ,14.85,943933,2.00,8/4/2016,CVI,0.28,2007,CVR Energy Inc.,N/A,13.40,13.90,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.2700,16.0000,N/A,0.00,['NASDAQ'],N/A,n/a,N/A,7/1/2016,N/A,55.62,NCM,14.8600,52,0.4800,6/15/2016,FBSS,-0.2000,n/a,Fauquier Bankshares,N/A,13.4700,14.8096,06 August 2016

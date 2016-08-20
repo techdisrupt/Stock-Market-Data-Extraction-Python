@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.3100,13.9000,13.8900,0.00,['NASDAQ'],N/A,n/a,17.6211,6/3/2016,N/A,52.01,NGM,14.0500,1638,0.3200,5/11/2016,EBMT,0.7810,n/a,Eagle Bancorp Montana,N/A,10.6800,13.6500,06 August 2016

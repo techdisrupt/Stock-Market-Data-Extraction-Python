@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.00,15.15,10.13,56.39M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,443.39,NMS,10.69,474989,0.00,1/9/2008,BCOR,-1.44,n/a,Blucora,N/A,4.69,10.19,05 August 2016

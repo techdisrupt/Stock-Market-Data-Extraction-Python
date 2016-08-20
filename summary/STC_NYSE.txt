@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Insurers,USD,N/A,2.58,46.82,46.67,122.06M,['NYSE'],N/A,Finance,N/A,6/30/2016,N/A,1080.00,NYQ,50.11,110065,1.20,6/9/2016,STC,-0.45,n/a,Stewart Information Services Corporation,N/A,30.34,46.60,14 August 2016

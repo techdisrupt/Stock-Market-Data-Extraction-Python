@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Farming/Seeds/Milling,USD,N/A,1.12,20.55,18.03,3.47M,['NASDAQ'],N/A,Consumer Non-Durables,97.59,7/15/2016,N/A,258.75,NMS,20.28,32109,0.20,6/30/2016,LMNR,0.19,n/a,Limoneira Co,N/A,11.30,17.89,07 August 2016

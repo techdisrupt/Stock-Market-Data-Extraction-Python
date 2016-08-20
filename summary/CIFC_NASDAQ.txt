@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,5.85,8.00,N/A,75.83M,['NASDAQ'],N/A,Finance,N/A,5/24/2016,N/A,173.64,NCM,10.15,70,0.40,5/13/2016,CIFC,-0.03,n/a,CIFC Corp.,N/A,4.00,6.81,06 August 2016

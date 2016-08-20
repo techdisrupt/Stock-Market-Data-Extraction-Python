@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,0.00,12.040,11.61,105.25M,['NYSE'],N/A,Consumer Services,49.70,11/4/2008,N/A,1180.00,NYQ,11.64,402731,0.00,10/15/2008,BEL,0.23,n/a,Belmond Ltd.,N/A,7.31,11.53,05 August 2016

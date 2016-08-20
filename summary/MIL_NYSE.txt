@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Steel/Iron Ore,USD,N/A,12.44,5.04,N/A,0.00,['NYSE'],N/A,Consumer Durables,N/A,N/A,N/A,N/A,NYQ,N/A,0,0.24,12/24/2014,MIL,-4.73,n/a,MFC Industrial Ltd.,N/A,1.50,1.93,07 August 2016

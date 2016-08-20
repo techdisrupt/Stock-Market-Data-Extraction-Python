@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,4.00,87.31,85.00,9.13B,['NYSE'],N/A,Public Utilities,22.00,6/16/2016,N/A,58030.00,NYQ,84.20,3540224,3.42,5/18/2016,DUK,3.83,n/a,Duke Energy Corporation,N/A,65.50,85.24,06 August 2016

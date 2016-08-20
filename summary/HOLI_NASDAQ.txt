@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.00,22.91,19.50,137.72M,['NASDAQ'],N/A,n/a,11.63,3/16/2015,N/A,1170.00,NMS,21.99,81256,0.00,2/19/2015,HOLI,1.70,n/a,Hollysys Automation Technologies,N/A,15.00,19.57,07 August 2016

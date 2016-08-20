@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,9.44,N/A,0.00,['NASDAQ'],N/A,n/a,14.83,N/A,N/A,93.07,NGM,8.09,1331,N/A,N/A,SLCT,0.54,n/a,Select Bancorp,N/A,7.10,8.11,13 August 2016

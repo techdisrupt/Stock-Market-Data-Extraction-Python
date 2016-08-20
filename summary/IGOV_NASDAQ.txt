@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.10,100.86,99.75,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,99.84,51862,0.12,N/A,IGOV,N/A,n/a,iShares S&P/Citigroup International Treasury Bond Fund,N/A,87.30,100.33,07 August 2016

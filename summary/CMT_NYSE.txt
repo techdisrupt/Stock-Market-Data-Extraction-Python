@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Plastic Products,USD,N/A,0.00,22.49,16.33,24.35M,['NYSE'],N/A,Consumer Non-Durables,10.62,N/A,N/A,126.05,ASE,16.42,30139,0.00,9/18/1996,CMT,1.54,n/a,Core Molding Technologies Inc,N/A,9.23,16.15,06 August 2016

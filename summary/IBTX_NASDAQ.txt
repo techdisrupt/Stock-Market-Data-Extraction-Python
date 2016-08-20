@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.78,45.49,41.49,0.00,['NASDAQ'],N/A,2013,17.91,5/19/2016,N/A,783.52,NMS,42.41,73261,0.32,8/4/2016,IBTX,2.37,n/a,Independent Bank Group,N/A,25.50,41.18,07 August 2016

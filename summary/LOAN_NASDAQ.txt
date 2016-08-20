@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,7.02,5.88,5.70,0.00,['NASDAQ'],N/A,n/a,15.99,7/15/2016,N/A,41.86,NCM,N/A,36027,0.40,7/6/2016,LOAN,0.36,n/a,Manhattan Bridge Capital,N/A,3.08,5.70,07 August 2016

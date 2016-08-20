@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,0.00,5.02,4.96,-21.84M,['NYSE'],N/A,Finance,N/A,N/A,N/A,58.53,NYQ,5.00,3237,0.00,12/13/2007,FMD,-2.52,2003,First Marblehead Corporation (The),N/A,2.81,4.98,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,1.37,32.61,18.05,50.06M,['NASDAQ'],N/A,Finance,8.53,9/1/2016,N/A,255.40,NGM,N/A,206526,0.24,7/28/2016,FNHC,2.17,n/a,Federated National Holding Company,N/A,17.42,18.02,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,1.34,23.43,17.90,12.18M,['NASDAQ'],N/A,Technology,61.72,7/7/2016,N/A,336.79,NMS,19.00,200,0.24,6/24/2016,QADB,0.29,n/a,QAD Inc.,N/A,13.79,17.90,08 August 2016

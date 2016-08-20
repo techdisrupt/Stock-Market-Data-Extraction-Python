@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil Refining/Marketing,USD,N/A,0.53,51.01,45.57,307.20M,['NYSE'],N/A,Energy,16.91,7/1/2016,N/A,3200.00,NYQ,45.37,214654,0.24,6/8/2016,INT,2.68,n/a,World Fuel Services Corporation,N/A,34.30,45.37,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,41.00,31.97,223.20M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,1710.00,NMS,32.42,187381,N/A,N/A,KLXI,-7.62,n/a,KLX Inc.,N/A,25.33,31.73,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Television Services,USD,N/A,3.36,54.69,47.65,3.47B,['NASDAQ'],N/A,Consumer Services,9.22,7/1/2016,N/A,19000.00,NMS,47.91,22523,1.60,6/13/2016,VIA,5.20,n/a,Viacom Inc.,N/A,33.88,47.62,15 August 2016

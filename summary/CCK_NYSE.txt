@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,0.00,55.50,53.95,1.31B,['NYSE'],N/A,n/a,16.59,N/A,N/A,7490.00,NYQ,54.08,713646,0.00,11/2/2000,CCK,3.26,n/a,Crown Holdings,N/A,43.30,53.68,06 August 2016

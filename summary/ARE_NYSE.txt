@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.84,113.06,111.24,547.56M,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,8610.00,NYQ,112.39,493129,3.20,6/28/2016,ARE,1.32,n/a,Alexandria Real Estate Equities,N/A,70.69,110.77,04 August 2016

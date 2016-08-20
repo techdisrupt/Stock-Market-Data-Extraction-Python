@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,16.00,9.94,-39.76M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,367.31,NMS,18.00,124790,N/A,N/A,ACTA,-2.57,n/a,Actua Corporation,N/A,7.28,10.05,04 August 2016

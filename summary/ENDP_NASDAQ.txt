@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,86.72,18.22,575.54M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,4020.00,NMS,18.08,4087573,N/A,N/A,ENDP,-7.39,n/a,Endo International plc,N/A,12.56,18.08,06 August 2016

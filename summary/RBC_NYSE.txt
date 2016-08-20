@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,1.580,73.170,59.220,531.00M,['NYSE'],N/A,Consumer Durables,18.474,7/15/2016,N/A,2730.00,NYQ,61.050,876271,0.960,6/29/2016,RBC,3.300,n/a,Regal Beloit Corporation,N/A,47.770,61.220,09 August 2016

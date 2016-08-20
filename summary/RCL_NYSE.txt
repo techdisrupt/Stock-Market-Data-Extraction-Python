@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,2.01,103.40,72.58,2.22B,['NYSE'],N/A,Consumer Services,19.69,6/13/2016,N/A,14850.00,NYQ,69.25,7646562,1.50,5/26/2016,RCL,3.50,1993,Royal Caribbean Cruises Ltd.,N/A,64.21,73.98,10 August 2016

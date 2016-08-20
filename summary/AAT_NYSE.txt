@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.20,46.38,44.94,159.70M,['NYSE'],N/A,2011,55.33,6/24/2016,N/A,2050.00,NYQ,45.17,130308,1.00,6/8/2016,AAT,0.82,n/a,American Assets Trust,N/A,34.07,45.12,05 August 2016

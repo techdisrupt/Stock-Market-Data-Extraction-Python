@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,3.21,14.79,9.43,543.71M,['NYSE'],N/A,Basic Industries,N/A,7/15/2016,N/A,3770.00,NYQ,9.81,1474770,0.30,6/28/2016,CCJ,-0.14,1996,Cameco Corporation,N/A,9.07,9.43,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.000,11.890,10.150,0.00,['NASDAQ'],N/A,Finance,7.302,N/A,N/A,63.38,NMS,10.120,4472,0.000,10/8/2010,FUNC,1.388,n/a,First United Corporation,N/A,7.910,10.180,06 August 2016

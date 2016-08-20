@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,34.12,28.95,964.90M,['NASDAQ'],N/A,2013,N/A,N/A,N/A,5630.00,NMS,N/A,1156180,N/A,N/A,COMM,-0.43,n/a,CommScope Holding Company,N/A,19.37,28.76,06 August 2016

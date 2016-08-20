@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.66,31.35,31.07,494.66M,['NYSE'],N/A,Basic Industries,N/A,6/2/2016,N/A,13310.00,NYQ,30.59,4905574,0.20,5/17/2016,SLW,-0.42,n/a,Silver Wheaton Corp,N/A,10.04,30.57,13 August 2016

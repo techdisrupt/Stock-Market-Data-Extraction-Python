@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous manufacturing industries,USD,N/A,2.54,32.78,32.00,137.25M,['NYSE'],N/A,Consumer Durables,105.78,7/29/2016,N/A,1630.00,NYQ,32.37,85155,0.81,7/6/2016,BRC,0.31,n/a,Brady Corporation,N/A,18.46,31.86,05 August 2016

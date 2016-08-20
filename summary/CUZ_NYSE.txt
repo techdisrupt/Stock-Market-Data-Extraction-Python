@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.03,11.13,10.52,201.30M,['NYSE'],N/A,Consumer Services,15.97,5/27/2016,N/A,2220.00,NYQ,11.52,1684466,0.32,5/11/2016,CUZ,0.66,n/a,Cousins Properties Incorporated,N/A,7.53,10.47,06 August 2016

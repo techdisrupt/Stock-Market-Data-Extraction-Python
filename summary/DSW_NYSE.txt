@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Clothing/Shoe/Accessory Stores,USD,N/A,3.46,33.31,23.56,266.14M,['NYSE'],N/A,Consumer Services,17.51,6/30/2016,N/A,1960.00,NYQ,23.92,929991,0.80,6/14/2016,DSW,1.37,2005,DSW Inc.,N/A,18.51,23.37,06 August 2016

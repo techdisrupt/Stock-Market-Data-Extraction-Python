@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Recreational Products/Toys,USD,N/A,0.38,11.58,11.13,54.17M,['NYSE'],N/A,Consumer Non-Durables,28.94,6/15/2016,N/A,1070.00,NYQ,11.44,3105848,0.04,5/23/2016,ELY,0.40,1992,Callaway Golf Company,N/A,7.97,11.00,05 August 2016

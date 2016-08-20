@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,78.29,65.80,17.67M,['NASDAQ'],N/A,2010,235.11,N/A,N/A,1120.00,NMS,65.87,35813,N/A,N/A,SPSC,0.28,n/a,SPS Commerce,N/A,38.35,65.75,14 August 2016

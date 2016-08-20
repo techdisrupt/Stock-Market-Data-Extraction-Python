@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.6000,5.5200,5.4500,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,5.7000,48530,0.1900,7/19/2016,MGF,0.0300,1987,MFS Government Markets Income Trust,N/A,5.0400,5.4500,07 August 2016

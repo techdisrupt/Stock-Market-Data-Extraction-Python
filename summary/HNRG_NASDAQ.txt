@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Coal Mining,USD,N/A,3.08,8.25,5.14,85.38M,['NASDAQ'],N/A,Energy,8.12,5/13/2016,N/A,150.05,NCM,5.37,66393,0.16,7/27/2016,HNRG,0.63,n/a,Hallador Energy Company,N/A,3.95,5.12,07 August 2016

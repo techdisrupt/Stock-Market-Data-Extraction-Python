@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,2.38,24.48,22.79,145.51M,['NYSE'],N/A,Energy,25.18,6/30/2016,N/A,1010.00,NYQ,23.33,248300,0.54,6/15/2016,BGG,0.93,n/a,Briggs & Stratton Corporation,N/A,15.47,22.63,05 August 2016

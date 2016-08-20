@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.07,154.50,127.69,5.26B,['NYSE'],N/A,n/a,14.67,6/24/2016,N/A,33380.00,NYQ,126.90,1409745,2.60,6/8/2016,ANTM,8.65,n/a,Anthem,N/A,115.63,127.87,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,8.68,1.80,1.58,-2.00M,['NASDAQ'],N/A,1995,N/A,7/27/2016,N/A,25.69,NGM,2.68,9908,0.14,7/5/2016,DSWL,-0.31,n/a,Deswell Industries,N/A,1.08,1.63,06 August 2016

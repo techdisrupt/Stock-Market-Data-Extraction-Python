@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,9.82,40.50,25.50,100.32M,['NYSE'],N/A,2012,10.10,5/13/2016,N/A,614.91,NYQ,33.00,84356,2.52,8/3/2016,DKL,2.51,n/a,Delek Logistics Partners,N/A,21.84,25.35,06 August 2016

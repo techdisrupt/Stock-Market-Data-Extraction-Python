@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,0.840,24.520,18.46,3.45B,['NYSE'],N/A,Energy,268.55,8/7/2015,N/A,7280.00,NYQ,18.48,1304142,0.150,7/1/2016,YPF,0.069,1993,YPF Sociedad Anonima,N/A,12.670,18.390,15 August 2016

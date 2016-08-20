@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,124.69,116.40,105.93M,['NASDAQ'],N/A,1992,38.05,N/A,N/A,1890.00,NMS,117.52,68004,N/A,N/A,ICUI,3.09,n/a,ICU Medical,N/A,85.56,116.27,07 August 2016

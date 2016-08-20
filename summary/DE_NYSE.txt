@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,3.06,97.49,78.07,3.78B,['NYSE'],N/A,Capital Goods,15.72,8/1/2016,N/A,24620.00,NYQ,78.49,2460102,2.40,6/28/2016,DE,4.98,n/a,Deere & Company,N/A,70.16,77.74,06 August 2016

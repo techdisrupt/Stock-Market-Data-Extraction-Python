@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,2.77,2.64,-17.04M,['NASDAQ'],N/A,Health Care,N/A,12/24/2012,N/A,120.89,NMS,3.05,65480,N/A,12/13/2012,PTIE,-0.37,2000,Pain Therapeutics,N/A,1.55,2.65,07 August 2016

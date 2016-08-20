@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,1.74,78.98,76.60,150.10M,['NYSE'],N/A,n/a,22.49,6/2/2016,N/A,1270.00,NYQ,75.43,127328,1.32,5/11/2016,NP,3.14,n/a,Neenah Paper,N/A,52.70,77.72,07 August 2016

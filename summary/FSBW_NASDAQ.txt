@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.44,27.85,27.98,0.00,['NASDAQ'],N/A,2012,9.92,5/25/2016,N/A,79.06,NCM,27.80,5213,0.40,5/9/2016,FSBW,2.80,n/a,FS Bancorp,N/A,22.05,27.77,07 August 2016

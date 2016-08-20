@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.00,5.26,3.19,4.66M,['NYSE'],N/A,n/a,N/A,12/24/2013,N/A,147.58,NYQ,3.06,16836,0.00,12/3/2013,NL,-0.75,n/a,NL Industries,N/A,1.92,3.14,07 August 2016

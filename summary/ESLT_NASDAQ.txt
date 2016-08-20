@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,1.62,102.52,99.70,388.94M,['NASDAQ'],N/A,Capital Goods,20.29,6/6/2016,N/A,4270.00,NMS,99.84,20801,1.60,5/24/2016,ESLT,4.92,n/a,Elbit Systems Ltd.,N/A,69.28,99.53,06 August 2016

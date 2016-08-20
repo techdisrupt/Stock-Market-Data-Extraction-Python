@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Homebuilding,USD,N/A,N/A,16.55,9.95,17.50M,['NYSE'],N/A,Capital Goods,10.14,N/A,N/A,202.97,NYQ,15.90,72779,N/A,N/A,NWHM,0.97,2014,New Home Company Inc. (The),N/A,7.51,9.87,07 August 2016

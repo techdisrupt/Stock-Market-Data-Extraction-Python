@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,18.49,18.25,1.19B,['NASDAQ'],N/A,n/a,2.87,N/A,N/A,817.13,NMS,18.14,164358,N/A,N/A,AMBC,6.32,n/a,Ambac Financial Group,N/A,11.92,18.24,05 August 2016

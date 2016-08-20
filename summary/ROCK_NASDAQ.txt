@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,38.97,37.92,110.71M,['NASDAQ'],N/A,1993,32.95,N/A,N/A,1210.00,NMS,N/A,413097,0.00,12/30/2008,ROCK,1.17,n/a,Gibraltar Industries,N/A,15.94,37.64,07 August 2016

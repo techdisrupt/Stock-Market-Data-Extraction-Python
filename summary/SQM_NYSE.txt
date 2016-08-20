@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Mining & Quarrying of Nonmetallic Minerals (No Fuels),USD,N/A,2.24,26.33,24.60,695.47M,['NYSE'],N/A,Basic Industries,31.16,5/18/2016,N/A,6450.00,NYQ,26.00,438592,0.55,4/27/2016,SQM,0.79,1993,Sociedad Quimica y Minera S.A.,N/A,12.70,24.60,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,1.95,15.27,14.35,4.33B,['NYSE'],N/A,Public Utilities,19.82,N/A,N/A,24300.00,NYQ,15.90,1759552,0.29,7/1/2016,VIV,0.73,n/a,Telefonica Brasil S.A.,N/A,7.72,14.63,14 August 2016

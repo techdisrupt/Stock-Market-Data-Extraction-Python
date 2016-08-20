@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,15.80,16.21,16.00,0.00,['NYSE'],N/A,n/a,N/A,7/28/2016,N/A,N/A,NYQ,16.16,83773,1.94,8/11/2016,EDF,N/A,2010,Stone Harbor Emerging Markets Income Fund,N/A,9.95,16.02,14 August 2016

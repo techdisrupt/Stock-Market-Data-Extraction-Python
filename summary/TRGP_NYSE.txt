@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,8.62,76.01,42.53,1.13B,['NYSE'],N/A,2010,N/A,5/16/2016,N/A,7070.00,NYQ,42.55,1026393,3.64,7/29/2016,TRGP,-0.20,n/a,Targa Resources,N/A,14.55,42.25,14 August 2016

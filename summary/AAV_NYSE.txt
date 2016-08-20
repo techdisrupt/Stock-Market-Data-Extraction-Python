@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,6.59,6.36,111.24M,['NYSE'],N/A,Energy,47.08,N/A,N/A,1190.00,NYQ,6.45,74479,0.00,2/25/2009,AAV,0.14,n/a,Advantage Oil & Gas Ltd,N/A,4.17,6.37,04 August 2016

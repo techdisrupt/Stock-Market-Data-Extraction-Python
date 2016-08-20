@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,10.42,8.600,21.80M,['NASDAQ'],N/A,2011,N/A,N/A,N/A,327.04,NMS,8.640,530504,N/A,N/A,WIFI,-0.66,n/a,Boingo Wireless,N/A,5.40,8.84,05 August 2016

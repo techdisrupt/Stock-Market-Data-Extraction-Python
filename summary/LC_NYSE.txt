@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,15.00,4.63,0.00,['NYSE'],N/A,n/a,316.67,N/A,N/A,1810.00,NYQ,4.75,7288743,N/A,N/A,LC,0.01,2014,LendingClub Corporation,N/A,3.44,4.60,07 August 2016

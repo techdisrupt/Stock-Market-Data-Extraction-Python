@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.26,83.54,82.18,4.39B,['NYSE'],N/A,n/a,24.34,9/1/2016,N/A,54780.00,NYQ,83.10,2728497,1.04,8/9/2016,TJX,3.40,n/a,TJX Companies,N/A,63.53,82.43,14 August 2016

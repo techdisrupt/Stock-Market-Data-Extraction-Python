@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,4.18,54.64,52.48,6.92B,['NYSE'],N/A,Public Utilities,20.78,6/6/2016,N/A,49290.00,NYQ,52.76,3190805,2.24,8/11/2016,SO,2.52,n/a,Southern Company (The),N/A,41.81,52.32,14 August 2016

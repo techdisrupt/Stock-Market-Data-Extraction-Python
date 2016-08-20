@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.01,229.10,214.85,3.98B,['NYSE'],N/A,n/a,38.23,5/31/2016,N/A,67630.00,NYQ,215.28,1196532,6.60,5/13/2016,SPG,5.63,n/a,Simon Property Group,N/A,173.09,214.55,13 August 2016

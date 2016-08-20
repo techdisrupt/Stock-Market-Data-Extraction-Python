@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.37,34.28,33.89,172.76M,['NYSE'],N/A,2010,N/A,6/30/2016,N/A,3020.00,NYQ,33.87,993305,0.80,6/16/2016,HPP,-0.38,n/a,Hudson Pacific Properties,N/A,22.77,33.71,07 August 2016

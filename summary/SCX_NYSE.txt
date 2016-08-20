@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,3.42,16.60,11.73,10.38M,['NYSE'],N/A,Capital Goods,285.25,6/29/2016,N/A,80.03,NYQ,11.59,3895,0.40,6/10/2016,SCX,0.04,n/a,L.S. Starrett Company (The),N/A,8.40,11.70,07 August 2016

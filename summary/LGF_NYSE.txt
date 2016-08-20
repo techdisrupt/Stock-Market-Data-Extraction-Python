@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Movies/Entertainment,USD,N/A,0.00,41.41,20.25,33.49M,['NYSE'],N/A,Consumer Services,62.64,8/5/2016,N/A,3030.00,NYQ,21.05,8517319,0.00,6/28/2016,LGF,0.33,n/a,Lions Gate Entertainment Corporation,N/A,16.21,19.04,07 August 2016

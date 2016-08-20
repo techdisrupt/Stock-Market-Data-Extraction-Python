@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,11.15,3.80,-7.74M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,14.61,NCM,3.79,60127,N/A,N/A,CDTI,-2.47,n/a,Clean Diesel Technologies,N/A,1.50,3.79,06 August 2016

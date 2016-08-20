@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,1.24,102.85,101.36,262.47M,['NASDAQ'],N/A,Consumer Durables,30.37,6/2/2016,N/A,4200.00,NMS,106.50,335933,1.24,5/17/2016,POOL,3.29,1995,Pool Corporation,N/A,65.56,101.06,08 August 2016

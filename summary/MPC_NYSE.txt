@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,3.49,59.99,40.80,5.31B,['NYSE'],N/A,Energy,11.56,6/10/2016,N/A,22160.00,NYQ,42.19,5781199,1.44,5/16/2016,MPC,3.62,n/a,Marathon Petroleum Corporation,N/A,29.24,40.63,07 August 2016

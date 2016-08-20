@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,16.61,16.41,0.00,['NASDAQ'],N/A,1997,N/A,8/7/2009,N/A,3620.00,NMS,17.75,1721205,0.00,10/2/2008,ACAS,-1.09,n/a,American Capital,N/A,11.92,16.55,05 August 2016

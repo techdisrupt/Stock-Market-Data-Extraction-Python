@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,260.51,179.44,187.40M,['NYSE'],N/A,n/a,26.86,N/A,N/A,2210.00,NYQ,179.70,67296,N/A,N/A,SAM,6.68,n/a,Boston Beer Company,N/A,145.33,179.45,05 August 2016

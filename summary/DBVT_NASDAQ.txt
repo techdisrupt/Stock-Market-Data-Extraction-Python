@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Biological Products (No Diagnostic Substances),USD,N/A,N/A,44.63,34.10,-87.60M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,1570.00,NMS,N/A,20840,N/A,N/A,DBVT,-1.85,2014,DBV Technologies S.A.,N/A,22.55,33.94,06 August 2016

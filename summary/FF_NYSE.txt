@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,2.10,16.08,11.57,55.12M,['NYSE'],N/A,Basic Industries,10.55,9/15/2016,N/A,511.97,NYQ,18.00,95326,0.24,5/27/2016,FF,1.11,n/a,FutureFuel Corp.,N/A,9.11,11.45,07 August 2016

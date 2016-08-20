@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,5.00,17.85,15.07,36.02M,['NYSE'],N/A,Public Utilities,25.00,6/17/2016,N/A,343.13,NYQ,14.90,110754,0.76,6/9/2016,IDT,0.60,n/a,IDT Corporation,N/A,10.76,14.99,07 August 2016

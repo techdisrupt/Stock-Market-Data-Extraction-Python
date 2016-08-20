@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,1.65,13.29,12.19,0.00,['NASDAQ'],N/A,Finance,33.17,5/27/2016,N/A,234.15,NMS,12.25,16412,0.20,5/9/2016,BFIN,0.37,n/a,BankFinancial Corporation,N/A,11.38,12.05,05 August 2016

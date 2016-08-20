@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,7.74,3.76,-31.72M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,71.79,NGM,4.09,126864,N/A,N/A,AKAO,-1.82,n/a,Achaogen,N/A,2.59,3.78,04 August 2016

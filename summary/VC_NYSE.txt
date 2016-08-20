@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,0.00,121.65,70.67,288.00M,['NYSE'],N/A,Capital Goods,38.57,1/22/2016,N/A,2420.00,NYQ,71.05,111465,0.00,N/A,VC,1.84,n/a,Visteon Corporation,N/A,58.83,70.58,15 August 2016

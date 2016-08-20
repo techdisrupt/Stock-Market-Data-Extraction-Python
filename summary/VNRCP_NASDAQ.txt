@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.0000,20.0000,2.9400,500.91M,['NASDAQ'],N/A,Energy,N/A,3/15/2016,N/A,261.06,NMS,3.0500,10529,0.0000,2/26/2016,VNRCP,-17.1260,n/a,Vanguard Natural Resources LLC,N/A,2.2000,3.0200,15 August 2016

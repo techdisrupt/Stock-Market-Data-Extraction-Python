@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,22.75,22.40,0.00,['NYSE'],N/A,n/a,N/A,6/30/2016,N/A,N/A,ASE,22.50,67376,0.00,6/16/2016,RIF,-0.32,n/a,RMR Real Estate Income Fund.,N/A,15.88,22.29,09 August 2016

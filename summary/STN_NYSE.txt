@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,1.50,30.01,23.12,226.27M,['NYSE'],N/A,Consumer Services,23.62,7/14/2016,N/A,2660.00,NYQ,23.34,15261,0.35,3/29/2016,STN,1.00,n/a,Stantec Inc,N/A,20.71,23.18,14 August 2016

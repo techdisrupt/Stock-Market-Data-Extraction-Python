@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,8.36,8.72,6.04,392.16M,['NYSE'],N/A,Consumer Services,N/A,7/15/2016,N/A,620.05,NYQ,6.49,1352762,0.48,6/28/2016,AHT,-1.10,2003,Ashford Hospitality Trust Inc,N/A,4.15,5.68,05 August 2016

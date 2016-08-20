@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,40.10,3.51,-67.66M,['NASDAQ'],N/A,2007,N/A,N/A,N/A,54.59,NMS,3.99,254267,N/A,N/A,OREX,-5.41,n/a,Orexigen Therapeutics,N/A,3.18,3.51,07 August 2016

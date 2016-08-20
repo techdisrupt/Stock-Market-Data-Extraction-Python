@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Accident &Health Insurance,USD,N/A,3.48,58.02,47.40,1.76B,['NYSE'],N/A,Finance,11.31,6/24/2016,N/A,13680.00,NYQ,47.56,556920,1.64,6/2/2016,PFG,4.21,2001,Principal Financial Group Inc,N/A,33.09,47.18,08 August 2016

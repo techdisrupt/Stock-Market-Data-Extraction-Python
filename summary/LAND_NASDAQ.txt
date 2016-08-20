@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,4.36,11.50,11.36,9.62M,['NASDAQ'],N/A,Consumer Services,125.05,6/30/2016,N/A,114.07,NGM,14.50,11256,0.49,7/20/2016,LAND,0.09,2013,Gladstone Land Corporation,N/A,6.72,11.36,07 August 2016

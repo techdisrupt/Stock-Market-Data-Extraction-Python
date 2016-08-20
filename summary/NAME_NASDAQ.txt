@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,12.85,11.86,-397000.00,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,224.64,NMS,11.70,69085,N/A,N/A,NAME,-0.97,n/a,Rightside Group,N/A,6.27,11.80,09 August 2016

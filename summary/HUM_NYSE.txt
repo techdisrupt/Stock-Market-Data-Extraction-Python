@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical Specialities,USD,N/A,0.67,192.49,174.34,2.37B,['NYSE'],N/A,Health Care,24.95,7/29/2016,N/A,26670.00,NYQ,181.70,2188455,1.16,6/28/2016,HUM,7.17,n/a,Humana Inc.,N/A,150.00,173.83,07 August 2016

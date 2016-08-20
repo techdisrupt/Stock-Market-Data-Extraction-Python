@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.6600,32.7000,31.5100,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,ASE,31.4800,104419,1.8100,7/13/2016,UTG,3.0200,2004,Reaves Utility Income Fund,N/A,23.0100,31.5800,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.22,10.41,9.27,87.50M,['NYSE'],N/A,Basic Industries,N/A,4/29/2016,N/A,2460.00,NYQ,9.31,781652,0.02,4/13/2016,AGI,-2.03,n/a,Alamos Gold Inc,N/A,2.27,9.21,04 August 2016

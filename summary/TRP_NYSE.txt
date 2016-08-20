@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,3.66,48.06,47.94,4.20B,['NYSE'],N/A,Public Utilities,N/A,7/29/2016,N/A,38290.00,NYQ,53.98,1031722,1.72,6/28/2016,TRP,-1.55,n/a,TransCanada Corporation,N/A,28.40,47.70,14 August 2016

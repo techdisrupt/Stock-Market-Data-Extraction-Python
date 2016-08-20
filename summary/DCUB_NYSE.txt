@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,5.30,60.92,N/A,5.30B,['NYSE'],N/A,n/a,18.79,4/1/2016,N/A,35860.00,NYQ,N/A,0,3.00,3/29/2016,DCUB,3.20,n/a,Dominion Resources,N/A,52.78,60.10,06 August 2016

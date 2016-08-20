@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,8.23,2.50,92.48M,['NYSE'],N/A,n/a,3.52,N/A,N/A,234.79,NYQ,3.27,633064,N/A,N/A,MWW,0.75,n/a,Monster Worldwide,N/A,2.13,2.48,07 August 2016

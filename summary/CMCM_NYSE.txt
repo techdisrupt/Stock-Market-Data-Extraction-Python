@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,24.93,12.17,57.43M,['NYSE'],N/A,Technology,69.59,N/A,N/A,1650.00,NYQ,11.85,656834,N/A,N/A,CMCM,0.17,2014,Cheetah Mobile Inc.,N/A,8.77,11.93,06 August 2016

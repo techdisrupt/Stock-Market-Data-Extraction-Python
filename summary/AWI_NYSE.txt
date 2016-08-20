@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Plastic Products,USD,N/A,0.000,60.700,43.650,293.40M,['NYSE'],N/A,Consumer Non-Durables,98.630,4/10/2012,N/A,2460.00,NYQ,44.300,481586,0.000,3/30/2012,AWI,0.449,n/a,Armstrong World Industries Inc,N/A,35.920,43.000,05 August 2016

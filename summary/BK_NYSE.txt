@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.94,45.45,39.540,0.00,['NYSE'],N/A,Finance,14.510,5/13/2016,N/A,43190.00,NYQ,40.450,3516033,0.76,7/29/2016,BK,2.79,n/a,Bank Of New York Mellon Corporation (The),N/A,32.20,38.94,05 August 2016

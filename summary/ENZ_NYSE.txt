@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,7.00,6.70,-7.70M,['NYSE'],N/A,n/a,17.62,N/A,N/A,311.36,NYQ,13.00,145330,N/A,6/29/1995,ENZ,0.38,n/a,Enzo Biochem,N/A,2.57,6.72,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Publishing,USD,N/A,N/A,101.77,95.41,251.93M,['NASDAQ'],N/A,Miscellaneous,57.73,N/A,N/A,2990.00,NMS,94.67,425364,N/A,N/A,CMPR,1.64,n/a,Cimpress N.V,N/A,65.04,95.00,06 August 2016

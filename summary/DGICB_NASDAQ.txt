@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.20,21.50,N/A,53.98M,['NASDAQ'],N/A,1986,14.72,5/16/2016,N/A,397.46,NMS,34.99,0,0.48,7/28/2016,DGICB,1.03,n/a,Donegal Group,N/A,12.56,15.10,06 August 2016

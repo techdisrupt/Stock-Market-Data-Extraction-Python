@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,9.38,38.15,33.54,339.00M,['NYSE'],N/A,2005,36.18,5/13/2016,N/A,3870.00,NYQ,33.81,310165,3.12,8/3/2016,DPM,0.93,n/a,DCP Midstream Partners,N/A,15.09,33.56,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Clothing/Shoe/Accessory Stores,USD,N/A,N/A,9.54,5.06,18.11M,['NYSE'],N/A,Consumer Services,270.00,N/A,N/A,251.20,NYQ,5.14,142948,N/A,N/A,VNCE,0.02,2013,Vince Holding Corp.,N/A,3.31,5.02,15 August 2016

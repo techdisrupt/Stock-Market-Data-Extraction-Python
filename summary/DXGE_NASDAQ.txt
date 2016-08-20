@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.20,29.96,26.59,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,26.62,106780,0.04,N/A,DXGE,N/A,n/a,WisdomTree Germany Hedged Equity Fund,N/A,22.22,26.54,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,1.00,0.27,-1.28M,['NYSE'],N/A,n/a,N/A,9/15/2015,N/A,3.15,ASE,0.29,139796,N/A,9/16/2015,WGA,-0.11,n/a,AG&E Holdings,N/A,0.24,0.28,04 August 2016

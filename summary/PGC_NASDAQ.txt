@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,0.99,23.82,20.32,0.00,['NASDAQ'],N/A,Finance,15.30,5/16/2016,N/A,341.00,NMS,N/A,18048,0.20,5/3/2016,PGC,1.36,n/a,Peapack-Gladstone Financial Corporation,N/A,16.17,20.25,07 August 2016

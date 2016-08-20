@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,N/A,117.46,113.03,816.60M,['NYSE'],N/A,Health Care,46.79,N/A,N/A,24100.00,NYQ,113.18,882955,N/A,N/A,EW,2.42,n/a,Edwards Lifesciences Corporation,N/A,62.53,112.98,06 August 2016

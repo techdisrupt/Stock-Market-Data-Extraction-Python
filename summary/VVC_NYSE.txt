@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,3.1600,53.3300,50.4900,595.60M,['NYSE'],N/A,Public Utilities,22.5369,6/1/2016,N/A,4170.00,NYQ,50.4100,134787,1.6000,8/11/2016,VVC,2.2360,n/a,Vectren Corporation,N/A,37.2600,50.5600,15 August 2016

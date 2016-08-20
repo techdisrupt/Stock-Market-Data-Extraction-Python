@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Coal Mining,USD,N/A,25.66,8.76,2.68,236.64M,['NYSE'],N/A,Energy,N/A,11/25/2015,N/A,385.29,NYQ,2.93,111617,0.68,8/12/2015,FELP,-0.95,2014,Foresight Energy LP,N/A,1.07,2.65,07 August 2016

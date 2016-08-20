@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,5.96,18.32,15.36,13.17B,['NYSE'],N/A,Public Utilities,7.99,7/14/2016,N/A,40800.00,NYQ,15.33,316643,0.91,6/16/2016,ORAN,1.91,n/a,Orange,N/A,14.27,15.25,07 August 2016

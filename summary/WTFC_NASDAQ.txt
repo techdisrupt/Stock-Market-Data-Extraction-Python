@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.90,55.00,53.34,0.00,['NASDAQ'],N/A,Finance,17.22,5/26/2016,N/A,2790.00,NMS,53.97,124034,0.48,8/9/2016,WTFC,3.13,n/a,Wintrust Financial Corporation,N/A,37.96,53.41,15 August 2016

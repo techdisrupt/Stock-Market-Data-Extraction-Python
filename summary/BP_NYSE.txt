@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,7.270,37.530,33.270,9.16B,['NYSE'],N/A,Energy,N/A,6/17/2016,N/A,103700.00,NYQ,33.140,5640879,2.400,8/3/2016,BP,-1.710,n/a,BP p.l.c.,N/A,27.010,33.000,05 August 2016

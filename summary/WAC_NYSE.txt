@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,0.00,18.00,3.65,0.00,['NYSE'],N/A,Finance,N/A,11/15/2011,N/A,128.31,NYQ,3.55,391350,0.00,9/20/2011,WAC,-16.39,n/a,Walter Investment Management Corp.,N/A,2.24,3.53,15 August 2016

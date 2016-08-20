@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,4.59,3.50,15.06M,['NASDAQ'],N/A,n/a,40.70,1/28/2015,N/A,123.83,NGM,3.80,34600,0.00,1/13/2015,III,0.09,n/a,Information Services Group,N/A,2.86,3.47,07 August 2016

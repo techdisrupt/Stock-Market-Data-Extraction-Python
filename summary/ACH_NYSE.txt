@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Aluminum,USD,N/A,0.00,9.97,8.85,845.29M,['NYSE'],N/A,Basic Industries,353.60,N/A,N/A,6790.00,NYQ,8.86,22622,0.00,4/26/2011,ACH,0.03,2001,Aluminum Corporation of China Limited,N/A,6.87,8.84,05 August 2016

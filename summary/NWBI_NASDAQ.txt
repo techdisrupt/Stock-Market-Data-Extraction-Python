@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,4.04,15.22,14.89,0.00,['NASDAQ'],N/A,2009,37.01,5/16/2016,N/A,1540.00,NMS,15.79,677202,0.60,8/2/2016,NWBI,0.41,n/a,Northwest Bancshares,N/A,11.78,14.84,07 August 2016

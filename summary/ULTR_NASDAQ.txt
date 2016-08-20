@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,N/A,0.9200,0.3240,46.32M,['NASDAQ'],N/A,Transportation,N/A,N/A,N/A,47.78,NCM,0.3392,15591,N/A,N/A,ULTR,-0.4260,2006,Ultrapetrol (Bahamas) Limited,N/A,0.0500,0.3270,15 August 2016

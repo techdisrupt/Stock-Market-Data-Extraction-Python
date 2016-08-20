@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.33,6.50,4.58,349.06M,['NYSE'],N/A,Basic Industries,N/A,3/31/2016,N/A,1060.00,NYQ,4.49,273172,0.02,3/9/2016,HBM,-1.23,n/a,HudBay Minerals Inc,N/A,1.56,4.60,07 August 2016

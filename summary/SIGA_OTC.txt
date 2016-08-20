@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,2.55,2.28,-15.20M,['OTC'],N/A,Health Care,N/A,N/A,N/A,124.04,PNK,N/A,22507,N/A,N/A,SIGA,-0.85,n/a,SIGA Technologies Inc.,N/A,0.20,2.27,13 August 2016

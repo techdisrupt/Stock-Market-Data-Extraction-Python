@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Nursing Services,USD,N/A,N/A,36.38,26.52,130.60M,['NYSE'],N/A,Health Care,27.83,N/A,N/A,821.21,NYQ,26.73,229578,N/A,N/A,PMC,0.96,n/a,Pharmerica Corporation,N/A,19.79,26.41,08 August 2016

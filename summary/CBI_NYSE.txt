@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Engineering & Construction,USD,N/A,0.84,53.42,33.57,1.06B,['NYSE'],N/A,Basic Industries,N/A,6/30/2016,N/A,3560.00,NYQ,34.55,1701634,0.28,6/16/2016,CBI,-5.48,1997,Chicago Bridge & Iron Company N.V.,N/A,31.30,33.45,06 August 2016

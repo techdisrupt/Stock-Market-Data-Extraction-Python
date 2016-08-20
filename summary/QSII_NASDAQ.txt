@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.0000,17.50,12.2800,56.46M,['NASDAQ'],N/A,1982,N/A,1/4/2016,N/A,753.45,NMS,12.2500,157701,0.00,12/9/2015,QSII,-0.0220,n/a,Quality Systems,N/A,11.10,12.28,08 August 2016

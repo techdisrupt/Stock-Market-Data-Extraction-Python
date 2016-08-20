@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,2.600,35.540,34.120,1.93B,['NYSE'],N/A,Finance,18.919,2/12/2016,N/A,19820.00,NYQ,34.040,902344,0.890,2/1/2016,PGR,1.800,n/a,Progressive Corporation (The),N/A,27.230,34.120,08 August 2016

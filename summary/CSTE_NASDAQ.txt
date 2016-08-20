@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Materials,USD,N/A,0.00,54.97,42.34,119.82M,['NASDAQ'],N/A,Capital Goods,20.40,12/23/2014,N/A,1480.00,NMS,64.99,316336,0.00,11/24/2014,CSTE,2.06,2012,CaesarStone Sdot-Yam Ltd.,N/A,27.31,41.77,05 August 2016

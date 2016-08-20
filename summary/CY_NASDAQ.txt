@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,3.88,12.36,11.62,91.16M,['NASDAQ'],N/A,Technology,N/A,7/21/2016,N/A,3630.00,NMS,11.75,5970011,0.44,6/28/2016,CY,-2.03,1986,Cypress Semiconductor Corporation,N/A,6.30,11.56,06 August 2016

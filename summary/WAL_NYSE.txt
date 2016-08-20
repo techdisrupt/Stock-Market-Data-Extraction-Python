@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,N/A,39.11,35.30,0.00,['NYSE'],N/A,Finance,15.61,N/A,N/A,3690.00,NYQ,35.98,337781,N/A,N/A,WAL,2.31,2005,Western Alliance Bancorporation,N/A,26.60,35.08,15 August 2016

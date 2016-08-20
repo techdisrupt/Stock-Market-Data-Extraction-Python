@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Beverages (Production/Distribution),USD,N/A,N/A,3.9500,1.9600,-518909.00,['NASDAQ'],N/A,Consumer Non-Durables,N/A,N/A,N/A,5.57,NCM,2.0700,18691,N/A,N/A,LBIX,-0.1590,n/a,Leading Brands Inc,N/A,1.3100,2.0000,07 August 2016

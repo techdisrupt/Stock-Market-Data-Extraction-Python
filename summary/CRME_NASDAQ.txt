@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,10.40,3.17,-17.27M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,62.29,NCM,3.30,125850,N/A,N/A,CRME,-1.14,n/a,Cardiome Pharma Corporation,N/A,3.00,3.15,06 August 2016

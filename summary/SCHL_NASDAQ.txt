@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Books,USD,N/A,1.48,44.24,40.37,123.30M,['NASDAQ'],N/A,Consumer Services,34.69,6/15/2016,N/A,1380.00,NMS,40.26,68435,0.60,4/27/2016,SCHL,1.16,1992,Scholastic Corporation,N/A,30.34,40.32,13 August 2016

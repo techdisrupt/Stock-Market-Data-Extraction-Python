@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,16.60,10.15,10.09,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,10.19,644151,1.46,7/7/2016,PHK,6.08,2003,Pimco High Income Fund,N/A,6.87,10.07,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,1.57,174.52,156.17,883.70M,['NYSE'],N/A,Capital Goods,17.60,6/10/2016,N/A,8920.00,NYQ,155.10,498673,2.44,5/18/2016,SNA,8.72,n/a,Snap-On Incorporated,N/A,133.09,156.80,14 August 2016

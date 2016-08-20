@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,4.00,38.89,35.89,287.60M,['NYSE'],N/A,1995,N/A,6/17/2016,N/A,2250.00,NYQ,35.71,365762,1.44,6/1/2016,LXK,-1.62,n/a,Lexmark International,N/A,24.11,35.89,07 August 2016

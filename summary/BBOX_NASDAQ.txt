@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Communications Equipment,USD,N/A,3.57,17.12,13.74,38.83M,['NASDAQ'],N/A,Technology,N/A,7/15/2016,N/A,209.59,NMS,13.92,39262,0.48,6/29/2016,BBOX,-11.32,n/a,Black Box Corporation,N/A,6.51,13.49,05 August 2016

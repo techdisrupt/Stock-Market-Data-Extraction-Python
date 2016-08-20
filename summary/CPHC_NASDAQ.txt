@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Services-Misc. Amusement & Recreation,USD,N/A,4.560,11.210,N/A,5.28M,['NASDAQ'],N/A,Consumer Services,17.525,6/30/2016,N/A,46.38,NGM,11.050,150,0.500,6/16/2016,CPHC,0.619,n/a,Canterbury Park Holding Corporation,N/A,9.300,10.975,06 August 2016

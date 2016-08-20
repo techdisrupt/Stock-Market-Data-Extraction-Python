@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,15.37,24.24,16.00,588.90M,['NASDAQ'],N/A,Finance,N/A,5/25/2016,N/A,1300.00,NMS,16.53,535597,2.52,8/11/2016,CG,-3.96,2012,The Carlyle Group L.P.,N/A,11.25,16.06,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,N/A,1476.52,1400.95,3.71B,['NASDAQ'],N/A,Miscellaneous,26.78,N/A,N/A,69590.00,NMS,1409.00,282017,N/A,N/A,PCLN,52.58,1999,The Priceline Group Inc.,N/A,954.02,1406.92,14 August 2016

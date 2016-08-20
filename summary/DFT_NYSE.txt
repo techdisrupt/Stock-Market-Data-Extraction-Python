@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,4.04,48.97,46.67,280.98M,['NYSE'],N/A,2007,11617.50,7/15/2016,N/A,3500.00,NYQ,46.46,737809,1.88,6/29/2016,DFT,0.00,n/a,Dupont Fabros Technology,N/A,24.88,46.51,06 August 2016

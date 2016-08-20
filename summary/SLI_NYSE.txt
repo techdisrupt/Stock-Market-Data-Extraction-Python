@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,41.91,N/A,0.00,['NYSE'],N/A,n/a,N/A,12/17/2012,N/A,N/A,ASE,N/A,0,0.00,12/4/2012,SLI,2.44,n/a,SL Industries,N/A,26.14,39.99,14 August 2016

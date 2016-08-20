@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,1.00,29.36,23.98,264.30M,['NYSE'],N/A,n/a,24.50,8/1/2016,N/A,2400.00,NYQ,24.17,465773,0.24,6/29/2016,WWW,0.99,n/a,Wolverine World Wide,N/A,14.74,23.90,15 August 2016

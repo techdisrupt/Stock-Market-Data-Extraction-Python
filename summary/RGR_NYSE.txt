@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.97,78.09,65.78,148.74M,['NYSE'],N/A,n/a,16.87,5/27/2016,N/A,1260.00,NYQ,68.40,132329,1.96,8/10/2016,RGR,3.93,676713361.95,Sturm,N/A,48.10,65.89,14 August 2016

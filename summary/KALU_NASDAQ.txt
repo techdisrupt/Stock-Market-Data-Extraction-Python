@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,2.17,96.06,83.38,213.20M,['NASDAQ'],N/A,Capital Goods,16.99,5/13/2016,N/A,1500.00,NMS,84.14,118408,1.80,7/21/2016,KALU,4.95,n/a,Kaiser Aluminum Corporation,N/A,70.14,83.35,07 August 2016

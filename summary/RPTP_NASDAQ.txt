@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,14.71,6.82,-39.77M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,541.69,NGM,6.36,731274,N/A,N/A,RPTP,-1.03,n/a,Raptor Pharmaceutical Corp.,N/A,2.94,6.89,08 August 2016

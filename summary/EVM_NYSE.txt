@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.90,14.23,13.96,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,ASE,13.95,36961,0.68,7/20/2016,EVM,0.71,2002,Eaton Vance California Municipal Bond Fund,N/A,11.20,13.95,06 August 2016

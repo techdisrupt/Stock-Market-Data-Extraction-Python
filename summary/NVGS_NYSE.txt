@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,N/A,17.67,9.47,172.93M,['NYSE'],N/A,Transportation,5.60,N/A,N/A,524.33,NYQ,9.50,414561,N/A,N/A,NVGS,1.69,2013,Navigator Holdings Ltd.,N/A,9.19,9.43,07 August 2016

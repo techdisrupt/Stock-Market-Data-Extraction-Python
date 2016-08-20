@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,N/A,15.99,11.86,78.88M,['NASDAQ'],N/A,Capital Goods,112.34,N/A,N/A,976.66,NMS,12.03,358156,N/A,N/A,XXIA,0.11,2000,Ixia,N/A,8.50,11.80,07 August 2016

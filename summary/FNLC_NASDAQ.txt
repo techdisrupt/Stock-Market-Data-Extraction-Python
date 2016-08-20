@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,4.20,23.37,21.75,0.00,['NASDAQ'],N/A,n/a,13.90,7/29/2016,N/A,236.77,NMS,23.88,11076,0.92,7/1/2016,FNLC,1.58,n/a,First Bancorp,N/A,17.37,21.61,06 August 2016

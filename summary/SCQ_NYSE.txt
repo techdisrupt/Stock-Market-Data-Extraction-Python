@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,28.0800,25.4000,0.00,['NYSE'],N/A,n/a,30.6875,8/15/2016,N/A,317.46,NYQ,25.5000,800,N/A,1/28/2015,SCQ,0.8290,2014,Stellus Capital Investment Corporation,N/A,25.0000,25.2500,14 August 2016

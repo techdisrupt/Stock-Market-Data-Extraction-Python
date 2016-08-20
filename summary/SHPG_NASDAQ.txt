@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,0.41,248.09,197.84,3.36B,['NASDAQ'],N/A,Health Care,41.34,4/12/2016,N/A,45280.00,NMS,200.00,547487,0.80,3/9/2016,SHPG,4.81,n/a,Shire plc,N/A,147.60,198.74,13 August 2016

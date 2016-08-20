@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,3.39,31.15,30.80,14.76B,['NASDAQ'],N/A,1990,15.37,7/27/2016,N/A,156120.00,NMS,31.10,18873294,1.04,7/5/2016,CSCO,2.02,n/a,Cisco Systems,N/A,22.46,30.80,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,2.35,32.40,30.17,3.41B,['NYSE'],N/A,Energy,N/A,7/1/2016,N/A,33790.00,NYQ,32.95,2037426,0.71,6/15/2016,CNQ,-0.34,n/a,Canadian Natural Resources Limited,N/A,14.60,30.25,06 August 2016

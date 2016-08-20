@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil Refining/Marketing,USD,N/A,1.04,50.47,46.34,144.36M,['NASDAQ'],N/A,Transportation,34.58,6/13/2016,N/A,1420.00,NMS,N/A,215903,0.48,5/26/2016,FWRD,1.36,n/a,Forward Air Corporation,N/A,36.00,46.06,07 August 2016

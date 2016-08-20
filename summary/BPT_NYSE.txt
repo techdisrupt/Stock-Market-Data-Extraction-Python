@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,12.860,51.450,15.830,0.00,['NYSE'],N/A,Energy,4.307,4/20/2016,N/A,348.05,NYQ,16.270,131508,2.060,7/13/2016,BPT,3.776,n/a,BP Prudhoe Bay Royalty Trust,N/A,11.290,15.820,05 August 2016

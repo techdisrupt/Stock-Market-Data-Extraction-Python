@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.91,137.87,133.00,0.00,['NASDAQ'],N/A,n/a,13.50,7/20/2016,N/A,285.21,NGM,133.90,5173,1.20,7/7/2016,HIFS,9.92,n/a,Hingham Institution for Savings,N/A,109.14,132.23,07 August 2016

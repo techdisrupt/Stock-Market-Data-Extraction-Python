@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,8.78,15.03,7.80,75.12M,['NYSE'],N/A,Transportation,6.92,5/31/2016,N/A,273.61,NYQ,8.19,209912,0.71,5/12/2016,ASC,1.18,2013,Ardmore Shipping Corporation,N/A,6.46,7.77,05 August 2016

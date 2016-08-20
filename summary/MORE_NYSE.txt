@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.87,10.80,9.79,117.21M,['NYSE'],N/A,n/a,257.00,7/8/2016,N/A,1710.00,NYQ,10.28,1222355,0.30,6/28/2016,MORE,0.40,n/a,Monogram Residential Trust,N/A,7.67,10.45,07 August 2016

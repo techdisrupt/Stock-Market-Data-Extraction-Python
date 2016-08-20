@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,31.99,18.35,102.63M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,665.97,NMS,27.74,574768,N/A,N/A,FTD,-2.78,n/a,FTD Companies,N/A,16.86,24.69,07 August 2016

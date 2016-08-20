@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,2.02,53.41,49.59,303.20M,['NYSE'],N/A,n/a,36.33,6/20/2016,N/A,3080.00,NYQ,49.86,530795,1.00,5/26/2016,ENR,1.37,n/a,Energizer Holdings,N/A,28.85,49.53,06 August 2016

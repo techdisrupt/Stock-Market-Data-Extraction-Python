@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,2.19,67.35,63.61,403.99M,['NYSE'],N/A,2014,25.53,6/1/2016,N/A,3320.00,NYQ,63.53,132804,1.40,5/12/2016,OGS,2.33,n/a,ONE Gas,N/A,41.23,63.98,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,0.00,8.52,5.20,4.82M,['NASDAQ'],N/A,Technology,15.26,N/A,N/A,128.68,NGM,4.99,632486,0.00,8/1/2016,EMKR,0.32,1997,EMCORE Corporation,N/A,4.90,5.26,06 August 2016

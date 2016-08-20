@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,14.57,N/A,-1.74M,['NYSE'],N/A,n/a,N/A,1/11/2016,N/A,10.48,ASE,20.00,8,0.00,12/29/2015,HMG,-1.13,n/a,HMG/Courtland Properties,N/A,8.44,10.13,07 August 2016

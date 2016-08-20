@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,2.83,39.16,28.60,0.00,['NYSE'],N/A,Finance,13.42,5/13/2016,N/A,55460.00,NYQ,29.08,11881867,0.80,7/27/2016,MS,2.16,n/a,Morgan Stanley,N/A,21.16,28.28,07 August 2016

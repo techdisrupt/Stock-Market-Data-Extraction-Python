@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Electronics/Appliances,USD,N/A,2.15,194.10,186.37,2.16B,['NYSE'],N/A,Consumer Durables,16.43,6/15/2016,N/A,13980.00,NYQ,185.31,839372,4.00,5/18/2016,WHR,11.28,n/a,Whirlpool Corporation,N/A,123.60,185.97,15 August 2016

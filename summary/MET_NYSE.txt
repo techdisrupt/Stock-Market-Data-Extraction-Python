@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.66,56.57,40.21,7.38B,['NYSE'],N/A,2000,10.81,6/13/2016,N/A,45200.00,NYQ,41.51,14322257,1.60,8/4/2016,MET,4.66,n/a,MetLife,N/A,35.00,39.54,07 August 2016

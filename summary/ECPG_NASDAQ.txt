@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance Companies,USD,N/A,N/A,43.74,25.12,480.99M,['NASDAQ'],N/A,Finance,13.05,N/A,N/A,523.63,NMS,21.04,3018027,N/A,N/A,ECPG,1.57,n/a,Encore Capital Group Inc,N/A,16.09,24.68,06 August 2016

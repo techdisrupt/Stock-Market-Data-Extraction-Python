@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Railroads,USD,N/A,1.83,66.22,61.63,4.97B,['NYSE'],N/A,Transportation,17.96,6/30/2016,N/A,47800.00,NYQ,66.20,903703,1.14,6/7/2016,CNI,3.45,n/a,Canadian National Railway Company,N/A,46.23,61.80,06 August 2016

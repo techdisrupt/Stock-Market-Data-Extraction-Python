@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,0.6281,0.6110,-20.33M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,176.61,ASE,0.5800,5857738,N/A,N/A,TGD,-0.6340,2011,Timmons Gold Corp,N/A,0.0700,0.5698,14 August 2016

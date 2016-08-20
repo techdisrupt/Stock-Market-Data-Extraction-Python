@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,N/A,14.09,12.42,134.03M,['NASDAQ'],N/A,1996,77.20,N/A,N/A,1690.00,NMS,12.55,1839653,N/A,N/A,PLCM,0.16,n/a,Polycom,N/A,8.79,12.40,08 August 2016

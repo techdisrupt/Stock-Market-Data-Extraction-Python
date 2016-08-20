@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.12,15.59,14.93,0.00,['NASDAQ'],N/A,Finance,15.78,5/13/2016,N/A,100.42,NCM,15.10,5056,0.32,7/28/2016,FCCO,0.95,n/a,First Community Corporation,N/A,11.53,15.04,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,3.17,11.46,9.78,1.71B,['NYSE'],N/A,Miscellaneous,25.64,7/29/2016,N/A,9950.00,NYQ,9.83,2405198,0.31,6/28/2016,XRX,0.38,n/a,Xerox Corporation,N/A,8.48,9.77,15 August 2016

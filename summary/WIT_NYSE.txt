@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,0.27,13.08,11.34,1.63B,['NYSE'],N/A,Technology,21.32,2/10/2016,N/A,27850.00,NYQ,11.35,153553,0.03,7/7/2016,WIT,0.53,n/a,Wipro Limited,N/A,10.65,11.29,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.00,22.35,N/A,0.00,['NASDAQ'],N/A,2000,N/A,12/24/2014,N/A,N/A,NGM,N/A,0,0.00,12/4/2014,AFOP,0.52,n/a,Alliance Fiber Optic Products,N/A,11.95,18.51,01 August 2016

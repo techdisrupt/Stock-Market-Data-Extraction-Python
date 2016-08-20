@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,0.000,19.800,11.380,252.90M,['NASDAQ'],N/A,n/a,32.628,N/A,N/A,382.22,NMS,11.490,272337,0.000,10/1/2002,YRCW,0.352,n/a,YRC Worldwide,N/A,6.250,11.280,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,0.00,5.88,3.68,90.37M,['NASDAQ'],N/A,Basic Industries,N/A,12/28/2012,N/A,226.25,NMS,6.75,1265876,0.00,12/19/2012,GLDD,-0.03,n/a,Great Lakes Dredge & Dock Corporation,N/A,2.96,3.69,07 August 2016

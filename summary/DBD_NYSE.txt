@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,4.28,37.98,27.00,167.80M,['NYSE'],N/A,n/a,9.10,6/10/2016,N/A,1810.00,NYQ,30.99,1128340,1.15,7/25/2016,DBD,3.06,n/a,Diebold,N/A,22.84,26.72,06 August 2016

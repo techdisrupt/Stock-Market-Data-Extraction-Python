@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,0.99,95.98,89.73,297.51M,['NASDAQ'],N/A,1987,14.67,5/24/2016,N/A,2010.00,NMS,92.70,219279,0.88,8/5/2016,SAFM,6.07,n/a,Sanderson Farms,N/A,64.13,89.80,11 August 2016

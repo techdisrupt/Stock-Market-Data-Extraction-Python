@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.500,8.090,7.980,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,7.970,14083,0.320,7/20/2016,PCF,-1.217,n/a,Putnam High Income Bond Fund,N/A,6.390,7.930,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,271.57,225.03,-336.48M,['NASDAQ'],N/A,2010,N/A,N/A,N/A,33550.00,NMS,225.59,1813540,N/A,N/A,TSLA,-8.45,n/a,Tesla Motors,N/A,141.05,224.91,14 August 2016

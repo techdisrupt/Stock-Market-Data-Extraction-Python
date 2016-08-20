@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.75,31.41,22.82,164.49M,['NYSE'],N/A,2010,2.96,6/10/2016,N/A,478.09,NYQ,24.99,124564,0.40,8/8/2016,TOWR,7.68,n/a,Tower International,N/A,18.75,22.80,14 August 2016

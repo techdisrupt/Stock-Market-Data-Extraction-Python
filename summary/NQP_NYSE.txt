@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.30,15.66,15.37,0.00,['NYSE'],N/A,1991,N/A,8/1/2016,N/A,N/A,NYQ,15.32,37566,0.83,7/13/2016,NQP,1.26,n/a,Nuveen Pennsylvania Investment Quality Municipal Fund,N/A,12.90,15.39,07 August 2016

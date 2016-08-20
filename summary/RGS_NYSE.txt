@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,0.00,18.13,12.99,80.49M,['NYSE'],N/A,Consumer Services,N/A,11/19/2013,N/A,608.06,NYQ,12.95,83302,0.00,11/1/2013,RGS,-0.38,1991,Regis Corporation,N/A,10.60,13.00,09 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,4.11,18.05,15.650,0.00,['NASDAQ'],N/A,Finance,15.614,7/15/2016,N/A,3470.00,NMS,15.760,516680,0.64,6/28/2016,UMPQ,1.01,n/a,Umpqua Holdings Corporation,N/A,13.46,15.59,15 August 2016

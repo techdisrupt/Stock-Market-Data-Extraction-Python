@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronics Distribution,USD,N/A,4.99,47.83,29.89,805.80M,['NYSE'],N/A,Consumer Services,8.03,6/21/2016,N/A,3120.00,NYQ,30.29,2612290,1.48,6/6/2016,GME,3.74,2002,Gamestop Corporation,N/A,24.33,29.66,07 August 2016

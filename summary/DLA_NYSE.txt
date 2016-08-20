@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,0.00,25.52,22.04,28.66M,['NYSE'],N/A,n/a,14.01,N/A,N/A,169.92,ASE,22.05,39298,0.00,8/27/2007,DLA,1.57,n/a,Delta Apparel,N/A,11.61,21.99,06 August 2016

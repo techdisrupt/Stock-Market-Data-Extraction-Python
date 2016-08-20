@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,12.98,8.96,219.15M,['NASDAQ'],N/A,1994,N/A,N/A,N/A,972.49,NMS,9.07,288938,N/A,N/A,APOL,-1.10,n/a,Apollo Education Group,N/A,6.31,8.95,05 August 2016

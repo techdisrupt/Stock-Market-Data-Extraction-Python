@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,10.65,10.27,N/A,6.94M,['NYSE'],N/A,Public Utilities,53.48,4/20/2016,N/A,88.41,ASE,8.49,100,0.90,N/A,ELLO,0.16,n/a,Ellomay Capital Ltd.,N/A,7.03,8.45,06 August 2016

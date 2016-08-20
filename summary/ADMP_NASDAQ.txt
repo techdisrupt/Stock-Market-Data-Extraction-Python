@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,10.98,2.79,-14.73M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,40.78,NCM,2.73,166438,N/A,N/A,ADMP,-1.25,n/a,Adamis Pharmaceuticals Corporation,N/A,2.57,2.75,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.48,120.75,118.10,1.18B,['NYSE'],N/A,n/a,21.09,9/12/2016,N/A,15340.00,NYQ,118.50,625031,2.90,5/12/2016,ROK,5.62,n/a,Rockwell Automation,N/A,87.53,117.99,09 August 2016

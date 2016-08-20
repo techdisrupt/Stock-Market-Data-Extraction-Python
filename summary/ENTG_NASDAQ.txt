@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,17.73,16.74,235.37M,['NASDAQ'],N/A,2000,26.70,N/A,N/A,2410.00,NMS,N/A,503879,N/A,N/A,ENTG,0.64,n/a,Entegris,N/A,10.37,16.67,06 August 2016

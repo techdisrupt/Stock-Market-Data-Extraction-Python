@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.94,8.48,6.85,0.00,['NYSE'],N/A,2010,23.16,6/20/2016,N/A,319.77,NYQ,6.75,219409,0.20,6/9/2016,GCAP,0.28,n/a,GAIN Capital Holdings,N/A,5.75,6.85,07 August 2016

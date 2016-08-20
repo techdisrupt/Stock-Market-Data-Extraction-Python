@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.07,31.23,30.10,0.00,['NASDAQ'],N/A,Finance,17.57,6/15/2016,N/A,1350.00,NMS,31.09,250595,0.92,5/27/2016,NBTB,1.77,n/a,NBT Bancorp Inc.,N/A,23.81,30.00,07 August 2016

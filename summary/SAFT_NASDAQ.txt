@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,4.38,65.41,63.89,96.68M,['NASDAQ'],N/A,2002,17.08,6/15/2016,N/A,970.72,NMS,74.79,65747,2.80,5/27/2016,SAFT,3.75,n/a,Safety Insurance Group,N/A,50.78,64.03,10 August 2016

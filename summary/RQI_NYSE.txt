@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,14.73,13.89,0.00,['NYSE'],N/A,n/a,N/A,6/30/2016,N/A,N/A,NYQ,13.92,179948,0.00,6/20/2016,RQI,0.87,2002,Cohen & Steers Quality Income Realty Fund Inc,N/A,10.12,13.88,06 August 2016

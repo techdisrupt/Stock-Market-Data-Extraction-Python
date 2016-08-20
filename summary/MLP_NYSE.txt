@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.0000,7.6200,6.3833,11.30M,['NYSE'],N/A,n/a,18.5561,N/A,N/A,121.30,NYQ,6.3900,100,0.0000,3/8/2001,MLP,0.3440,n/a,Maui Land & Pineapple Company,N/A,4.7300,6.4200,07 August 2016

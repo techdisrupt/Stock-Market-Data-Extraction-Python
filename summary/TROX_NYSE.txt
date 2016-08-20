@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,2.34,9.00,7.77,202.00M,['NYSE'],N/A,Basic Industries,N/A,5/27/2016,N/A,937.61,NYQ,8.08,403638,0.18,5/12/2016,TROX,-2.51,n/a,Tronox Limited,N/A,2.79,7.66,15 August 2016

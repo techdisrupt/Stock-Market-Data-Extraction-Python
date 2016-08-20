@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.86,29.24,28.00,0.00,['NASDAQ'],N/A,Finance,25.68,5/27/2016,N/A,198.76,NCM,N/A,4658,0.52,5/11/2016,MBRG,1.09,n/a,Middleburg Financial Corporation,N/A,16.60,27.98,07 August 2016

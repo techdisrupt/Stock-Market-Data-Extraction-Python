@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Communications Equipment,USD,N/A,2.63,38.79,38.30,19.03M,['NASDAQ'],N/A,Technology,16.84,4/14/2016,N/A,283.48,NMS,43.00,27247,1.00,3/31/2016,SILC,2.29,n/a,Silicom Ltd,N/A,24.86,38.25,13 August 2016

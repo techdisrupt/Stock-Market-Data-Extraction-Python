@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,25.7500,25.4168,0.00,['NYSE'],N/A,n/a,136.6419,9/30/2016,N/A,1470.00,NYQ,25.4300,1288,N/A,12/11/2014,MCQ,0.1860,n/a,Medley Capital Corporation,N/A,23.0500,25.4100,07 August 2016

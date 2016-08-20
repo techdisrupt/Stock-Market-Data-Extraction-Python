@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,7.70,19.41,19.01,0.00,['NYSE'],N/A,n/a,N/A,6/24/2016,N/A,N/A,NYQ,19.08,67063,1.52,6/9/2016,NIE,N/A,2007,AllianzGI Equity & Convertible Income Fund,N/A,15.58,19.04,04 August 2016

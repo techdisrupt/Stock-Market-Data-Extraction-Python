@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.95,32.00,31.01,93.09M,['NYSE'],N/A,2010,13.91,6/30/2016,N/A,716.21,NYQ,31.85,153398,0.94,6/16/2016,PLOW,2.29,n/a,Douglas Dynamics,N/A,16.89,31.07,06 August 2016

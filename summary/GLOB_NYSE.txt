@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,43.93,42.78,40.99M,['NYSE'],N/A,Technology,47.33,N/A,N/A,1470.00,NYQ,43.08,136179,N/A,N/A,GLOB,0.91,2014,Globant S.A.,N/A,22.50,42.60,07 August 2016

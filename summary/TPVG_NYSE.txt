@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,12.87,12.74,10.99,0.00,['NYSE'],N/A,n/a,N/A,6/16/2016,N/A,N/A,NYQ,11.09,96266,1.44,5/26/2016,TPVG,0.33,2014,TriplePoint Venture Growth BDC Corp.,N/A,8.83,10.98,14 August 2016

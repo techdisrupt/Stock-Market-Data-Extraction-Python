@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Materials,USD,N/A,3.37,16.98,16.23,431.80M,['NYSE'],N/A,Capital Goods,29.73,2/26/2016,N/A,7270.00,NYQ,16.30,12971,0.56,6/7/2016,JHX,0.55,n/a,James Hardie Industries plc.,N/A,10.19,16.64,07 August 2016

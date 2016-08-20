@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Automotive Aftermarket,USD,N/A,N/A,64.07,58.18,1.19B,['NYSE'],N/A,Consumer Durables,19.23,N/A,N/A,11270.00,NYQ,58.90,3296179,N/A,N/A,KMX,3.06,n/a,CarMax Inc,N/A,41.25,57.52,06 August 2016

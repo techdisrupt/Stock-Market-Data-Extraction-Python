@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Products,USD,N/A,1.06,64.57,60.77,61.24M,['NYSE'],N/A,Consumer Durables,19.32,12/4/2015,N/A,574.28,ASE,61.83,16483,0.65,11/5/2015,CCF,3.20,n/a,Chase Corporation,N/A,36.83,60.92,06 August 2016

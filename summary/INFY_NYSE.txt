@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,2.23,20.47,16.10,2.70B,['NYSE'],N/A,Technology,17.86,6/22/2016,N/A,37140.00,NYQ,16.31,7974211,0.36,6/7/2016,INFY,0.91,n/a,Infosys Limited,N/A,15.72,16.09,07 August 2016

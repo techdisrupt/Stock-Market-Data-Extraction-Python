@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,10.77,2.44,2.06,0.00,['NYSE'],N/A,Energy,9.38,5/31/2016,N/A,37.14,NYQ,2.35,55070,0.22,5/18/2016,ECT,0.22,2010,ECA Marcellus Trust I,N/A,0.93,2.10,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,2.4800,1.7800,-6.95M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,49.93,NCM,1.7300,95329,N/A,N/A,YOD,-0.3080,n/a,You On Demand Holdings,N/A,1.2200,1.7500,15 August 2016

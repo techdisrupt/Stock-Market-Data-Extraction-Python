@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,1.4900,1.2500,-1.32M,['NASDAQ'],N/A,2000,N/A,N/A,N/A,18.45,NCM,1.3400,61910,N/A,N/A,LTRX,-0.1820,n/a,Lantronix,N/A,0.8000,1.3300,07 August 2016

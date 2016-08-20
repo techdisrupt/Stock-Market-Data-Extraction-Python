@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,515.63,16.75,0.63,442.25M,['NASDAQ'],N/A,n/a,N/A,4/15/2016,N/A,134.69,NMS,N/A,0,2.06,3/29/2016,BBEPP,-12.61,n/a,BreitBurn Energy Partners,N/A,0.23,0.63,05 August 2016

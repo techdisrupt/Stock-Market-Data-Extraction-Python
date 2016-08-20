@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,45.0400,7.7600,-164.41M,['NASDAQ'],N/A,2013,N/A,N/A,N/A,259.82,NMS,7.6700,886312,N/A,N/A,PTCT,-5.1360,n/a,PTC Therapeutics,N/A,5.2700,7.7700,08 August 2016

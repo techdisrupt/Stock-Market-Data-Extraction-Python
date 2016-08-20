@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.25,20.31,19.29,88.68M,['NASDAQ'],N/A,Basic Industries,N/A,6/6/2016,N/A,2920.00,NMS,19.62,2174510,0.05,5/20/2016,PAAS,-1.35,n/a,Pan American Silver Corp.,N/A,5.38,19.83,07 August 2016

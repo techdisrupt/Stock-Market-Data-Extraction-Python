@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,16.59,2.78,-104.43M,['NASDAQ'],N/A,1989,N/A,N/A,N/A,270.81,NMS,3.11,2070624,N/A,N/A,IMGN,-1.49,n/a,ImmunoGen,N/A,2.53,2.86,07 August 2016

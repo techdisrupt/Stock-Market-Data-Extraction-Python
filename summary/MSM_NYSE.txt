@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.38,78.35,72.50,447.63M,['NYSE'],N/A,1995,19.64,7/26/2016,N/A,4480.00,NYQ,75.68,500207,1.72,7/8/2016,MSM,3.71,n/a,MSC Industrial Direct Company,N/A,54.19,72.22,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,5.28,13.97,13.35,594.68M,['NYSE'],N/A,2013,59.82,7/15/2016,N/A,6430.00,NYQ,13.41,3404835,0.70,6/28/2016,SRC,0.22,n/a,Spirit Realty Capital,N/A,8.89,13.25,14 August 2016

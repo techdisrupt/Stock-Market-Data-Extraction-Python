@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,N/A,19.71,14.41,165.10M,['NYSE'],N/A,Basic Industries,28.12,N/A,N/A,433.34,NYQ,14.40,873678,N/A,N/A,RYI,0.48,2014,Ryerson Holding Corporation,N/A,2.53,14.52,10 August 2016

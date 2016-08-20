@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.000,93.940,83.180,715.07M,['NASDAQ'],N/A,1998,26.188,N/A,N/A,8780.00,NMS,82.210,792939,0.000,5/5/2011,VRSN,3.139,n/a,VeriSign,N/A,64.000,83.250,15 August 2016

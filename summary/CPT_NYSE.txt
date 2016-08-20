@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.45,90.91,86.25,527.75M,['NYSE'],N/A,Consumer Services,13.32,7/18/2016,N/A,7540.00,NYQ,86.21,389874,3.00,6/28/2016,CPT,6.48,1993,Camden Property Trust,N/A,67.27,86.11,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,7.7000,16.4900,15.5500,58.64M,['NYSE'],N/A,2013,15.9571,5/13/2016,N/A,542.93,NYQ,15.6400,15681,1.2000,7/26/2016,WPT,0.9760,n/a,World Point Terminals,N/A,11.7900,15.5800,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,N/A,303.75,233.10,1.55B,['NYSE'],N/A,Miscellaneous,28.83,N/A,N/A,13620.00,NYQ,233.99,655201,N/A,N/A,ADS,8.03,2001,Alliance Data Systems Corporation,N/A,176.63,233.84,01 August 2016

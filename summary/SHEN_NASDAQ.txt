@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.82,42.66,28.02,156.93M,['NASDAQ'],N/A,Public Utilities,51.46,12/1/2015,N/A,1380.00,NMS,28.69,524959,0.24,11/3/2015,SHEN,0.55,n/a,Shenandoah Telecommunications Co,N/A,18.39,28.10,13 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,12.10,5.29,4.94,0.00,['NYSE'],N/A,Consumer Services,116.43,7/29/2016,N/A,471.66,NYQ,4.90,1031111,0.60,6/28/2016,ANH,0.04,n/a,Anworth Mortgage Asset  Corporation,N/A,3.66,4.91,05 August 2016

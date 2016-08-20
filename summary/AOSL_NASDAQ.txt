@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,N/A,15.00,14.45,24.13M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,319.19,NMS,14.34,51076,N/A,N/A,AOSL,-0.35,2010,Alpha and Omega Semiconductor Limited,N/A,6.98,14.45,04 August 2016

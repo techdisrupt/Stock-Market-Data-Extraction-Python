@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,2.57,120.04,117.23,3.45B,['NYSE'],N/A,n/a,21.25,6/15/2016,N/A,33290.00,NYQ,116.68,846485,3.00,6/3/2016,PX,5.49,n/a,Praxair,N/A,95.60,116.67,08 August 2016

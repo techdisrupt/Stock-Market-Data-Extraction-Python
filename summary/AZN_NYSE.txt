@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,2.640,35.040,34.980,5.50B,['NYSE'],N/A,Health Care,39.137,3/21/2016,N/A,86640.00,NYQ,34.260,8940391,0.900,2/17/2016,AZN,0.875,n/a,Astrazeneca PLC,N/A,26.970,34.300,05 August 2016

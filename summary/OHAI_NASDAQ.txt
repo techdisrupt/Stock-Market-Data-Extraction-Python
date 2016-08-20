@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,10.3900,5.0600,2.2300,0.00,['NASDAQ'],N/A,n/a,N/A,7/8/2016,N/A,N/A,NMS,4.6800,17548,0.2400,6/28/2016,OHAI,-2.0290,n/a,OHA Investment Corporation,N/A,1.8500,2.2700,07 August 2016

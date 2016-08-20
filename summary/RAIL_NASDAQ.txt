@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.63,24.95,13.80,49.29M,['NASDAQ'],N/A,2005,4.62,5/25/2016,N/A,177.54,NMS,29.89,183969,0.36,5/17/2016,RAIL,3.14,n/a,Freightcar America,N/A,12.56,13.68,07 August 2016

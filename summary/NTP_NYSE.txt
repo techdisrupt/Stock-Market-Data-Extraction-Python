@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,1.46,6.63,5.52,-7.97M,['NYSE'],N/A,Capital Goods,N/A,10/31/2016,N/A,202.95,NYQ,5.58,25289,0.08,6/28/2016,NTP,-0.35,n/a,Nam Tai Property Inc.,N/A,4.70,5.51,07 August 2016

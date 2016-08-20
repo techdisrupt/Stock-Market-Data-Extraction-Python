@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,5.07,40.68,30.27,254.97M,['NYSE'],N/A,Consumer Services,18.09,7/15/2016,N/A,2230.00,NYQ,43.99,923322,1.52,6/28/2016,PEB,1.71,2009,Pebblebrook Hotel Trust,N/A,20.51,30.11,07 August 2016

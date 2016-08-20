@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.26,14.99,14.13,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,ASE,14.10,5715,0.59,7/19/2016,CCA,0.70,1999,MFS California Insured Municipal Trust,N/A,10.72,14.10,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.10,15.01,N/A,0.00,['NYSE'],N/A,1991,N/A,5/2/2016,N/A,N/A,NYQ,N/A,0,0.82,4/6/2016,NQU,1.52,n/a,Nuveen Quality Income Municipal Fund,N/A,13.21,14.89,07 August 2016

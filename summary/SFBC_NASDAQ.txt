@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.23,25.29,24.17,0.00,['NASDAQ'],N/A,n/a,13.12,5/26/2016,N/A,60.26,NCM,24.65,72963,0.30,8/10/2016,SFBC,1.85,n/a,Sound Financial Bancorp,N/A,19.50,24.26,14 August 2016

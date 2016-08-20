@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hospital/Nursing Management,USD,N/A,2.4700,12.7000,8.5000,23.53M,['NASDAQ'],N/A,Health Care,28.3548,7/12/2016,N/A,51.04,NCM,8.2500,26127,0.2200,6/28/2016,DVCR,0.2830,n/a,Diversicare Healthcare Services Inc.,N/A,6.4500,8.6500,06 August 2016

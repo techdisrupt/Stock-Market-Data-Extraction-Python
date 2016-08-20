@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,2.25,56.62,49.97,40.20M,['NASDAQ'],N/A,n/a,24.54,6/15/2016,N/A,561.24,NMS,N/A,32083,1.13,5/27/2016,CTWS,2.04,n/a,Connecticut Water Service,N/A,33.70,50.04,06 August 2016

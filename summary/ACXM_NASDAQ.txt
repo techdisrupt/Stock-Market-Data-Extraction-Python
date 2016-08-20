@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,0.00,23.57,22.91,79.34M,['NASDAQ'],N/A,Technology,268.60,N/A,N/A,1790.00,NMS,N/A,350100,0.00,8/19/2008,ACXM,0.09,n/a,Acxiom Corporation,N/A,17.32,23.00,04 August 2016

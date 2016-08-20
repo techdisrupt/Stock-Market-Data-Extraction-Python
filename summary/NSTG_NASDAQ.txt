@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,19.81,16.66,-36.21M,['NASDAQ'],N/A,2013,N/A,N/A,N/A,327.33,NGM,28.67,300248,N/A,N/A,NSTG,-2.34,n/a,NanoString Technologies,N/A,11.30,16.72,07 August 2016

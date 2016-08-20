@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Diversified Commercial Services,USD,N/A,2.650,27.62,12.330,282.24M,['NASDAQ'],N/A,Technology,N/A,7/21/2016,N/A,672.18,NMS,12.660,1039834,0.32,6/30/2016,RCII,-16.624,1995,Rent-A-Center Inc.,N/A,9.76,12.30,09 August 2016

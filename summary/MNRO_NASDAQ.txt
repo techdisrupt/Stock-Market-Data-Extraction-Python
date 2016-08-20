@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.10,77.00,61.94,159.93M,['NASDAQ'],N/A,1991,31.95,6/13/2016,N/A,2000.00,NMS,N/A,276551,0.68,6/1/2016,MNRO,1.93,n/a,Monro Muffler Brake,N/A,56.15,61.87,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,9.90,17.25,6.08,77.43M,['NYSE'],N/A,n/a,N/A,6/15/2016,N/A,168.64,NYQ,8.55,320272,0.60,5/26/2016,SSI,-0.10,n/a,Stage Stores,N/A,4.44,6.06,14 August 2016

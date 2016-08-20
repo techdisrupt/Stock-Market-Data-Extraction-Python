@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.3000,93.3700,93.1400,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,93.3600,16277,1.8600,N/A,VONV,N/A,n/a,Vanguard Russell 1000 Value ETF,N/A,74.5000,92.8462,15 August 2016

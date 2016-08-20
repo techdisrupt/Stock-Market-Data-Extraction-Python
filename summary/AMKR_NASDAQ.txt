@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,7.80,7.55,645.58M,['NASDAQ'],N/A,1998,67.41,N/A,N/A,1790.00,NMS,7.98,2936591,N/A,N/A,AMKR,0.11,n/a,Amkor Technology,N/A,4.08,7.52,05 August 2016

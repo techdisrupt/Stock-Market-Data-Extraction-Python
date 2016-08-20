@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.45,35.89,29.35,709.75M,['NASDAQ'],N/A,1995,16.03,6/15/2016,N/A,2770.00,NMS,33.22,685376,0.72,5/27/2016,SBGI,1.83,n/a,Sinclair Broadcast Group,N/A,24.04,29.40,14 August 2016

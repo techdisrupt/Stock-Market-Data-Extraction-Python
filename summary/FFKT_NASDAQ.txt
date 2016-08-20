@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.96,30.80,29.17,0.00,['NASDAQ'],N/A,Finance,12.79,7/1/2016,N/A,219.48,NMS,29.25,6407,0.28,5/27/2016,FFKT,2.29,n/a,Farmers Capital Bank Corporation,N/A,23.99,28.80,06 August 2016

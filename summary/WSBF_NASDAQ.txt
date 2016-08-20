@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.93,16.65,16.64,0.00,['NASDAQ'],N/A,n/a,22.72,8/2/2016,N/A,447.66,NMS,16.63,31662,0.32,7/8/2016,WSBF,0.73,n/a,Waterstone Financial,N/A,12.38,16.61,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.49,35.00,N/A,0.00,['NASDAQ'],N/A,n/a,18.59,6/29/2016,N/A,112.42,NCM,34.00,0,0.84,6/13/2016,FCAP,1.81,n/a,First Capital,N/A,23.08,33.68,06 August 2016

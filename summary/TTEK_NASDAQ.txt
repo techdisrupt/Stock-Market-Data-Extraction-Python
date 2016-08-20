@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.06,34.36,33.89,192.08M,['NASDAQ'],N/A,1991,95.51,5/27/2016,N/A,1950.00,NMS,34.01,456392,0.36,8/10/2016,TTEK,0.36,n/a,Tetra Tech,N/A,22.85,33.89,14 August 2016

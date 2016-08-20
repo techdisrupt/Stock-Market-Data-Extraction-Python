@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Recreational Products/Toys,USD,N/A,0.0000,11.3900,N/A,10.76M,['NASDAQ'],N/A,Consumer Non-Durables,15.2819,12/18/2012,N/A,74.15,NGM,11.2500,100,0.0000,12/6/2012,GPIC,0.6120,n/a,Gaming Partners International Corporation,N/A,8.0800,9.2755,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,0.47,90.70,84.80,58.48M,['NASDAQ'],N/A,Capital Goods,75.04,6/24/2016,N/A,1060.00,NMS,N/A,56221,0.40,6/8/2016,ALOG,1.14,1972,Analogic Corporation,N/A,68.71,84.81,05 August 2016

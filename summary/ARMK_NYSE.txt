@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Restaurants,USD,N/A,1.07,36.39,35.66,1.18B,['NYSE'],N/A,Consumer Services,35.31,6/7/2016,N/A,8670.00,NYQ,35.71,926732,0.38,5/16/2016,ARMK,1.01,2013,Aramark,N/A,28.09,35.50,05 August 2016

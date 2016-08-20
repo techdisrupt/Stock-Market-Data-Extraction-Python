@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,13.00,31.48,13.58,0.00,['NYSE'],N/A,Consumer Services,N/A,5/20/2016,N/A,N/A,NYQ,13.70,1116952,1.60,5/12/2016,NRF,-2.45,2014,Northstar Realty Finance Corp.,N/A,8.38,13.60,07 August 2016

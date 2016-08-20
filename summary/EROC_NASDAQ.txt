@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,19.58,3.63,N/A,0.00,['NASDAQ'],N/A,2006,N/A,N/A,N/A,N/A,NMS,N/A,0,0.28,8/4/2015,EROC,-1.05,n/a,Eagle Rock Energy Partners,N/A,0.94,1.74,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.27,34.75,N/A,0.00,['NASDAQ'],N/A,Finance,9.19,6/15/2016,N/A,74.48,NCM,33.21,480,1.08,6/1/2016,MBCN,3.61,n/a,Middlefield Banc Corp.,N/A,27.37,33.00,07 August 2016

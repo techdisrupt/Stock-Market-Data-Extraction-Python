@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,464.40,17.28,42.32M,['NASDAQ'],N/A,n/a,0.64,N/A,N/A,2.16,NGM,17.33,815500,N/A,N/A,SAEX,26.28,n/a,SAExploration Holdings,N/A,7.57,16.70,10 August 2016

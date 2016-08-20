@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Beverages (Production/Distribution),USD,N/A,0.68,5.95,5.72,6.70B,['NYSE'],N/A,Consumer Non-Durables,26.04,3/7/2016,N/A,91990.00,NYQ,5.90,19036867,0.04,7/12/2016,ABEV,0.22,2013,Ambev S.A.,N/A,3.86,5.73,05 August 2016

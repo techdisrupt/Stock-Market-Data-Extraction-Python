@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.80,103.63,102.53,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NIM,109.57,13097,0.80,N/A,PRFZ,N/A,n/a,PowerShares FTSE RAFI US 1500 Small-Mid Portfolio,N/A,76.00,101.98,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,0.00,58.51,N/A,0.00,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,N/A,NMS,N/A,0,0.00,11/25/2015,BRCM,2.29,1998,Broadcom Corporation,N/A,41.28,54.67,05 August 2016

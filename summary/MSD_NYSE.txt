@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.80,9.62,9.60,0.00,['NYSE'],N/A,1993,N/A,7/15/2016,N/A,N/A,NYQ,9.63,37885,0.56,6/28/2016,MSD,-0.13,n/a,Morgan Stanley Emerging Markets Debt Fund,N/A,7.79,9.56,07 August 2016

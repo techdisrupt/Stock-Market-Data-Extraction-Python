@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.38,45.67,34.00,0.00,['NASDAQ'],N/A,n/a,12.90,5/16/2016,N/A,5080.00,NMS,N/A,915892,0.80,7/28/2016,EWBC,2.73,n/a,East West Bancorp,N/A,27.25,33.51,06 August 2016

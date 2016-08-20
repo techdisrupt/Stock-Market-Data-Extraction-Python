@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,9.09,127.00,112.40,324.50M,['NYSE'],N/A,n/a,11.98,5/31/2016,N/A,2120.00,NYQ,113.67,27308,10.32,8/11/2016,TNH,9.45,n/a,Terra Nitrogen Company,N/A,84.12,113.51,14 August 2016

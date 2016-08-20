@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,4.96,2.20,-11.08M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,292.57,NMS,2.40,2196914,N/A,N/A,GLUU,-0.23,2007,Glu Mobile Inc.,N/A,1.98,2.19,07 August 2016

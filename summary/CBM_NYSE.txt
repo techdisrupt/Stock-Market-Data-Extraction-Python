@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,0.00,59.41,48.24,140.27M,['NYSE'],N/A,Health Care,24.37,N/A,N/A,1550.00,NYQ,48.23,253798,0.00,5/4/2007,CBM,1.98,1987,Cambrex Corporation,N/A,29.50,48.02,05 August 2016

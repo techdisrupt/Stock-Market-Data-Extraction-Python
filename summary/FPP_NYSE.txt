@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,1.64,0.64,-415268.00,['NYSE'],N/A,Energy,N/A,N/A,N/A,7.20,ASE,0.78,45342,N/A,N/A,FPP,-1.32,n/a,FieldPoint Petroleum Corporation,N/A,0.28,0.64,06 August 2016

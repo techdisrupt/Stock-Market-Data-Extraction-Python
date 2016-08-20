@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.5000,14.9600,14.7200,0.00,['NYSE'],N/A,n/a,N/A,5/13/2016,N/A,N/A,NYQ,14.8100,2123,0.6000,7/28/2016,MPV,0.5330,1988,Babson Capital Participation Investors,N/A,12.4800,14.7100,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.8500,19.9700,N/A,0.00,['NASDAQ'],N/A,2011,21.7603,4/15/2016,N/A,70.34,NCM,18.9000,0,0.1600,3/22/2016,IROQ,0.8690,n/a,IF Bancorp,N/A,16.3600,18.9097,07 August 2016

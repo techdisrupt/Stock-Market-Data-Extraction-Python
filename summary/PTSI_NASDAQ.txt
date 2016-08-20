@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,0.00,50.44,19.43,58.04M,['NASDAQ'],N/A,1986,8.71,12/28/2012,N/A,130.06,NGM,22.49,13642,0.00,12/13/2012,PTSI,2.28,n/a,P.A.M. Transportation Services,N/A,14.75,19.16,07 August 2016

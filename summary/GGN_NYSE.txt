@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,12.65,7.14,6.60,0.00,['NYSE'],N/A,2005,N/A,7/22/2016,N/A,N/A,ASE,6.59,858615,0.84,7/13/2016,GGN,-1.17,n/a,GAMCO Global Gold,N/A,3.62,6.63,07 August 2016

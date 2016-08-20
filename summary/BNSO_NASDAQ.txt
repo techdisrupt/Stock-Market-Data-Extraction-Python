@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.000,3.250,2.280,2.55M,['NASDAQ'],N/A,n/a,5.380,N/A,N/A,11.97,NCM,2.320,219563,0.000,9/27/2006,BNSO,0.424,n/a,Bonso Electronics International,N/A,1.000,2.220,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.27,78.70,67.52,0.00,['NASDAQ'],N/A,Finance,17.08,7/1/2016,N/A,15670.00,NMS,N/A,838291,1.52,6/1/2016,NTRS,4.05,n/a,Northern Trust Corporation,N/A,54.38,66.78,07 August 2016

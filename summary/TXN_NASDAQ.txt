@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,2.17,72.58,70.00,5.34B,['NASDAQ'],N/A,Technology,23.53,5/16/2016,N/A,70060.00,NMS,69.95,3444978,1.52,7/28/2016,TXN,2.97,n/a,Texas Instruments Incorporated,N/A,43.49,70.00,14 August 2016

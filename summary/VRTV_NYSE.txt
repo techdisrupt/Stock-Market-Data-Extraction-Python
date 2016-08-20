@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Paper,USD,N/A,N/A,49.39,48.66,168.10M,['NYSE'],N/A,Consumer Services,21.71,N/A,N/A,776.96,NYQ,48.70,143687,N/A,N/A,VRTV,2.24,2014,Veritiv Corporation,N/A,27.44,48.34,15 August 2016

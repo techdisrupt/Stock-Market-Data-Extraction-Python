@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Publishing,USD,N/A,3.90,16.85,15.81,0.00,['NYSE'],N/A,Consumer Services,N/A,N/A,N/A,N/A,NYQ,N/A,0,1.93,4/30/2015,ENL,1.88,n/a,Reed Elsevier NV,N/A,13.51,15.81,09 August 2016

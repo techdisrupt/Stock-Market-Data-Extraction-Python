@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,157.50,54.000,-167.73M,['NASDAQ'],N/A,2013,N/A,N/A,N/A,2140.00,NMS,58.000,1122256,N/A,N/A,BLUE,-5.545,n/a,bluebird bio,N/A,35.37,53.810,05 August 2016

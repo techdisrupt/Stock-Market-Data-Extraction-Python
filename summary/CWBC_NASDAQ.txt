@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.77,8.00,7.86,0.00,['NASDAQ'],N/A,Finance,11.97,5/31/2016,N/A,63.56,NGM,8.79,222,0.14,5/10/2016,CWBC,0.66,n/a,Community West Bancshares,N/A,6.60,7.87,06 August 2016

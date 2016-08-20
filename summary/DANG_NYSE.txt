@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Specialty Stores,USD,N/A,N/A,7.69,6.41,19.32M,['NYSE'],N/A,Consumer Services,39.09,N/A,N/A,530.74,NYQ,6.45,229432,N/A,N/A,DANG,0.17,2010,E-Commerce China Dangdang Inc.,N/A,5.31,6.43,06 August 2016

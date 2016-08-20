@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Diversified Electronic Products,USD,N/A,N/A,4.19,3.56,-1.90M,['NASDAQ'],N/A,Consumer Durables,N/A,N/A,N/A,7.55,NCM,4.11,5959,N/A,N/A,CLWT,-0.30,1997,Euro Tech Holdings Company Limited,N/A,1.46,3.72,06 August 2016

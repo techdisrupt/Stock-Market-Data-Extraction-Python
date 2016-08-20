@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,2.63,4.32,4.21,1.22B,['NYSE'],N/A,Technology,N/A,8/27/2015,N/A,4160.00,NYQ,4.32,986900,0.11,7/8/2015,AUO,-0.28,2002,AU Optronics Corp,N/A,2.32,4.15,05 August 2016

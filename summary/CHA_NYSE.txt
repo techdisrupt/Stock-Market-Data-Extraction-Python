@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,2.45,59.79,50.68,13.65B,['NYSE'],N/A,Public Utilities,13.79,7/25/2016,N/A,41280.00,NYQ,50.85,14801,1.23,6/2/2016,CHA,3.70,2002,China Telecom Corp Ltd,N/A,42.23,50.39,06 August 2016

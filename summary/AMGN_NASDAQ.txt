@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Biological Products (No Diagnostic Substances),USD,N/A,2.30,176.50,173.30,11.34B,['NASDAQ'],N/A,Health Care,17.67,6/8/2016,N/A,129220.00,NMS,172.99,2122162,4.00,5/13/2016,AMGN,9.77,1983,Amgen Inc.,N/A,130.09,173.43,05 August 2016

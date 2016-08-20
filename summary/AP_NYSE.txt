@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Fluid Controls,USD,N/A,4.23,19.22,11.56,3.38M,['NYSE'],N/A,Capital Goods,N/A,4/29/2016,N/A,140.12,NYQ,11.47,13373,0.54,7/14/2016,AP,-0.15,n/a,Ampco-Pittsburgh Corporation,N/A,8.88,11.51,05 August 2016

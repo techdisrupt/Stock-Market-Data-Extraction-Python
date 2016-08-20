@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,3.39,37.39,35.36,20.20B,['NYSE'],N/A,n/a,31.42,9/1/2016,N/A,214940.00,NYQ,35.41,27196405,1.20,8/3/2016,PFE,1.13,n/a,Pfizer,N/A,28.25,35.15,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,11.25,8.00,26.13M,['NASDAQ'],N/A,2011,33.32,N/A,N/A,483.76,NMS,9.00,257418,N/A,N/A,ANGI,0.25,n/a,Angie&#39;s List,N/A,4.25,8.01,05 August 2016

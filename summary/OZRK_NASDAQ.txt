@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.80,54.96,35.90,0.00,['NASDAQ'],N/A,Finance,16.13,7/22/2016,N/A,3320.00,NMS,36.60,2124610,0.64,7/13/2016,OZRK,2.27,1997,Bank of the Ozarks,N/A,33.51,35.42,05 August 2016

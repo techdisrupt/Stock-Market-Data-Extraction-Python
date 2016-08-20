@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Home Furnishings,USD,N/A,N/A,27.22,25.50,94.12M,['NASDAQ'],N/A,Consumer Durables,50.71,N/A,N/A,1180.00,NMS,28.00,389896,N/A,N/A,SCSS,0.51,1998,Select Comfort Corporation,N/A,14.28,25.56,13 August 2016

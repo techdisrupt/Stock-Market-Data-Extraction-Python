@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,2.56,77.30,75.30,992.00M,['NASDAQ'],N/A,Finance,19.68,7/15/2016,N/A,12500.00,NMS,76.06,731305,1.92,6/20/2016,CINF,3.86,n/a,Cincinnati Financial Corporation,N/A,49.72,75.07,06 August 2016

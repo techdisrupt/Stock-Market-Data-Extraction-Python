@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Insurers,USD,N/A,1.22,111.60,109.63,2.48B,['NYSE'],N/A,Finance,20.70,5/16/2016,N/A,29200.00,NYQ,109.97,1277063,1.32,7/28/2016,AON,5.31,n/a,Aon plc,N/A,83.83,109.71,05 August 2016

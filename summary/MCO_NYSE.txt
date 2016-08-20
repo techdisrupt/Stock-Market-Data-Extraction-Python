@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,1.42,111.74,104.51,1.52B,['NYSE'],N/A,Finance,23.46,6/10/2016,N/A,20200.00,NYQ,105.00,989389,1.48,5/18/2016,MCO,4.48,n/a,Moody's Corporation,N/A,77.76,103.91,07 August 2016

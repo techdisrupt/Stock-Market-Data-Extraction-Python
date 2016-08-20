@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,33.11,20.51,116.85M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,1290.00,NMS,22.00,1602434,N/A,N/A,DEPO,-1.41,n/a,Depomed,N/A,12.25,20.33,06 August 2016

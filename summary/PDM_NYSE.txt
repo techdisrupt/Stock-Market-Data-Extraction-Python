@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.92,22.00,21.47,264.76M,['NYSE'],N/A,n/a,14.57,6/17/2016,N/A,3100.00,NYQ,21.32,375005,0.84,5/25/2016,PDM,1.46,n/a,Piedmont Office Realty Trust,N/A,16.54,21.42,08 August 2016

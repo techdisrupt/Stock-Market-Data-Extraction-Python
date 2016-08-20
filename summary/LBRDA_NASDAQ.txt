@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Television Services,USD,N/A,N/A,63.60,63.00,23.70M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,6400.00,NMS,64.04,133466,N/A,N/A,LBRDA,-0.75,n/a,Liberty Broadband Corporation,N/A,42.03,62.96,07 August 2016

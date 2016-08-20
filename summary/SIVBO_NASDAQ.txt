@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,N/A,26.8400,N/A,0.00,['NASDAQ'],N/A,Finance,N/A,7/15/2016,N/A,N/A,NMS,N/A,0,N/A,6/28/2016,SIVBO,N/A,n/a,SVB Financial Group,N/A,25.1200,26.5101,14 August 2016

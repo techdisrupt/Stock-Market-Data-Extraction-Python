@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,3.61,32.74,29.28,964.00M,['NYSE'],N/A,Public Utilities,20.13,6/20/2016,N/A,4410.00,NYQ,28.58,1769531,1.05,5/25/2016,GXP,1.42,n/a,Great Plains Energy Inc,N/A,24.08,29.28,07 August 2016

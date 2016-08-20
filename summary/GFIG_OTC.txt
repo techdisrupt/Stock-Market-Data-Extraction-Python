@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,0.00,6.17,N/A,0.00,['OTC'],N/A,Finance,N/A,N/A,N/A,N/A,PNK,N/A,0,0.00,5/14/2014,GFIG,-0.12,2005,GFI Group Inc.,N/A,5.71,6.16,07 August 2016

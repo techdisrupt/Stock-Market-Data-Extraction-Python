@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,41.03,27.34,38.95M,['NASDAQ'],N/A,n/a,50.73,N/A,N/A,517.10,NMS,27.90,108855,N/A,N/A,MPAA,0.55,n/a,Motorcar Parts of America,N/A,25.50,27.32,07 August 2016

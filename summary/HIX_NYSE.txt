@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,12.60,7.22,7.16,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,7.17,373507,0.82,7/20/2016,HIX,-0.62,1998,Western Asset High Income Fund II Inc.,N/A,5.65,7.16,15 August 2016

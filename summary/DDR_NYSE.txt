@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.91,19.92,19.48,669.31M,['NYSE'],N/A,Consumer Services,32.49,7/6/2016,N/A,7040.00,NYQ,19.33,1093034,0.76,6/7/2016,DDR,0.59,1993,DDR Corp.,N/A,14.71,19.48,06 August 2016

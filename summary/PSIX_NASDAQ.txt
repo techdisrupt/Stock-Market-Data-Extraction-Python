@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,35.31,14.40,8.42M,['NASDAQ'],N/A,n/a,141.22,N/A,N/A,150.57,NCM,25.68,73755,N/A,N/A,PSIX,0.10,n/a,Power Solutions International,N/A,7.63,14.30,08 August 2016

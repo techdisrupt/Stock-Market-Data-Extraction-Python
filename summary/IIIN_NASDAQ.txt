@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.35,35.68,34.22,67.65M,['NASDAQ'],N/A,n/a,17.83,6/24/2016,N/A,657.64,NMS,34.79,148870,0.12,6/8/2016,IIIN,1.95,n/a,Insteel Industries,N/A,14.61,34.05,07 August 2016

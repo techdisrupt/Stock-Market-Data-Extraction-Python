@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,N/A,44.64,27.15,778.00M,['NYSE'],N/A,Finance,23.73,N/A,N/A,3930.00,NYQ,27.08,1384316,N/A,N/A,RLGY,1.14,2012,Realogy Holdings Corp.,N/A,25.52,27.09,08 August 2016

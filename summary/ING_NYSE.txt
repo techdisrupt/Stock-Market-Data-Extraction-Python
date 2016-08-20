@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,6.44,16.65,11.60,0.00,['NYSE'],N/A,1997,11.60,5/11/2016,N/A,44980.00,NYQ,11.63,1845594,0.54,4/26/2016,ING,0.99,n/a,ING Group,N/A,9.26,11.45,07 August 2016

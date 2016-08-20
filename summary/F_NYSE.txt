@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Manufacturing,USD,N/A,4.97,15.84,12.16,17.29B,['NYSE'],N/A,Capital Goods,5.75,6/1/2016,N/A,48430.00,NYQ,12.20,31219542,0.60,7/26/2016,F,2.12,n/a,Ford Motor Company,N/A,10.44,12.08,07 August 2016

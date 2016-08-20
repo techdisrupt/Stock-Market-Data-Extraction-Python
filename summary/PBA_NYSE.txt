@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,4.94,32.31,29.38,783.10M,['NYSE'],N/A,Energy,36.13,7/15/2016,N/A,11580.00,NYQ,30.99,271406,1.46,7/21/2016,PBA,0.71,n/a,Pembina Pipeline Corp.,N/A,17.88,29.40,07 August 2016

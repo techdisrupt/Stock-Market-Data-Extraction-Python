@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,1.96,22.72,14.26,0.00,['NASDAQ'],N/A,2005,N/A,5/19/2016,N/A,N/A,NMS,N/A,0,0.28,3/3/2016,UACL,1.37,n/a,Universal Truckload Services,N/A,11.12,14.26,15 August 2016

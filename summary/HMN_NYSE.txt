@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,3.07,36.73,34.86,132.33M,['NYSE'],N/A,Finance,18.58,6/30/2016,N/A,1420.00,NYQ,35.33,192662,1.06,6/9/2016,HMN,1.90,1991,Horace Mann Educators Corporation,N/A,27.15,34.55,07 August 2016

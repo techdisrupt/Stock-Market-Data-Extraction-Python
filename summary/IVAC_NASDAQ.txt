@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,6.60,5.67,-7.76M,['NASDAQ'],N/A,1995,N/A,N/A,N/A,124.31,NMS,6.02,36247,N/A,N/A,IVAC,-0.59,n/a,Intevac,N/A,3.99,5.73,07 August 2016

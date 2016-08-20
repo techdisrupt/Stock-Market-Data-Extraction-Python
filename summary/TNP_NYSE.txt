@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,6.45,9.63,5.00,273.19M,['NYSE'],N/A,Transportation,3.35,8/10/2016,N/A,438.51,NYQ,5.10,214903,0.32,8/1/2016,TNP,1.52,2002,Tsakos Energy Navigation Ltd,N/A,4.48,4.96,15 August 2016

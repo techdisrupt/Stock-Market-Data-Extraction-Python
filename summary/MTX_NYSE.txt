@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,0.30,67.85,66.50,347.80M,['NYSE'],N/A,Basic Industries,23.45,6/9/2016,N/A,2360.00,NYQ,67.74,168183,0.20,5/24/2016,MTX,3.04,1992,Minerals Technologies Inc.,N/A,35.89,65.94,07 August 2016

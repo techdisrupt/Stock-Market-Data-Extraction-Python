@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.40,48.09,40.80,34.93M,['NYSE'],N/A,n/a,16.42,7/8/2016,N/A,239.67,ASE,41.56,1996,1.00,6/13/2016,SGA,2.49,n/a,Saga Communications,N/A,33.53,41.34,10 August 2016

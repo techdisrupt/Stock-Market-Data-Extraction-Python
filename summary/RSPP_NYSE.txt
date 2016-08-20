@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,40.74,40.06,193.63M,['NYSE'],N/A,2014,N/A,N/A,N/A,3880.00,NYQ,38.22,2200199,N/A,N/A,RSPP,-0.38,n/a,RSP Permian,N/A,16.74,39.30,10 August 2016

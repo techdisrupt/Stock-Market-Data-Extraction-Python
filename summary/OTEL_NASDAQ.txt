@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,8.00,4.21,28.18M,['NASDAQ'],N/A,Public Utilities,1.98,N/A,N/A,13.82,NCM,5.25,190,N/A,6/13/2012,OTEL,2.02,n/a,Otelco Inc.,N/A,3.76,4.25,07 August 2016

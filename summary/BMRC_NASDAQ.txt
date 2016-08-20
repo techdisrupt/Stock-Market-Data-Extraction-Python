@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.05,56.77,49.58,0.00,['NASDAQ'],N/A,Finance,14.69,5/13/2016,N/A,296.42,NCM,49.47,1816,1.00,8/3/2016,BMRC,3.32,n/a,Bank of Marin Bancorp,N/A,45.65,49.60,05 August 2016

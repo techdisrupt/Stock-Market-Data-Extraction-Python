@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,12.99,11.48,36.26M,['NASDAQ'],N/A,2014,24.57,5/26/2016,N/A,623.71,NMS,11.56,132819,0.00,4/4/2016,TEDU,0.46,n/a,Tarena International,N/A,6.65,11.46,14 August 2016

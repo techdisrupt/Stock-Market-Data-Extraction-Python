@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,416.75,397.06,554.23M,['NYSE'],N/A,1997,30.81,N/A,N/A,10570.00,NYQ,398.71,195399,N/A,N/A,MTD,12.95,n/a,Mettler-Toledo International,N/A,275.30,396.14,07 August 2016

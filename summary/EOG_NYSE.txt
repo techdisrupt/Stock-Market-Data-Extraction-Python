@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.81,90.77,87.23,2.80B,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,49610.00,NYQ,90.38,8928252,0.67,7/13/2016,EOG,-8.84,n/a,EOG Resources,N/A,57.15,84.24,06 August 2016

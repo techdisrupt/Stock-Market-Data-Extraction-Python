@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.10,96.25,91.59,72.48M,['NYSE'],N/A,n/a,16.19,3/15/2016,N/A,639.89,NYQ,92.21,12411,1.00,2/26/2016,NPK,5.69,n/a,National Presto Industries,N/A,72.30,91.16,07 August 2016

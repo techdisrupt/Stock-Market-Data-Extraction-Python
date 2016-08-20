@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,N/A,9.70,3.25,-7.70M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,78.24,NCM,3.70,21287,N/A,N/A,APDN,-0.38,n/a,Applied DNA Sciences Inc,N/A,2.35,3.29,05 August 2016

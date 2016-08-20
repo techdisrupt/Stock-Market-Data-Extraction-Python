@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.40,19.93,19.56,N/A,['NYSE'],N/A,n/a,N/A,N/A,N/A,N/A,PCX,N/A,158447,1.32,N/A,MDIV,N/A,n/a,First Trust Exchange-Traded Fund VI Multi-Asset Diversified In,N/A,13.00,19.49,06 August 2016

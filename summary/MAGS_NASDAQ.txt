@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.00,5.47,5.40,7.59M,['NASDAQ'],N/A,Consumer Durables,28.94,N/A,N/A,89.70,NGM,N/A,42663,0.00,1/8/2004,MAGS,0.19,1993,Magal Security Systems Ltd.,N/A,3.93,5.36,07 August 2016

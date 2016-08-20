@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.65,51.33,47.33,0.00,['NASDAQ'],N/A,Finance,15.32,7/29/2016,N/A,730.59,NMS,48.69,98014,1.72,7/13/2016,CHCO,3.18,n/a,City Holding Company,N/A,40.74,46.95,06 August 2016

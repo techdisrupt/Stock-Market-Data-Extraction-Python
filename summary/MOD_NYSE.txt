@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,0.00,11.75,9.71,114.60M,['NYSE'],N/A,Capital Goods,255.13,N/A,N/A,475.42,NYQ,9.95,288887,0.00,11/19/2008,MOD,0.04,n/a,Modine Manufacturing Company,N/A,5.39,9.64,07 August 2016

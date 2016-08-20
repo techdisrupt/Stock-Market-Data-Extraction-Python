@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Package Goods/Cosmetics,USD,N/A,1.02,31.60,27.32,736.40M,['NYSE'],N/A,Consumer Non-Durables,47.74,10/15/2015,N/A,9370.00,NYQ,27.64,968197,0.28,9/29/2015,COTY,0.58,2013,Coty Inc.,N/A,21.48,27.19,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,14.50,12.80,-29.17M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,555.33,NGM,12.84,171125,N/A,N/A,VNDA,-0.96,2006,Vanda Pharmaceuticals Inc.,N/A,6.91,12.80,15 August 2016

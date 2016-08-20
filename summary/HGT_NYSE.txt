@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.50,3.58,2.25,0.00,['NYSE'],N/A,Energy,22.80,1/15/2016,N/A,91.20,NYQ,2.68,32318,0.01,12/29/2015,HGT,0.10,1999,Hugoton Royalty Trust,N/A,0.98,2.25,07 August 2016

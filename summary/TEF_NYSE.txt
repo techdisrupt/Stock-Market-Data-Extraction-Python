@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,8.89,14.98,10.10,13.43B,['NYSE'],N/A,Public Utilities,28.71,5/31/2016,N/A,58900.00,NYQ,10.05,1877553,0.89,5/16/2016,TEF,0.35,1988,Telefonica SA,N/A,8.34,10.05,14 August 2016

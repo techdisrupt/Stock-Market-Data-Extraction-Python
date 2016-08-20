@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,5.51,19.86,14.00,571.82M,['NYSE'],N/A,2013,26.59,5/24/2016,N/A,2890.00,NYQ,14.41,457502,0.76,5/6/2016,STAY,0.54,n/a,Extended Stay America,N/A,10.56,13.86,06 August 2016

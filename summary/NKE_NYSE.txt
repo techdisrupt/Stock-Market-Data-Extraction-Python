@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,1.17,68.19,55.32,5.16B,['NYSE'],N/A,n/a,25.86,7/5/2016,N/A,93690.00,NYQ,55.95,7512502,0.64,6/2/2016,NKE,2.16,n/a,Nike,N/A,47.25,54.79,07 August 2016

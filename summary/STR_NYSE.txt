@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,3.49,25.380,25.21,629.50M,['NYSE'],N/A,Public Utilities,22.72,6/20/2016,N/A,4420.00,NYQ,25.21,422619,0.88,6/1/2016,STR,1.11,n/a,Questar Corporation,N/A,18.020,25.24,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.45,113.21,103.18,977.37M,['NYSE'],N/A,2004,224.33,6/30/2016,N/A,14830.00,NYQ,100.93,1347194,3.52,6/13/2016,DLR,0.45,n/a,Digital Realty Trust,N/A,60.66,103.07,06 August 2016

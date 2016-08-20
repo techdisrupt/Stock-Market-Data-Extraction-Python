@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: In Vitro & In Vivo Diagnostic Substances,USD,N/A,N/A,3.38,0.88,-18.33M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,27.01,NCM,1.35,109165,N/A,N/A,OGXI,-0.57,n/a,OncoGenex Pharmaceuticals Inc.,N/A,0.46,0.88,07 August 2016

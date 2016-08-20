@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,3.10,34.04,33.47,219.38M,['NYSE'],N/A,Public Utilities,26.41,6/15/2016,N/A,1470.00,NYQ,33.54,254391,1.04,5/27/2016,EDE,1.27,n/a,Empire District Electric Company (The),N/A,20.69,33.51,06 August 2016

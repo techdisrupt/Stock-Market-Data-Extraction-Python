@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,N/A,27.66,24.00,0.00,['NASDAQ'],N/A,Finance,17.87,N/A,N/A,418.18,NCM,27.89,26063,N/A,N/A,CUNB,1.36,n/a,CU Bancorp (CA),N/A,20.35,23.91,06 August 2016

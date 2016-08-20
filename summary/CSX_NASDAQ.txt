@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Railroads,USD,N/A,2.55,30.53,28.29,4.51B,['NASDAQ'],N/A,Transportation,15.63,6/15/2016,N/A,27080.00,NMS,29.44,4882857,0.72,5/26/2016,CSX,1.83,n/a,CSX Corporation,N/A,21.33,28.05,06 August 2016

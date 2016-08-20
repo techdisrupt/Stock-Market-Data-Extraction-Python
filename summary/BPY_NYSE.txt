@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,4.62,24.98,24.24,3.75B,['NYSE'],N/A,Finance,8.48,6/30/2016,N/A,6430.00,NYQ,24.62,175407,1.12,5/27/2016,BPY,2.90,n/a,Brookfield Property Partners L.P.,N/A,18.69,24.32,05 August 2016

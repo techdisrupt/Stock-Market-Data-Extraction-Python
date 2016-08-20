@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,0.00,25.29,24.37,1.96B,['NYSE'],N/A,Consumer Services,N/A,N/A,N/A,13830.00,NYQ,24.49,7309691,0.00,2/8/2001,MGM,-1.01,n/a,MGM Resorts International,N/A,16.18,24.06,07 August 2016

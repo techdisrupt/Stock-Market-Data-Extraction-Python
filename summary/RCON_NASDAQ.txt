@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,2.46,1.25,-6.85M,['NASDAQ'],N/A,2009,N/A,N/A,N/A,7.02,NCM,1.22,47628,N/A,N/A,RCON,-1.43,n/a,Recon Technology,N/A,0.62,1.22,08 August 2016

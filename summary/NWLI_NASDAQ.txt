@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,0.19,269.00,189.75,143.96M,['NASDAQ'],N/A,Finance,7.76,12/3/2015,N/A,711.82,NMS,251.52,6748,0.36,10/28/2015,NWLI,25.94,n/a,National Western Life Insurance Company,N/A,184.60,190.00,07 August 2016

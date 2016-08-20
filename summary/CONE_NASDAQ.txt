@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.91,57.00,51.56,234.00M,['NASDAQ'],N/A,Consumer Services,434.66,7/15/2016,N/A,4020.00,NMS,N/A,1240681,1.52,6/22/2016,CONE,0.12,2013,CyrusOne Inc,N/A,30.60,51.85,06 August 2016

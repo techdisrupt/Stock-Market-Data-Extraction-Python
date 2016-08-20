@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,11.13,10.75,-34.06M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,926.44,NMS,10.95,228995,N/A,N/A,TRUE,-0.78,n/a,TrueCar,N/A,4.01,10.72,15 August 2016

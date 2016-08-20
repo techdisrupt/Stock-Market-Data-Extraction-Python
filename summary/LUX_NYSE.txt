@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,2.11,74.00,48.65,2.13B,['NYSE'],N/A,1990,27.10,6/2/2016,N/A,23360.00,NYQ,48.81,46236,0.99,5/20/2016,LUX,1.78,n/a,Luxottica Group,N/A,46.67,47.95,07 August 2016

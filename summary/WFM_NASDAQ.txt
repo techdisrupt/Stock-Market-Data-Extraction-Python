@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.750,35.580,30.90,1.37B,['NASDAQ'],N/A,n/a,22.13,7/12/2016,N/A,9940.00,NMS,31.20,2644809,0.540,6/29/2016,WFM,1.41,n/a,Whole Foods Market,N/A,28.070,30.900,15 August 2016

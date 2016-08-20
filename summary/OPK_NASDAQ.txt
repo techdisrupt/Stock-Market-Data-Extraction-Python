@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,14.33,10.00,17.37M,['NASDAQ'],N/A,Health Care,69.25,N/A,N/A,5530.00,NMS,10.16,3415471,N/A,N/A,OPK,0.15,n/a,Opko Health Inc,N/A,7.12,9.97,07 August 2016

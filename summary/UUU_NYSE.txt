@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,6.150,3.020,-1.28M,['NYSE'],N/A,n/a,N/A,N/A,N/A,6.93,ASE,3.100,1401,N/A,N/A,UUU,-0.913,n/a,Universal Security Instruments,N/A,2.910,3.080,15 August 2016

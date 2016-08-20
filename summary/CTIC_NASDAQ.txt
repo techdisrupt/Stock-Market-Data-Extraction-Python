@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,1.8400,0.3670,-84.10M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,98.83,NCM,0.3900,811382,N/A,N/A,CTIC,-0.4290,1997,CTI BioPharma Corp.,N/A,0.2500,0.3710,06 August 2016

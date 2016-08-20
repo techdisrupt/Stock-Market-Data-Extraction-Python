@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,11.01,10.60,-907000.00,['NASDAQ'],N/A,1994,N/A,N/A,N/A,228.04,NMS,15.00,49387,N/A,11/4/2002,DSPG,-0.08,n/a,DSP Group,N/A,7.89,10.62,06 August 2016

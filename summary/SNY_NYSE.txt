@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,4.13,53.44,39.98,11.13B,['NYSE'],N/A,Health Care,22.25,6/1/2016,N/A,102520.00,NYQ,40.08,1543916,1.66,5/5/2016,SNY,1.79,n/a,Sanofi,N/A,37.41,40.51,11 August 2016

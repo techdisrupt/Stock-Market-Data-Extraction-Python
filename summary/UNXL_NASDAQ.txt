@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,2.880,1.330,-19.59M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,52.94,NCM,1.350,128269,N/A,N/A,UNXL,-1.035,n/a,Uni-Pixel,N/A,0.350,1.330,15 August 2016

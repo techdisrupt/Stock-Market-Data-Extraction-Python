@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,45.7100,N/A,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,43.5000,141,N/A,N/A,FEMB,N/A,n/a,First Trust Emerging Markets Local Currency Bond ETF,N/A,38.2000,43.3618,06 August 2016

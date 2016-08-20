@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,13.13,12.05,49.38M,['NASDAQ'],N/A,n/a,14.90,N/A,N/A,348.17,NMS,12.22,45889,N/A,N/A,KE,0.82,n/a,Kimball Electronics,N/A,9.15,12.05,07 August 2016

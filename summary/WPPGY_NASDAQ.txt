@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Advertising,USD,N/A,2.91,120.81,115.16,2.81B,['NASDAQ'],N/A,Technology,19.83,7/5/2016,N/A,29420.00,NMS,115.12,156472,3.34,6/8/2016,WPPGY,5.80,n/a,WPP plc,N/A,95.67,114.89,15 August 2016

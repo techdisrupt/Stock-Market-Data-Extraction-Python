@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Specialty Stores,USD,N/A,0.40,108.28,100.05,36.83M,['NASDAQ'],N/A,Consumer Services,20.64,6/1/2016,N/A,410.90,NGM,101.47,5231,0.40,8/8/2016,WINA,4.84,n/a,Winmark Corporation,N/A,82.69,100.10,15 August 2016

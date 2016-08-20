@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,27.90,15.16,46.69M,['NASDAQ'],N/A,2002,17.75,6/19/2015,N/A,244.86,NMS,15.53,75293,0.00,6/3/2015,KIRK,0.87,n/a,Kirkland's,N/A,11.18,15.04,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,7.4800,N/A,3.83M,['NASDAQ'],N/A,n/a,26.8073,N/A,N/A,73.54,NCM,6.0000,0,N/A,N/A,MAMS,0.2200,n/a,MAM Software Group,N/A,5.1000,5.8976,07 August 2016

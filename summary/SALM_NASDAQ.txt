@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Broadcasting,USD,N/A,3.97,8.17,6.20,47.14M,['NASDAQ'],N/A,Consumer Services,14.64,6/30/2016,N/A,158.73,NGM,N/A,53793,0.26,6/14/2016,SALM,0.42,1999,Salem Communications Corporation,N/A,3.60,6.30,11 August 2016

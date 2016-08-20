@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,14.50,10.77,12.31M,['NASDAQ'],N/A,n/a,9.99,N/A,N/A,68.81,NGM,11.11,16730,N/A,N/A,NAII,1.06,n/a,Natural Alternatives International,N/A,5.40,10.77,07 August 2016

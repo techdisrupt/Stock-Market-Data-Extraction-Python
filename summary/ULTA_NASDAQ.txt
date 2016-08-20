@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+2007,USD,N/A,0.0000,269.8200,268.7600,720.85M,['NASDAQ'],N/A,n/a,49.8795,5/15/2012,N/A,16790.00,NMS,268.9700,224589,0.0000,3/16/2012,ULTA,5.3900,8317329939.1,Ulta Salon,N/A,120.3800,266.8000,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,5.8900,5.5801,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,5.5900,10079,N/A,7/19/2016,MFV,-0.0930,n/a,MFS Special Value Trust,N/A,4.6400,5.5700,07 August 2016

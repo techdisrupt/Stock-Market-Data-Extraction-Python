@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Catalog/Specialty Distribution,USD,N/A,N/A,22.310,15.80,433.91M,['NYSE'],N/A,Consumer Services,37.90,N/A,N/A,9300.00,NYQ,16.08,14313711,N/A,N/A,VIPS,0.424,2012,Vipshop Holdings Limited,N/A,10.210,15.520,15 August 2016

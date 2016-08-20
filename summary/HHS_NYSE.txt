@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.00,4.98,1.76,27.34M,['NYSE'],N/A,1993,N/A,3/15/2016,N/A,106.94,NYQ,2.00,160538,0.00,2/26/2016,HHS,-2.90,n/a,Harte-Hanks,N/A,0.85,1.76,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,7.59,6.60,-4.07M,['NYSE'],N/A,n/a,N/A,N/A,N/A,585.72,NYQ,8.41,769321,N/A,N/A,NR,-1.38,n/a,Newpark Resources,N/A,3.35,6.56,07 August 2016

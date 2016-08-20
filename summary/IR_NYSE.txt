@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,1.90,68.69,67.97,1.91B,['NYSE'],N/A,Capital Goods,12.59,6/30/2016,N/A,17630.00,NYQ,68.42,1624972,1.28,6/8/2016,IR,5.43,n/a,Ingersoll-Rand plc (Ireland),N/A,47.08,67.79,07 August 2016

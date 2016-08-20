@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Air Freight/Delivery Services,USD,N/A,10.44,8.09,6.00,455.16M,['NYSE'],N/A,Transportation,N/A,7/11/2016,N/A,773.91,NYQ,6.22,67397,0.61,6/30/2016,AVH,-1.54,2013,Avianca Holdings S.A.,N/A,3.40,5.96,05 August 2016

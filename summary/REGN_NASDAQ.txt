@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,592.59,420.22,1.34B,['NASDAQ'],N/A,1991,65.51,N/A,N/A,43940.00,NMS,419.93,376146,N/A,N/A,REGN,6.41,n/a,Regeneron Pharmaceuticals,N/A,329.09,421.04,09 August 2016

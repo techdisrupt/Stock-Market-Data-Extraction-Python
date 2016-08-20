@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,3.62,35.37,34.52,175.88M,['NASDAQ'],N/A,Public Utilities,23.36,6/10/2016,N/A,1320.00,NMS,N/A,93452,1.25,5/11/2016,OTTR,1.48,n/a,Otter Tail Corporation,N/A,24.90,34.58,07 August 2016

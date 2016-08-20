@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,15.07,13.59,89.69M,['NYSE'],N/A,2011,N/A,N/A,N/A,1360.00,NYQ,13.79,161655,N/A,N/A,WAIR,-1.51,n/a,Wesco Aircraft Holdings,N/A,9.91,13.58,15 August 2016

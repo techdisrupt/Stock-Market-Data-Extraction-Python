@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,3.430,1.820,-3.70M,['NYSE'],N/A,1996,3.011,N/A,N/A,119.91,NYQ,1.920,116711,N/A,N/A,WG,0.636,n/a,Willbros Group,N/A,0.700,1.790,15 August 2016

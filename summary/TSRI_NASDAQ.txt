@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.00,6.78,5.55,861640.00,['NASDAQ'],N/A,n/a,27.34,11/30/2012,N/A,10.89,NCM,5.70,57456,0.00,12/3/2012,TSRI,0.20,n/a,TSR,N/A,3.37,5.61,15 August 2016

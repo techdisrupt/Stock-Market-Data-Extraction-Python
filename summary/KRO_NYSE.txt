@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,10.58,9.80,5.87,27.60M,['NYSE'],N/A,Basic Industries,N/A,6/16/2016,N/A,679.06,NYQ,19.75,218822,0.60,6/2/2016,KRO,-1.69,n/a,Kronos Worldwide Inc,N/A,3.94,5.86,07 August 2016

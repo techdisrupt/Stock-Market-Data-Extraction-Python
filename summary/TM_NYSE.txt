@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Manufacturing,USD,N/A,3.09,128.07,117.57,42.74B,['NYSE'],N/A,Capital Goods,8.49,6/13/2016,N/A,177350.00,NYQ,117.74,239904,3.64,9/25/2009,TM,14.01,n/a,Toyota Motor Corp Ltd Ord,N/A,97.80,117.77,14 August 2016

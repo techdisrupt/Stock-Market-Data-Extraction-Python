@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.33,2.50,2.10,10.97M,['NYSE'],N/A,1996,16.38,12/10/2015,N/A,77.20,NYQ,2.12,5725,0.05,11/6/2015,DVD,0.13,n/a,Dover Motorsports,N/A,1.93,2.11,06 August 2016

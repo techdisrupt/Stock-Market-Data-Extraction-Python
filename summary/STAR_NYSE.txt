@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,0.00,13.85,11.17,0.00,['NYSE'],N/A,Consumer Services,N/A,N/A,N/A,831.01,NYQ,11.04,805761,0.00,7/11/2008,STAR,-0.62,n/a,iStar Financial Inc.,N/A,7.59,10.92,07 August 2016

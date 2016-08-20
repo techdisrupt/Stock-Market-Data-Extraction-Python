@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,41.20,36.21,79.32M,['NYSE'],N/A,Public Utilities,24.49,N/A,N/A,1330.00,NYQ,37.20,355646,N/A,N/A,FN,1.51,2010,Fabrinet,N/A,17.88,36.16,06 August 2016

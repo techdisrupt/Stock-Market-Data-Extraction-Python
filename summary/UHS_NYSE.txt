@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.32,146.80,126.94,1.69B,['NYSE'],N/A,n/a,18.05,6/15/2016,N/A,12350.00,NYQ,126.78,248549,0.40,5/27/2016,UHS,7.02,n/a,Universal Health Services,N/A,100.82,126.37,15 August 2016

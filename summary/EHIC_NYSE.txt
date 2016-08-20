@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Rental/Leasing Companies,USD,N/A,N/A,14.88,10.45,95.24M,['NYSE'],N/A,Consumer Services,6.76,N/A,N/A,714.54,NYQ,10.44,49032,N/A,N/A,EHIC,1.55,2014,eHi Car Services Limited,N/A,8.50,10.39,06 August 2016

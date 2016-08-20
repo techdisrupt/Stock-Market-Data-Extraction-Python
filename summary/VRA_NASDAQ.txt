@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,20.69,14.54,80.09M,['NASDAQ'],N/A,2010,16.66,N/A,N/A,544.33,NMS,14.72,77439,N/A,N/A,VRA,0.88,n/a,Vera Bradley,N/A,9.21,14.54,15 August 2016

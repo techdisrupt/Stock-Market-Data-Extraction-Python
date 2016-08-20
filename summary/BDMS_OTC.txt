@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,6.07,15.95,14.50,3.34M,['OTC'],N/A,1998,N/A,1/15/2016,N/A,26.97,PNK,N/A,400,0.88,12/31/2015,BDMS,-0.41,n/a,Birner Dental Management Services,N/A,8.63,14.50,05 August 2016

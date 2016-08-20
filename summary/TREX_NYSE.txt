@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,60.62,60.01,108.31M,['NYSE'],N/A,n/a,31.29,N/A,N/A,1760.00,NYQ,60.01,174812,N/A,N/A,TREX,1.92,n/a,Trex Company,N/A,31.11,60.23,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.00,62.85,35.40,-6.07M,['NASDAQ'],N/A,n/a,31.44,12/4/2012,N/A,1090.00,NMS,35.12,55561,0.00,12/5/2012,LORL,1.12,n/a,Loral Space and Communications,N/A,29.55,35.28,07 August 2016

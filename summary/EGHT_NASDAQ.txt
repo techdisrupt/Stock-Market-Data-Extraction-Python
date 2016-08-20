@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,15.53,13.46,2.99M,['NASDAQ'],N/A,Public Utilities,N/A,N/A,N/A,1220.00,NMS,13.64,554617,N/A,N/A,EGHT,-0.06,n/a,8x8 Inc,N/A,7.35,13.45,04 August 2016

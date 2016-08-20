@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,6.57,12.82,8.98,0.00,['NYSE'],N/A,Energy,11.83,7/29/2016,N/A,17.10,NYQ,9.49,34172,0.57,7/27/2016,MTR,0.78,n/a,Mesa Royalty Trust,N/A,5.64,8.69,07 August 2016

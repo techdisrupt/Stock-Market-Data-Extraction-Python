@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,8.28,7.40,7.40,0.00,['NYSE'],N/A,Consumer Services,11.85,5/31/2016,N/A,377.65,NYQ,7.36,94620,0.60,5/16/2016,ABR,0.62,2004,Arbor Realty Trust,N/A,6.01,7.30,05 August 2016

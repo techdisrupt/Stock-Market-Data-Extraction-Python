@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.00,8.74,1.30,4.09M,['NYSE'],N/A,2008,N/A,12/27/2012,N/A,99.35,NYQ,1.32,817355,0.00,12/13/2012,IPI,-7.37,n/a,Intrepid Potash,N/A,0.65,1.32,07 August 2016

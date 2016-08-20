@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,N/A,98.60,40.18,N/A,['NYSE'],N/A,Finance,N/A,N/A,N/A,N/A,PCX,40.29,9036,N/A,N/A,DGLD,N/A,n/a,3X Inverse Gold ETN Velocityshares,N/A,39.17,40.51,04 August 2016

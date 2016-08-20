@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,36.74,35.96,158.10M,['NYSE'],N/A,2014,N/A,N/A,N/A,1690.00,NYQ,37.00,680134,N/A,N/A,HYH,-9.31,n/a,Halyard Health,N/A,22.76,35.73,07 August 2016

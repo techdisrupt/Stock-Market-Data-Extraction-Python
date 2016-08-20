@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil Refining/Marketing,USD,N/A,7.70,41.05,29.90,576.83M,['NYSE'],N/A,Energy,25.68,5/16/2016,N/A,3420.00,NYQ,30.98,568991,2.77,8/3/2016,SUN,1.19,2012,Sunoco LP,N/A,22.86,29.67,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.60,7.82,7.55,0.00,['NASDAQ'],N/A,Finance,18.68,5/27/2016,N/A,259.84,NMS,7.66,54941,0.12,5/11/2016,MCBC,0.41,n/a,Macatawa Bank Corporation,N/A,4.96,7.49,07 August 2016

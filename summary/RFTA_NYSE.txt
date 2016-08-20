@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,N/A,25.00,24.92,0.00,['NYSE'],N/A,Consumer Services,N/A,8/30/2016,N/A,2270.00,NYQ,24.90,13581,N/A,N/A,RFTA,-0.34,2014,RAIT Financial Trust,N/A,15.52,24.90,08 August 2016

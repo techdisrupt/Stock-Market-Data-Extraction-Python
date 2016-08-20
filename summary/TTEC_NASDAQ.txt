@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,1.25,30.75,29.65,151.55M,['NASDAQ'],N/A,1996,27.93,4/15/2016,N/A,1390.00,NMS,29.33,89763,0.37,3/29/2016,TTEC,1.05,n/a,TeleTech Holdings,N/A,24.19,29.68,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,2.57,47.70,45.25,3.35B,['NYSE'],N/A,n/a,45.20,7/5/2016,N/A,29030.00,NYQ,45.52,3818393,1.16,8/3/2016,JCI,1.01,n/a,Johnson Controls,N/A,33.62,44.84,07 August 2016

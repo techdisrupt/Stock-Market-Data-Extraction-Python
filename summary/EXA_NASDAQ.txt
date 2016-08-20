@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,15.36,14.33,1.85M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,215.19,NGM,14.62,39272,N/A,N/A,EXA,-0.26,2012,Exa Corporation,N/A,9.02,14.24,06 August 2016

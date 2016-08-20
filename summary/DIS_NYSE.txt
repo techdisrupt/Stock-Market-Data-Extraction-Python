@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Television Services,USD,N/A,1.470,120.650,97.350,17.15B,['NYSE'],N/A,Consumer Services,17.470,7/28/2016,N/A,156210.00,NYQ,97.210,3825866,1.420,7/7/2016,DIS,5.564,n/a,Walt Disney Company (The),N/A,86.250,96.840,15 August 2016

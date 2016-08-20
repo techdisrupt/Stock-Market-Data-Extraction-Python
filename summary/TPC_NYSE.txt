@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+General Bldg Contractors - Nonresidential Bldgs,USD,N/A,0.00,25.98,23.63,194.59M,['NYSE'],N/A,Basic Industries,18.22,11/12/2010,N/A,1170.00,NYQ,23.89,72012,0.00,11/2/2010,TPC,1.31,n/a,Tutor Perini Corporation,N/A,10.16,23.58,15 August 2016

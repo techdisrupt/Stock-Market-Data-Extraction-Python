@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,N/A,30.98,25.50,0.00,['NASDAQ'],N/A,Finance,33.98,N/A,N/A,7180.00,NMS,25.98,2399592,N/A,N/A,ETFC,0.76,n/a,E*TRADE Financial Corporation,N/A,19.61,25.10,06 August 2016

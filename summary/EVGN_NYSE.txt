@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Agricultural Chemicals,USD,N/A,N/A,9.46,6.75,-16.18M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,171.69,NYQ,6.78,1000,N/A,N/A,EVGN,-0.68,2013,Evogene Ltd.,N/A,5.93,6.70,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.90,11.25,10.93,N/A,['NYSE'],N/A,n/a,N/A,N/A,N/A,N/A,PCX,10.94,19373,0.65,N/A,PCK,0.72,2002,Pimco California Municipal Income Fund II,N/A,9.32,10.94,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.82,26.03,21.99,0.00,['NASDAQ'],N/A,Finance,11.57,5/10/2016,N/A,90.54,NGM,21.86,941,0.84,7/27/2016,OVBC,1.89,n/a,Ohio Valley Banc Corp.,N/A,21.40,21.75,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,5.20,4.40,3.83M,['NYSE'],N/A,2011,16.69,N/A,N/A,35.53,ASE,4.44,14376,N/A,N/A,ELMD,0.26,n/a,Electromed,N/A,1.55,4.34,06 August 2016

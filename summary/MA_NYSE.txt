@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,0.79,101.76,96.29,5.77B,['NYSE'],N/A,Miscellaneous,28.42,8/9/2016,N/A,106350.00,NYQ,96.99,2632181,0.76,7/6/2016,MA,3.41,2006,Mastercard Incorporated,N/A,74.61,95.91,07 August 2016

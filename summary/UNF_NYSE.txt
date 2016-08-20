@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,0.13,120.18,119.40,272.30M,['NYSE'],N/A,Consumer Services,20.44,7/1/2016,N/A,2430.00,NYQ,119.85,26975,0.15,6/8/2016,UNF,5.86,n/a,Unifirst Corporation,N/A,96.90,119.63,15 August 2016

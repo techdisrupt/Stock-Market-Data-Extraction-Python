@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Chemicals,USD,N/A,0.00,26.70,25.59,43.69M,['NASDAQ'],N/A,Consumer Durables,13.24,12/28/2012,N/A,236.46,NMS,N/A,27914,0.00,12/19/2012,NUTR,1.94,1998,Nutraceutical International Corporation,N/A,21.70,25.42,07 August 2016

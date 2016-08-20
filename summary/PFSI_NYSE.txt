@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,18.26,15.64,0.00,['NYSE'],N/A,2013,7.43,N/A,N/A,338.60,NYQ,15.28,172570,N/A,N/A,PFSI,2.05,n/a,PennyMac Financial Services,N/A,10.48,15.36,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Paper,USD,N/A,5.67,12.44,8.10,202.73M,['NASDAQ'],N/A,Basic Industries,10.21,7/7/2016,N/A,511.42,NMS,N/A,97978,0.46,6/23/2016,MERC,0.77,n/a,Mercer International Inc.,N/A,5.95,8.11,07 August 2016

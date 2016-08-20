@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,31.89,31.35,119.34M,['NASDAQ'],N/A,n/a,627.60,8/1/2008,N/A,765.30,NMS,37.00,415232,0.00,7/9/2008,CKEC,0.05,n/a,Carmike Cinemas,N/A,18.52,31.35,06 August 2016

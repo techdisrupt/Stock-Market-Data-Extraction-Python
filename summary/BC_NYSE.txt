@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,1.24,55.76,49.13,543.50M,['NYSE'],N/A,Energy,19.24,6/15/2016,N/A,4520.00,NYQ,49.44,566860,0.60,5/20/2016,BC,2.57,n/a,Brunswick Corporation,N/A,36.05,48.83,05 August 2016

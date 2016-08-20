@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,2.53,7.11,4.45,0.00,['NYSE'],N/A,Finance,15.40,6/13/2016,N/A,15970.00,NYQ,4.44,347018,0.11,9/26/2007,NMR,0.29,n/a,Nomura Holdings Inc ADR,N/A,3.33,4.30,07 August 2016

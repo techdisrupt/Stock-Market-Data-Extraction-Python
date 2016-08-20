@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,25.89,25.49,0.00,['NYSE'],N/A,n/a,N/A,6/30/2016,N/A,N/A,NYQ,25.49,1000,N/A,6/13/2016,KAP,-0.53,n/a,KCAP Financial,N/A,22.43,25.34,07 August 2016

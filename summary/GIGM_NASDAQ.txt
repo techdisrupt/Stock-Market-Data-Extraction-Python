@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Programming,USD,N/A,0.00,3.70,2.71,-10.66M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,28.96,NCM,6.79,42445,0.00,4/1/2002,GIGM,-0.58,n/a,GigaMedia Limited,N/A,2.10,2.50,07 August 2016

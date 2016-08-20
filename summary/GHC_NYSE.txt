@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,N/A,715.00,505.96,0.00,['NYSE'],N/A,Consumer Services,N/A,8/10/2016,N/A,N/A,NYQ,497.00,23198,N/A,7/18/2016,GHC,-0.31,n/a,Graham Holdings Company,N/A,425.14,503.29,07 August 2016

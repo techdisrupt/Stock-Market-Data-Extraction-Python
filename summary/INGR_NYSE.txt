@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Packaged Foods,USD,N/A,1.34,135.47,134.59,992.00M,['NYSE'],N/A,Consumer Non-Durables,21.62,7/25/2016,N/A,9760.00,NYQ,135.14,296276,1.80,6/28/2016,INGR,6.25,n/a,Ingredion Incorporated,N/A,82.63,134.19,07 August 2016

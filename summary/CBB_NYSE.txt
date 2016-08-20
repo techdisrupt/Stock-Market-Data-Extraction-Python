@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.00,5.13,4.74,280.40M,['NYSE'],N/A,Public Utilities,3.37,N/A,N/A,1010.00,NYQ,4.81,610095,0.00,7/2/2001,CBB,1.42,n/a,Cincinnati Bell Inc,N/A,2.80,4.74,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,23.840,16.22,-55.04M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,473.57,NGM,17.55,362472,N/A,N/A,BLCM,-2.108,n/a,Bellicum Pharmaceuticals,N/A,7.240,16.170,05 August 2016

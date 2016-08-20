@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.00,10.88,10.72,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,10.80,289856,0.39,7/13/2016,NUV,0.67,1987,Nuveen AMT-Free Municipal Value Fund,N/A,9.60,10.75,07 August 2016

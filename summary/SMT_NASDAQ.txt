@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer peripheral equipment,USD,N/A,N/A,5.2000,4.4700,9.06M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,54.45,NCM,4.5100,6343,N/A,4/8/2014,SMT,-5.4510,n/a,SMART Technologies Inc.,N/A,0.1900,4.4810,14 August 2016

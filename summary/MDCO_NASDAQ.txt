@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,43.79,36.92,-303.89M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,2580.00,NMS,37.07,364099,N/A,N/A,MDCO,-3.22,2000,The Medicines Company,N/A,27.50,36.92,14 August 2016

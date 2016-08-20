@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,1.55,1.37,335.94M,['NYSE'],N/A,Energy,N/A,10/15/2015,N/A,692.98,NYQ,1.40,1248237,0.00,9/28/2015,PWE,-3.79,n/a,Penn West Petroleum Ltd,N/A,0.45,1.35,08 August 2016

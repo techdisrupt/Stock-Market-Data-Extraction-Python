@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,2.5000,0.1913,-11.55M,['NYSE'],N/A,n/a,N/A,N/A,N/A,2.16,ASE,0.2050,6554120,N/A,N/A,NSPR,-1.6770,n/a,InspireMD,N/A,0.1700,0.1898,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.99,11.88,9.44,0.00,['NASDAQ'],N/A,Finance,12.50,7/1/2016,N/A,7790.00,NMS,9.75,6341356,0.28,6/15/2016,HBAN,0.78,n/a,Huntington Bancshares Incorporated,N/A,7.83,9.35,07 August 2016

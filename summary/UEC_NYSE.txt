@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,1.470,1.110,-12.66M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,126.31,ASE,1.090,584653,N/A,8/20/2014,UEC,-0.189,n/a,Uranium Energy Corp.,N/A,0.650,1.120,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,13.17,14.06,12.84,0.00,['NYSE'],N/A,Consumer Services,25.43,7/28/2016,N/A,391.72,NYQ,12.83,113527,1.68,6/28/2016,RSO,0.50,2006,Resource Capital Corp.,N/A,8.39,12.78,09 August 2016

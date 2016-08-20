@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.0000,14.7500,11.0755,37.58M,['NYSE'],N/A,n/a,N/A,N/A,N/A,96.55,NYQ,11.8000,146,0.0000,9/15/2000,TCI,-1.3970,n/a,Transcontinental Realty Investors,N/A,8.0500,11.2892,14 August 2016

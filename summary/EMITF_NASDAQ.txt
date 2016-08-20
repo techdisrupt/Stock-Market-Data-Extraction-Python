@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building operators,USD,N/A,0.00,4.41,2.89,8.47M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,26.56,NMS,2.89,1000,0.00,5/15/2008,EMITF,-4.22,n/a,Elbit Imaging Ltd.,N/A,1.83,2.78,06 August 2016

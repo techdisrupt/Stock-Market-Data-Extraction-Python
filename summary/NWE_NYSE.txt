@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,3.32,63.75,60.21,399.41M,['NYSE'],N/A,Public Utilities,20.12,6/30/2016,N/A,2870.00,NYQ,59.44,138711,2.00,6/13/2016,NWE,2.95,n/a,NorthWestern Corporation,N/A,48.47,60.35,07 August 2016

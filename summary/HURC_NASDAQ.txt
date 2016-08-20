@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.31,33.65,27.76,25.85M,['NASDAQ'],N/A,n/a,11.60,7/11/2016,N/A,183.78,NMS,27.96,8492,0.36,6/23/2016,HURC,2.41,n/a,Hurco Companies,N/A,23.25,27.57,07 August 2016

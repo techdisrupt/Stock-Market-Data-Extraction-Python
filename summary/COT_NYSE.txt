@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Beverages (Production/Distribution),USD,N/A,1.66,16.84,16.00,343.50M,['NYSE'],N/A,Consumer Non-Durables,N/A,6/15/2016,N/A,2040.00,NYQ,16.67,2733877,0.24,6/1/2016,COT,-0.01,n/a,Cott Corporation,N/A,8.96,15.88,06 August 2016

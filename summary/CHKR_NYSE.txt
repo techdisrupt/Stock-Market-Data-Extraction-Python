@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,8.22,6.28,1.99,0.00,['NYSE'],N/A,Energy,2.26,5/31/2016,N/A,97.24,NYQ,2.10,205458,0.16,5/18/2016,CHKR,0.92,2011,Chesapeake Granite Wash Trust,N/A,1.56,1.97,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Aerospace,USD,N/A,7.37,50.00,48.80,140.71M,['NASDAQ'],N/A,Transportation,29.90,5/6/2016,N/A,2410.00,NMS,N/A,88415,3.58,4/26/2016,OMAB,1.64,2006,Grupo Aeroportuario del Centro Norte S.A.B. de C.V.,N/A,33.61,48.59,07 August 2016

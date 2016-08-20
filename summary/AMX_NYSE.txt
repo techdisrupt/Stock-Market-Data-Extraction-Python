@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,2.65,19.64,11.55,12.75B,['NYSE'],N/A,n/a,28.48,11/23/2015,N/A,37410.00,NYQ,11.39,2065849,0.31,7/19/2016,AMX,0.40,n/a,America Movil,N/A,11.02,11.49,05 August 2016

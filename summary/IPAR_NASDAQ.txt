@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,1.80,34.64,33.47,66.86M,['NASDAQ'],N/A,n/a,37.26,7/15/2016,N/A,1040.00,NMS,33.36,129064,0.60,6/28/2016,IPAR,0.89,n/a,Inter Parfums,N/A,20.37,33.30,07 August 2016

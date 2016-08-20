@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,17.45,4.32,169.72M,['NASDAQ'],N/A,Energy,N/A,1/15/2016,N/A,308.63,NMS,4.48,24689,0.00,12/30/2015,LGCYO,-5.59,n/a,Legacy Reserves LP,N/A,1.25,4.34,07 August 2016

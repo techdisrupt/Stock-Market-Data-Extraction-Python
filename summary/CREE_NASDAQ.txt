@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,32.92,27.50,118.81M,['NASDAQ'],N/A,1993,N/A,N/A,N/A,2810.00,NMS,28.19,780373,N/A,N/A,CREE,-0.96,n/a,Cree,N/A,22.10,27.33,06 August 2016

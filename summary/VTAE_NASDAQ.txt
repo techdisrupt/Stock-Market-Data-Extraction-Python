@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,18.71,8.65,-45.34M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,258.42,NGM,8.97,88338,N/A,N/A,VTAE,-1.89,n/a,Vitae Pharmaceuticals,N/A,4.08,8.63,15 August 2016

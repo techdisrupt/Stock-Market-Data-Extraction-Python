@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,11.06,12.81,10.49,0.00,['NASDAQ'],N/A,2014,N/A,8/2/2016,N/A,N/A,NMS,N/A,87177,1.16,7/19/2016,ACSF,-1.63,n/a,American Capital Senior Floating,N/A,7.86,10.36,05 August 2016

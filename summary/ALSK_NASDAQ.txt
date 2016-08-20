@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,0.00,2.49,1.69,36.23M,['NASDAQ'],N/A,1999,N/A,10/17/2012,N/A,87.09,NMS,2.00,105610,0.00,9/26/2012,ALSK,-0.06,n/a,Alaska Communications Systems Group,N/A,1.30,1.68,04 August 2016

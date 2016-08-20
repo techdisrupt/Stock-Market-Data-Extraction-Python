@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,11.83,50.36,23.77,6.29B,['NYSE'],N/A,1994,5.33,9/4/2015,N/A,8920.00,NYQ,23.90,46295,2.87,6/27/2016,HNP,4.48,n/a,Huaneng Power International,N/A,22.84,23.76,07 August 2016

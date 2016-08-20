@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,N/A,18.87,14.87,456.50M,['NASDAQ'],N/A,n/a,2.62,N/A,N/A,399.75,NCM,18.00,102372,N/A,N/A,FRP,5.68,n/a,FairPoint Communications,N/A,12.69,14.79,06 August 2016

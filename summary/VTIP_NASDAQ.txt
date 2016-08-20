@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.30,49.76,49.37,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,49.39,378172,1.58,N/A,VTIP,N/A,n/a,Vanguard Short-Term Inflation-Protected Securities Index Fund,N/A,48.05,49.37,15 August 2016

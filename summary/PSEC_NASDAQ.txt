@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,12.06,8.44,8.35,0.00,['NASDAQ'],N/A,n/a,28.55,8/18/2016,N/A,2940.00,NMS,8.24,3400618,1.00,7/27/2016,PSEC,0.29,2004,Prospect Capital Corporation,N/A,5.21,8.29,08 August 2016

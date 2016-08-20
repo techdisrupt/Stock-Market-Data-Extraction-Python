@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Homebuilding,USD,N/A,N/A,42.19,28.09,546.99M,['NYSE'],N/A,Capital Goods,13.49,N/A,N/A,4640.00,NYQ,28.02,1547579,N/A,N/A,TOL,2.07,n/a,Toll Brothers Inc.,N/A,23.75,28.07,14 August 2016

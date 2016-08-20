@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Railroads,USD,N/A,1.00,17.64,15.76,6.12M,['NASDAQ'],N/A,Transportation,48.73,5/25/2016,N/A,78.23,NGM,16.40,35,0.16,5/9/2016,PWX,0.33,n/a,Providence and Worcester Railroad Company,N/A,12.50,16.08,08 August 2016

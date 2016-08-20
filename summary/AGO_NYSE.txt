@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,1.94,29.62,27.44,0.00,['NYSE'],N/A,Finance,4.34,6/1/2016,N/A,3700.00,NYQ,27.51,402743,0.52,5/16/2016,AGO,6.34,2004,Assured Guaranty Ltd.,N/A,21.79,27.21,05 August 2016

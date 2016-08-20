@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,3.290,26.000,24.390,16.59M,['NASDAQ'],N/A,Public Utilities,20.472,8/1/2016,N/A,117.06,NGM,24.740,705,0.810,7/13/2016,RGCO,1.198,n/a,RGC Resources Inc.,N/A,20.000,24.642,09 August 2016

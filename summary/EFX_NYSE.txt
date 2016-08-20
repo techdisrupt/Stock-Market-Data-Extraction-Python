@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.01,136.97,131.77,977.00M,['NYSE'],N/A,n/a,34.58,6/15/2016,N/A,15850.00,NYQ,132.83,579618,1.32,5/23/2016,EFX,3.84,n/a,Equifax,N/A,90.94,131.28,06 August 2016

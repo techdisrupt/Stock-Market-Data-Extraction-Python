@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,10.00,19.40,19.10,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,19.05,625046,1.80,7/13/2016,DSL,N/A,2013,DoubleLine Income Solutions Fund,N/A,14.71,19.09,06 August 2016

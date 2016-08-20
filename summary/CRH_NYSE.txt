@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Materials,USD,N/A,2.32,31.55,30.16,2.43B,['NYSE'],N/A,Capital Goods,30.90,5/13/2016,N/A,24980.00,NYQ,30.39,325482,0.70,3/10/2016,CRH,0.98,n/a,CRH PLC,N/A,23.33,30.06,06 August 2016

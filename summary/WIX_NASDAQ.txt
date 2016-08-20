@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Programming,USD,N/A,N/A,39.330,38.700,-45.41M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,1580.00,NMS,38.41,215971,N/A,N/A,WIX,-1.347,2013,Wix.com Ltd.,N/A,14.790,38.700,15 August 2016

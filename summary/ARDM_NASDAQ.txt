@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Electromedical & Electrotherapeutic Apparatus,USD,N/A,0.00,7.90,4.61,-23.94M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,66.42,NCM,7.40,2022,0.00,N/A,ARDM,-1.64,1996,Aradigm Corporation,N/A,2.60,4.70,05 August 2016

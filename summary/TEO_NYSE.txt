@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,1.39,20.28,18.20,745.99M,['NYSE'],N/A,Public Utilities,16.67,5/20/2016,N/A,3520.00,NYQ,18.24,86151,0.25,5/10/2016,TEO,1.09,n/a,Telecom Argentina Stet - France Telecom S.A.,N/A,13.36,18.30,14 August 2016

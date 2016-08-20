@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Meat/Poultry/Fish,USD,N/A,0.00,27.79,23.32,934.03M,['NASDAQ'],N/A,Consumer Non-Durables,12.49,5/18/2016,N/A,5850.00,NMS,23.45,811071,0.00,5/6/2016,PPC,1.84,n/a,Pilgrim's Pride Corporation,N/A,17.39,23.30,08 August 2016

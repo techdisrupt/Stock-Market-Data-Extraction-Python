@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Food Chains,USD,N/A,0.00,28.45,N/A,0.00,['NYSE'],N/A,Consumer Services,N/A,6/7/2016,N/A,N/A,NYQ,N/A,0,0.00,5/27/2016,DEG,1.19,n/a,Etablissements Delhaize Freres et Cie &quot;Le Lion&quot; S.A.,N/A,20.90,28.11,06 August 2016

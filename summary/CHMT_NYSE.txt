@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,0.00,32.34,28.62,298.00M,['NYSE'],N/A,Basic Industries,54.17,N/A,N/A,1810.00,NYQ,28.71,202957,0.00,8/7/2008,CHMT,0.53,n/a,Chemtura Corp.,N/A,23.50,28.50,06 August 2016

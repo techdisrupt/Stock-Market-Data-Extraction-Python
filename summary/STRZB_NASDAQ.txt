@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Television Services,USD,N/A,N/A,40.69,N/A,405.10M,['NASDAQ'],N/A,Consumer Services,15.75,N/A,N/A,3090.00,NMS,32.92,100,N/A,3/4/2008,STRZB,2.02,n/a,Starz,N/A,27.54,33.22,14 August 2016

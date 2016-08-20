@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Radio And Television Broadcasting And Communications Equipment,USD,N/A,0.98,51.44,49.03,322.65M,['NYSE'],N/A,Technology,24.55,5/18/2016,N/A,5160.00,NYQ,50.32,615800,0.48,8/4/2016,DLB,2.05,2005,Dolby Laboratories,N/A,29.87,48.95,06 August 2016

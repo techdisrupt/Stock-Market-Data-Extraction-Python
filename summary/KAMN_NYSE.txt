@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,1.67,44.27,43.22,146.27M,['NYSE'],N/A,Consumer Durables,23.28,7/7/2016,N/A,1190.00,NYQ,43.77,102411,0.72,6/17/2016,KAMN,1.88,n/a,Kaman Corporation,N/A,35.09,43.17,07 August 2016

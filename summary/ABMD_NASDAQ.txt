@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,121.57,118.73,75.79M,['NASDAQ'],N/A,n/a,129.16,N/A,N/A,5200.00,NMS,121.40,549692,N/A,N/A,ABMD,0.94,n/a,ABIOMED,N/A,67.81,118.58,04 August 2016

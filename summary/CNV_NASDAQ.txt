@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,5.25,4.84,-129.20M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,2140.00,NMS,7.93,17039,N/A,N/A,CNV,-0.61,2014,Cnova N.V.,N/A,2.02,4.85,06 August 2016

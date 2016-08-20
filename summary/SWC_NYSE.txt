@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,15.91,15.29,60.09M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,1790.00,NYQ,14.82,1779660,N/A,N/A,SWC,-0.14,n/a,Stillwater Mining Company,N/A,4.99,15.18,14 August 2016

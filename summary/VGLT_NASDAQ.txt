@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.6000,87.9200,85.4100,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,85.2700,26707,2.0500,N/A,VGLT,N/A,n/a,Vanguard Long-Term Government Bond ETF,N/A,73.2000,85.8000,15 August 2016

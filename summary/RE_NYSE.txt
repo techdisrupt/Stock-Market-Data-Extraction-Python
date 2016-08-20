@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.42,199.98,190.85,0.00,['NYSE'],N/A,n/a,10.68,6/15/2016,N/A,8000.00,NYQ,190.82,183763,4.60,5/27/2016,RE,17.87,n/a,Everest Re Group,N/A,167.07,190.27,06 August 2016

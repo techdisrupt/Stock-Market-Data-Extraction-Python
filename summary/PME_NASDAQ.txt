@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.48,2.33,1.19,-15.50M,['NASDAQ'],N/A,n/a,17.97,5/31/2016,N/A,90.91,NCM,1.66,314577,0.04,7/27/2016,PME,0.06,n/a,Pingtan Marine Enterprise Ltd.,N/A,1.00,1.14,08 August 2016

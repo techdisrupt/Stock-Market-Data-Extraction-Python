@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Insurers,USD,N/A,3.100,49.770,49.200,847.60M,['NYSE'],N/A,Finance,22.296,6/17/2016,N/A,8710.00,NYQ,49.210,497693,1.520,6/1/2016,AJG,2.206,n/a,Arthur J. Gallagher & Co.,N/A,35.960,48.900,05 August 2016

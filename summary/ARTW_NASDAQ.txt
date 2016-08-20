@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,4.54,2.75,-151388.00,['NASDAQ'],N/A,n/a,N/A,3/2/2015,N/A,11.29,NCM,2.79,8320,0.00,2/10/2015,ARTW,-0.23,n/a,Art&#39;s-Way Manufacturing Co.,N/A,2.46,2.73,05 August 2016

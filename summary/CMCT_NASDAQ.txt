@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,5.4300,21.5500,16.2800,95.72M,['NASDAQ'],N/A,Consumer Services,32.8489,6/28/2016,N/A,1580.00,NGM,16.2600,113,0.8800,6/17/2016,CMCT,0.4930,n/a,CIM Commercial Trust Corporation,N/A,14.3100,16.1200,06 August 2016

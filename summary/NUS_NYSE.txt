@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,2.68,60.87,55.03,263.36M,['NYSE'],N/A,1996,34.14,6/8/2016,N/A,3330.00,NYQ,59.50,2832367,1.42,5/25/2016,NUS,1.72,n/a,Nu Skin Enterprises,N/A,23.51,53.63,07 August 2016

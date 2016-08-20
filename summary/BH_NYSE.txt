@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Restaurants,USD,N/A,0.00,430.72,402.16,54.90M,['NYSE'],N/A,Consumer Services,22.65,N/A,N/A,847.04,NYQ,407.49,689,0.00,N/A,BH,18.08,n/a,Biglari Holdings Inc.,N/A,321.00,403.00,05 August 2016

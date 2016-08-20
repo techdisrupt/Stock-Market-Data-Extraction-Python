@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,12.15,5.52,-12.00M,['NYSE'],N/A,Energy,N/A,N/A,N/A,65.90,NYQ,5.45,93893,N/A,N/A,IO,-0.45,n/a,Ion Geophysical Corporation,N/A,2.55,5.51,07 August 2016

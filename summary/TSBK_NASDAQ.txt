@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.34,16.10,15.29,0.00,['NASDAQ'],N/A,n/a,10.25,5/27/2016,N/A,102.06,NGM,15.10,715,0.36,8/10/2016,TSBK,1.46,n/a,Timberland Bancorp,N/A,10.16,15.32,14 August 2016

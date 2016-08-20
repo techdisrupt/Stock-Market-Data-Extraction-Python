@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Apparel,USD,N/A,N/A,78.79,78.05,432.14M,['NASDAQ'],N/A,Consumer Non-Durables,41.27,N/A,N/A,10660.00,NMS,79.00,889509,N/A,N/A,LULU,1.88,2007,lululemon athletica inc.,N/A,43.14,77.41,07 August 2016

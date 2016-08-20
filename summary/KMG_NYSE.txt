@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.44,28.77,27.67,43.38M,['NYSE'],N/A,n/a,18.22,6/30/2016,N/A,327.29,NYQ,27.96,79151,0.12,6/15/2016,KMG,1.53,n/a,KMG Chemicals,N/A,18.45,27.57,07 August 2016

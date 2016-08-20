@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,2,25,N/A,0.00,['NYSE'],N/A,Consumer Durables,N/A,N/A,N/A,N/A,NYQ,N/A,0,0,5/20/2015,XLS,1,2011,Exelis Inc.,N/A,15,24,06 August 2016

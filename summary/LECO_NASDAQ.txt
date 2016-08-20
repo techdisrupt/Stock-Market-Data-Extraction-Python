@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,2.08,64.79,62.33,392.29M,['NASDAQ'],N/A,n/a,61.37,7/15/2016,N/A,4220.00,NMS,62.87,422109,1.28,6/28/2016,LECO,1.02,n/a,Lincoln Electric Holdings,N/A,45.54,62.10,07 August 2016

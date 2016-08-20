@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,N/A,9.05,8.68,7.70M,['NYSE'],N/A,Technology,N/A,N/A,N/A,426.88,NYQ,9.99,756770,N/A,N/A,EXAR,-0.33,1985,Exar Corporation,N/A,4.82,8.58,06 August 2016

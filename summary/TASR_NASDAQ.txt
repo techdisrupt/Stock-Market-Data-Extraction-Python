@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,30.15,29.00,30.36M,['NASDAQ'],N/A,n/a,116.48,N/A,N/A,1520.00,NMS,N/A,508193,N/A,N/A,TASR,0.25,n/a,TASER International,N/A,13.56,29.12,14 August 2016

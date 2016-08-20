@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,0.00,7.00,N/A,0.00,['NASDAQ'],N/A,Miscellaneous,N/A,N/A,N/A,N/A,NMS,N/A,0,0.00,1/23/2012,GAME,0.42,n/a,Shanda Games Limited,N/A,4.91,6.98,13 August 2016

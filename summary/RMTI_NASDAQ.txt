@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,14.20,7.55,-15.08M,['NASDAQ'],N/A,1998,N/A,N/A,N/A,372.53,NGM,7.23,671236,N/A,N/A,RMTI,-0.32,n/a,Rockwell Medical,N/A,5.47,7.51,09 August 2016

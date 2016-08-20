@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,103.00,95.62,377.02M,['NYSE'],N/A,1993,42.60,N/A,N/A,7830.00,NYQ,94.94,582428,0.00,7/19/1999,IT,2.23,n/a,Gartner,N/A,77.80,95.34,07 August 2016

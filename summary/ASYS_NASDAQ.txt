@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,8.40,6.08,-6.50M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,80.09,NMS,10.06,16835,N/A,N/A,ASYS,-0.44,n/a,Amtech Systems,N/A,4.12,6.16,05 August 2016

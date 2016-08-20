@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,0.00,21.43,18.45,504.25M,['NYSE'],N/A,Consumer Services,46.99,6/2/2008,N/A,2100.00,NYQ,18.76,1045606,0.00,5/12/2008,BYD,0.40,1993,Boyd Gaming Corporation,N/A,14.22,18.40,05 August 2016

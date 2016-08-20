@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,0.080,18.600,12.950,693.47M,['NYSE'],N/A,Finance,9.749,6/6/2016,N/A,2790.00,NYQ,13.010,1029762,0.010,5/19/2016,RDN,1.334,n/a,Radian Group Inc.,N/A,9.290,12.910,08 August 2016

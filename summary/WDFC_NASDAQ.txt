@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,1.45,125.00,116.20,76.05M,['NASDAQ'],N/A,Basic Industries,33.72,7/29/2016,N/A,1660.00,NMS,116.28,39950,1.68,7/13/2016,WDFC,3.45,1973,WD-40 Company,N/A,80.86,115.85,15 August 2016

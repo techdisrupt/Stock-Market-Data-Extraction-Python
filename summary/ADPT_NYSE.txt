@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hospital/Nursing Management,USD,N/A,N/A,121.76,44.91,46.23M,['NYSE'],N/A,Health Care,6.77,N/A,N/A,726.76,NYQ,48.84,183857,N/A,N/A,ADPT,6.57,2014,Adeptus Health Inc.,N/A,37.13,44.80,04 August 2016

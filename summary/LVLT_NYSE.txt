@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,N/A,57.59,49.29,2.66B,['NYSE'],N/A,2011,4.95,N/A,N/A,17630.00,NYQ,50.01,1579196,N/A,N/A,LVLT,9.94,n/a,Level 3 Communications,N/A,40.86,48.98,07 August 2016

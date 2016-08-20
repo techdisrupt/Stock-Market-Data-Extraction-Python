@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,21.49,12.15,32.31M,['NYSE'],N/A,2004,8.52,N/A,N/A,187.20,NYQ,12.11,118990,N/A,N/A,BBW,1.42,n/a,Build-A-Bear Workshop,N/A,10.74,12.00,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,27.23,17.30,124.08M,['NYSE'],N/A,n/a,2.34,N/A,N/A,153.92,NYQ,17.25,29243,0.00,9/7/2005,AOI,7.38,n/a,Alliance One International,N/A,8.33,17.24,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,97.64,96.25,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,96.06,146248,N/A,N/A,VCLT,N/A,n/a,Vanguard Long-Term Corporate Bond ETF,N/A,82.90,96.33,15 August 2016

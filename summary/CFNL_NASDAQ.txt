@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.91,27.53,25.28,0.00,['NASDAQ'],N/A,Finance,18.19,5/20/2016,N/A,838.60,NMS,25.85,113313,0.48,8/2/2016,CFNL,1.42,1998,Cardinal Financial Corporation,N/A,17.51,25.14,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.840,57.04,45.51,470.16M,['NYSE'],N/A,n/a,14.35,6/30/2016,N/A,2600.00,NYQ,46.66,1592092,1.280,6/8/2016,EAT,3.252,n/a,Brinker International,N/A,43.20,45.430,05 August 2016

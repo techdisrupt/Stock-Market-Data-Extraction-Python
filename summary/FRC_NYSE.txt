@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.90,73.75,72.32,0.00,['NYSE'],N/A,n/a,20.64,5/12/2016,N/A,11010.00,NYQ,73.48,728689,0.64,7/26/2016,FRC,3.56,n/a,FIRST REPUBLIC BANK,N/A,56.32,71.39,06 August 2016

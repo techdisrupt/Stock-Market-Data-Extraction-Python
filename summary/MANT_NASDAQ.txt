@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,2.13,40.13,39.71,121.77M,['NASDAQ'],N/A,Consumer Services,27.47,6/24/2016,N/A,1530.00,NMS,39.94,160102,0.84,6/8/2016,MANT,1.45,2002,ManTech International Corporation,N/A,24.90,39.46,07 August 2016

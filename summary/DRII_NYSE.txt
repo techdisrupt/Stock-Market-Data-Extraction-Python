@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,30.27,29.33,344.79M,['NYSE'],N/A,2013,13.81,N/A,N/A,2050.00,NYQ,29.42,2238739,N/A,N/A,DRII,2.13,n/a,Diamond Resorts International,N/A,16.19,29.27,06 August 2016

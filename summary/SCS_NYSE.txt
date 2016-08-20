@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Office Equipment/Supplies/Services,USD,N/A,3.36,20.37,14.22,265.60M,['NYSE'],N/A,Consumer Durables,10.39,7/15/2016,N/A,1690.00,NYQ,14.17,432637,0.48,6/30/2016,SCS,1.36,1998,Steelcase Inc.,N/A,11.67,14.28,14 August 2016

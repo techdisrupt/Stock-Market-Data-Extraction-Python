@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,5.74,57.38,50.39,3.71B,['NYSE'],N/A,Consumer Services,24.28,6/30/2016,N/A,39630.00,NYQ,49.93,3198612,2.88,6/20/2016,LVS,2.05,2004,Las Vegas Sands Corp.,N/A,34.88,50.19,07 August 2016

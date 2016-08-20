@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,65.86,55.78,350.26M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,2530.00,NMS,55.48,1759380,N/A,N/A,PDCE,-3.88,n/a,PDC Energy,N/A,42.68,55.09,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,2.76,51.45,39.14,44.21M,['OTC'],N/A,Finance,14.98,5/11/2016,N/A,374.73,PNK,N/A,2133,1.08,8/2/2016,KCLI,2.58,n/a,Kansas City Life Insurance Company,N/A,35.00,39.08,07 August 2016

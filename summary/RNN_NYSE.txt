@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,0.6500,0.2730,-17.77M,['NYSE'],N/A,n/a,N/A,N/A,N/A,56.01,ASE,0.2671,341348,N/A,N/A,RNN,-0.0680,n/a,Rexahn Pharmaceuticals,N/A,0.2400,0.2730,09 August 2016

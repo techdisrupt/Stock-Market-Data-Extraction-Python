@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,0.76,12.38,10.69,8.97M,['NASDAQ'],N/A,Capital Goods,N/A,7/15/2016,N/A,159.34,NMS,13.50,62199,0.08,6/28/2016,BOOM,-1.53,n/a,Dynamic Materials Corporation,N/A,4.84,10.62,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,1.00,6.56,6.31,845.90M,['NYSE'],N/A,Basic Industries,N/A,3/24/2016,N/A,4770.00,NYQ,6.17,7457918,0.03,3/9/2016,GFI,-0.31,n/a,Gold Fields Limited,N/A,2.04,6.43,07 August 2016

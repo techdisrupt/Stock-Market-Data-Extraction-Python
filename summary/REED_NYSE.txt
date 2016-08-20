@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,6.9100,2.6400,-2.81M,['NYSE'],N/A,n/a,N/A,N/A,N/A,37.25,ASE,2.6800,31897,N/A,N/A,REED,-0.4040,n/a,Reeds,N/A,2.2500,2.6000,09 August 2016

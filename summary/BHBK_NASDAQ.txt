@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.86,16.58,13.90,0.00,['NASDAQ'],N/A,2014,49.06,6/15/2016,N/A,344.79,NMS,14.05,101469,0.12,5/27/2016,BHBK,0.29,n/a,Blue Hills Bancorp,N/A,13.22,13.89,05 August 2016

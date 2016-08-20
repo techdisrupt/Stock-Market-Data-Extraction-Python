@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,0.44,20.41,11.40,12.45M,['NYSE'],N/A,Health Care,N/A,7/13/2016,N/A,373.87,NYQ,11.62,259627,0.05,6/30/2016,IVC,-0.96,n/a,Invacare Corporation,N/A,9.89,11.35,07 August 2016

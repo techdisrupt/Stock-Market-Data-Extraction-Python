@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,6.96,35.05,29.10,446.24M,['NYSE'],N/A,Consumer Services,16.10,7/15/2016,N/A,3370.00,NYQ,28.70,1588476,2.16,6/29/2016,CXW,1.78,n/a,Corrections Corporation of America,N/A,24.21,29.11,06 August 2016

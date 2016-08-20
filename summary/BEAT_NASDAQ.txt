@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,21.370,20.730,35.24M,['NASDAQ'],N/A,2008,44.372,N/A,N/A,571.18,NMS,20.880,396303,N/A,N/A,BEAT,0.470,n/a,BioTelemetry,N/A,8.740,20.910,05 August 2016

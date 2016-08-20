@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,11.50,4.50,3.15,0.00,['NYSE'],N/A,Energy,9.10,5/13/2016,N/A,53.38,NYQ,3.14,29762,0.36,7/28/2016,VOC,0.34,2011,VOC Energy Trust,N/A,1.73,3.13,15 August 2016

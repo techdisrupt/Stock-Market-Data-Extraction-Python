@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,N/A,12.65,4.39,5.78M,['NASDAQ'],N/A,Miscellaneous,12.13,N/A,N/A,56.02,NGM,4.62,162387,N/A,N/A,BSQR,0.38,1999,BSQUARE Corporation,N/A,4.37,4.39,05 August 2016

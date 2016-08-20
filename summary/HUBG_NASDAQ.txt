@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,N/A,42.27,40.58,172.84M,['NASDAQ'],N/A,1996,18.03,N/A,N/A,1410.00,NMS,45.32,204730,N/A,N/A,HUBG,2.29,n/a,Hub Group,N/A,28.19,40.45,07 August 2016

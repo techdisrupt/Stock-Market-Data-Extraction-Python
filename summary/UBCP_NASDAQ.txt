@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,4.0000,10.9000,9.9999,0.00,['NASDAQ'],N/A,n/a,14.4926,6/20/2016,N/A,49.01,NCM,9.9500,1379,0.4000,6/8/2016,UBCP,0.6900,n/a,United Bancorp,N/A,7.9100,9.9999,15 August 2016

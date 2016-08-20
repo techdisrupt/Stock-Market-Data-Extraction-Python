@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Aerospace,USD,N/A,3.31,150.59,132.21,7.87B,['NYSE'],N/A,Capital Goods,23.71,9/2/2016,N/A,82170.00,NYQ,131.73,2516848,4.36,5/11/2016,BA,5.55,n/a,Boeing Company (The),N/A,102.10,131.21,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,2.00,30.78,22.64,769.57M,['NYSE'],N/A,Public Utilities,25.11,5/25/2016,N/A,3080.00,NYQ,23.63,707,0.45,5/12/2016,NTL,0.90,1997,Nortel Inversora SA,N/A,13.50,22.41,07 August 2016

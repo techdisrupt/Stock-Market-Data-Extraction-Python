@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,4.19,18.00,13.02,3.68B,['NYSE'],N/A,Finance,13.61,6/20/2016,N/A,25640.00,NYQ,13.07,3039507,0.56,5/13/2016,MFC,0.91,n/a,Manulife Financial Corp,N/A,10.99,13.01,07 August 2016

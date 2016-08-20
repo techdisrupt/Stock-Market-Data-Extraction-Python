@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,0.00,9.77,7.18,-43.33M,['NASDAQ'],N/A,Energy,N/A,12/4/2015,N/A,340.60,NMS,N/A,203951,0.00,11/10/2015,TESO,-4.67,n/a,Tesco Corporation,N/A,5.13,7.15,14 August 2016

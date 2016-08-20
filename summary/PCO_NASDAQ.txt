@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Multi-Sector Companies,USD,N/A,N/A,1.6500,0.6800,38.72M,['NASDAQ'],N/A,Miscellaneous,N/A,N/A,N/A,184.93,NCM,1.5000,106869,N/A,N/A,PCO,-0.2760,n/a,Pendrell Corporation,N/A,0.4500,0.6800,07 August 2016

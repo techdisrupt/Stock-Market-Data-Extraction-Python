@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.17,80.61,70.65,1.05B,['NYSE'],N/A,Energy,N/A,6/1/2016,N/A,12080.00,NYQ,70.00,1671802,0.12,5/11/2016,EQT,-2.21,n/a,EQT Corporation,N/A,47.10,70.52,06 August 2016

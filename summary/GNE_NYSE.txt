@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,3.74,14.97,6.36,4.42M,['NYSE'],N/A,Public Utilities,N/A,5/20/2016,N/A,165.26,NYQ,6.62,29013,0.24,5/12/2016,GNE,-0.02,2011,Genie Energy Ltd.,N/A,5.98,6.41,07 August 2016

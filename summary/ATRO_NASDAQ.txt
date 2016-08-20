@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,0.00,52.78,40.10,123.83M,['NASDAQ'],N/A,Capital Goods,16.15,N/A,N/A,1060.00,NMS,41.64,130468,0.00,10/25/2012,ATRO,2.58,n/a,Astronics Corporation,N/A,24.75,40.11,05 August 2016

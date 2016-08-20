@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,1.89,42.18,38.90,104.33M,['NASDAQ'],N/A,1983,45.03,6/24/2016,N/A,2840.00,NMS,40.00,246874,0.73,5/18/2016,HCSG,0.87,n/a,Healthcare Services Group,N/A,31.50,38.86,07 August 2016

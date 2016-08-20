@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,2.66,33.00,32.46,0.00,['NYSE'],N/A,Finance,7.34,4/29/2016,N/A,12490.00,NYQ,32.68,59242,0.85,12/28/2005,KB,4.45,n/a,KB Financial Group Inc,N/A,22.84,31.94,07 August 2016

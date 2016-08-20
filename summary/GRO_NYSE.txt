@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Farming/Seeds/Milling,USD,N/A,N/A,1.8400,0.8500,39.37M,['NYSE'],N/A,Consumer Non-Durables,N/A,N/A,N/A,46.42,NYQ,0.8500,45531,N/A,N/A,GRO,-0.1350,2007,Agria Corporation,N/A,0.7100,0.8500,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.56,18.90,18.57,0.00,['NASDAQ'],N/A,Finance,13.53,6/15/2016,N/A,271.11,NMS,20.20,14285,0.66,5/27/2016,CCNE,1.39,n/a,CNB Financial Corporation,N/A,16.39,18.41,06 August 2016

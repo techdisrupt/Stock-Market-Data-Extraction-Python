@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Railroads,USD,N/A,10.1000,13.2500,12.6000,47.06M,['NYSE'],N/A,Transportation,14.3388,5/13/2016,N/A,291.47,NYQ,12.6000,76484,1.2600,8/4/2016,USDP,0.8780,2014,USD Partners LP,N/A,4.7200,12.4800,15 August 2016

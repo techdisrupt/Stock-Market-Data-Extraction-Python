@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,7.95,1.63,-16.63M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,24.02,NGM,1.68,33023,N/A,N/A,ORPN,-1.17,2014,Bio Blast Pharma Ltd.,N/A,1.50,1.58,05 August 2016

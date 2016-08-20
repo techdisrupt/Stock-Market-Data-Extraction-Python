@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,2.87,31.71,27.89,183.63M,['NASDAQ'],N/A,Technology,42.36,6/6/2016,N/A,3600.00,NMS,28.01,626594,0.80,5/12/2016,NATI,0.66,1995,National Instruments Corporation,N/A,25.90,27.84,07 August 2016

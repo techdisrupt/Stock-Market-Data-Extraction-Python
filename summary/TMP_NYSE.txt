@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.48,73.65,71.37,0.00,['NYSE'],N/A,Finance,19.10,5/16/2016,N/A,1080.00,ASE,71.81,14332,1.76,7/29/2016,TMP,3.76,n/a,Tompkins Financial Corporation,N/A,49.05,71.81,14 August 2016

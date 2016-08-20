@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,3.24,54.08,51.71,2.18B,['NYSE'],N/A,Public Utilities,20.12,6/30/2016,N/A,12580.00,NYQ,52.04,1474181,1.70,6/6/2016,AEE,2.58,n/a,Ameren Corporation,N/A,38.15,51.65,05 August 2016

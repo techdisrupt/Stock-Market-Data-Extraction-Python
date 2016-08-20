@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.73,34.90,31.05,0.00,['NASDAQ'],N/A,n/a,11.45,5/27/2016,N/A,83.51,NCM,30.95,1028,1.12,8/10/2016,SAL,2.64,n/a,Salisbury Bancorp,N/A,27.96,30.71,11 August 2016

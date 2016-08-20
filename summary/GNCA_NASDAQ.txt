@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,13.25,4.50,-37.79M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,135.42,NGM,6.00,392842,N/A,N/A,GNCA,-1.50,n/a,Genocea Biosciences,N/A,2.56,4.38,07 August 2016

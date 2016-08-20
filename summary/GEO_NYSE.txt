@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,7.91,35.14,31.88,367.06M,['NYSE'],N/A,Consumer Services,17.39,5/12/2016,N/A,2390.00,NYQ,35.18,667658,2.60,7/28/2016,GEO,1.86,n/a,Geo Group Inc (The),N/A,25.52,31.78,07 August 2016

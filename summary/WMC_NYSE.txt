@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,17.64,13.60,10.84,0.00,['NYSE'],N/A,Consumer Services,N/A,7/26/2016,N/A,456.50,NYQ,10.89,340997,1.94,6/30/2016,WMC,-1.00,2012,Western Asset Mortgage Capital Corporation,N/A,8.04,11.00,15 August 2016

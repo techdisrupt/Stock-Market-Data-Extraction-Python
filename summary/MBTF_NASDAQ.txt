@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.82,9.08,8.71,0.00,['NASDAQ'],N/A,Finance,14.27,5/19/2016,N/A,201.14,NMS,9.48,31461,0.16,5/10/2016,MBTF,0.62,n/a,M B T Financial Corp,N/A,5.82,8.67,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,0.79,21.66,20.25,80.99M,['NYSE'],N/A,Capital Goods,51.61,6/30/2016,N/A,695.90,NYQ,20.54,117814,0.16,6/13/2016,NX,0.40,n/a,Quanex Building Products Corporation,N/A,15.33,20.22,08 August 2016

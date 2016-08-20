@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,21.9100,20.9200,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,21.2000,2284,N/A,N/A,DXKW,N/A,n/a,WisdomTree Korea Hedged Equity Fund,N/A,14.4100,20.9900,15 August 2016

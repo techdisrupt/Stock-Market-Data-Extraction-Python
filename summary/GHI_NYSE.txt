@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.70,9.03,N/A,0.00,['NYSE'],N/A,1993,N/A,3/31/2016,N/A,N/A,NYQ,N/A,0,0.47,3/22/2016,GHI,-0.44,n/a,Global High Income Dollar Fund,N/A,7.52,8.68,07 August 2016

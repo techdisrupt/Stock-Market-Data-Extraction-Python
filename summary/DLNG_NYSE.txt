@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,12.27,15.72,13.78,124.30M,['NYSE'],N/A,Consumer Services,8.12,5/12/2016,N/A,503.39,NYQ,14.18,98615,1.69,7/8/2016,DLNG,1.74,2013,Dynagas LNG Partners LP,N/A,6.70,13.72,06 August 2016

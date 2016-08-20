@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,N/A,17.70,12.98,1.48B,['NYSE'],N/A,Public Utilities,N/A,N/A,N/A,4670.00,NYQ,13.07,4086671,N/A,5/6/2014,CPN,-0.00,n/a,Calpine Corporation,N/A,11.53,12.97,05 August 2016

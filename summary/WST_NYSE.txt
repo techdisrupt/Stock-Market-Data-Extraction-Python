@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.59,82.05,81.18,250.80M,['NYSE'],N/A,n/a,59.20,5/4/2016,N/A,5950.00,NYQ,81.27,118513,0.48,7/18/2016,WST,1.37,n/a,West Pharmaceutical Services,N/A,52.79,81.00,15 August 2016

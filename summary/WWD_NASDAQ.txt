@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.74,60.71,59.57,315.86M,['NASDAQ'],N/A,n/a,23.00,6/6/2016,N/A,3710.00,NMS,60.37,82390,0.44,8/11/2016,WWD,2.62,n/a,Woodward,N/A,39.68,59.35,15 August 2016

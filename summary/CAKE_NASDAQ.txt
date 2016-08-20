@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Restaurants,USD,N/A,1.87,57.59,51.45,270.39M,['NASDAQ'],N/A,Consumer Services,20.39,5/24/2016,N/A,2370.00,NMS,53.50,710881,0.96,8/8/2016,CAKE,2.51,1992,The Cheesecake Factory Incorporated,N/A,44.16,51.45,14 August 2016

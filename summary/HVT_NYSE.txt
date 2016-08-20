@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.97,24.54,20.34,70.77M,['NYSE'],N/A,n/a,17.12,6/9/2016,N/A,442.98,NYQ,20.44,64666,0.40,5/23/2016,HVT,1.19,n/a,Haverty Furniture Companies,N/A,16.65,20.33,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Communications Equipment,USD,N/A,N/A,13.53,11.46,18.73M,['NASDAQ'],N/A,Technology,19.05,N/A,N/A,300.47,NMS,11.60,59010,N/A,N/A,DGII,0.61,1989,Digi International Inc.,N/A,7.70,11.33,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,9.510,42.020,36.050,3.46B,['NYSE'],N/A,Public Utilities,N/A,5/13/2016,N/A,21180.00,NYQ,35.990,975658,3.400,8/3/2016,WPZ,-3.746,2005,Williams Partners L.P.,N/A,12.690,35.750,15 August 2016

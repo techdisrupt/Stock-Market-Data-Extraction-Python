@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,10.60,24.50,22.82,0.00,['NYSE'],N/A,n/a,N/A,6/23/2016,N/A,N/A,NYQ,22.71,64581,2.28,7/19/2016,HTR,-0.02,1989,Brookfield Total Return Fund Inc.,N/A,20.17,22.59,05 August 2016

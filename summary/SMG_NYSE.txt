@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Agricultural Chemicals,USD,N/A,2.43,83.26,82.17,528.90M,['NYSE'],N/A,Basic Industries,16.14,6/10/2016,N/A,5000.00,NYQ,82.63,509528,2.00,5/25/2016,SMG,5.11,1992,Scotts Miracle-Gro Company (The),N/A,58.83,82.21,13 August 2016

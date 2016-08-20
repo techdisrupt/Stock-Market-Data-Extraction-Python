@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.00,5.50,5.27,0.00,['NASDAQ'],N/A,Finance,N/A,2/25/2010,N/A,113.81,NCM,5.27,2387,0.00,2/10/2010,ESXB,-0.06,n/a,Community Bankers Trust Corporation.,N/A,4.45,5.15,06 August 2016

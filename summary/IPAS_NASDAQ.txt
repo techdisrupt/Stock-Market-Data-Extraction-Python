@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,0.00,1.69,1.53,-8.59M,['NASDAQ'],N/A,Technology,N/A,12/17/2010,N/A,103.36,NMS,1.61,899557,0.00,11/16/2010,IPAS,-0.25,2003,iPass Inc.,N/A,0.81,1.55,07 August 2016

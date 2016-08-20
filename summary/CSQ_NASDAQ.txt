@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,10.50,10.68,10.50,0.00,['NASDAQ'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NMS,10.53,313889,0.99,7/8/2016,CSQ,-0.34,2004,Calamos Strategic Total Return Fund,N/A,7.92,10.51,05 August 2016

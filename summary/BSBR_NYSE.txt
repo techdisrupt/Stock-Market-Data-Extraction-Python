@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,6.94,6.48,6.47,0.00,['NYSE'],N/A,Finance,11.69,9/2/2016,N/A,24160.00,NYQ,6.44,1333545,0.43,7/7/2016,BSBR,0.55,2009,Banco Santander Brasil SA,N/A,2.96,6.41,05 August 2016

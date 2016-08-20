@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,0.33,174.28,156.40,168.48M,['NASDAQ'],N/A,2007,56.90,7/15/2016,N/A,7640.00,NMS,172.40,1373158,0.51,6/28/2016,MELI,3.04,n/a,MercadoLibre,N/A,84.19,152.25,07 August 2016

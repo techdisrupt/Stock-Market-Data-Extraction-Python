@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,N/A,27.49,26.39,134.96M,['NASDAQ'],N/A,Consumer Durables,23.88,N/A,N/A,197.35,NGM,26.99,5503,N/A,N/A,WLFC,1.13,1996,Willis Lease Finance Corporation,N/A,15.11,26.26,15 August 2016

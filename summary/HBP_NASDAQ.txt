@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,7.00,5.81,19.60M,['NASDAQ'],N/A,n/a,5.57,N/A,N/A,151.36,NCM,N/A,245160,N/A,N/A,HBP,1.08,n/a,Huttig Building Products,N/A,2.99,5.78,07 August 2016

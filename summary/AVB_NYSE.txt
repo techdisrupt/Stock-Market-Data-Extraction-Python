@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.95,192.29,181.60,1.29B,['NYSE'],N/A,n/a,31.18,7/15/2016,N/A,24940.00,NYQ,181.74,295088,5.40,6/28/2016,AVB,5.83,n/a,AvalonBay Communities,N/A,159.30,181.48,05 August 2016

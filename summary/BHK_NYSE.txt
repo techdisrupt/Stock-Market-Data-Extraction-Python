@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.400,14.330,14.100,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,14.190,72304,0.820,7/13/2016,BHK,8.497,2001,Blackrock Core Bond Trust,N/A,12.330,14.150,05 August 2016

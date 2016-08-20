@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,1.07,57.90,48.79,609.30M,['NYSE'],N/A,Capital Goods,16.46,6/15/2016,N/A,3860.00,NYQ,46.83,1642911,0.52,5/12/2016,AGCO,2.85,n/a,AGCO Corporation,N/A,41.91,48.77,04 August 2016

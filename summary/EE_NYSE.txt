@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,2.67,48.38,47.54,284.10M,['NYSE'],N/A,Public Utilities,26.07,6/30/2016,N/A,1900.00,NYQ,46.84,249700,1.24,6/13/2016,EE,1.80,n/a,El Paso Electric Company,N/A,33.90,47.68,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,15.99,10.77,0.00,['OTC'],N/A,n/a,N/A,N/A,N/A,34.18,OBB,N/A,23848,N/A,N/A,PBCP,-0.17,n/a,Polonia Bancorp,N/A,10.35,10.77,08 August 2016

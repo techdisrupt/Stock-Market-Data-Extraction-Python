@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,2.18,28.01,25.61,862.75M,['NASDAQ'],N/A,1996,516.12,7/14/2016,N/A,6160.00,NMS,26.30,2616619,0.56,6/28/2016,STLD,0.05,n/a,Steel Dynamics,N/A,15.32,25.66,14 August 2016

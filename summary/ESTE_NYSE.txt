@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,18.50,10.62,20.57M,['NYSE'],N/A,n/a,N/A,N/A,N/A,146.48,ASE,10.61,38975,N/A,N/A,ESTE,-8.81,n/a,Earthstone Energy,N/A,9.50,10.56,06 August 2016

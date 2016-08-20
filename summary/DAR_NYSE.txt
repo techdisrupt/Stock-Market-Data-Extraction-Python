@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Packaged Foods,USD,N/A,N/A,15.93,15.27,416.58M,['NYSE'],N/A,Consumer Non-Durables,30.95,N/A,N/A,2460.00,NYQ,19.50,1784017,N/A,N/A,DAR,0.48,n/a,Darling Ingredients Inc.,N/A,7.78,15.23,06 August 2016

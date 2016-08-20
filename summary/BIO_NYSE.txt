@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,158.50,156.06,286.71M,['NYSE'],N/A,n/a,42.58,N/A,N/A,4580.00,NYQ,155.86,212245,N/A,N/A,BIO,3.66,n/a,Bio-Rad Laboratories,N/A,122.03,155.02,05 August 2016

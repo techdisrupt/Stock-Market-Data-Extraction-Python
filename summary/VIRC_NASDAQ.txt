@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,0.0000,4.9400,4.4000,10.89M,['NASDAQ'],N/A,Consumer Durables,14.4721,N/A,N/A,64.46,NGM,4.2900,26069,0.0000,5/11/2011,VIRC,0.2970,n/a,Virco Manufacturing Corporation,N/A,2.4600,4.4300,15 August 2016

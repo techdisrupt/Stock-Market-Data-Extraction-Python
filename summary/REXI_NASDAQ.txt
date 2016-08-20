@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.46,9.95,9.74,21.07M,['NASDAQ'],N/A,n/a,29.10,4/29/2016,N/A,203.08,NMS,9.75,6963,0.24,7/13/2016,REXI,0.34,n/a,Resource America,N/A,3.54,9.76,09 August 2016

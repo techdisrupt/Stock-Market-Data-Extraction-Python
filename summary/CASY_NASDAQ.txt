@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,0.72,136.22,132.14,561.44M,['NASDAQ'],N/A,1983,23.29,8/15/2016,N/A,5220.00,NMS,144.00,351055,0.96,7/28/2016,CASY,5.73,n/a,Caseys General Stores,N/A,98.80,131.45,06 August 2016

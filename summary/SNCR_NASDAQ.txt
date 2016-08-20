@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,47.48,41.24,132.74M,['NASDAQ'],N/A,2006,698.64,N/A,N/A,1790.00,NMS,42.31,206580,N/A,N/A,SNCR,0.06,n/a,Synchronoss Technologies,N/A,20.33,41.33,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.89,34.00,26.26,0.00,['NASDAQ'],N/A,n/a,13.26,5/19/2016,N/A,921.08,NMS,26.38,44262,0.76,8/2/2016,STBA,1.99,n/a,S&T Bancorp,N/A,23.06,26.25,10 August 2016

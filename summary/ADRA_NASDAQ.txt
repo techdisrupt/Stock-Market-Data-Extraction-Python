@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,30.320,27.200,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,27.360,1945,N/A,N/A,ADRA,N/A,n/a,BLDRS Asia 50 ADR Index Fund,N/A,22.390,26.925,05 August 2016

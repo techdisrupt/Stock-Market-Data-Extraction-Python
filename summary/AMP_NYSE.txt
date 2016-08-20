@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.23,125.46,94.10,3.04B,['NYSE'],N/A,n/a,11.40,5/20/2016,N/A,15160.00,NYQ,93.93,759257,3.00,8/4/2016,AMP,8.24,n/a,AMERIPRISE FINANCIAL SERVICES,N/A,76.00,94.06,05 August 2016

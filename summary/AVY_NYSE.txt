@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Containers/Packaging,USD,N/A,2.12,78.95,77.84,713.60M,['NYSE'],N/A,Consumer Durables,23.34,6/15/2016,N/A,7100.00,NYQ,78.32,331730,1.64,5/27/2016,AVY,3.36,n/a,Avery Dennison Corporation,N/A,53.56,77.39,05 August 2016

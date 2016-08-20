@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.10,13.16,12.03,0.00,['NYSE'],N/A,n/a,N/A,7/1/2016,N/A,N/A,NYQ,12.07,47816,0.70,6/13/2016,JTA,-0.20,2004,Nuveen Tax-Advantaged Total Return Strategy Fund,N/A,9.58,11.96,07 August 2016

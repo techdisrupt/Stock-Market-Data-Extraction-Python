@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.73,17.91,16.94,0.00,['NASDAQ'],N/A,Finance,16.13,5/20/2016,N/A,370.12,NMS,17.42,14028,0.46,5/11/2016,GBNK,1.08,n/a,Guaranty Bancorp,N/A,12.78,16.86,07 August 2016

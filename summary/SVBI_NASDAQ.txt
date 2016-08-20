@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.00,6.74,N/A,0.00,['NASDAQ'],N/A,Finance,5.08,N/A,N/A,75.73,NCM,N/A,688,0.00,9/28/2009,SVBI,1.27,n/a,Severn Bancorp Inc,N/A,4.65,6.62,13 August 2016

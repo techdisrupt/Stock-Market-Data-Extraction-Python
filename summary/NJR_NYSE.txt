@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil/Gas Transmission,USD,N/A,2.66,38.92,35.78,200.44M,['NYSE'],N/A,Public Utilities,27.74,7/1/2016,N/A,3070.00,NYQ,35.58,372159,0.96,6/13/2016,NJR,1.28,n/a,NewJersey Resources Corporation,N/A,26.89,35.82,07 August 2016

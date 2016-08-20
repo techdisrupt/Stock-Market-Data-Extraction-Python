@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,66.97,36.46,-108.33M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,1180.00,NGM,37.50,2397602,N/A,N/A,SAGE,-3.70,n/a,Sage Therapeutics,N/A,26.28,42.46,10 August 2016

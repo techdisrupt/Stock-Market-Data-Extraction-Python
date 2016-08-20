@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,5.07,10.05,9.17,0.00,['NYSE'],N/A,Finance,16.02,6/6/2016,N/A,12600.00,NYQ,9.28,4040453,0.46,5/24/2016,BSMX,0.58,2012,Grupo Financiero Santander Mexico S.A. B. de C.V.,N/A,6.76,9.08,07 August 2016

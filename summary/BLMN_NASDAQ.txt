@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.560,23.20,18.160,436.21M,['NASDAQ'],N/A,2012,37.986,5/19/2016,N/A,2080.00,NMS,18.390,916004,0.28,5/4/2016,BLMN,0.484,n/a,Bloomin&' Brands,N/A,14.91,18.04,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,27.00,22.37,125.75M,['NYSE'],N/A,1993,12.88,N/A,N/A,556.26,NYQ,22.56,83403,0.00,6/27/2008,MHO,1.75,n/a,M/I Homes,N/A,15.56,22.33,07 August 2016

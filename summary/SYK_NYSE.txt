@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Dental Instruments,USD,N/A,1.32,123.55,115.36,2.85B,['NYSE'],N/A,Health Care,27.24,7/29/2016,N/A,43260.00,NYQ,115.55,621965,1.52,6/28/2016,SYK,4.24,n/a,Stryker Corporation,N/A,86.68,115.53,14 August 2016

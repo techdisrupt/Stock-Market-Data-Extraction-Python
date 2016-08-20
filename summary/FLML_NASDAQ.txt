@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,24.95,12.57,101.39M,['NASDAQ'],N/A,Health Care,23.35,N/A,N/A,508.50,NGM,13.50,148337,N/A,N/A,FLML,0.53,1996,Flamel Technologies S.A.,N/A,7.56,12.46,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,1.89,391.07,371.95,1.21B,['NASDAQ'],N/A,2000,280.29,6/15/2016,N/A,25380.00,NMS,395.00,661899,7.00,5/23/2016,EQIX,1.30,n/a,Equinix,N/A,250.86,371.40,06 August 2016

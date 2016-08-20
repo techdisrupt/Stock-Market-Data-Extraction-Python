@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,5.12,16.41,13.78,215.40M,['NYSE'],N/A,Basic Industries,N/A,6/24/2016,N/A,726.83,NYQ,14.73,804068,0.72,6/1/2016,BGC,-1.81,1997,General Cable Corporation,N/A,6.22,13.70,07 August 2016

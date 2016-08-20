@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.10,37.69,36.06,0.00,['NYSE'],N/A,n/a,13.41,6/15/2016,N/A,214.21,ASE,35.69,12094,1.10,5/12/2016,BHB,2.65,n/a,Bar Harbor Bankshares,N/A,28.97,35.42,05 August 2016

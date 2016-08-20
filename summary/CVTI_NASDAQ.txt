@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,N/A,25.96,22.38,120.01M,['NASDAQ'],N/A,1994,14.66,N/A,N/A,421.12,NMS,23.16,70103,N/A,N/A,CVTI,1.58,n/a,Covenant Transportation Group,N/A,13.60,22.21,06 August 2016

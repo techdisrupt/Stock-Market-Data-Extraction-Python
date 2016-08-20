@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,4.57,66.68,52.59,414.17M,['NASDAQ'],N/A,Consumer Services,6.76,6/21/2016,N/A,852.32,NMS,N/A,418750,2.40,6/3/2016,OUTR,7.78,n/a,Outerwall Inc.,N/A,24.81,52.50,07 August 2016

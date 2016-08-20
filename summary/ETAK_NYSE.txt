@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,0.6300,0.1639,5.24M,['NYSE'],N/A,Public Utilities,N/A,N/A,N/A,26.23,ASE,0.1600,59831,N/A,N/A,ETAK,-0.0500,n/a,Elephant Talk Communications Corp.,N/A,0.1400,0.1604,06 August 2016

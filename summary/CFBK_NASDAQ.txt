@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,0.000,1.680,N/A,0.00,['NASDAQ'],N/A,Finance,6.708,N/A,N/A,21.71,NCM,N/A,0,0.000,12/31/2008,CFBK,0.202,n/a,Central Federal Corporation,N/A,1.100,1.355,06 August 2016

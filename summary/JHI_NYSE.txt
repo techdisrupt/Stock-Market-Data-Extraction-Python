@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.50,17.50,17.39,0.00,['NYSE'],N/A,n/a,N/A,6/30/2016,N/A,N/A,NYQ,17.50,13901,1.40,6/9/2016,JHI,-0.26,n/a,John Hancock Investors Trust,N/A,13.20,17.43,07 August 2016

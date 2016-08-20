@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,11.68,7.40,7.26,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,363.18,NYQ,7.39,343673,0.84,7/1/2016,DX,-1.09,n/a,Dynex Capital,N/A,5.22,7.24,06 August 2016

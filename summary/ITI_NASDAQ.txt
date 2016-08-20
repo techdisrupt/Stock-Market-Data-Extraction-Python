@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,3.85,3.31,-2.46M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,103.86,NCM,3.89,143766,N/A,11/3/1997,ITI,-0.38,n/a,Iteris,N/A,1.80,3.41,07 August 2016

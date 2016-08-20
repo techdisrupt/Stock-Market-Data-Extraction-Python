@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,1.62,15.42,14.84,0.00,['NASDAQ'],N/A,Finance,18.10,6/3/2016,N/A,59.73,NGM,14.99,0,0.24,5/19/2016,UCBA,0.82,n/a,United Community Bancorp,N/A,12.95,14.84,15 August 2016

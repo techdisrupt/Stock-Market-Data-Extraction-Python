@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,3.97,44.17,41.20,4.49B,['NYSE'],N/A,Energy,37.49,6/1/2016,N/A,38590.00,NYQ,43.61,730817,1.61,5/12/2016,ENB,1.10,n/a,Enbridge Inc,N/A,27.43,41.29,06 August 2016

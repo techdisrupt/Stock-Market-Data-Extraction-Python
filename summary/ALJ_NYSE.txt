@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,9.00,23.29,7.36,157.52M,['NYSE'],N/A,2005,N/A,6/6/2016,N/A,505.38,NYQ,7.13,1087277,0.60,5/17/2016,ALJ,-0.95,n/a,Alon USA Energy,N/A,5.86,7.33,04 August 2016

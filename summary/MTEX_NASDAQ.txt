@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,0.0000,29.6000,17.6700,12.03M,['NASDAQ'],N/A,n/a,9.0545,N/A,N/A,47.66,NMS,17.9800,13072,0.0000,6/1/2009,MTEX,1.9450,n/a,Mannatech,N/A,16.3000,17.6000,07 August 2016

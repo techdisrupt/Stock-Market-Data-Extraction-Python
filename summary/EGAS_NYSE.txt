@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil/Gas Transmission,USD,N/A,4.170,9.750,7.190,9.96M,['NYSE'],N/A,Public Utilities,30.188,7/29/2016,N/A,75.84,ASE,8.250,30984,0.300,7/12/2016,EGAS,0.239,n/a,Gas Natural Inc.,N/A,6.500,7.190,07 August 2016

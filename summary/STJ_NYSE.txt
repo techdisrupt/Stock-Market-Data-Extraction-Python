@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,1.49,84.00,83.55,1.63B,['NYSE'],N/A,n/a,36.37,7/29/2016,N/A,23830.00,NYQ,83.64,1420454,1.24,6/28/2016,STJ,2.30,n/a,St. Jude Medical,N/A,48.83,83.67,14 August 2016

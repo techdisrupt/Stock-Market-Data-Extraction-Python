@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Banks,USD,N/A,2.78,19.80,17.39,0.00,['NASDAQ'],N/A,Finance,14.41,5/19/2016,N/A,527.50,NMS,17.78,79983,0.48,8/2/2016,HFWA,1.23,n/a,Heritage Financial Corporation,N/A,16.40,17.27,07 August 2016

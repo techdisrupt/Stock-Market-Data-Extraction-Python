@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,20.79,11.37,62.82M,['NASDAQ'],N/A,2011,66.37,N/A,N/A,297.72,NMS,12.00,270614,N/A,N/A,CHEF,0.17,n/a,The Chefs' Warehouse,N/A,10.31,11.40,14 August 2016

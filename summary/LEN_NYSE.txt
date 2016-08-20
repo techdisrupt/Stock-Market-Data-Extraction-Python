@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Homebuilding,USD,N/A,0.35,56.04,46.13,1.25B,['NYSE'],N/A,Basic Industries,12.49,7/22/2016,N/A,10260.00,NYQ,46.86,2484601,0.16,7/6/2016,LEN,3.75,n/a,Lennar Corporation,N/A,37.14,45.81,07 August 2016

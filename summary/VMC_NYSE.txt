@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Mining & Quarrying of Nonmetallic Minerals (No Fuels),USD,N/A,0.6700,127.2000,119.41,961.32M,['NYSE'],N/A,Basic Industries,45.76,6/10/2016,N/A,15960.00,NYQ,119.92,518541,0.8000,5/24/2016,VMC,2.6210,n/a,Vulcan Materials Company,N/A,78.8300,118.9200,15 August 2016

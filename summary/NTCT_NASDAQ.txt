@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,41.34,27.81,84.85M,['NASDAQ'],N/A,1999,N/A,N/A,N/A,2570.00,NMS,N/A,552662,N/A,N/A,NTCT,-0.48,n/a,NetScout Systems,N/A,18.77,27.67,07 August 2016

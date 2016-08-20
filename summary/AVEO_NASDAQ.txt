@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,2.59,0.97,-4.20M,['NASDAQ'],N/A,2010,N/A,N/A,N/A,57.60,NMS,0.99,130944,N/A,N/A,AVEO,-0.21,n/a,AVEO Pharmaceuticals,N/A,0.82,0.96,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.36,64.71,58.09,5.47B,['NYSE'],N/A,n/a,N/A,6/27/2016,N/A,61680.00,NYQ,57.90,8257399,1.28,6/9/2016,AIG,-0.37,n/a,American International Group,N/A,48.41,58.10,05 August 2016

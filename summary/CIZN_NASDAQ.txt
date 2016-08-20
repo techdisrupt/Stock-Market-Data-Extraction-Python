@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,4.37,25.42,21.87,0.00,['NASDAQ'],N/A,Finance,14.29,6/30/2016,N/A,106.76,NGM,24.04,140,0.96,6/13/2016,CIZN,1.53,n/a,Citizens Holding Company,N/A,19.01,21.90,06 August 2016

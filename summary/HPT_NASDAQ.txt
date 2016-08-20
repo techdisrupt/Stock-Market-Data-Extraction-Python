@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,6.42,32.16,31.83,690.68M,['NASDAQ'],N/A,Consumer Services,31.04,5/19/2016,N/A,4860.00,NMS,32.68,536216,2.04,7/20/2016,HPT,1.03,n/a,Hospitality Properites Trust,N/A,20.69,31.76,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,1.51,47.14,46.43,82.04M,['NYSE'],N/A,n/a,17.18,11/5/2015,N/A,696.54,NYQ,46.94,66938,0.70,10/13/2015,AGX,2.73,n/a,Argan,N/A,28.03,46.27,05 August 2016

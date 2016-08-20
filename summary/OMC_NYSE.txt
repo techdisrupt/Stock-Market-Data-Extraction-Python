@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Advertising,USD,N/A,2.71,85.95,81.88,2.25B,['NYSE'],N/A,Technology,18.03,7/11/2016,N/A,19500.00,NYQ,82.43,790800,2.20,6/9/2016,OMC,4.57,n/a,Omnicom Group Inc.,N/A,64.12,81.53,07 August 2016

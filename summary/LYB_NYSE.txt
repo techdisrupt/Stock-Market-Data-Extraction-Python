@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,4.62,98.25,74.64,6.47B,['NYSE'],N/A,Basic Industries,8.05,6/7/2016,N/A,30970.00,NYQ,74.48,2988932,3.40,5/20/2016,LYB,9.26,n/a,LyondellBasell Industries NV,N/A,69.10,74.34,07 August 2016

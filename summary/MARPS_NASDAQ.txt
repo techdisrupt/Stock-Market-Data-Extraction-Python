@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,7.2700,7.7000,4.0000,0.00,['NASDAQ'],N/A,Energy,9.8379,6/28/2016,N/A,7.99,NCM,4.0000,3131,0.2900,5/26/2016,MARPS,0.4060,n/a,Marine Petroleum Trust,N/A,3.0700,4.0296,07 August 2016

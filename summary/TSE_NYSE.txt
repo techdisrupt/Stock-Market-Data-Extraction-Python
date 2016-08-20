@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,2.36,54.94,53.34,425.96M,['NYSE'],N/A,Basic Industries,9.82,7/20/2016,N/A,2500.00,NYQ,53.89,951550,1.20,7/1/2016,TSE,5.48,2014,Trinseo S.A.,N/A,21.92,53.35,14 August 2016

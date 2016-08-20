@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.22,37.10,34.48,0.00,['NASDAQ'],N/A,n/a,15.89,6/1/2016,N/A,244.68,NCM,35.22,4389,1.10,5/19/2016,NKSH,2.21,n/a,National Bankshares,N/A,29.92,34.62,07 August 2016

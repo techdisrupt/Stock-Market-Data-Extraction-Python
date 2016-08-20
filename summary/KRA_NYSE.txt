@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,30.96,29.00,229.38M,['NYSE'],N/A,2009,9.02,N/A,N/A,897.82,NYQ,29.19,171867,N/A,N/A,KRA,3.22,n/a,Kraton Performance Polymers,N/A,13.35,28.73,07 August 2016

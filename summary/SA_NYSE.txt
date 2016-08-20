@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,15.88,13.40,-7.21M,['NYSE'],N/A,n/a,N/A,N/A,N/A,691.90,NYQ,13.25,626888,N/A,N/A,SA,-0.14,n/a,Seabridge Gold,N/A,5.31,13.20,13 August 2016

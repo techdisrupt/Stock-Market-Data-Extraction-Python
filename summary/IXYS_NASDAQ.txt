@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,1.48,14.00,10.90,39.10M,['NASDAQ'],N/A,Technology,24.75,7/8/2016,N/A,358.27,NMS,11.41,138393,0.16,6/22/2016,IXYS,0.46,n/a,IXYS Corporation,N/A,9.59,10.78,07 August 2016

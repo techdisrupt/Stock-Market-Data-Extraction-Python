@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,13.27,20.95,15.93,144.51M,['NYSE'],N/A,2013,N/A,5/13/2016,N/A,855.36,NYQ,15.60,37203,2.10,7/29/2016,USAC,-2.63,n/a,USA Compression Partners,N/A,7.03,15.82,15 August 2016

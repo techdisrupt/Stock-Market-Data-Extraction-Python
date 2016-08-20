@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.21,22.92,21.93,0.00,['NYSE'],N/A,n/a,15.04,7/1/2016,N/A,1140.00,NYQ,22.89,492422,0.48,6/13/2016,BANC,1.52,n/a,Banc of California,N/A,11.71,21.85,05 August 2016

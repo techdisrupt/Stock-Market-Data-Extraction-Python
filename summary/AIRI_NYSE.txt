@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,12.71,9.62,4.54,3.22M,['NYSE'],N/A,Capital Goods,N/A,12/1/2015,N/A,33.42,ASE,4.61,22786,0.60,11/19/2015,AIRI,-0.31,n/a,Air Industries Group,N/A,4.12,4.55,04 August 2016

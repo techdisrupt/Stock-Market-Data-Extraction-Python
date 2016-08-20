@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.09,16.16,15.97,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,ASE,16.29,20062,0.80,7/13/2016,NZH,1.03,n/a,Nuveen California Dividend Advantage Municipal Fund 3,N/A,12.91,16.02,07 August 2016

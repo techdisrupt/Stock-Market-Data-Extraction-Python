@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.65,38.01,36.90,138.10M,['NYSE'],N/A,Consumer Services,37.85,7/15/2016,N/A,2770.00,NYQ,36.61,223086,1.00,6/28/2016,AKR,0.97,n/a,Acadia Realty Trust,N/A,28.34,36.69,04 August 2016

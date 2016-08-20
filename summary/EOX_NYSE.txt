@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,19.00,N/A,0.00,['NYSE'],N/A,n/a,N/A,N/A,N/A,N/A,ASE,N/A,0,N/A,N/A,EOX,-70.33,n/a,Emerald Oil,N/A,0.39,1.37,06 August 2016

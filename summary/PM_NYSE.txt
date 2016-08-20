@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Farming/Seeds/Milling,USD,N/A,4.12,104.20,99.00,10.89B,['NYSE'],N/A,Consumer Non-Durables,23.67,7/11/2016,N/A,153470.00,NYQ,99.20,5777743,4.08,6/21/2016,PM,4.18,n/a,Philip Morris International Inc,N/A,76.54,99.00,08 August 2016

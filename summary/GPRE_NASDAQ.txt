@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,2.22,24.42,21.71,108.12M,['NASDAQ'],N/A,n/a,N/A,6/17/2016,N/A,865.31,NMS,26.79,736366,0.48,5/25/2016,GPRE,-0.35,n/a,Green Plains,N/A,12.39,21.64,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.70,21.74,21.45,0.00,['NYSE'],N/A,2004,N/A,6/30/2016,N/A,N/A,NYQ,28.00,164523,1.12,6/20/2016,UTF,-1.99,n/a,Cohen & Steers Infrastructure Fund,N/A,15.85,21.47,06 August 2016

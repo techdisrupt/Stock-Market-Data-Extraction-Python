@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Air Freight/Delivery Services,USD,N/A,0.72,171.08,160.62,7.53B,['NYSE'],N/A,Transportation,25.02,7/1/2016,N/A,43260.00,NYQ,163.30,1044881,1.15,6/14/2016,FDX,6.51,n/a,FedEx Corporation,N/A,119.71,159.82,06 August 2016

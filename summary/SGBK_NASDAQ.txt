@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,1.01,34.00,31.65,0.00,['NASDAQ'],N/A,n/a,15.05,6/30/2016,N/A,406.94,NMS,33.47,54155,0.32,6/15/2016,SGBK,2.10,n/a,Stonegate Bank,N/A,28.21,31.77,14 August 2016

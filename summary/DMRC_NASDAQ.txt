@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,0.00,44.94,31.29,-18.38M,['NASDAQ'],N/A,Technology,N/A,5/12/2014,N/A,296.75,NMS,45.00,679328,0.00,5/1/2014,DMRC,-2.42,n/a,Digimarc Corporation,N/A,21.80,34.53,06 August 2016

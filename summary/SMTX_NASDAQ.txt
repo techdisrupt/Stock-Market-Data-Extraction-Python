@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,N/A,1.85,1.48,8.66M,['NASDAQ'],N/A,Technology,17.98,N/A,N/A,24.93,NGM,2.15,21987,N/A,N/A,SMTX,0.08,2000,SMTC Corporation,N/A,1.14,1.50,14 August 2016

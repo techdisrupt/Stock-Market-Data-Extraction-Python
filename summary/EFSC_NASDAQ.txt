@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.49,30.73,29.78,0.00,['NASDAQ'],N/A,Finance,14.26,6/30/2016,N/A,612.95,NMS,30.62,99555,0.44,6/13/2016,EFSC,2.15,n/a,Enterprise Financial Services Corporation,N/A,23.25,29.74,06 August 2016

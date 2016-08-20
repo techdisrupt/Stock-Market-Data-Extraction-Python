@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,5.2200,39.7300,30.52,13.53B,['NYSE'],N/A,Basic Industries,N/A,3/31/2016,N/A,82600.00,NYQ,31.04,3533728,1.5600,3/9/2016,BHP,-3.0180,n/a,BHP Billiton Limited,N/A,18.4600,30.2300,05 August 2016

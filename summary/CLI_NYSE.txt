@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.16,28.62,27.86,274.00M,['NYSE'],N/A,Consumer Services,N/A,7/15/2016,N/A,2480.00,NYQ,29.88,316698,0.60,7/1/2016,CLI,-0.61,n/a,Mack-Cali Realty Corporation,N/A,17.35,27.77,07 August 2016

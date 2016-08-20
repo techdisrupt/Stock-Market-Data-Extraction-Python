@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,29.82,29.16,96.04M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,1390.00,NMS,28.69,46418,N/A,N/A,PRGS,-0.06,1991,Progress Software Corporation,N/A,21.94,29.08,08 August 2016

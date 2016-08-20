@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.23,31.87,30.92,64.72M,['NASDAQ'],N/A,n/a,18.91,7/28/2016,N/A,442.60,NMS,31.35,10460,1.00,7/5/2016,VLGEA,1.66,n/a,Village Super Market,N/A,23.29,31.00,15 August 2016

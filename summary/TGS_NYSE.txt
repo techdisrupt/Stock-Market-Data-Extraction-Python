@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,0.680,7.240,6.230,128.98M,['NYSE'],N/A,Public Utilities,N/A,2/19/2016,N/A,979.45,NYQ,7.000,21670,0.040,1/21/2016,TGS,-0.005,n/a,Transportadora De Gas Sa Ord B,N/A,3.470,6.210,14 August 2016

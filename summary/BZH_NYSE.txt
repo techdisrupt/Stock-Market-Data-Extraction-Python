@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,18.44,9.60,28.24M,['NYSE'],N/A,1994,0.96,N/A,N/A,309.86,NYQ,9.74,668340,0.00,9/6/2007,BZH,10.12,n/a,Beazer Homes USA,N/A,6.07,9.52,05 August 2016

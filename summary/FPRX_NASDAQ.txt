@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,55.00,52.00,279.38M,['NASDAQ'],N/A,2013,5.80,N/A,N/A,1380.00,NMS,52.45,985065,N/A,N/A,FPRX,9.05,n/a,Five Prime Therapeutics,N/A,14.70,51.59,07 August 2016

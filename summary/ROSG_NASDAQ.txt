@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,3.10,1.09,-15.24M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,22.10,NCM,1.12,75766,N/A,N/A,ROSG,-1.03,2007,Rosetta Genomics Ltd.,N/A,0.71,1.09,10 August 2016

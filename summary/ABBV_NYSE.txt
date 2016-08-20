@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,3.41,70.78,66.58,10.84B,['NYSE'],N/A,Health Care,19.07,8/15/2016,N/A,106910.00,NYQ,66.12,4879346,2.28,7/13/2016,ABBV,3.47,2012,AbbVie Inc.,N/A,45.45,66.57,04 August 2016

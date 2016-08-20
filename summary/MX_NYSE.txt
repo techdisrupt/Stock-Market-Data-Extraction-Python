@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,N/A,9.88,7.25,-14.69M,['NYSE'],N/A,Technology,N/A,N/A,N/A,260.58,NYQ,7.51,1264892,N/A,N/A,MX,-1.64,2011,MagnaChip Semiconductor Corporation,N/A,3.10,7.28,07 August 2016

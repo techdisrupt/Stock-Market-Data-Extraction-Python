@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Package Goods/Cosmetics,USD,N/A,1.15,123.41,122.50,2.82B,['NYSE'],N/A,Basic Industries,38.48,7/15/2016,N/A,35880.00,NYQ,122.70,823381,1.40,6/17/2016,ECL,3.19,n/a,Ecolab Inc.,N/A,98.62,122.23,06 August 2016

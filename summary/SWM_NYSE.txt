@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,4.21,43.47,38.33,178.20M,['NYSE'],N/A,n/a,12.26,6/24/2016,N/A,1160.00,NYQ,38.02,93156,1.60,5/25/2016,SWM,3.10,n/a,Schweitzer-Mauduit International,N/A,29.02,38.38,13 August 2016

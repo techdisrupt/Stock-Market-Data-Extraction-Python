@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical Specialities,USD,N/A,0.87,125.47,116.67,5.73B,['NYSE'],N/A,Health Care,17.09,7/29/2016,N/A,40950.00,NYQ,116.60,2483301,1.00,7/12/2016,AET,6.64,n/a,Aetna Inc.,N/A,92.42,116.86,04 August 2016

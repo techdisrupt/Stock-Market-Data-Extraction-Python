@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,4.95,1.99,-2.81M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,8.48,NCM,2.00,5132,N/A,N/A,RLJE,-14.45,n/a,RLJ Entertainment,N/A,1.02,1.99,09 August 2016

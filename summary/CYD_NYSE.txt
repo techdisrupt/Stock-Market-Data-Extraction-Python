@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,7.78,15.30,10.85,192.74M,['NYSE'],N/A,Energy,8.69,6/29/2016,N/A,427.56,NYQ,10.87,12059,0.85,5/24/2016,CYD,1.25,1994,China Yuchai International Limited,N/A,8.49,10.85,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,45.46,38.95,98.20M,['NASDAQ'],N/A,2012,41.90,N/A,N/A,2130.00,NMS,N/A,209028,N/A,N/A,MTSI,0.95,n/a,M/A-COM Technology Solutions Holdings,N/A,25.82,38.58,07 August 2016

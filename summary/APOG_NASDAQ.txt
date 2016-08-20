@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.07,58.36,47.27,136.65M,['NASDAQ'],N/A,n/a,19.19,7/27/2016,N/A,1340.00,NMS,N/A,134551,0.50,7/8/2016,APOG,2.42,n/a,Apogee Enterprises,N/A,33.67,46.94,05 August 2016

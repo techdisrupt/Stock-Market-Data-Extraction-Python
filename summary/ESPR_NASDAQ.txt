@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,82.75,11.29,-53.20M,['NASDAQ'],N/A,2013,N/A,N/A,N/A,251.23,NGM,17.75,368452,N/A,N/A,ESPR,-2.35,n/a,Esperion Therapeutics,N/A,9.58,10.97,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Farming/Seeds/Milling,USD,N/A,N/A,13.42,10.30,170.33M,['NYSE'],N/A,Consumer Non-Durables,50.44,N/A,N/A,1250.00,NYQ,10.49,506213,N/A,N/A,AGRO,0.20,2011,Adecoagro S.A.,N/A,6.71,10.26,04 August 2016

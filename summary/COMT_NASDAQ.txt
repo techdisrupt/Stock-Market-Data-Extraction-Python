@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.60,34.87,31.19,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,31.42,21458,0.22,N/A,COMT,-1.59,n/a,iShares Commodities Select Strategy ETF,N/A,23.77,31.29,07 August 2016

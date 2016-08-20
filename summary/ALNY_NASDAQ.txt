@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,129.99,71.36,-333.85M,['NASDAQ'],N/A,2004,N/A,N/A,N/A,6080.00,NMS,72.00,747472,N/A,N/A,ALNY,-4.04,n/a,Alnylam Pharmaceuticals,N/A,49.96,71.36,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,12.00,11.10,-129999.00,['NYSE'],N/A,2014,N/A,N/A,N/A,313.74,NYQ,10.99,107256,N/A,N/A,CRCM,-0.39,n/a,Care.com,N/A,4.89,10.88,06 August 2016

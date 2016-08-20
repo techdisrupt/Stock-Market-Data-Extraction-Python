@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,0.00,10.90,8.80,625.00M,['NASDAQ'],N/A,Capital Goods,N/A,N/A,N/A,1490.00,NMS,N/A,104305,0.00,11/28/2000,FDML,-0.32,n/a,Federal-Mogul Holdings Corporation,N/A,3.81,8.71,06 August 2016

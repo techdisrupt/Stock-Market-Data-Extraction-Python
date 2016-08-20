@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,6.30,15.58,12.75,3.32B,['NYSE'],N/A,Basic Industries,4.69,4/22/2016,N/A,5220.00,NYQ,13.12,664581,0.71,4/7/2016,BAK,2.80,n/a,Braskem S.A.,N/A,6.47,12.71,05 August 2016

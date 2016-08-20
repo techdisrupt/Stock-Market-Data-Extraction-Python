@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Nursing Services,USD,N/A,0.00,9.21,7.03,1.32B,['NYSE'],N/A,Health Care,52.30,N/A,N/A,7360.00,NYQ,7.06,10265345,0.00,10/14/1999,RAD,0.14,n/a,Rite Aid Corporation,N/A,5.88,7.02,09 August 2016

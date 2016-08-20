@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Motor Vehicles,USD,N/A,N/A,35.29,34.83,939.88M,['NASDAQ'],N/A,Consumer Services,24.27,N/A,N/A,10800.00,NMS,35.49,1512664,N/A,N/A,LKQ,1.45,n/a,LKQ Corporation,N/A,23.95,34.67,07 August 2016

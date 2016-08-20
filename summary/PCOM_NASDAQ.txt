@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,12.00,8.90,9.65M,['NASDAQ'],N/A,n/a,32.07,N/A,N/A,135.98,NCM,N/A,8862,N/A,N/A,PCOM,0.28,n/a,Points International,N/A,6.70,8.92,08 August 2016

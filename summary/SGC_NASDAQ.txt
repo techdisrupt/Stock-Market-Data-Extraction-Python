@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,1.99,20.50,17.52,24.41M,['NASDAQ'],N/A,n/a,20.15,5/31/2016,N/A,252.28,NGM,17.53,9534,0.35,5/16/2016,SGC,0.87,n/a,Superior Uniform Group,N/A,13.71,17.59,14 August 2016

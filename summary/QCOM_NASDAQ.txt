@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Radio And Television Broadcasting And Communications Equipment,USD,N/A,3.42,63.330,62.05,7.67B,['NASDAQ'],N/A,Technology,17.99,6/22/2016,N/A,90510.00,NMS,61.43,4327551,2.12,5/27/2016,QCOM,3.41,1991,QUALCOMM Incorporated,N/A,42.240,62.000,08 August 2016

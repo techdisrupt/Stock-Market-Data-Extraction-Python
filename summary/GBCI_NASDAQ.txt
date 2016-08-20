@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.94,30.00,27.58,0.00,['NASDAQ'],N/A,n/a,18.14,7/21/2016,N/A,2150.00,NMS,28.24,296254,0.80,7/8/2016,GBCI,1.56,n/a,Glacier Bancorp,N/A,21.90,27.23,07 August 2016

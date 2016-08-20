@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,16.08,1.55,-11.38M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,12.67,NCM,1.49,379945,N/A,N/A,URRE,-3.66,n/a,Uranium Resources,N/A,1.26,1.56,15 August 2016

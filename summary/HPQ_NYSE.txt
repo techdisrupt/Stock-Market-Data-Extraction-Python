@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Manufacturing,USD,N/A,3.47,14.82,14.24,10.09B,['NYSE'],N/A,Technology,7.50,7/6/2016,N/A,24430.00,NYQ,14.28,10185616,0.50,6/13/2016,HPQ,1.90,n/a,Hewlett-Packard Company,N/A,8.91,14.15,07 August 2016

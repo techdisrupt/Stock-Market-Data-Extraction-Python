@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.42,17.98,16.96,0.00,['NASDAQ'],N/A,1996,13.20,6/30/2016,N/A,170.45,NGM,17.54,32298,0.60,6/13/2016,PFBI,1.33,n/a,Premier Financial Bancorp,N/A,13.80,17.48,08 August 2016

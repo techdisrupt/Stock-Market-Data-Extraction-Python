@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,4.1400,N/A,52715.00,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,12.88,NCM,N/A,0,N/A,N/A,DSKX,-0.0260,n/a,DS Healthcare Group,N/A,0.5520,0.6699,06 August 2016

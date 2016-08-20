@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,0.62,198.42,92.34,1.35B,['NYSE'],N/A,Health Care,N/A,6/14/2016,N/A,13340.00,NYQ,93.26,719366,0.58,5/25/2016,PRGO,-1.57,n/a,Perrigo Company,N/A,84.85,92.24,08 August 2016

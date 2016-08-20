@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Specialties,USD,N/A,N/A,26.88,26.75,165.40M,['NASDAQ'],N/A,Consumer Durables,29.27,N/A,N/A,1300.00,NMS,N/A,301266,N/A,2/6/2007,CENT,0.91,1993,Central Garden & Pet Company,N/A,10.17,26.71,06 August 2016

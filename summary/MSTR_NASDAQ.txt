@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,226.48,165.24,129.01M,['NASDAQ'],N/A,Technology,19.99,N/A,N/A,1900.00,NMS,N/A,137491,N/A,N/A,MSTR,8.32,1998,MicroStrategy Incorporated,N/A,141.01,164.49,07 August 2016

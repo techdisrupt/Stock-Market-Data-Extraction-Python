@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,37.00,34.82,22.54M,['NASDAQ'],N/A,2013,26.05,N/A,N/A,292.02,NCM,N/A,350343,N/A,N/A,NVEE,1.22,n/a,NV5 Holdings,N/A,15.00,33.19,07 August 2016

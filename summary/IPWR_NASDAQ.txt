@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,9.65,5.33,-10.75M,['NASDAQ'],N/A,Energy,N/A,N/A,N/A,49.51,NCM,N/A,12762,N/A,N/A,IPWR,-1.21,2013,Ideal Power Inc.,N/A,3.73,5.36,07 August 2016

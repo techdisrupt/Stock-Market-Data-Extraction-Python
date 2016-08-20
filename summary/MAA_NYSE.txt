@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.19,110.01,102.91,602.65M,['NYSE'],N/A,1994,34.88,7/29/2016,N/A,7800.00,NYQ,113.00,290405,3.28,7/13/2016,MAA,2.96,n/a,Mid-America Apartment Communities,N/A,75.00,102.76,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,N/A,29.760,28.470,721.70M,['NYSE'],N/A,2014,N/A,N/A,N/A,6970.00,NYQ,28.780,566996,N/A,N/A,ZAYO,-0.165,n/a,Zayo Group Holdings,N/A,19.590,28.490,15 August 2016

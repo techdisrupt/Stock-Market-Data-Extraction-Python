@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.10,54.87,53.84,1.69B,['NYSE'],N/A,n/a,32.74,6/30/2016,N/A,28260.00,NYQ,53.64,948160,1.68,6/9/2016,PLD,1.64,n/a,ProLogis,N/A,35.25,54.12,08 August 2016

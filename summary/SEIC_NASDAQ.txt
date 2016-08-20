@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,1.13,55.11,46.15,381.06M,['NASDAQ'],N/A,Finance,24.08,6/22/2016,N/A,7460.00,NMS,46.40,349044,0.52,6/10/2016,SEIC,1.92,1981,SEI Investments Company,N/A,32.01,46.39,13 August 2016

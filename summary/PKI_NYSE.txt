@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.51,57.28,55.66,425.94M,['NYSE'],N/A,n/a,26.21,8/10/2016,N/A,6020.00,NYQ,54.85,1109514,0.28,7/13/2016,PKI,2.09,n/a,PerkinElmer,N/A,39.50,55.72,08 August 2016

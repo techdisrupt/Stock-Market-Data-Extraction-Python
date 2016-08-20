@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Dental Instruments,USD,N/A,1.89,70.80,70.46,528.18M,['NYSE'],N/A,Health Care,28.38,6/16/2016,N/A,9930.00,NYQ,70.68,748568,1.32,5/17/2016,RMD,2.49,n/a,ResMed Inc.,N/A,48.99,70.57,09 August 2016

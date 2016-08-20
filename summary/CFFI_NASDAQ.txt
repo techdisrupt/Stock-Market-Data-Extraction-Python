@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.86,47.00,43.99,0.00,['NASDAQ'],N/A,Finance,11.69,7/1/2016,N/A,152.64,NMS,44.22,3861,1.28,6/13/2016,CFFI,3.78,n/a,C&F Financial Corporation,N/A,33.69,43.66,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,N/A,23.75,9.85,626.30M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,2160.00,NYQ,9.41,3500467,N/A,N/A,PAH,-1.96,2014,Platform Specialty Products Corporation,N/A,5.25,9.73,08 August 2016

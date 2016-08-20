@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Advertising,USD,N/A,N/A,7.07,3.88,8.74M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,112.75,NMS,25.00,130726,N/A,N/A,SZMK,-4.41,n/a,Sizmek Inc.,N/A,2.09,3.88,14 August 2016

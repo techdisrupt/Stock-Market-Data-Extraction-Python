@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,18.19,5.79,-90.09M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,248.20,NCM,N/A,115458,N/A,N/A,RXDX,-3.17,n/a,Ignyta,N/A,4.63,5.76,07 August 2016

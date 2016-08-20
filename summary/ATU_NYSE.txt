@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.17,27.71,23.63,129.62M,['NYSE'],N/A,Technology,N/A,10/15/2015,N/A,1390.00,NYQ,23.63,333703,0.04,9/28/2015,ATU,-1.70,n/a,Actuant Corporation,N/A,17.02,23.59,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,23.55,7.61,-42.46M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,156.19,NGM,7.75,27814,N/A,N/A,IMDZ,-2.12,2014,Immune Design Corp.,N/A,6.43,7.58,07 August 2016

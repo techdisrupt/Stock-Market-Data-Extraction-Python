@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.70,69.80,60.80,191.14M,['NYSE'],N/A,1996,13.67,6/30/2016,N/A,1570.00,NYQ,63.27,33228,1.68,6/13/2016,FFG,4.63,n/a,FBL Financial Group,N/A,54.94,61.15,06 August 2016

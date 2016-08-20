@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,2.50,1.02,-1.30M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,9.55,NCM,3.90,131130,N/A,N/A,MTBC,-0.60,n/a,Medical Transcription Billing,N/A,0.68,1.03,07 August 2016

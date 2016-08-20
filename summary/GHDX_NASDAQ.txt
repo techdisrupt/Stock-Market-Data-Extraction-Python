@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,35.79,29.23,-9.29M,['NASDAQ'],N/A,2005,N/A,N/A,N/A,982.30,NMS,31.11,175947,N/A,N/A,GHDX,-0.83,n/a,Genomic Health,N/A,20.05,29.40,07 August 2016

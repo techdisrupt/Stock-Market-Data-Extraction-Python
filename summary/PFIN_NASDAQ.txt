@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,2.16,11.85,9.23,8.60M,['NASDAQ'],N/A,n/a,2.32,4/14/2016,N/A,33.26,NGM,10.40,6981,0.20,7/14/2016,PFIN,3.99,n/a,P & F Industries,N/A,7.61,9.26,07 August 2016

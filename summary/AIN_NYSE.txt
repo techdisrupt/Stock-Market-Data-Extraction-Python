@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Textiles,USD,N/A,1.61,42.95,41.54,157.65M,['NYSE'],N/A,Basic Industries,18.95,7/8/2016,N/A,1350.00,NYQ,42.04,118522,0.68,6/3/2016,AIN,1.83,n/a,Albany International Corporation,N/A,27.64,41.53,04 August 2016

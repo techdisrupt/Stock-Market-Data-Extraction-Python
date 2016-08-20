@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,10.93,7.39,34.84M,['NYSE'],N/A,2009,N/A,N/A,N/A,350.11,NYQ,7.57,25294,N/A,7/9/2014,BPI,-1.66,n/a,Bridgepoint Education,N/A,6.15,7.42,05 August 2016

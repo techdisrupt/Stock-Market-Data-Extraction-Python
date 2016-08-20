@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,3.37,13.28,12.26,21.26M,['NASDAQ'],N/A,n/a,21.43,6/6/2016,N/A,233.41,NCM,12.49,22284,0.40,5/23/2016,NATR,0.58,n/a,Nature's Sunshine Products,N/A,7.15,12.11,07 August 2016

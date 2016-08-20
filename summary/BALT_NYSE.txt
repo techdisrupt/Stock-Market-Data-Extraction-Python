@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,2.80,6.09,1.50,0.00,['NYSE'],N/A,Transportation,N/A,N/A,N/A,N/A,NYQ,N/A,0,0.04,11/18/2014,BALT,-1.05,2010,Baltic Trading Limited,N/A,1.21,1.50,05 August 2016

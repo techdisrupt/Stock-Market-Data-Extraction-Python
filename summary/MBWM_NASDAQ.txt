@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.50,26.27,25.39,0.00,['NASDAQ'],N/A,Finance,14.23,6/23/2016,N/A,421.26,NMS,25.89,26245,0.63,6/8/2016,MBWM,1.82,1998,Mercantile Bank Corporation,N/A,19.27,25.23,07 August 2016

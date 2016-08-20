@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,5.20,1.11,-25.13M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,32.46,NCM,1.16,16363,N/A,N/A,ALQA,-1.01,n/a,Alliqua,N/A,0.70,1.10,04 August 2016

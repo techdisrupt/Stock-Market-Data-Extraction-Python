@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Specialty Stores,USD,N/A,N/A,4.85,3.19,2.55M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,52.50,NMS,3.16,3368,N/A,N/A,PRSS,-0.76,2012,CafePress Inc.,N/A,2.93,3.19,05 August 2016

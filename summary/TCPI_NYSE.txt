@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Products,USD,N/A,N/A,3.22,1.46,40.87M,['NYSE'],N/A,Consumer Durables,10.68,N/A,N/A,40.06,NYQ,1.43,113265,N/A,N/A,TCPI,0.13,2014,TCP International Holdings Ltd.,N/A,0.66,1.40,14 August 2016

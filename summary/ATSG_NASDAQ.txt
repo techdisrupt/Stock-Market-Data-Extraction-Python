@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,N/A,15.53,13.95,199.60M,['NASDAQ'],N/A,n/a,22.50,N/A,N/A,888.14,NMS,13.94,280026,N/A,N/A,ATSG,0.62,n/a,Air Transport Services Group,N/A,7.60,13.99,04 August 2016

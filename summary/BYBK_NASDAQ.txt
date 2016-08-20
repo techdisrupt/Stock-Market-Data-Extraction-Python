@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.00,5.40,5.09,0.00,['NASDAQ'],N/A,n/a,31.81,N/A,N/A,56.46,NCM,5.12,1900,0.00,11/9/2010,BYBK,0.16,n/a,Bay Bancorp,N/A,4.57,5.05,05 August 2016

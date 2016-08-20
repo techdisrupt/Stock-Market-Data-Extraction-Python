@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,4.75,2.65,-3.99M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,22.39,NCM,N/A,24897,N/A,N/A,AETI,-0.74,n/a,American Electric Technologies,N/A,1.76,2.52,05 August 2016

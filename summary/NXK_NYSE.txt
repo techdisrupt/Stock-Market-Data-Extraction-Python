@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.30,13.80,N/A,0.00,['NYSE'],N/A,n/a,N/A,N/A,N/A,N/A,ASE,N/A,0,0.70,6/3/2015,NXK,1.41,2001,Nuveen New York Dividend Advantage Municipal Fund 2,N/A,12.95,13.20,07 August 2016

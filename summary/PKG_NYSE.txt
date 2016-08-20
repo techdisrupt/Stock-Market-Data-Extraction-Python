@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Containers/Packaging,USD,N/A,3.73,76.00,74.84,1.14B,['NYSE'],N/A,Consumer Durables,15.88,7/15/2016,N/A,6950.00,NYQ,77.48,535145,2.20,6/13/2016,PKG,4.70,2000,Packaging Corporation of America,N/A,44.32,74.25,07 August 2016

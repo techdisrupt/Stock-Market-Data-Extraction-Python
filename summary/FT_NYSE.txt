@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,7.90,7.05,6.89,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NYQ,6.88,40764,0.47,7/27/2016,FT,-0.90,n/a,Franklin Universal Trust,N/A,5.13,6.87,07 August 2016

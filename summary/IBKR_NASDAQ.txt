@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.15,44.85,35.13,0.00,['NASDAQ'],N/A,n/a,23.94,6/14/2016,N/A,2350.00,NMS,36.65,849568,0.40,5/27/2016,IBKR,1.51,n/a,Interactive Brokers Group,N/A,29.50,34.82,07 August 2016

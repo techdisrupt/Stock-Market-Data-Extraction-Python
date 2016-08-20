@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,0.00,80.83,74.24,0.00,['NYSE'],N/A,Finance,12.12,4/5/2016,N/A,4310.00,NYQ,100.00,64064,0.00,3/23/2016,BMA,6.08,n/a,Macro Bank Inc.,N/A,35.93,73.98,07 August 2016

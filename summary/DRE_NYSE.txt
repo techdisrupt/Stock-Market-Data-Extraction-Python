@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.54,28.99,28.23,506.40M,['NYSE'],N/A,Consumer Services,38.71,5/31/2016,N/A,9730.00,NYQ,28.02,1828127,0.72,5/12/2016,DRE,0.72,n/a,Duke Realty Corporation,N/A,17.60,28.24,06 August 2016

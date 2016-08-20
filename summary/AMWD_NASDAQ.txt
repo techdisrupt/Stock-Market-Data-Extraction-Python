@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Forest Products,USD,N/A,0.00,89.89,74.69,106.22M,['NASDAQ'],N/A,Basic Industries,20.80,N/A,N/A,1210.00,NMS,74.25,72693,0.00,6/9/2011,AMWD,3.57,1986,American Woodmark Corporation,N/A,57.04,74.80,05 August 2016

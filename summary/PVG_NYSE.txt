@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,12.41,11.68,-9.76M,['NYSE'],N/A,n/a,N/A,N/A,N/A,2060.00,NYQ,11.58,885463,N/A,N/A,PVG,-0.06,n/a,Pretium Resources,N/A,4.00,11.97,08 August 2016

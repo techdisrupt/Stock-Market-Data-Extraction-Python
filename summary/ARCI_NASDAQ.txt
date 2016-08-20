@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,1.8000,1.5300,-4.18M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,8.39,NCM,1.5200,10825,N/A,N/A,ARCI,-0.2620,n/a,Appliance Recycling Centers of America,N/A,0.5400,1.5000,05 August 2016

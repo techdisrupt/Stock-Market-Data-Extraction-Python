@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.620,25.380,24.430,0.00,['NASDAQ'],N/A,n/a,12.700,5/31/2016,N/A,184.18,NGM,24.920,12585,0.400,8/11/2016,SMBC,1.950,n/a,Southern Missouri Bancorp,N/A,18.920,24.730,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.20,23.19,19.59,95.47M,['NYSE'],N/A,n/a,14.14,6/22/2016,N/A,784.04,NYQ,20.25,192191,1.80,6/6/2016,TCAP,1.39,2007,Triangle Capital Corporation,N/A,14.91,19.56,14 August 2016

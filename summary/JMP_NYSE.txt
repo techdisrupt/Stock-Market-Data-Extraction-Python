@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,6.68,7.52,5.40,0.00,['NYSE'],N/A,Finance,N/A,7/15/2016,N/A,114.98,NYQ,5.48,48396,0.36,7/27/2016,JMP,-0.13,2007,JMP Group Inc,N/A,4.95,5.33,07 August 2016

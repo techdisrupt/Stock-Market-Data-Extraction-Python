@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,12.57,17.94,15.31,0.00,['NYSE'],N/A,2011,N/A,7/29/2016,N/A,432.71,NYQ,15.37,89667,1.90,6/16/2016,MITT,-0.53,n/a,AG Mortgage Investment Trust,N/A,10.33,15.32,04 August 2016

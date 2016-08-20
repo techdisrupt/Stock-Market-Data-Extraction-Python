@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,28.31,15.43,56.96M,['NYSE'],N/A,Energy,N/A,N/A,N/A,644.12,ASE,15.59,199269,N/A,N/A,PARR,-1.53,n/a,Par Petroleum Corporation,N/A,13.90,15.42,07 August 2016

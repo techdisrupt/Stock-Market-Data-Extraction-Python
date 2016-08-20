@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Home Furnishings,USD,N/A,N/A,106.50,96.42,205.96M,['NASDAQ'],N/A,Consumer Durables,27.57,N/A,N/A,2690.00,NMS,96.65,162079,N/A,N/A,HELE,3.51,n/a,Helen of Troy Limited,N/A,80.88,95.90,07 August 2016

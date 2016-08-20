@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,2.12,91.23,84.00,3.08B,['NYSE'],N/A,n/a,19.53,7/15/2016,N/A,27330.00,NYQ,89.99,1492755,1.80,6/29/2016,CAH,4.32,n/a,Cardinal Health,N/A,73.25,83.58,06 August 2016

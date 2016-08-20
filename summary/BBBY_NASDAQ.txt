@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Home Furnishings,USD,N/A,1.14,64.62,43.59,1.64B,['NASDAQ'],N/A,Consumer Services,8.96,10/18/2016,N/A,6780.00,NMS,44.91,1207186,0.50,6/15/2016,BBBY,5.01,1992,Bed Bath & Beyond Inc.,N/A,41.15,43.41,05 August 2016

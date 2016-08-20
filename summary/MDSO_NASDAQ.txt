@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,55.25,54.33,51.18M,['NASDAQ'],N/A,2009,139.36,N/A,N/A,3010.00,NMS,N/A,242713,N/A,N/A,MDSO,0.39,n/a,Medidata Solutions,N/A,30.22,53.99,07 August 2016

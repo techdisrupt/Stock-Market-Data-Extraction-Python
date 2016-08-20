@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,3.16,9.95,9.95,3.59M,['NYSE'],N/A,n/a,10.32,5/16/2016,N/A,21.24,ASE,11.89,7835,0.30,4/7/2016,SVT,0.91,n/a,Servotronics,N/A,6.75,9.93,13 August 2016

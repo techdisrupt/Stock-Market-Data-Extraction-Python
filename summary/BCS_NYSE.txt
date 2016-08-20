@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,4.6800,17.6100,8.0000,0.00,['NYSE'],N/A,Finance,N/A,4/5/2016,N/A,27950.00,NYQ,8.0900,3921800,0.3800,3/9/2016,BCS,-0.2560,n/a,Barclays PLC,N/A,6.7600,7.9600,05 August 2016

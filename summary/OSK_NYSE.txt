@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Manufacturing,USD,N/A,1.41,55.63,53.73,478.40M,['NYSE'],N/A,Capital Goods,19.74,5/31/2016,N/A,3960.00,NYQ,54.40,700480,0.76,5/12/2016,OSK,2.73,n/a,Oshkosh Corporation,N/A,29.59,53.60,07 August 2016

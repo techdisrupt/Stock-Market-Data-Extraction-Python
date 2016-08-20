@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,81.6699,81.5500,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,81.6600,51732,N/A,N/A,VWOB,N/A,n/a,Vanguard Emerging Markets Government Bond ETF,N/A,72.1300,81.5600,15 August 2016

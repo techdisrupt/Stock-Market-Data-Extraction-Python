@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.61,31.44,30.04,298.87M,['NYSE'],N/A,Consumer Services,40.31,7/15/2016,N/A,4610.00,NYQ,30.23,742539,1.08,6/28/2016,STOR,0.75,2014,STORE Capital Corporation,N/A,19.63,29.89,14 August 2016

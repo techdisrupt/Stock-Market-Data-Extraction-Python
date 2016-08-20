@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,10.55,0.47,-120.87M,['NASDAQ'],N/A,2012,N/A,N/A,N/A,45.78,NCM,2.25,459544,N/A,N/A,NWBO,-0.88,n/a,Northwest Biotherapeutics,N/A,0.41,0.46,07 August 2016

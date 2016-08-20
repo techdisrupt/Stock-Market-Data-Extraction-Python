@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.85,23.08,22.50,0.00,['NASDAQ'],N/A,Finance,18.53,5/23/2016,N/A,413.45,NMS,23.06,59773,0.64,8/4/2016,PEBO,1.24,n/a,Peoples Bancorp Inc.,N/A,16.34,22.46,08 August 2016

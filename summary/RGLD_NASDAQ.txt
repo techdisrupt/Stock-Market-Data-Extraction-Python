@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,1.10,87.74,84.35,231.39M,['NASDAQ'],N/A,n/a,N/A,7/15/2016,N/A,5550.00,NMS,86.65,482759,0.92,6/29/2016,RGLD,-1.27,n/a,Royal Gold,N/A,24.68,84.36,10 August 2016

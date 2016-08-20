@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.000,11.000,10.960,6.63M,['NASDAQ'],N/A,1995,105.851,12/31/2012,N/A,128.51,NMS,10.970,755,0.000,12/20/2012,ASFI,0.101,n/a,Asta Funding,N/A,6.820,10.990,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,1.63,87.17,65.14,1.78B,['NYSE'],N/A,n/a,9.01,6/7/2016,N/A,8010.00,NYQ,65.17,914086,1.10,5/20/2016,ALK,7.22,n/a,Alaska Air Group,N/A,54.51,65.10,04 August 2016

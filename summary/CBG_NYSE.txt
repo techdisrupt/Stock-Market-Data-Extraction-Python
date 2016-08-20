@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,38.63,29.02,1.08B,['NYSE'],N/A,2004,18.75,N/A,N/A,9920.00,NYQ,32.00,1884213,N/A,N/A,CBG,1.58,n/a,CBRE Group,N/A,22.74,28.70,06 August 2016

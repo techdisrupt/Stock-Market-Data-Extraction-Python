@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,0.0000,3.6500,3.6000,1.39M,['NASDAQ'],N/A,n/a,42.6179,N/A,N/A,52.62,NMS,4.2900,124732,0.0000,11/5/2008,STLY,0.0840,n/a,Stanley Furniture Company,N/A,2.2500,3.5800,14 August 2016

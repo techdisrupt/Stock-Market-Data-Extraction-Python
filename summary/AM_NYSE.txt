@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,3.96,28.72,25.52,288.11M,['NYSE'],N/A,Public Utilities,14.85,5/25/2016,N/A,2540.00,NYQ,25.38,247408,1.00,5/9/2016,AM,1.70,2014,Antero Midstream Partners LP,N/A,16.47,25.42,05 August 2016

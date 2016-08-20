@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.17,53.70,52.22,0.00,['NASDAQ'],N/A,Finance,18.43,5/5/2016,N/A,884.07,NMS,53.29,62279,1.12,7/21/2016,LKFN,2.89,n/a,Lakeland Financial Corporation,N/A,39.01,51.71,07 August 2016

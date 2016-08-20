@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,27.8500,27.5125,669.27M,['NYSE'],N/A,n/a,23.6319,9/1/2016,N/A,2320.00,NYQ,27.5000,8769,N/A,5/26/2016,UZB,1.1580,2014,United States Cellular Corporation,N/A,24.6200,27.5300,15 August 2016

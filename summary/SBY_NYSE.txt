@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.77,19.00,18.65,51.67M,['NYSE'],N/A,Consumer Services,N/A,7/15/2016,N/A,656.37,NYQ,18.56,200505,0.52,6/29/2016,SBY,-0.16,2012,Silver Bay Realty Trust Corp.,N/A,12.03,18.65,13 August 2016

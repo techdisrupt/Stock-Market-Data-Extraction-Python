@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.92,51.23,42.21,4.52B,['NYSE'],N/A,n/a,N/A,5/16/2016,N/A,21930.00,NYQ,42.50,2928735,4.22,8/4/2016,ETP,-0.13,n/a,ENERGY TRANSFER PARTNERS,N/A,18.62,41.74,06 August 2016

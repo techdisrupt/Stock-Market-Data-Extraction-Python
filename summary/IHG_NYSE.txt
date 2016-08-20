@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,2.45,50.58,41.91,737.00M,['NYSE'],N/A,Consumer Services,8.53,5/13/2016,N/A,9590.00,NYQ,42.04,101191,1.02,5/9/2016,IHG,4.93,n/a,Intercontinental Hotels Group,N/A,34.63,41.62,07 August 2016

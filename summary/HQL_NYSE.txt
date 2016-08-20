@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,29.25,19.17,0.00,['NYSE'],N/A,n/a,N/A,8/12/2016,N/A,N/A,NYQ,20.50,64463,0.00,6/21/2016,HQL,2.06,1992,Tekla Life Sciences Investors,N/A,15.82,19.17,14 August 2016

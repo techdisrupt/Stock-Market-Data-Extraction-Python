@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.68,49.00,45.59,249.70M,['NASDAQ'],N/A,2004,28.99,7/1/2016,N/A,3250.00,NMS,47.70,664761,0.76,6/13/2016,TXRH,1.59,n/a,Texas Roadhouse,N/A,31.55,45.82,14 August 2016

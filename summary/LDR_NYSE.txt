@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.59,43.49,42.32,38.32M,['NYSE'],N/A,n/a,28.25,7/5/2016,N/A,412.06,NYQ,42.83,40004,1.10,6/15/2016,LDR,1.52,n/a,Landauer,N/A,26.99,42.26,07 August 2016

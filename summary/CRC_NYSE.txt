@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,51.50,9.33,803.00M,['NYSE'],N/A,n/a,N/A,10/15/2015,N/A,366.59,NYQ,9.41,3666420,0.00,9/8/2015,CRC,-91.25,2014,California Resources Corporation,N/A,2.81,9.22,05 August 2016

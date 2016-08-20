@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,3.45,2.75,2.52,141.80M,['NYSE'],N/A,Energy,N/A,12/31/2015,N/A,312.53,NYQ,2.56,286993,0.09,11/27/2015,AT,-0.78,n/a,Atlantic Power Corporation,N/A,1.57,2.50,05 August 2016

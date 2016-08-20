@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,2.39,58.49,55.55,194.14M,['NYSE'],N/A,Health Care,27.20,6/10/2016,N/A,2100.00,NYQ,56.23,252222,1.32,5/19/2016,MSA,2.07,n/a,MSA Safety Incorporporated,N/A,37.68,55.08,07 August 2016

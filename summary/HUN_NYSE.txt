@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,3.25,18.12,15.68,966.00M,['NYSE'],N/A,Basic Industries,18.88,6/30/2016,N/A,3740.00,NYQ,15.86,4247077,0.50,6/13/2016,HUN,0.84,2005,Huntsman Corporation,N/A,7.46,15.61,07 August 2016

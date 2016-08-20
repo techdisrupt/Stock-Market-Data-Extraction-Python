@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,0.83,20.25,19.23,66.94M,['NYSE'],N/A,Technology,163.45,7/29/2016,N/A,637.14,NYQ,19.43,63272,0.16,6/22/2016,CTS,0.12,n/a,CTS Corporation,N/A,12.87,19.19,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Aluminum,USD,N/A,0.00,9.40,6.86,1.57M,['NASDAQ'],N/A,Basic Industries,N/A,9/30/2002,N/A,600.71,NMS,7.05,1250049,0.00,9/18/2002,CENX,-1.65,1996,Century Aluminum Company,N/A,2.63,6.82,06 August 2016

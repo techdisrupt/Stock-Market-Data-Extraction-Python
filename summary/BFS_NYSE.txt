@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.85,68.60,N/A,140.07M,['NYSE'],N/A,1993,43.03,7/29/2016,N/A,1430.00,NYQ,N/A,0,1.88,7/13/2016,BFS,1.55,n/a,Saul Centers,N/A,46.46,66.70,11 August 2016

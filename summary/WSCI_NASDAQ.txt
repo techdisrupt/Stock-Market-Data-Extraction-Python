@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,5.0600,6.0000,3.2201,1.87M,['NASDAQ'],N/A,Technology,53.6683,1/20/2016,N/A,9.40,NCM,3.2300,4292,0.1600,1/4/2016,WSCI,0.0600,n/a,WSI Industries Inc.,N/A,2.7300,3.1600,15 August 2016

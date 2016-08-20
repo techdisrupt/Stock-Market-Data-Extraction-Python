@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,28.07,27.15,0.00,['NYSE'],N/A,2012,56.21,6/15/2016,N/A,7500.00,NYQ,27.14,334,N/A,11/26/2014,BGCA,0.48,n/a,BGC Partners,N/A,23.75,27.15,05 August 2016

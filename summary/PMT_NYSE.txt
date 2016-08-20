@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,12.26,16.93,14.87,0.00,['NYSE'],N/A,Consumer Services,17.92,7/28/2016,N/A,1040.00,NYQ,15.34,982892,1.88,7/12/2016,PMT,0.86,2009,PennyMac Mortgage Investment Trust,N/A,10.91,14.80,08 August 2016

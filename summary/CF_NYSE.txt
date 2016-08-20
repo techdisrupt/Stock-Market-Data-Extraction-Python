@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,4.89,65.12,21.28,1.57B,['NYSE'],N/A,2005,10.49,5/31/2016,N/A,5150.00,NYQ,22.10,8896551,1.20,5/11/2016,CF,2.11,n/a,CF Industries Holdings,N/A,20.77,21.43,06 August 2016

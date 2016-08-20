@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,6.00,4.92,306.94M,['NYSE'],N/A,n/a,421.67,N/A,N/A,1220.00,NYQ,5.30,2140937,0.00,6/13/2000,MDR,0.01,n/a,McDermott International,N/A,2.20,4.89,07 August 2016

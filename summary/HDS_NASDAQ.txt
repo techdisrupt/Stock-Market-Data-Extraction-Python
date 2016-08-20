@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,36.99,35.45,849.00M,['NASDAQ'],N/A,2013,5.89,N/A,N/A,7150.00,NMS,36.49,1386032,N/A,N/A,HDS,6.05,n/a,HD Supply Holdings,N/A,21.26,35.28,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,0.00,30.09,29.86,288.35M,['NYSE'],N/A,Consumer Services,22.10,2/21/2014,N/A,3720.00,NYQ,29.63,1026951,0.00,1/9/2014,EQC,1.34,n/a,Equity Commonwealth,N/A,25.17,29.75,06 August 2016

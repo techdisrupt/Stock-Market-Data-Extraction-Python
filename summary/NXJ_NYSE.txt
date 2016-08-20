@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.40,15.50,15.46,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,15.44,34624,0.82,7/13/2016,NXJ,1.45,2001,Nuveen New Jersey Dividend Advantage Municipal Fund,N/A,12.53,15.48,07 August 2016

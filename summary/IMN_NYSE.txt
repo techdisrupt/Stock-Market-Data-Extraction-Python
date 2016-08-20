@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,0.00,3.69,1.15,-42.00M,['NYSE'],N/A,Technology,N/A,12/29/2008,N/A,41.99,NYQ,1.14,68348,0.00,12/11/2008,IMN,-6.92,n/a,Imation Corporation,N/A,0.61,1.09,07 August 2016

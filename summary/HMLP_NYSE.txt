@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,8.74,19.68,19.15,48.69M,['NYSE'],N/A,Consumer Services,13.27,5/13/2016,N/A,499.66,NYQ,19.00,3027,1.65,8/3/2016,HMLP,1.43,2014,Hoegh LNG Partners LP,N/A,11.50,18.90,07 August 2016

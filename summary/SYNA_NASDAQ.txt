@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,94.48,55.55,268.33M,['NASDAQ'],N/A,Technology,29.03,N/A,N/A,1950.00,NMS,55.60,394206,N/A,N/A,SYNA,1.91,2002,Synaptics Incorporated,N/A,47.09,55.78,14 August 2016

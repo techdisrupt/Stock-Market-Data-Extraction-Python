@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,66.01,22.74,6.08,192.00M,['NYSE'],N/A,2013,34.86,11/16/2015,N/A,921.02,NYQ,6.29,637960,4.04,11/5/2015,CVRR,0.18,n/a,CVR Refining,N/A,5.50,6.09,06 August 2016

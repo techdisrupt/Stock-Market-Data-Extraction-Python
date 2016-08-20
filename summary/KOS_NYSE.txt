@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,8.00,5.59,266.39M,['NYSE'],N/A,Energy,N/A,N/A,N/A,2160.00,NYQ,5.60,1744433,N/A,N/A,KOS,-0.13,2011,Kosmos Energy Ltd.,N/A,3.17,5.56,07 August 2016

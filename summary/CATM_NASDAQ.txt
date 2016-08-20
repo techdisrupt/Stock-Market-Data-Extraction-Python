@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,46.63,46.25,290.32M,['NASDAQ'],N/A,2007,29.03,N/A,N/A,2080.00,NMS,46.09,693352,N/A,N/A,CATM,1.59,n/a,Cardtronics,N/A,28.01,46.00,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.20,18.99,18.62,0.00,['NYSE'],N/A,n/a,N/A,6/24/2016,N/A,N/A,NYQ,18.43,28422,0.54,7/20/2016,ICB,-0.33,n/a,MS Income Securities,N/A,16.34,18.65,07 August 2016

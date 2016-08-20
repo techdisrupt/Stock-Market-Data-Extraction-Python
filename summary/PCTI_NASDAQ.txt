@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,3.9200,6.6600,5.0400,1.56M,['NASDAQ'],N/A,1999,N/A,5/13/2016,N/A,81.88,NMS,5.5500,6672,0.2000,8/4/2016,PCTI,-0.8740,n/a,PC-Tel,N/A,4.3600,5.1000,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Specialty Stores,USD,N/A,1.17,54.10,52.90,730.90M,['NYSE'],N/A,Consumer Services,19.05,6/30/2016,N/A,6100.00,NYQ,53.59,2757533,0.60,6/8/2016,DKS,2.81,2002,Dick's Sporting Goods Inc,N/A,33.42,51.83,06 August 2016

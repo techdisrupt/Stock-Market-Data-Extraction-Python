@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.10,29.78,19.13,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NYQ,19.20,272034,2.34,7/6/2016,KYN,-16.16,2004,Kayne Anderson MLP Investment Company,N/A,10.10,19.13,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,0.00,57.81,48.98,2.94B,['NASDAQ'],N/A,Health Care,31.00,N/A,N/A,24630.00,NMS,50.00,4747340,0.00,6/27/2007,MYL,1.56,n/a,Mylan Inc.,N/A,37.59,48.55,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,8.93,N/A,0.00,['NYSE'],N/A,n/a,16.14,N/A,N/A,29.59,ASE,7.69,100,0.00,9/15/2000,IOT,0.44,n/a,Income Opportunity Realty Investors,N/A,5.85,7.10,07 August 2016

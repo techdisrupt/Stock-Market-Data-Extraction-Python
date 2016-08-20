@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Apparel,USD,N/A,N/A,3.65,1.71,-84.09M,['NYSE'],N/A,Consumer Non-Durables,N/A,N/A,N/A,23.91,NYQ,1.75,89518,N/A,N/A,XNY,-6.34,2010,China Xiniya Fashion Limited,N/A,0.81,1.71,06 August 2016

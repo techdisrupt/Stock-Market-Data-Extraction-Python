@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,13.26,6.77,5.50,0.00,['NASDAQ'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NMS,5.89,980999,0.72,7/13/2016,FSC,-0.26,2008,Fifth Street Finance Corp.,N/A,4.40,5.48,06 August 2016

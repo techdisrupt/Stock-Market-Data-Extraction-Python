@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,1.28,97.48,93.67,2.11B,['NYSE'],N/A,1995,30.18,6/15/2016,N/A,34550.00,NYQ,93.56,1760300,1.20,5/26/2016,EL,3.10,n/a,Estee Lauder Companies,N/A,73.67,93.68,06 August 2016

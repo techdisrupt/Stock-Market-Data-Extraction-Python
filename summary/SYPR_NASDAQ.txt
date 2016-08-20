@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.0000,2.7400,0.8500,-14.88M,['NASDAQ'],N/A,n/a,N/A,1/9/2015,N/A,17.12,NGM,0.8822,33984,0.0000,12/17/2014,SYPR,-0.9810,n/a,Sypris Solutions,N/A,0.6400,0.8500,14 August 2016

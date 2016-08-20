@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,24.78,23.07,103.13M,['NYSE'],N/A,2014,36.53,N/A,N/A,947.86,NYQ,23.28,510400,N/A,N/A,CBPX,0.64,n/a,Continental Building Products,N/A,13.25,23.02,06 August 2016

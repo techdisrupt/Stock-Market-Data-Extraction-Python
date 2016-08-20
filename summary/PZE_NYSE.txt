@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,1.17,6.87,6.23,461.17M,['NYSE'],N/A,Energy,22.36,9/4/2015,N/A,1260.00,NYQ,6.25,22263,0.07,8/10/2015,PZE,0.28,n/a,Petrobras Argentina S.A.,N/A,4.69,6.23,08 August 2016

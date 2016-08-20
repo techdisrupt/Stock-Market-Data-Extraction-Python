@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.00,7.74,5.90,-19.28M,['NASDAQ'],N/A,n/a,N/A,12/28/2012,N/A,398.42,NMS,6.20,983145,0.00,12/18/2012,SPPI,-0.53,n/a,Spectrum Pharmaceuticals,N/A,4.14,5.91,14 August 2016

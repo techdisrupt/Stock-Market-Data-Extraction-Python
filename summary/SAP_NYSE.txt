@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,1.53,87.92,87.86,6.67B,['NYSE'],N/A,Technology,26.45,5/20/2016,N/A,105050.00,NYQ,88.15,840556,1.31,5/10/2016,SAP,3.32,n/a,SAP SE,N/A,62.57,87.28,11 August 2016

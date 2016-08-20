@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,2.08,142.15,140.53,3.55B,['NYSE'],N/A,Capital Goods,19.54,8/4/2016,N/A,41270.00,NYQ,139.88,927156,2.93,7/1/2016,RTN,7.16,n/a,Raytheon Company,N/A,96.68,140.76,08 August 2016

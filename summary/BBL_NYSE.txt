@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Coal Mining,USD,N/A,2.470,38.13,26.520,13.53B,['NYSE'],N/A,Energy,N/A,3/31/2016,N/A,71460.00,NYQ,26.860,2115389,0.640,3/9/2016,BBL,-3.018,n/a,BHP Billiton plc,N/A,16.36,26.200,05 August 2016

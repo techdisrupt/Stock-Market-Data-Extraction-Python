@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,33.33,7.94,6.55,0.00,['OTC'],N/A,n/a,34.03,8/1/2016,N/A,79.80,PNK,N/A,4791,2.20,7/1/2016,NECB,0.20,n/a,Northeast Community Bancorp,N/A,6.08,6.60,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,2.63,29.68,N/A,4.04M,['NYSE'],N/A,Technology,14.12,6/20/2016,N/A,26.44,ASE,28.10,100,0.72,6/1/2016,CVR,1.94,n/a,Chicago Rivet & Machine Co.,N/A,22.00,27.37,06 August 2016

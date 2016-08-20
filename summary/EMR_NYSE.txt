@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Electronics/Appliances,USD,N/A,3.59,56.82,53.37,3.91B,['NYSE'],N/A,Energy,19.05,6/10/2016,N/A,34710.00,NYQ,54.00,3000845,1.90,5/11/2016,EMR,2.82,n/a,Emerson Electric Company,N/A,41.25,53.03,06 August 2016

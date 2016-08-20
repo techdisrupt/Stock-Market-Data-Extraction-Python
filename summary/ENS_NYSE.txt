@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,1.13,67.94,63.39,315.00M,['NYSE'],N/A,Consumer Non-Durables,21.68,6/24/2016,N/A,2800.00,NYQ,64.84,191675,0.70,6/8/2016,ENS,2.99,2004,Enersys,N/A,42.60,62.86,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Railroads,USD,N/A,1.37,100.40,96.86,1.13B,['NYSE'],N/A,Transportation,21.44,7/6/2016,N/A,10640.00,NYQ,98.78,1028795,1.32,6/9/2016,KSU,4.59,n/a,Kansas City Southern,N/A,62.20,96.37,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,64.48,46.39,105.54M,['NYSE'],N/A,Technology,119.49,N/A,N/A,10220.00,NYQ,46.89,1828238,N/A,N/A,MBLY,0.39,2014,Mobileye N.V.,N/A,23.57,46.25,07 August 2016

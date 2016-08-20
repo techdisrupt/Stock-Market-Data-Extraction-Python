@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,14.00,9.00,-55.77M,['NASDAQ'],N/A,2010,N/A,N/A,N/A,815.85,NMS,8.91,5155403,N/A,N/A,PACB,-0.40,n/a,Pacific Biosciences of California,N/A,3.58,7.75,07 August 2016

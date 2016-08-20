@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,2.16,19.94,14.89,222.00M,['NYSE'],N/A,2006,11.90,7/15/2016,N/A,2190.00,NYQ,15.36,2090867,0.32,6/13/2016,KBR,1.29,n/a,KBR,N/A,11.61,14.81,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Specialty Stores,USD,N/A,0.14,201.24,168.38,1.24B,['NYSE'],N/A,Consumer Services,26.02,7/1/2016,N/A,12490.00,NYQ,170.28,1102628,0.24,6/15/2016,AAP,6.54,n/a,Advance Auto Parts Inc,N/A,131.59,168.65,04 August 2016

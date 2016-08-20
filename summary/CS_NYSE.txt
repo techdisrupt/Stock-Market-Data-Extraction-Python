@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,6.53,29.14,11.06,0.00,['NYSE'],N/A,Finance,N/A,6/13/2016,N/A,23540.00,NYQ,11.69,4388652,0.72,5/10/2016,CS,-2.82,n/a,Credit Suisse Group,N/A,10.01,11.03,06 August 2016

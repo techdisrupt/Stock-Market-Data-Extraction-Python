@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,25.00,24.17,5.48M,['NASDAQ'],N/A,2001,N/A,N/A,N/A,2530.00,NMS,24.58,803588,N/A,N/A,WMGI,-5.36,n/a,Wright Medical Group,N/A,15.02,24.03,15 August 2016

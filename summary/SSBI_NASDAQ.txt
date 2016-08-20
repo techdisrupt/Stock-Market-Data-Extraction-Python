@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.4700,14.2600,13.8100,0.00,['NASDAQ'],N/A,n/a,13.0645,5/24/2016,N/A,66.57,NGM,13.9000,3900,0.4800,5/16/2016,SSBI,1.0600,2006,Summit State Bank,N/A,12.5900,13.8299,14 August 2016

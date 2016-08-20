@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.00,24.75,24.63,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,24.57,46258,1.95,7/13/2016,JPI,N/A,2012,Nuveen Preferred and Income Term Fund,N/A,21.64,24.56,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,4.76,42.62,32.62,552.00M,['NYSE'],N/A,n/a,N/A,6/24/2016,N/A,12590.00,NYQ,33.58,4565909,1.84,6/8/2016,NOV,-4.54,n/a,National Oilwell Varco,N/A,25.74,32.56,07 August 2016

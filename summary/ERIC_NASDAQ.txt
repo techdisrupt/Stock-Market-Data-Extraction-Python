@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Radio And Television Broadcasting And Communications Equipment,USD,N/A,6.35,10.59,7.23,4.04B,['NASDAQ'],N/A,Technology,15.07,4/27/2016,N/A,23840.00,NMS,7.64,11359218,0.46,4/14/2016,ERIC,0.48,n/a,Ericsson,N/A,6.96,7.22,06 August 2016

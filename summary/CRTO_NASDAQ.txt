@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Advertising,USD,N/A,N/A,48.80,42.73,129.04M,['NASDAQ'],N/A,Technology,42.87,N/A,N/A,2560.00,NMS,41.55,345949,N/A,N/A,CRTO,0.97,2013,Criteo S.A.,N/A,24.23,42.11,06 August 2016

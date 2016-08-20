@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.45,14.71,11.99,0.00,['NYSE'],N/A,n/a,7.83,11/20/2015,N/A,401.83,NYQ,14.30,178542,1.00,10/28/2015,FLY,1.54,2007,Fly Leasing Limited,N/A,9.54,11.83,07 August 2016

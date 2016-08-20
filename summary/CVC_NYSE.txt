@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Television Services,USD,N/A,1.72,34.91,N/A,0.00,['NYSE'],N/A,Consumer Services,N/A,9/10/2015,N/A,N/A,NYQ,N/A,0,0.60,8/19/2015,CVC,0.81,1986,Cablevision Systems Corporation,N/A,21.37,34.87,05 August 2016

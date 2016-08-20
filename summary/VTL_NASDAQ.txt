@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,17.910,6.250,-38.87M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,204.54,NMS,6.500,62145,N/A,N/A,VTL,-1.440,n/a,Vital Therapies,N/A,2.811,6.170,15 August 2016

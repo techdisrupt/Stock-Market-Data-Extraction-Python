@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,0.00,2.40,1.39,77.98M,['NYSE'],N/A,Consumer Services,N/A,12/2/2014,N/A,146.99,NYQ,1.37,768512,0.00,11/13/2014,CVEO,-1.47,2014,Civeo Corporation,N/A,0.75,1.36,06 August 2016

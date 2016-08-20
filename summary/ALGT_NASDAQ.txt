@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Air Freight/Delivery Services,USD,N/A,2.18,238.13,123.32,480.61M,['NASDAQ'],N/A,Transportation,8.90,6/3/2016,N/A,2050.00,NMS,129.94,229220,2.80,5/18/2016,ALGT,14.04,2006,Allegiant Travel Company,N/A,121.70,122.82,04 August 2016

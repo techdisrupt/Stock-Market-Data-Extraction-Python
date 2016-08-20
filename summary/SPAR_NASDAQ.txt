@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.09,9.41,9.22,5.68M,['NASDAQ'],N/A,n/a,N/A,6/23/2016,N/A,316.42,NMS,9.19,222748,0.10,5/17/2016,SPAR,-0.31,n/a,Spartan Motors,N/A,2.61,9.21,14 August 2016

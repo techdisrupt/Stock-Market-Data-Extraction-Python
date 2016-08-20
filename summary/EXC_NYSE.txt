@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,3.48,37.70,36.30,7.61B,['NYSE'],N/A,Public Utilities,18.74,6/10/2016,N/A,33320.00,NYQ,36.71,5256291,1.27,5/11/2016,EXC,1.93,n/a,Exelon Corporation,N/A,25.09,36.33,06 August 2016

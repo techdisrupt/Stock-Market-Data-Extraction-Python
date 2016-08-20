@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,2.03,77.120,62.0000,5.32B,['NYSE'],N/A,Health Care,36.9279,8/1/2016,N/A,105510.00,NYQ,63.15,79989508,1.52,6/29/2016,BMY,1.71,n/a,Bristol-Myers Squibb Company,N/A,51.820,75.32,05 August 2016

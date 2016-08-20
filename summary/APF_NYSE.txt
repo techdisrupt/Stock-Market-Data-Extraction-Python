@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,1.30,14.77,14.67,0.00,['NYSE'],N/A,n/a,N/A,1/15/2016,N/A,N/A,NYQ,14.63,3080,0.22,12/16/2015,APF,-0.80,n/a,Morgan Stanley Asia-Pacific Fund,N/A,11.67,14.54,07 August 2016

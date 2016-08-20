@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,7.1500,3.4000,63.87M,['NYSE'],N/A,2004,5.4305,N/A,N/A,159.65,NYQ,3.4800,60175,N/A,N/A,ARC,0.6390,n/a,ARC Document Solutions,N/A,3.1700,3.4000,05 August 2016

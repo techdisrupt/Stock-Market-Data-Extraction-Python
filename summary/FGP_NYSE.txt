@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,10.51,22.79,19.56,273.80M,['NYSE'],N/A,1994,N/A,6/14/2016,N/A,1930.00,NYQ,20.00,108712,2.05,6/3/2016,FGP,-0.64,n/a,Ferrellgas Partners,N/A,13.76,19.49,06 August 2016

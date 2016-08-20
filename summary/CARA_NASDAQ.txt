@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,23.61,5.67,-30.08M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,163.42,NGM,6.24,2360653,N/A,N/A,CARA,-1.19,n/a,Cara Therapeutics,N/A,4.26,5.94,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,3.56,21.64,21.18,4.41B,['NYSE'],N/A,Consumer Durables,27.54,7/20/2016,N/A,45160.00,NYQ,21.24,898232,0.75,7/8/2016,ABB,0.77,n/a,ABB Ltd,N/A,15.74,21.00,04 August 2016

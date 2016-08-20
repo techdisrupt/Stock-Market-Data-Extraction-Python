@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,12.250,4.300,-16.79M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,91.81,NGM,4.090,171231,N/A,N/A,VBLT,-0.794,2014,Vascular Biogenics Ltd.,N/A,2.760,4.290,15 August 2016

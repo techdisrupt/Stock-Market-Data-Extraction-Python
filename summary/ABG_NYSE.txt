@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Automotive Aftermarket,USD,N/A,0.00,87.63,56.82,326.20M,['NYSE'],N/A,Consumer Durables,8.74,8/22/2008,N/A,1270.00,NYQ,57.44,94065,0.00,7/30/2008,ABG,6.56,2002,Asbury Automotive Group Inc,N/A,43.56,56.08,05 August 2016

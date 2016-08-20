@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,2.75,40.30,32.89,8.45B,['NYSE'],N/A,Basic Industries,1494.09,4/7/2016,N/A,59130.00,NYQ,32.86,2541271,0.90,2/24/2016,RIO,0.02,2002,Rio Tinto Plc,N/A,21.89,33.27,09 August 2016

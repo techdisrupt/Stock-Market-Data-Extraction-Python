@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,0.00,123.75,86.30,99.84M,['NASDAQ'],N/A,Miscellaneous,43.98,N/A,N/A,1500.00,NMS,87.50,480405,0.00,11/8/2010,STMP,1.98,1999,Stamps.com Inc.,N/A,68.82,86.61,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,2.73,23.04,21.68,0.00,['NASDAQ'],N/A,Finance,13.49,5/25/2016,N/A,227.01,NGM,21.45,2885,0.60,7/28/2016,ANCX,1.59,n/a,Access National Corporation,N/A,16.26,21.57,04 August 2016

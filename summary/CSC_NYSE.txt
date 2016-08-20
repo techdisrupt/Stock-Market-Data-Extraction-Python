@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,1.18,52.55,48.00,970.00M,['NYSE'],N/A,Technology,27.26,7/11/2016,N/A,6720.00,NYQ,65.00,773920,0.56,6/10/2016,CSC,1.78,n/a,Computer Sciences Corporation,N/A,24.27,47.99,06 August 2016

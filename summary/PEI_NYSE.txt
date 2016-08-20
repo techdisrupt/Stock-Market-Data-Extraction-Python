@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.38,25.67,24.66,235.10M,['NYSE'],N/A,Consumer Services,N/A,6/15/2016,N/A,1730.00,NYQ,24.86,414636,0.84,5/27/2016,PEI,-1.14,n/a,Pennsylvania Real Estate Investment Trust,N/A,16.42,24.56,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,10.05,20.00,14.98,567.87M,['NYSE'],N/A,Transportation,17.30,5/2/2016,N/A,1580.00,NYQ,14.98,165404,1.50,7/18/2016,SSW,0.87,2005,Seaspan Corporation,N/A,13.53,14.96,13 August 2016

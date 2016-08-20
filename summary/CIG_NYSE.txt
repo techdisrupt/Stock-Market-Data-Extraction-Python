@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,3.45,3.03,3.02,816.95M,['NYSE'],N/A,Public Utilities,11.84,N/A,N/A,3640.00,NYQ,2.92,9427368,0.10,5/2/2016,CIG,0.24,n/a,Comp En De Mn Cemig ADS,N/A,1.02,2.95,06 August 2016

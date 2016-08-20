@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,0.00,5.79,1.54,-1.15M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,5.22,NCM,1.64,294241,0.00,2/27/2008,DRAM,-1.07,n/a,Dataram Corporation,N/A,1.10,1.54,06 August 2016

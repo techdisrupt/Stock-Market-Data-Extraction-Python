@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Professional Services,USD,N/A,N/A,16.90,15.22,48.60M,['NYSE'],N/A,Technology,21.61,N/A,N/A,829.95,NYQ,15.27,12509,N/A,N/A,ZPIN,0.70,2014,Zhaopin Limited,N/A,11.65,15.28,15 August 2016

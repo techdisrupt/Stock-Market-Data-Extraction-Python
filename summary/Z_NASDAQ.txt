@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,39.880,35.210,7.20M,['NASDAQ'],N/A,2011,N/A,N/A,N/A,6380.00,NMS,35.550,811876,N/A,N/A,Z,-1.435,n/a,Zillow,N/A,15.360,35.200,15 August 2016

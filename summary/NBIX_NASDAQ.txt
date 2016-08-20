@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.00,58.46,50.24,-128.16M,['NASDAQ'],N/A,1996,N/A,N/A,N/A,4330.00,NMS,N/A,532619,0.00,N/A,NBIX,-1.24,n/a,Neurocrine Biosciences,N/A,31.25,50.08,07 August 2016

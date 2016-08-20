@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.420,85.350,82.340,393.95M,['NYSE'],N/A,Consumer Services,52.065,6/1/2016,N/A,8050.00,NYQ,82.840,262416,2.000,5/16/2016,REG,1.591,1993,Regency Centers Corporation,N/A,55.790,82.490,09 August 2016

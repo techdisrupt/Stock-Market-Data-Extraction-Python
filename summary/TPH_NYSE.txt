@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,15.70,13.62,377.46M,['NYSE'],N/A,2013,9.26,N/A,N/A,2190.00,NYQ,13.61,1290580,N/A,N/A,TPH,1.47,n/a,Tri Pointe Homes,N/A,8.83,13.65,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,1.61,47.46,46.61,729.16M,['NYSE'],N/A,Public Utilities,29.87,6/15/2016,N/A,7020.00,NYQ,46.29,376015,0.75,5/27/2016,ITC,1.55,2005,ITC Holdings Corp.,N/A,30.33,46.61,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.44,27.10,26.86,0.00,['NASDAQ'],N/A,Finance,17.40,6/15/2016,N/A,1820.00,NMS,26.98,125113,0.92,5/27/2016,TRMK,1.55,n/a,Trustmark Corporation,N/A,19.75,26.76,15 August 2016

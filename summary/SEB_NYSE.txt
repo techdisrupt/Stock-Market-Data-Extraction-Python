@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,3500.00,3150.00,272.00M,['NYSE'],N/A,n/a,15.21,12/28/2012,N/A,3650.00,ASE,3180.00,296,0.00,12/13/2012,SEB,164.02,1996,Seaboard Corporation,N/A,2427.01,3180.00,13 August 2016

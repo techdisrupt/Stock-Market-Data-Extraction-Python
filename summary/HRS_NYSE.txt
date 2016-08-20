@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,2.27,89.78,88.40,1.51B,['NYSE'],N/A,Capital Goods,34.37,6/13/2016,N/A,11010.00,NYQ,88.73,694932,2.00,5/27/2016,HRS,2.58,n/a,Harris Corporation,N/A,70.10,88.25,07 August 2016

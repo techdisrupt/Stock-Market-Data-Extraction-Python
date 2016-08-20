@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,15.92,15.76,0.00,['NYSE'],N/A,2012,N/A,5/31/2016,N/A,N/A,NYQ,15.89,51238,0.00,5/20/2016,NDP,N/A,n/a,Tortoise Energy Independence Fund,N/A,7.75,15.60,14 August 2016

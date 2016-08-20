@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,3.88,35.46,32.02,2.61B,['NYSE'],N/A,Finance,11.40,6/30/2016,N/A,19670.00,NYQ,32.12,489457,1.25,5/31/2016,SLF,2.82,n/a,Sun Life Financial Inc.,N/A,25.31,32.08,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,3.43,95.55,87.73,22.25B,['NYSE'],N/A,Energy,34.77,6/10/2016,N/A,363110.00,NYQ,87.60,9617289,3.00,5/11/2016,XOM,2.52,n/a,Exxon Mobil Corporation,N/A,66.55,87.48,06 August 2016

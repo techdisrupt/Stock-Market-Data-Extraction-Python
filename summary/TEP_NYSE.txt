@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,6.37,50.78,47.41,329.47M,['NYSE'],N/A,2013,22.02,5/13/2016,N/A,3510.00,NYQ,48.83,203942,3.02,7/27/2016,TEP,2.21,n/a,Tallgrass Energy Partners,N/A,25.82,47.39,14 August 2016

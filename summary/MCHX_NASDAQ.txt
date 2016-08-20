@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,0.00,5.14,3.19,-1.44M,['NASDAQ'],N/A,2004,6.98,5/18/2015,N/A,128.57,NMS,3.12,126720,0.00,5/5/2015,MCHX,0.45,n/a,Marchex,N/A,3.02,3.18,07 August 2016

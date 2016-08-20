@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,0.0000,2.5500,0.8300,-3.83M,['NYSE'],N/A,n/a,N/A,9/12/2014,N/A,7.51,ASE,0.8090,288953,0.0000,9/2/2014,VII,-1.0700,n/a,Vicon Industries,N/A,0.4600,0.7900,15 August 2016

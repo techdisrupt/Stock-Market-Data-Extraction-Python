@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,11.78,31.20,N/A,0.00,['NYSE'],N/A,2005,N/A,6/15/2016,N/A,N/A,NYQ,N/A,0,1.80,5/10/2016,TAL,2.08,n/a,TAL International Group,N/A,8.15,15.28,14 August 2016

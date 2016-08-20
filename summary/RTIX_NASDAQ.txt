@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,7.08,3.11,35.32M,['NASDAQ'],N/A,2000,43.80,N/A,N/A,179.67,NMS,3.84,109770,N/A,N/A,RTIX,0.07,n/a,RTI Surgical,N/A,2.81,3.11,10 August 2016

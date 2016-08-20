@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,10.50,25.22,23.95,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,24.24,66113,2.52,7/20/2016,DMO,N/A,2010,Western Asset Mortgage Defined Opportunity Fund Inc,N/A,22.00,23.95,15 August 2016

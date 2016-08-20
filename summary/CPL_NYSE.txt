@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,0.90,14.37,14.36,1.07B,['NYSE'],N/A,Public Utilities,24.86,10/8/2014,N/A,7210.00,NYQ,14.38,679652,0.12,5/2/2016,CPL,0.57,2004,CPFL Energia S.A.,N/A,6.38,14.09,06 August 2016

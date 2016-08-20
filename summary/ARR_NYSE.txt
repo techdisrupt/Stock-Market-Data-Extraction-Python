@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,11.71,22.97,22.58,0.00,['NYSE'],N/A,n/a,N/A,7/27/2016,N/A,843.04,NYQ,22.97,411675,2.64,7/13/2016,ARR,-9.65,n/a,ARMOUR Residential REIT,N/A,16.61,22.48,05 August 2016

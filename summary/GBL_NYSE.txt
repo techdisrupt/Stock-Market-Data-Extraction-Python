@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.26,41.67,31.61,158.20M,['NYSE'],N/A,1999,10.02,6/28/2016,N/A,931.36,NYQ,31.86,30202,0.08,6/10/2016,GBL,3.18,n/a,Gamco Investors,N/A,25.95,31.27,07 August 2016

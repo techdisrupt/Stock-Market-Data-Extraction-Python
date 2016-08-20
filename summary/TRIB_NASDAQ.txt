@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: In Vitro & In Vivo Diagnostic Substances,USD,N/A,0.00,16.99,12.42,15.55M,['NASDAQ'],N/A,Health Care,53.36,7/1/2015,N/A,288.62,NMS,24.00,32853,0.00,6/5/2015,TRIB,0.23,1992,Trinity Biotech plc,N/A,9.20,12.47,14 August 2016

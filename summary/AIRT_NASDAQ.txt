@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,0.00,26.99,21.50,7.34M,['NASDAQ'],N/A,n/a,10.49,6/28/2013,N/A,51.24,NCM,22.00,100,0.00,6/5/2013,AIRT,2.06,n/a,Air T,N/A,16.49,21.60,04 August 2016

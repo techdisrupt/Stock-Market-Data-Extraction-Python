@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.00,45.87,38.69,669.27M,['NYSE'],N/A,Public Utilities,33.46,6/25/2013,N/A,3290.00,NYQ,38.76,24992,0.00,6/7/2013,USM,1.16,1988,United States Cellular Corporation,N/A,32.72,38.74,15 August 2016

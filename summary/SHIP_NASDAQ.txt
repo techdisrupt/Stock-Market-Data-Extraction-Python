@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,0.00,7.90,4.34,-8.44M,['NASDAQ'],N/A,Transportation,N/A,N/A,N/A,79.80,NCM,6.00,112960,0.00,7/7/2008,SHIP,-1.02,n/a,Seanergy Maritime Holdings Corp,N/A,1.10,4.40,13 August 2016

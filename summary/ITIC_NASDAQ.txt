@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Insurers,USD,N/A,0.65,106.80,98.71,19.96M,['NASDAQ'],N/A,Finance,15.11,6/30/2016,N/A,186.69,NMS,97.20,14528,0.64,6/13/2016,ITIC,6.40,n/a,Investors Title Company,N/A,67.25,97.76,07 August 2016

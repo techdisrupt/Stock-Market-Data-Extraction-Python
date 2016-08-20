@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,3.810,33.080,28.750,0.00,['NASDAQ'],N/A,Finance,16.487,7/12/2016,N/A,50.22,NCM,30.500,50,1.080,6/29/2016,JXSB,1.720,n/a,Jacksonville Bancorp Inc.,N/A,23.200,28.358,07 August 2016

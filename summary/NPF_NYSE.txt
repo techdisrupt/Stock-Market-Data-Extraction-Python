@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.30,15.35,15.16,0.00,['NYSE'],N/A,1991,N/A,8/1/2016,N/A,N/A,NYQ,15.20,27215,0.82,7/13/2016,NPF,1.33,n/a,Nuveen Premier Municipal Income Fund,N/A,12.72,15.19,07 August 2016

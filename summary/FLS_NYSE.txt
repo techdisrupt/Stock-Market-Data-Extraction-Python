@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Fluid Controls,USD,N/A,1.64,52.50,46.67,683.83M,['NYSE'],N/A,Capital Goods,23.24,7/8/2016,N/A,6110.00,NYQ,46.88,709717,0.76,6/22/2016,FLS,2.02,n/a,Flowserve Corporation,N/A,33.86,46.58,07 August 2016

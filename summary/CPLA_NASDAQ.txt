@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,2.63,63.01,59.37,73.74M,['NASDAQ'],N/A,Consumer Services,18.62,7/15/2016,N/A,694.01,NMS,60.00,97553,1.56,5/23/2016,CPLA,3.22,2006,Capella Education Company,N/A,39.06,59.30,06 August 2016

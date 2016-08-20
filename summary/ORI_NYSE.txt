@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,3.89,20.00,19.45,726.65M,['NYSE'],N/A,Finance,12.76,6/15/2016,N/A,5080.00,NYQ,20.30,1102204,0.75,6/1/2016,ORI,1.53,n/a,Old Republic International Corporation,N/A,14.86,19.30,07 August 2016

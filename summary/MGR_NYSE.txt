@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,27.69,27.09,901.30M,['NYSE'],N/A,2012,3.10,5/16/2016,N/A,1440.00,NYQ,26.69,30238,N/A,7/28/2016,MGR,8.93,n/a,Affiliated Managers Group,N/A,24.73,27.24,04 August 2016

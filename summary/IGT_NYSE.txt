@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous manufacturing industries,USD,N/A,3.74,21.77,21.59,1.59B,['NYSE'],N/A,Consumer Durables,71.69,6/23/2016,N/A,4340.00,NYQ,22.99,1127762,0.80,6/7/2016,IGT,0.30,n/a,International Game Technology,N/A,12.48,21.57,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,25.24,9.20,117.50M,['NASDAQ'],N/A,Public Utilities,30.99,N/A,N/A,1340.00,NMS,9.60,2603578,N/A,N/A,INFN,0.30,2007,Infinera Corporation,N/A,8.20,9.02,07 August 2016

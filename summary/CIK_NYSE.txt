@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.89,3.07,2.99,0.00,['NYSE'],N/A,n/a,N/A,7/18/2016,N/A,N/A,ASE,3.00,111885,0.26,8/5/2016,CIK,-0.15,n/a,Credit Suisse Asset Management Income Fund,N/A,2.55,2.98,06 August 2016

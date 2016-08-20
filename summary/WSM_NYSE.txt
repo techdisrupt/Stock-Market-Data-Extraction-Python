@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.740,89.38,54.23,663.07M,['NYSE'],N/A,n/a,16.27,8/26/2016,N/A,4850.00,NYQ,54.34,1455260,1.48,7/20/2016,WSM,3.341,n/a,Williams-Sonoma,N/A,47.33,54.01,15 August 2016

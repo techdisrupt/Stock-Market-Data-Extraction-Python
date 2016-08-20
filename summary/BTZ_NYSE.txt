@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,7.80,13.30,13.25,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,13.26,155898,0.97,7/13/2016,BTZ,-0.08,2006,BlackRock Credit Allocation Income Trust,N/A,11.60,13.27,05 August 2016

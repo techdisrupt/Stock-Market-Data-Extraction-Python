@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oilfield Services/Equipment,USD,N/A,1.68,46.69,43.11,2.82B,['NYSE'],N/A,Energy,N/A,6/22/2016,N/A,37640.00,NYQ,43.77,6442744,0.72,5/27/2016,HAL,-6.65,n/a,Halliburton Company,N/A,27.64,42.99,07 August 2016

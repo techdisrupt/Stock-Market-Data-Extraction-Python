@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.65,13.32,12.10,0.00,['NASDAQ'],N/A,n/a,16.58,5/9/2016,N/A,50.20,NCM,12.22,28038,0.20,7/14/2016,PBHC,0.73,n/a,Pathfinder Bancorp,N/A,10.51,12.15,07 August 2016

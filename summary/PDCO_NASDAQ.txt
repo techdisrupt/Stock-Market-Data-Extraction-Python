@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,2.03,53.07,47.59,443.80M,['NASDAQ'],N/A,1992,25.11,7/29/2016,N/A,4590.00,NMS,53.00,1252621,0.96,7/13/2016,PDCO,1.91,n/a,Patterson Companies,N/A,38.51,47.36,07 August 2016

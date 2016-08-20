@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,40.7000,N/A,N/A,['NYSE'],N/A,n/a,N/A,N/A,N/A,N/A,PCX,40.1000,1179,N/A,N/A,FONE,-0.0650,n/a,First Trust NASDAQ CEA Smartphone Index Fund,N/A,31.6300,39.3600,06 August 2016

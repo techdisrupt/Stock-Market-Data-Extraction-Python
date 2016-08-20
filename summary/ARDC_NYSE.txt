@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.4000,15.0800,14.5300,0.00,['NYSE'],N/A,2012,N/A,6/30/2016,N/A,N/A,NYQ,14.5000,33766,1.1900,7/21/2016,ARDC,N/A,n/a,Ares Dynamic Credit Allocation Fund,N/A,11.8600,14.4200,05 August 2016

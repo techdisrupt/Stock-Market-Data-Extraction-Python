@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,9.97,36.98,27.98,1.68B,['NYSE'],N/A,1998,80.46,5/13/2016,N/A,11180.00,NYQ,29.15,2060102,2.80,7/27/2016,PAA,0.35,n/a,Plains All American Pipeline,N/A,14.82,27.91,08 August 2016

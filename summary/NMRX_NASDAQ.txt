@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.00,9.50,7.41,2.43M,['NASDAQ'],N/A,Consumer Durables,N/A,N/A,N/A,142.28,NMS,N/A,14512,0.00,8/16/1996,NMRX,-1.09,n/a,Numerex Corp.,N/A,5.17,7.42,07 August 2016

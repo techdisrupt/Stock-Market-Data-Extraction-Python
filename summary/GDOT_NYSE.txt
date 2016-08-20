@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,N/A,24.39,23.98,94.51M,['NYSE'],N/A,Finance,42.05,N/A,N/A,1160.00,NYQ,24.19,481098,N/A,N/A,GDOT,0.57,2010,Green Dot Corporation,N/A,15.28,23.66,07 August 2016

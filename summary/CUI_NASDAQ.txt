@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,9.42,5.02,-1.25M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,103.18,NCM,4.94,70409,N/A,12/4/1985,CUI,-0.22,n/a,CUI Global,N/A,4.48,5.03,06 August 2016

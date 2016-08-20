@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,3.62,37.69,27.03,8.40B,['NYSE'],N/A,Public Utilities,13.89,9/13/2016,N/A,53240.00,NYQ,26.79,381498,1.00,12/24/2015,BT,1.93,n/a,BT Group plc,N/A,24.36,27.23,05 August 2016

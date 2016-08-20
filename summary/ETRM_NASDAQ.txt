@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Electromedical & Electrotherapeutic Apparatus,USD,N/A,N/A,5.8500,0.2045,-28.27M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,1.72,NCM,0.2200,2620849,N/A,N/A,ETRM,-3.8300,2007,EnteroMedics Inc.,N/A,0.1700,0.1917,06 August 2016

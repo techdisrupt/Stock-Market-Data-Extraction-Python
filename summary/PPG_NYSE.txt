@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,1.53,117.00,104.61,2.69B,['NYSE'],N/A,n/a,19.30,6/10/2016,N/A,27810.00,NYQ,104.43,1063659,1.60,5/6/2016,PPG,5.41,n/a,PPG Industries,N/A,82.93,104.10,08 August 2016

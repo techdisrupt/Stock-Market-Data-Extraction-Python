@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Construction/Ag Equipment/Trucks,USD,N/A,0.00,14.97,13.24,257.47M,['NYSE'],N/A,Capital Goods,7.16,N/A,N/A,874.08,NYQ,13.68,570222,0.00,9/26/2008,WNC,1.91,1991,Wabash National Corporation,N/A,9.68,13.24,15 August 2016

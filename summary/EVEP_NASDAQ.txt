@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.00,9.99,2.36,82.35M,['NASDAQ'],N/A,2006,2.36,2/12/2016,N/A,123.62,NMS,2.65,410542,0.00,2/3/2016,EVEP,1.07,n/a,EV Energy Partners,N/A,1.60,2.37,06 August 2016

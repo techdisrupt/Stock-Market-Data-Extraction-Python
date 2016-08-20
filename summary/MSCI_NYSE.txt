@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,1.31,86.98,86.22,534.95M,['NYSE'],N/A,Miscellaneous,35.49,5/27/2016,N/A,8220.00,NYQ,86.93,396790,1.12,5/11/2016,MSCI,2.45,n/a,MSCI Inc,N/A,56.87,85.38,07 August 2016

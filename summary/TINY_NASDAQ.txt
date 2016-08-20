@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.00,2.68,1.56,-5.35M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,47.81,NGM,2.09,12777,0.00,7/1/2002,TINY,-0.72,n/a,Harris & Harris Group,N/A,1.44,1.55,07 August 2016

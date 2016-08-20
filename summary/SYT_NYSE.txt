@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Agricultural Chemicals,USD,N/A,2.91,85.89,78.66,2.51B,['NYSE'],N/A,Basic Industries,30.35,6/24/2016,N/A,35800.00,NYQ,77.93,607329,2.29,4/27/2016,SYT,2.57,n/a,Syngenta AG,N/A,61.61,78.89,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.00,231.85,190.61,60.49M,['NASDAQ'],N/A,n/a,17.54,12/14/2015,N/A,616.64,NMS,193.50,4212,0.00,12/2/2015,DHIL,11.00,n/a,Diamond Hill Investment Group,N/A,140.98,190.52,06 August 2016

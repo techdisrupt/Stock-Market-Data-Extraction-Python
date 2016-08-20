@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,N/A,23.25,12.47,44.25M,['NASDAQ'],N/A,1992,34.73,N/A,N/A,107.69,NMS,12.36,13623,N/A,N/A,USAK,0.35,n/a,USA Truck,N/A,11.28,12.47,15 August 2016

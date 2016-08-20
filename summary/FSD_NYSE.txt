@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,15.40,15.33,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NYQ,15.37,140365,N/A,8/1/2016,FSD,N/A,2010,First Trust High Income Long Short Fund,N/A,12.91,15.34,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.95,56.53,54.97,0.00,['NASDAQ'],N/A,1993,14.43,7/1/2016,N/A,479.56,NMS,56.26,64030,0.52,6/3/2016,CASH,3.90,n/a,Meta Financial Group,N/A,36.22,54.81,07 August 2016

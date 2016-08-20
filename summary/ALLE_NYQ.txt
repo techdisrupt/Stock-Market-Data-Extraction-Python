@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Diversified Commercial Services,USD,N/A,0.66,73.49,72.82,478.30M,['NYSE'],N/A,Consumer Services,35.54,6/30/2016,N/A,6940.00,NYQ,72.59,963955,0.48,6/13/2016,ALLE,2.04,2013,Allegion plc,N/A,52.95,72.78,01 August 2016

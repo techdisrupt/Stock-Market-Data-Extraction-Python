@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,9.5400,0.7999,100.82M,['NYSE'],N/A,2011,N/A,N/A,N/A,39.36,NYQ,0.7937,1586265,N/A,N/A,BCEI,-15.9520,n/a,Bonanza Creek Energy,N/A,0.6000,0.7827,05 August 2016

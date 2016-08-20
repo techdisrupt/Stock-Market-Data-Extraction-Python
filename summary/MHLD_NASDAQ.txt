@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,4.00,16.85,13.80,163.97M,['NASDAQ'],N/A,n/a,11.12,7/15/2016,N/A,1020.00,NMS,N/A,997937,0.56,6/29/2016,MHLD,1.25,n/a,Maiden Holdings,N/A,11.14,13.90,07 August 2016

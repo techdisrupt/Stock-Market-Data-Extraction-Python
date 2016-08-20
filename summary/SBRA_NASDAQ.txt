@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,6.860,26.930,24.640,234.39M,['NASDAQ'],N/A,n/a,29.755,5/31/2016,N/A,1630.00,NMS,N/A,691319,1.680,5/12/2016,SBRA,0.837,n/a,Sabra Healthcare REIT,N/A,14.920,24.580,10 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.55,30.78,26.33,108.30M,['NYSE'],N/A,2013,14.78,5/26/2016,N/A,587.56,NYQ,27.30,366848,0.15,5/12/2016,BRSS,1.85,n/a,Global Brass and Copper Holdings,N/A,17.44,27.76,07 August 2016

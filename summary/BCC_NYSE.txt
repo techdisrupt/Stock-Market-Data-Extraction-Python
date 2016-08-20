@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,33.15,28.01,163.13M,['NYSE'],N/A,2013,22.39,N/A,N/A,1080.00,NYQ,27.94,284853,N/A,4/17/2014,BCC,1.25,n/a,Boise Cascade,N/A,13.80,27.80,05 August 2016

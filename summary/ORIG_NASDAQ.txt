@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,3.78,1.93,0.00,['NASDAQ'],N/A,Energy,N/A,6/2/2015,N/A,N/A,NMS,1.95,1666832,0.00,5/20/2015,ORIG,2.32,n/a,Ocean Rig UDW Inc.,N/A,0.66,1.90,07 August 2016

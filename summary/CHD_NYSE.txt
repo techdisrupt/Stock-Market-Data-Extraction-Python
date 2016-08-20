@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,1.45,107.36,101.27,793.40M,['NYSE'],N/A,n/a,32.13,6/1/2016,N/A,12900.00,NYQ,100.49,784627,1.42,5/12/2016,CHD,3.13,n/a,Church & Dwight Company,N/A,76.85,101.18,06 August 2016

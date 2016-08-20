@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.00,7.75,6.48,22.35M,['NASDAQ'],N/A,Technology,N/A,11/14/2014,N/A,306.61,NMS,6.53,188037,0.00,10/23/2014,KZ,-0.09,n/a,KongZhong Corporation,N/A,4.70,6.50,07 August 2016

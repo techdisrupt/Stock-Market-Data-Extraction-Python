@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.00,16.96,10.59,0.00,['NYSE'],N/A,2005,N/A,7/15/2016,N/A,N/A,NYQ,10.65,70722,0.85,7/6/2016,KYE,-17.64,n/a,Kayne Anderson Energy Total Return Fund,N/A,4.62,10.56,07 August 2016

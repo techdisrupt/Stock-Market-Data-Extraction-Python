@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Catalog/Specialty Distribution,USD,N/A,N/A,86.42,83.37,5.42B,['NYSE'],N/A,Consumer Services,19.76,N/A,N/A,205810.00,NYQ,82.39,8709279,N/A,N/A,BABA,4.17,2014,Alibaba Group Holding Limited,N/A,57.20,83.12,01 August 2016

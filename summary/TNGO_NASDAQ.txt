@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,9.59,9.24,9.64M,['NASDAQ'],N/A,2011,N/A,N/A,N/A,372.61,NMS,11.00,89440,N/A,N/A,TNGO,-0.11,n/a,Tangoe,N/A,5.32,9.26,14 August 2016

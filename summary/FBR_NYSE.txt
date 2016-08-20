@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Paper,USD,N/A,20.50,14.94,5.83,1.55B,['NYSE'],N/A,Basic Industries,5.26,5/16/2016,N/A,3250.00,NYQ,5.89,1973683,1.20,4/29/2016,FBR,1.11,1997,Fibria Celulose S.A.,N/A,5.79,5.89,06 August 2016

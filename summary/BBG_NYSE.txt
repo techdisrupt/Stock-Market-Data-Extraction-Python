@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,9.380,6.250,142.33M,['NYSE'],N/A,Energy,N/A,N/A,N/A,264.73,NYQ,5.450,3669702,N/A,6/15/2016,BBG,-10.808,2004,Bill Barrett Corporation,N/A,2.190,5.920,05 August 2016

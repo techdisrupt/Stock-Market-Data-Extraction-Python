@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,3.99,11.36,10.95,15.22M,['NASDAQ'],N/A,n/a,31.46,8/19/2016,N/A,319.23,NMS,N/A,18558,0.44,8/3/2016,AMSWA,0.35,n/a,American Software,N/A,8.24,11.02,05 August 2016

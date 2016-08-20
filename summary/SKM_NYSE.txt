@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,4.21,25.54,22.87,4.23B,['NYSE'],N/A,n/a,10.56,8/19/2015,N/A,14410.00,NYQ,22.67,210120,0.96,12/29/2008,SKM,2.15,n/a,SK Telecom Co.,N/A,17.52,22.91,14 August 2016

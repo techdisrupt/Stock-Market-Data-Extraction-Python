@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.91,20.00,N/A,7.57M,['NASDAQ'],N/A,n/a,11.45,5/31/2016,N/A,49.59,NGM,19.90,0,0.18,8/4/2016,NSEC,1.72,n/a,National Security Group,N/A,12.23,19.74,07 August 2016

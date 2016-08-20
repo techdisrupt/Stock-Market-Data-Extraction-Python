@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,168.51,160.00,846.39M,['NYSE'],N/A,2010,40.38,N/A,N/A,15020.00,NYQ,162.38,1641792,N/A,N/A,FLT,4.02,n/a,FleetCor Technologies,N/A,107.56,154.79,07 August 2016

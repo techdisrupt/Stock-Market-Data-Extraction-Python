@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,1.71,83.65,81.43,7.48B,['NYSE'],N/A,n/a,27.21,8/3/2016,N/A,72410.00,NYQ,81.90,3706032,1.40,7/18/2016,LOW,3.00,n/a,Lowe's Companies,N/A,62.62,80.94,07 August 2016

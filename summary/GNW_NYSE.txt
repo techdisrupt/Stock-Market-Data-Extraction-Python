@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,0.00,5.75,3.43,375.50M,['NYSE'],N/A,Finance,N/A,10/27/2008,N/A,1740.00,NYQ,3.50,8908732,0.00,10/8/2008,GNW,-0.71,2004,Genworth Financial Inc,N/A,1.57,3.34,07 August 2016

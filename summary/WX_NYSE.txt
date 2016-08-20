@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,46,46,0.00,['NYSE'],N/A,Health Care,N/A,N/A,N/A,N/A,NYQ,N/A,0,N/A,N/A,WX,1,2007,Wuxi Pharmatech (Cayman) Inc.,N/A,32,N/A,15 August 2016

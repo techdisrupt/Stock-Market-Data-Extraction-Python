@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.00,5.87,5.53,131.00M,['NYSE'],N/A,Basic Industries,N/A,7/12/2013,N/A,2250.00,NYQ,5.54,10111357,0.00,7/1/2013,IAG,-1.86,n/a,Iamgold Corporation,N/A,1.15,5.75,07 August 2016

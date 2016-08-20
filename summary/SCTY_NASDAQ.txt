@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Engineering & Construction,USD,N/A,N/A,58.87,24.00,-546.92M,['NASDAQ'],N/A,Basic Industries,N/A,N/A,N/A,2380.00,NMS,23.99,2091415,N/A,N/A,SCTY,-0.97,2012,SolarCity Corporation,N/A,16.31,24.03,14 August 2016

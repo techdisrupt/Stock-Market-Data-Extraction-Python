@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,32.78,18.68,-15.83M,['NASDAQ'],N/A,n/a,6.92,N/A,N/A,671.33,NGM,18.28,463644,N/A,N/A,RTRX,2.64,n/a,Retrophin,N/A,11.60,18.66,09 August 2016

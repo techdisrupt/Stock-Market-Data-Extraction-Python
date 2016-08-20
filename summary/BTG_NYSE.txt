@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,3.450,3.310,197.91M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,3100.00,ASE,3.340,3358332,N/A,N/A,BTG,-0.160,n/a,B2Gold Corp,N/A,0.600,3.390,05 August 2016

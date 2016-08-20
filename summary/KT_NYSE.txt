@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,1.41,15.63,15.44,3.91B,['NYSE'],N/A,Public Utilities,15.42,4/25/2014,N/A,7600.00,NYQ,15.52,611368,0.22,12/28/2005,KT,1.01,n/a,KT Corporation,N/A,10.81,15.54,07 August 2016

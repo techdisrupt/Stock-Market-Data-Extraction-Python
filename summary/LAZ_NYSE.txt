@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,4.44,57.41,34.55,0.00,['NYSE'],N/A,Finance,6.50,5/13/2016,N/A,4270.00,NYQ,40.00,463317,1.52,8/4/2016,LAZ,5.29,2005,Lazard Ltd.,N/A,26.21,34.07,07 August 2016

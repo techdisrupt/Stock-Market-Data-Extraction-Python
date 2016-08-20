@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,2.50,76.10,68.85,939.15M,['NASDAQ'],N/A,1997,18.86,6/30/2016,N/A,9900.00,NMS,69.22,742857,1.72,6/1/2016,CHRW,3.67,n/a,C.H. Robinson Worldwide,N/A,59.71,68.49,05 August 2016

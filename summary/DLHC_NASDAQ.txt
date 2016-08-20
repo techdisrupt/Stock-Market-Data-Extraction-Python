@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Professional Services,USD,N/A,N/A,5.720,4.960,2.85M,['NASDAQ'],N/A,Technology,5.767,N/A,N/A,48.07,NCM,N/A,16845,N/A,N/A,DLHC,0.858,n/a,DLH Holdings Corp.,N/A,1.890,4.990,06 August 2016

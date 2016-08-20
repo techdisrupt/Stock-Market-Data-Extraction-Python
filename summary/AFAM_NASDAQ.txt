@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Nursing Services,USD,N/A,0.00,50.48,40.69,42.75M,['NASDAQ'],N/A,Health Care,20.05,12/28/2012,N/A,397.06,NMS,39.39,49437,0.00,12/18/2012,AFAM,1.96,n/a,Almost Family Inc,N/A,34.08,40.72,04 August 2016

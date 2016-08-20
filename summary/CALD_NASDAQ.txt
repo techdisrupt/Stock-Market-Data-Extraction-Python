@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,21.64,18.73,-400000.00,['NASDAQ'],N/A,2003,N/A,N/A,N/A,1090.00,NGM,19.13,385028,N/A,N/A,CALD,-0.26,n/a,Callidus Software,N/A,11.48,18.83,05 August 2016

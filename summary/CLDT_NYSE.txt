@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,5.97,24.80,21.00,109.20M,['NYSE'],N/A,Consumer Services,24.17,7/29/2016,N/A,826.22,NYQ,21.61,441903,1.32,7/27/2016,CLDT,0.89,2010,Chatham Lodging Trust (REIT),N/A,16.12,21.00,06 August 2016

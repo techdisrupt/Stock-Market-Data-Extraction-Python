@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.940,15.160,14.580,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,ASE,14.510,5199,0.580,7/27/2016,NBO,1.027,2002,Neuberger Berman New York Intermediate Municipal Fund Inc.,N/A,13.340,14.538,07 August 2016

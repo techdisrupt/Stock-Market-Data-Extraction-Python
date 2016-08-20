@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,8.56,22.74,22.44,0.00,['NYSE'],N/A,2009,15.08,7/15/2016,N/A,5360.00,NYQ,22.54,1616215,1.92,6/28/2016,STWD,1.50,n/a,STARWOOD PROPERTY TRUST,N/A,16.69,22.42,14 August 2016

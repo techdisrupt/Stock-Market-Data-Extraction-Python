@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,2.71,60.67,53.23,1.30B,['NYSE'],N/A,n/a,14.23,6/10/2016,N/A,9660.00,NYQ,53.58,1878629,1.40,5/24/2016,HOG,3.76,n/a,Harley-Davidson,N/A,36.36,53.13,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,2.49,66.15,62.03,37.74B,['NYSE'],N/A,Public Utilities,15.62,7/5/2016,N/A,254960.00,NYQ,62.35,505936,1.54,5/31/2016,CHL,3.98,n/a,China Mobile (Hong Kong) Ltd.,N/A,50.12,61.64,06 August 2016

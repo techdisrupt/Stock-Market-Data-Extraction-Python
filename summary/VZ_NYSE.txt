@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,4.210,56.950,53.66,45.82B,['NYSE'],N/A,Public Utilities,15.16,8/1/2016,N/A,218690.00,NYQ,53.67,5278475,2.260,7/6/2016,VZ,3.540,n/a,Verizon Communications Inc.,N/A,38.060,53.650,15 August 2016

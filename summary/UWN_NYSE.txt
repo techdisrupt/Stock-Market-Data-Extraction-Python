@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,2.46,1.97,7.65M,['NYSE'],N/A,n/a,25.97,N/A,N/A,35.58,ASE,2.00,3648,N/A,N/A,UWN,0.08,n/a,Nevada Gold & Casinos,N/A,1.50,1.99,07 August 2016

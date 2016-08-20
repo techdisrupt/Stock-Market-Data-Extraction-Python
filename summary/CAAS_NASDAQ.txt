@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,7.28,3.46,42.26M,['NASDAQ'],N/A,n/a,4.59,7/28/2014,N/A,112.74,NCM,3.70,19135,0.00,6/24/2014,CAAS,0.76,n/a,China Automotive Systems,N/A,3.10,3.47,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,1.48,10.91,8.06,51.81M,['NYSE'],N/A,Finance,18.04,5/19/2016,N/A,126.81,NYQ,8.05,17100,0.12,7/27/2016,PZN,0.44,2007,Pzena Investment Management Inc,N/A,5.91,8.12,08 August 2016

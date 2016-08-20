@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,25.46,19.85,276.85M,['NYSE'],N/A,Public Utilities,217.42,N/A,N/A,2790.00,NYQ,20.25,1961088,N/A,N/A,CIEN,0.09,1997,Ciena Corporation,N/A,15.62,19.71,06 August 2016

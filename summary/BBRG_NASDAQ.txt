@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,13.390,5.30,35.56M,['NASDAQ'],N/A,2010,18.56,N/A,N/A,75.83,NMS,5.16,462460,N/A,N/A,BBRG,0.278,n/a,Bravo Brio Restaurant Group,N/A,5.070,5.270,05 August 2016

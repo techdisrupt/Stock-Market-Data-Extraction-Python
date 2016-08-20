@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.90,7.09,6.95,0.00,['NASDAQ'],N/A,n/a,N/A,6/28/2016,N/A,N/A,NMS,N/A,62520,0.44,6/10/2016,FUND,-0.89,n/a,Royce Focus Trust,N/A,4.66,6.90,10 August 2016

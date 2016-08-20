@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.05,171.88,163.00,1.16B,['NYSE'],N/A,Energy,N/A,4/12/2016,N/A,28510.00,NYQ,168.98,2687370,0.08,3/29/2016,PXD,-3.29,n/a,Pioneer Natural Resources Company,N/A,103.50,162.90,08 August 2016

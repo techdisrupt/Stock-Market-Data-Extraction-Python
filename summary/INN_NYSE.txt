@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.78,14.58,13.86,156.24M,['NYSE'],N/A,2011,8.07,5/31/2016,N/A,1220.00,NYQ,14.02,308306,0.53,5/13/2015,INN,1.74,n/a,Summit Hotel Properties,N/A,9.00,13.88,14 August 2016

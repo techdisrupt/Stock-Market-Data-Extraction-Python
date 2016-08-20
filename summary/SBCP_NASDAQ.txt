@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,15.25,14.07,0.00,['NASDAQ'],N/A,2014,N/A,N/A,N/A,63.77,NCM,14.10,2085,N/A,N/A,SBCP,-0.35,n/a,Sunshine Bancorp,N/A,13.55,14.13,14 August 2016

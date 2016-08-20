@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Railroads,USD,N/A,0.56,102.41,71.56,656.27M,['NYSE'],N/A,Capital Goods,17.72,8/29/2016,N/A,6530.00,NYQ,72.51,290228,0.40,8/11/2016,WAB,4.09,n/a,Westinghouse Air Brake Technologies Corporation,N/A,60.28,71.46,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,N/A,39.53,38.78,95.65M,['NYSE'],N/A,Miscellaneous,80.75,N/A,N/A,3280.00,NYQ,38.83,1185600,N/A,N/A,GRUB,0.48,2014,GrubHub Inc.,N/A,17.77,38.65,07 August 2016

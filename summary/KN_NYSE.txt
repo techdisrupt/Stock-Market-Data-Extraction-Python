@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Electronics/Appliances,USD,N/A,N/A,22.33,13.41,87.80M,['NYSE'],N/A,Consumer Non-Durables,N/A,N/A,N/A,1230.00,NYQ,13.85,937517,N/A,N/A,KN,-2.89,2014,Knowles Corporation,N/A,9.68,13.27,07 August 2016

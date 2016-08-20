@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.94,38.85,37.88,95.83M,['NASDAQ'],N/A,Consumer Services,N/A,6/30/2016,N/A,1540.00,NMS,38.11,222690,1.50,6/6/2016,PCH,-0.15,n/a,Potlatch Corporation,N/A,24.01,37.76,08 August 2016

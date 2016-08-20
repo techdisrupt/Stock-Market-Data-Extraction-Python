@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,8.01,3.21,9.47M,['OTC'],N/A,Technology,2.46,N/A,N/A,18.47,PNK,N/A,4744,N/A,N/A,ADAT,1.30,n/a,Authentidate Holding Corp.,N/A,0.81,3.22,05 August 2016

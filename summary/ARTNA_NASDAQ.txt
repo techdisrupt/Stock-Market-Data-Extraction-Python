@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Water Supply,USD,N/A,2.72,35.00,32.51,34.68M,['NASDAQ'],N/A,Public Utilities,25.21,5/27/2016,N/A,294.87,NMS,32.55,34025,0.90,5/12/2016,ARTNA,1.29,n/a,Artesian Resources Corporation,N/A,21.32,32.50,05 August 2016

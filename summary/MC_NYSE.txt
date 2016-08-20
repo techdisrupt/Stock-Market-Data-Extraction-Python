@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,4.86,31.84,26.73,0.00,['NYSE'],N/A,Finance,16.01,6/3/2016,N/A,410.25,NYQ,27.08,122981,1.20,5/18/2016,MC,1.70,2014,Moelis & Company,N/A,21.91,26.45,07 August 2016

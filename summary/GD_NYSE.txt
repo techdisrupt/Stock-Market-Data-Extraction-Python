@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,2.06,153.76,147.57,4.66B,['NYSE'],N/A,Capital Goods,15.83,8/5/2016,N/A,45330.00,NYQ,149.38,1138379,3.04,6/29/2016,GD,9.40,n/a,General Dynamics Corporation,N/A,121.61,147.37,07 August 2016

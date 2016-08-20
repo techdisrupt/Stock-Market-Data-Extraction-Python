@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,N/A,4.36,3.33,18.17M,['NASDAQ'],N/A,Capital Goods,20.62,N/A,N/A,178.93,NMS,4.35,19122,N/A,N/A,EXFO,0.16,n/a,EXFO Inc,N/A,2.12,3.32,06 August 2016

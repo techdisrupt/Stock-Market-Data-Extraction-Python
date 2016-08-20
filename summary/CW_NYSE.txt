@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.59,90.07,89.50,395.95M,['NYSE'],N/A,Technology,23.41,7/7/2016,N/A,3990.00,NYQ,89.86,155343,0.52,6/21/2016,CW,3.84,n/a,Curtiss-Wright Corporation,N/A,60.73,89.09,06 August 2016

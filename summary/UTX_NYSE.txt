@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Aerospace,USD,N/A,2.420,109.75,109.17,10.17B,['NYSE'],N/A,Capital Goods,12.94,9/10/2016,N/A,91840.00,NYQ,109.75,901602,2.640,5/18/2016,UTX,8.479,n/a,United Technologies Corporation,N/A,83.39,108.87,15 August 2016

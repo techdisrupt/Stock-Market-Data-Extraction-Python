@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.00,27.88,4.42,210.90M,['NASDAQ'],N/A,2006,N/A,2/12/2016,N/A,371.19,NMS,4.90,767263,0.00,1/29/2016,CLMT,-3.14,n/a,Calumet Specialty Products Partners,N/A,3.42,4.48,05 August 2016

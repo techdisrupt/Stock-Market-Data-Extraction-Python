@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,2.32,104.60,103.75,2.37B,['NASDAQ'],N/A,Finance,26.40,6/27/2016,N/A,35260.00,NMS,119.00,1240403,2.40,6/8/2016,CME,3.96,2002,CME Group Inc.,N/A,81.87,103.36,06 August 2016

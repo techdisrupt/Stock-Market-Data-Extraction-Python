@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.14,31.180,28.27,0.00,['NASDAQ'],N/A,Finance,17.27,5/26/2016,N/A,5880.00,NMS,28.66,1260845,0.32,5/17/2016,ZION,1.66,n/a,Zions Bancorporation,N/A,19.650,28.14,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,7.07,22.38,21.99,599.57M,['NASDAQ'],N/A,Consumer Services,44.38,5/19/2016,N/A,5250.00,NMS,22.50,1136749,1.56,7/20/2016,SNH,0.50,n/a,Senior Housing Properties Trust,N/A,13.53,21.86,13 August 2016

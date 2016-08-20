@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,7.09,13.93,13.20,0.00,['NYSE'],N/A,2014,N/A,7/21/2016,N/A,N/A,NYQ,13.44,165590,0.94,7/5/2016,CIO,-1.03,n/a,City Office REIT,N/A,10.09,13.29,06 August 2016

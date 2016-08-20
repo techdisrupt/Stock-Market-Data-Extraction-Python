@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,32.44,28.37,16.74M,['NASDAQ'],N/A,2007,72.38,N/A,N/A,647.37,NMS,28.58,44242,N/A,N/A,AVAV,0.39,n/a,AeroVironment,N/A,19.10,28.26,04 August 2016

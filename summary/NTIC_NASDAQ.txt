@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,0.00,18.00,N/A,-2.69M,['NASDAQ'],N/A,Capital Goods,116.67,12/17/2004,N/A,63.52,NGM,N/A,0,0.00,12/1/2004,NTIC,0.12,n/a,Northern Technologies International Corporation,N/A,9.60,14.00,07 August 2016

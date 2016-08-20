@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Materials,USD,N/A,0.00,8.36,7.63,2.40B,['NYSE'],N/A,Capital Goods,374.29,N/A,N/A,109930.00,NYQ,8.21,15431765,0.00,5/6/2008,CX,0.02,n/a,Cemex S.A.B. de C.V.,N/A,3.50,7.56,06 August 2016

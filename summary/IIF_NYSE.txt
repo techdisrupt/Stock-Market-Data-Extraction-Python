@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,29.25,28.52,0.00,['NYSE'],N/A,1994,N/A,7/15/2016,N/A,N/A,NYQ,28.69,46451,0.00,6/28/2016,IIF,-0.18,n/a,Morgan Stanley India Investment Fund,N/A,19.34,28.24,07 August 2016

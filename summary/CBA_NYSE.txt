@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,12.94,8.62,0.00,['NYSE'],N/A,n/a,N/A,5/27/2016,N/A,N/A,NYQ,9.00,70898,0.00,5/18/2016,CBA,N/A,2013,ClearBridge American Energy MLP Fund Inc.,N/A,4.58,8.65,06 August 2016

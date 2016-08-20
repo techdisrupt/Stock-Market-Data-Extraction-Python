@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,32.93,26.49,618.46M,['NYSE'],N/A,n/a,17.81,N/A,N/A,3900.00,NYQ,26.71,1902940,N/A,N/A,SBH,1.50,n/a,Sally Beauty Holdings,N/A,21.94,26.45,11 August 2016

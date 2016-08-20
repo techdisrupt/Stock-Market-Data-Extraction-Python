@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,2.78,21.00,18.59,0.00,['NASDAQ'],N/A,Finance,19.75,5/20/2016,N/A,423.94,NMS,N/A,75154,0.52,8/4/2016,OCFC,0.95,n/a,OceanFirst Financial Corp.,N/A,15.98,18.52,07 August 2016

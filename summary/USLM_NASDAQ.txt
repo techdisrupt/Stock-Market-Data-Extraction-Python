@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,0.79,64.09,63.29,37.50M,['NASDAQ'],N/A,n/a,22.15,6/17/2016,N/A,346.42,NMS,63.00,1463,0.50,5/25/2016,USLM,2.81,n/a,United States Lime & Minerals,N/A,45.56,63.01,15 August 2016

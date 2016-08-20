@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,5.2800,0.5600,34.63M,['NASDAQ'],N/A,2005,0.9821,N/A,N/A,41.58,NCM,0.6900,410869,N/A,N/A,THLD,0.5920,n/a,Threshold Pharmaceuticals,N/A,0.2100,0.5566,14 August 2016

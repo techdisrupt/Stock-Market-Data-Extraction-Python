@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.000,14.710,10.310,-1.98M,['NASDAQ'],N/A,n/a,N/A,12/1/2015,N/A,118.99,NMS,10.500,2958,0.000,11/10/2015,TWIN,-0.639,n/a,Twin Disc,N/A,8.190,10.200,15 August 2016

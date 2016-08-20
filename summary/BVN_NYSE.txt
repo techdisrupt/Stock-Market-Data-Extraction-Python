@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.00,15.70,14.76,181.38M,['NYSE'],N/A,Basic Industries,N/A,12/5/2014,N/A,3810.00,NYQ,15.13,1602469,0.00,11/14/2014,BVN,-0.84,1996,Buenaventura Mining Company Inc.,N/A,3.30,15.55,05 August 2016

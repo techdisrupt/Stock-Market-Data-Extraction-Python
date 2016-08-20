@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,22.79,12.28,23.56M,['NASDAQ'],N/A,2013,21.58,N/A,N/A,218.93,NGM,16.00,367727,N/A,N/A,AAOI,0.59,n/a,Applied Optoelectronics,N/A,8.08,12.27,05 August 2016

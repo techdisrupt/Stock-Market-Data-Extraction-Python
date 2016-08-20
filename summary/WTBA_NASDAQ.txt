@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.57,21.09,19.00,0.00,['NASDAQ'],N/A,Finance,13.86,5/25/2016,N/A,310.70,NMS,19.26,9113,0.68,8/8/2016,WTBA,1.39,n/a,West Bancorporation,N/A,16.04,19.03,15 August 2016

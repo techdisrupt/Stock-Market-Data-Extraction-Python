@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,1.13,36.34,35.38,73.73M,['NYSE'],N/A,Miscellaneous,38.08,7/1/2016,N/A,715.25,NYQ,35.28,47437,0.40,6/1/2016,VVI,0.93,n/a,Viad Corp,N/A,25.90,35.37,15 August 2016

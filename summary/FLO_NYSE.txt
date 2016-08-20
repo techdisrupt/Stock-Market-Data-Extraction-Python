@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,3.63,27.31,17.69,0.00,['NYSE'],N/A,n/a,20.10,6/23/2016,N/A,3800.00,NYQ,17.90,2403105,0.64,6/7/2016,FLO,0.89,n/a,Flowers Foods,N/A,15.64,17.62,07 August 2016

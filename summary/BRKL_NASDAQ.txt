@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.21,11.97,11.27,0.00,['NASDAQ'],N/A,n/a,15.88,5/20/2016,N/A,813.65,NMS,11.61,229608,0.36,8/3/2016,BRKL,0.73,n/a,Brookline Bancorp,N/A,9.86,11.21,05 August 2016

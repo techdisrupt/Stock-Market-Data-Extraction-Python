@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,0.3500,5.9900,5.72,560.30M,['NYSE'],N/A,Basic Industries,N/A,7/14/2016,N/A,5310.00,NYQ,5.61,17294360,0.0200,6/28/2016,AUY,-1.9890,n/a,Yamana Gold Inc.,N/A,1.3800,5.6800,15 August 2016

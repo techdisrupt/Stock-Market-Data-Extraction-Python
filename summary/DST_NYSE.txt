@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,1.09,128.66,122.01,410.90M,['NYSE'],N/A,1995,16.76,6/15/2016,N/A,4060.00,NYQ,122.34,90510,1.32,5/25/2016,DST,7.30,n/a,DST Systems,N/A,95.54,121.53,06 August 2016

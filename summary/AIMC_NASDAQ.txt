@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,2.15,30.00,27.97,97.80M,['NASDAQ'],N/A,Capital Goods,21.07,7/5/2016,N/A,725.31,NMS,28.05,169210,0.60,6/15/2016,AIMC,1.33,2006,Altra Industrial Motion Corp.,N/A,20.55,27.89,05 August 2016

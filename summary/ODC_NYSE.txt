@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous manufacturing industries,USD,N/A,2.41,38.92,36.76,29.89M,['NYSE'],N/A,Consumer Durables,19.77,9/2/2016,N/A,266.33,NYQ,36.78,9042,0.88,5/18/2016,ODC,1.86,n/a,Oil-Dri Corporation Of America,N/A,21.65,36.46,07 August 2016

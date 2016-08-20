@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,4.38,24.71,23.60,1.94B,['NYSE'],N/A,n/a,N/A,6/10/2016,N/A,9760.00,NYQ,22.75,12014626,1.03,5/12/2016,CNP,-1.55,n/a,CenterPoint Energy,N/A,16.05,23.60,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.00,2.66,2.08,0.00,['NASDAQ'],N/A,n/a,3.81,N/A,N/A,475.38,NMS,2.08,35212,0.00,5/13/2009,XBKS,0.54,n/a,Xenith Bankshares,N/A,1.55,2.06,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.0700,11.8700,11.3800,0.00,['NASDAQ'],N/A,n/a,9.1185,5/27/2016,N/A,56.16,NCM,11.4200,26,0.2400,8/10/2016,SBFG,1.2590,n/a,SB Financial Group,N/A,9.5100,11.4802,11 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.1900,20.9400,20.1200,0.00,['NYSE'],N/A,n/a,N/A,6/23/2016,N/A,N/A,ASE,20.2500,22617,1.0000,6/14/2016,BCV,-0.9270,n/a,Bancroft Fund Limited,N/A,15.7300,20.0723,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation Services,USD,N/A,N/A,17.070,9.270,-251.70M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,877.83,NGM,9.410,204230,N/A,N/A,TOUR,-2.731,2014,Tuniu Corporation,N/A,7.620,9.280,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,3.76,49.00,36.09,125.35M,['NASDAQ'],N/A,n/a,32.42,6/20/2016,N/A,723.71,NMS,36.65,106972,1.36,6/2/2016,BOBE,1.13,n/a,Bob Evans Farms,N/A,35.63,36.02,05 August 2016

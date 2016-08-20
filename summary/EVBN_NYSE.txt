@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.95,26.10,N/A,0.00,['NYSE'],N/A,n/a,14.48,4/5/2016,N/A,109.90,ASE,25.94,100,0.76,3/11/2016,EVBN,1.78,n/a,Evans Bancorp,N/A,22.75,25.78,06 August 2016

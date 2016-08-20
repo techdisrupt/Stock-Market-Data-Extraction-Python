@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,N/A,26.3000,25.3900,551.75M,['NYSE'],N/A,n/a,17.2711,6/1/2016,N/A,1190.00,NYQ,25.3400,15328,N/A,5/26/2016,EAB,1.4650,n/a,Entergy Arkansas,N/A,23.7700,25.3400,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,32.50,31.88,69.67M,['NASDAQ'],N/A,1996,27.18,N/A,N/A,906.23,NMS,32.11,78662,N/A,N/A,RSTI,1.18,n/a,Rofin-Sinar Technologies,N/A,19.02,31.82,09 August 2016

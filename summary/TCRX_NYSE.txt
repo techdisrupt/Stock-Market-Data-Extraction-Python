@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,26.1700,25.8200,0.00,['NYSE'],N/A,2014,23.7789,9/30/2016,N/A,874.75,NYQ,25.8300,5022,N/A,6/13/2016,TCRX,1.0850,n/a,THL Credit,N/A,17.9400,25.9200,14 August 2016

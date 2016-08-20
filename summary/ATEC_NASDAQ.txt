@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,0.750,0.410,10.71M,['NASDAQ'],N/A,2006,N/A,N/A,N/A,41.14,NMS,0.405,111619,N/A,N/A,ATEC,-1.803,n/a,Alphatec Holdings,N/A,0.150,0.400,05 August 2016

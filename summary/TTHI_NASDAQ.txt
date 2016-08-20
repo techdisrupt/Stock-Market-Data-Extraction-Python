@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,2.75,1.64,-19.10M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,62.59,NGM,3.20,9201,N/A,N/A,TTHI,-0.48,n/a,Transition Therapeutics,N/A,0.66,1.62,14 August 2016

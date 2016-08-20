@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Agricultural Chemicals,USD,N/A,2.81,6.69,3.95,1.10B,['NYSE'],N/A,Basic Industries,14.11,6/22/2016,N/A,5030.00,NYQ,3.96,122328,0.11,6/7/2016,ICL,0.28,2014,Israel Chemicals Shs,N/A,3.68,3.91,07 August 2016

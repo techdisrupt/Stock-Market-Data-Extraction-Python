@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.00,12.46,10.50,1.29M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,43.18,NCM,10.80,5782,0.00,10/6/2008,SEV,-0.35,n/a,Sevcon,N/A,7.20,10.36,13 August 2016

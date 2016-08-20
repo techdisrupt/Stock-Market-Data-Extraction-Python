@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,4.4400,N/A,536675.00,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,8.01,NCM,3.0800,1200,N/A,N/A,DYNT,-2.1990,n/a,Dynatronics Corporation,N/A,2.5500,2.8700,06 August 2016

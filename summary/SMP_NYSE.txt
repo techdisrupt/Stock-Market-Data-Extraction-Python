@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.59,45.72,42.81,128.86M,['NYSE'],N/A,n/a,17.91,6/1/2016,N/A,971.79,NYQ,42.78,68302,0.68,8/11/2016,SMP,2.39,n/a,Standard Motor Products,N/A,29.69,42.82,14 August 2016

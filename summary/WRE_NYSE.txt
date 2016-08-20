@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.55,34.61,33.96,179.12M,['NYSE'],N/A,n/a,24.02,6/30/2016,N/A,2480.00,NYQ,33.64,179161,1.20,6/13/2016,WRE,1.40,n/a,Washington Real Estate Investment Trust,N/A,23.78,33.78,15 August 2016

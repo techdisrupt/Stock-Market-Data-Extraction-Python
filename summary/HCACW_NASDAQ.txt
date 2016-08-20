@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Construction/Ag Equipment/Trucks,USD,N/A,N/A,0.36,N/A,0.00,['NASDAQ'],N/A,Capital Goods,N/A,N/A,N/A,N/A,NCM,0.34,15683,N/A,N/A,HCACW,N/A,2014,Hennessy Capital Acquisition Corp.,N/A,0.33,0.36,07 August 2016

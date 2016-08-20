@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.62,29.75,29.02,239.19M,['NYSE'],N/A,1994,26.61,7/18/2016,N/A,3390.00,NYQ,29.01,515838,0.76,6/28/2016,FR,1.09,n/a,First Industrial Realty Trust,N/A,18.54,29.14,06 August 2016

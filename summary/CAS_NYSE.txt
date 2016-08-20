@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,0.00,5.10,1.46,-36.87M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,34.50,NYQ,2.64,46480,0.00,3/17/2009,CAS,-9.82,n/a,Castle (A.M.) & Co.,N/A,1.28,1.45,06 August 2016

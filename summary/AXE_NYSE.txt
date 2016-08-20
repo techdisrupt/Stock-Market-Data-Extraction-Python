@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.00,70.29,57.40,354.20M,['NYSE'],N/A,Consumer Non-Durables,23.86,1/2/2014,N/A,1900.00,NYQ,57.38,166361,0.00,12/9/2013,AXE,2.40,n/a,Anixter International Inc.,N/A,37.60,57.27,05 August 2016

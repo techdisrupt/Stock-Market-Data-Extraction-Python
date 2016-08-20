@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,3,52,50,0.00,['NYSE'],N/A,Public Utilities,N/A,N/A,N/A,N/A,NYQ,N/A,0,2,12/10/2015,UIL,2,n/a,UIL Holdings Corporation,N/A,41,N/A,15 August 2016

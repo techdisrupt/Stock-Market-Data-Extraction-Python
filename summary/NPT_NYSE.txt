@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.20,14.10,N/A,0.00,['NYSE'],N/A,1993,N/A,5/2/2016,N/A,N/A,NYQ,N/A,0,0.82,4/6/2016,NPT,1.54,n/a,Nuveen Premium Income Municipal Fund IV,N/A,12.57,13.70,07 August 2016

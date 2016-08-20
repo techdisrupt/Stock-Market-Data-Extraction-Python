@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,4.05,21.57,18.96,72.78M,['NASDAQ'],N/A,1993,N/A,5/23/2016,N/A,496.13,NMS,19.45,309085,0.75,8/4/2016,SCHN,-0.91,n/a,Schnitzer Steel Industries,N/A,11.70,18.90,13 August 2016

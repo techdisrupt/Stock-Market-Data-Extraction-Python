@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Containers/Packaging,USD,N/A,N/A,6.50,4.85,150.24M,['NASDAQ'],N/A,Capital Goods,4.60,N/A,N/A,240.11,NGM,6.43,58509,N/A,N/A,CXDC,1.06,n/a,China XD Plastics Company Limited,N/A,2.53,4.50,06 August 2016

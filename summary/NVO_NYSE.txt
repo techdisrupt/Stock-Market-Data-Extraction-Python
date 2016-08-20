@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,1.73,59.00,49.68,7.20B,['NYSE'],N/A,Health Care,23.52,3/30/2016,N/A,126490.00,NYQ,49.91,7991070,0.96,3/18/2016,NVO,2.02,n/a,Novo Nordisk A/S,N/A,46.17,55.20,07 August 2016

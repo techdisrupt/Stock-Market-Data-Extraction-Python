@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,0.4200,0.3235,-1.47M,['NYSE'],N/A,Basic Industries,1.2444,N/A,N/A,16.21,ASE,0.3181,301373,N/A,N/A,MGH,0.2570,n/a,Minco Gold Corporation,N/A,0.1000,0.3380,07 August 2016

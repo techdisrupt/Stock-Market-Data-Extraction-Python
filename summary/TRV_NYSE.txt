@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.27,119.30,118.58,5.50B,['NYSE'],N/A,n/a,11.41,6/30/2016,N/A,34160.00,NYQ,119.18,815691,2.68,6/8/2016,TRV,10.39,n/a,The Travelers Companies,N/A,95.21,118.60,14 August 2016

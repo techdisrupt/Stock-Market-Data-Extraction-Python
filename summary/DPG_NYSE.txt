@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.00,17.70,17.19,0.00,['NYSE'],N/A,n/a,N/A,9/30/2016,N/A,N/A,NYQ,17.13,139495,0.93,6/13/2016,DPG,N/A,2011,Duff & Phelps Global Utility Income Fund Inc.,N/A,11.74,17.12,06 August 2016

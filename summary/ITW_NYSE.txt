@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,1.91,116.87,116.09,3.43B,['NYSE'],N/A,Technology,21.76,7/8/2016,N/A,41670.00,NYQ,116.84,1077238,2.20,6/28/2016,ITW,5.37,n/a,Illinois Tool Works Inc.,N/A,78.79,115.64,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,1.47,42.00,41.07,14.75B,['NYSE'],N/A,Technology,19.87,7/27/2016,N/A,169570.00,NYQ,41.30,9615322,0.60,7/1/2016,ORCL,2.07,1986,Oracle Corporation,N/A,33.13,40.90,07 August 2016

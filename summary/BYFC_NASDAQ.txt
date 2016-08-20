@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,0.00,2.50,1.95,0.00,['NASDAQ'],N/A,Finance,7.05,N/A,N/A,57.10,NCM,1.80,102356,0.00,4/8/2010,BYFC,0.25,n/a,Broadway Financial Corporation,N/A,1.17,1.97,05 August 2016

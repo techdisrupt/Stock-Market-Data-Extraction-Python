@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,10.71,5.11,-47.38M,['NYSE'],N/A,n/a,N/A,N/A,N/A,263.42,ASE,5.20,29602,N/A,N/A,IDI,-1.93,n/a,Tiger Media,N/A,3.78,5.16,14 August 2016

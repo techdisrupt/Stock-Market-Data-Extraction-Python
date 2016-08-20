@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,N/A,67.55,53.50,163.35M,['NASDAQ'],N/A,Miscellaneous,33.02,N/A,N/A,2010.00,NMS,53.65,490367,N/A,N/A,WBMD,1.62,2005,WebMD Health Corp,N/A,37.57,53.45,15 August 2016

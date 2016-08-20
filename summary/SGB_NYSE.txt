@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.64,15.95,15.25,0.00,['NYSE'],N/A,Finance,10.14,6/16/2016,N/A,37.95,ASE,15.00,3703,0.40,6/2/2016,SGB,1.47,n/a,Southwest Georgia Financial Corporation,N/A,13.27,15.15,14 August 2016

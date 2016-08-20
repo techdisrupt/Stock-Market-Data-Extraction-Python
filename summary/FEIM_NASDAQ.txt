@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,11.99,11.00,4.01M,['NASDAQ'],N/A,n/a,100.00,12/31/2012,N/A,96.02,NGM,11.00,7157,0.00,12/20/2012,FEIM,0.11,n/a,Frequency Electronics,N/A,8.51,10.84,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,2.22,0.64,58614.00,['NYSE'],N/A,n/a,N/A,N/A,N/A,26.45,ASE,0.67,4119,N/A,N/A,ERB,-0.04,n/a,ERBA Diagnostics,N/A,0.48,0.58,06 August 2016

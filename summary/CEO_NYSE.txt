@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,5.52,130.75,119.11,13.72B,['NYSE'],N/A,Energy,17.55,7/26/2016,N/A,53290.00,NYQ,129.90,84222,6.45,6/6/2016,CEO,6.80,2001,CNOOC Limited,N/A,82.28,118.40,06 August 2016

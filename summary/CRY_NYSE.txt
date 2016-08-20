@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.86,14.73,14.00,28.63M,['NYSE'],N/A,n/a,46.73,12/18/2015,N/A,497.32,NYQ,14.99,281742,0.12,12/9/2015,CRY,0.31,n/a,CryoLife,N/A,8.94,13.98,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,46.54,44.05,-58.75M,['NASDAQ'],N/A,2011,N/A,N/A,N/A,2480.00,NMS,N/A,1288341,N/A,N/A,CSOD,-1.48,n/a,Cornerstone OnDemand,N/A,22.25,43.56,06 August 2016

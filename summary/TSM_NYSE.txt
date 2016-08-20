@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,3.22,29.45,29.17,17.23B,['NYSE'],N/A,Technology,17.00,7/21/2016,N/A,151640.00,NYQ,29.27,3481811,0.94,6/27/2016,TSM,1.71,1997,Taiwan Semiconductor Manufacturing Company Ltd.,N/A,17.32,29.14,14 August 2016

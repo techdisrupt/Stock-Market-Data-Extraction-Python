@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.60,8.20,7.93,0.00,['NYSE'],N/A,2011,N/A,7/22/2016,N/A,N/A,NYQ,12.50,46756,0.04,7/13/2016,GNT,N/A,n/a,GAMCO Natural Resources,N/A,4.50,7.94,07 August 2016

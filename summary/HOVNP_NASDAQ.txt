@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Homebuilding,USD,N/A,0.00,7.35,4.87,80.21M,['NASDAQ'],N/A,Capital Goods,N/A,10/15/2007,N/A,701.82,NGM,N/A,1568,0.00,9/27/2007,HOVNP,-0.11,n/a,Hovnanian Enterprises Inc,N/A,2.04,4.74,07 August 2016

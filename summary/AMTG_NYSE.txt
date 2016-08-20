@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,14.12,14.35,13.60,0.00,['NYSE'],N/A,2011,N/A,7/29/2016,N/A,434.40,NYQ,14.10,100066,1.92,6/26/2015,AMTG,-1.89,n/a,Apollo Residential Mortgage,N/A,9.57,13.62,05 August 2016

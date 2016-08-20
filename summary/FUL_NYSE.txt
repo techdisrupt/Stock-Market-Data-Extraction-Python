@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Home Furnishings,USD,N/A,1.21,48.49,46.67,266.86M,['NYSE'],N/A,Basic Industries,23.01,7/28/2016,N/A,2350.00,NYQ,46.74,174930,0.56,7/12/2016,FUL,2.03,n/a,H. B. Fuller Company,N/A,30.72,46.35,07 August 2016

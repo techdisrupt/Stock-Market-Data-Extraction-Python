@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,30.23,12.19,-72.55M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,489.19,NGM,12.72,214997,N/A,N/A,OMER,-2.02,2009,Omeros Corporation,N/A,8.90,12.22,07 August 2016

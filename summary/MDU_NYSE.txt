@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,3.18,24.67,23.59,595.84M,['NYSE'],N/A,n/a,N/A,7/1/2016,N/A,4620.00,NYQ,23.69,1058255,0.75,6/7/2016,MDU,-1.49,n/a,MDU Resources Group,N/A,15.58,23.58,07 August 2016

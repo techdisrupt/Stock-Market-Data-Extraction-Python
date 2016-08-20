@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.94,14.66,12.45,0.00,['NYSE'],N/A,Finance,17.23,6/15/2016,N/A,2590.00,NYQ,12.59,3862432,0.48,5/27/2016,FNB,0.73,n/a,F.N.B. Corporation,N/A,11.16,12.32,06 August 2016

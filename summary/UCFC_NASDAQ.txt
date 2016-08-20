@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Banks,USD,N/A,1.78,6.92,6.80,0.00,['NASDAQ'],N/A,Finance,18.81,5/13/2016,N/A,314.80,NMS,6.76,10816,0.12,7/28/2016,UCFC,0.36,n/a,United Community Financial Corp.,N/A,4.65,6.75,15 August 2016

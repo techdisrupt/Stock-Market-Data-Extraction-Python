@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,4.82,104.13,75.88,267.64M,['NYSE'],N/A,n/a,14.04,7/8/2016,N/A,1400.00,NYQ,75.91,277872,3.68,6/15/2016,DIN,5.41,n/a,DineEquity,N/A,75.36,75.56,06 August 2016

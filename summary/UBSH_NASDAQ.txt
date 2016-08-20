@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.79,27.41,27.21,0.00,['NASDAQ'],N/A,Finance,16.85,5/27/2016,N/A,1190.00,NMS,27.31,67169,0.76,8/3/2016,UBSH,1.62,n/a,Union Bankshares Corporation,N/A,20.57,27.22,15 August 2016

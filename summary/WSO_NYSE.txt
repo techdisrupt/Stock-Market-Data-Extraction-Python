@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,2.35,145.99,144.98,352.10M,['NYSE'],N/A,n/a,29.48,7/29/2016,N/A,4740.00,NYQ,145.59,80746,3.40,7/13/2016,WSO,4.93,n/a,Watsco,N/A,106.58,144.41,15 August 2016

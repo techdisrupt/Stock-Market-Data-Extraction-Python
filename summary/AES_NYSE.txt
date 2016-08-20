@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electric Utilities: Central,USD,N/A,3.61,12.99,12.24,3.39B,['NYSE'],N/A,Basic Industries,N/A,5/16/2016,N/A,8050.00,NYQ,12.22,3451913,0.44,7/28/2016,AES,-0.40,n/a,The AES Corporation,N/A,8.22,12.24,14 August 2016

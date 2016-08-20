@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,7.78,8.36,7.63,761.18M,['NASDAQ'],N/A,n/a,21.41,7/28/2016,N/A,4740.00,NMS,7.69,122030,0.59,6/23/2016,SPIL,0.35,n/a,Siliconware Precision Industries Company,N/A,4.92,7.68,13 August 2016

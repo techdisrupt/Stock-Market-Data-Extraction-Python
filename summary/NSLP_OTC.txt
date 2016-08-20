@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,9.60,N/A,0.00,['OTC'],N/A,Energy,N/A,5/15/2015,N/A,N/A,PNK,N/A,0,0.00,5/12/2015,NSLP,-14.56,2013,New Source Energy Partners L.P.,N/A,0.02,0.06,07 August 2016

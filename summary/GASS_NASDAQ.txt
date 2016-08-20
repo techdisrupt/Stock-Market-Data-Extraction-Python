@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,0.00,5.18,3.46,54.52M,['NASDAQ'],N/A,2005,N/A,3/9/2009,N/A,143.73,NMS,6.95,20154,0.00,2/26/2009,GASS,-0.07,n/a,StealthGas,N/A,2.39,3.53,14 August 2016

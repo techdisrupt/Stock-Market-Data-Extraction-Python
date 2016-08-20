@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,21.47,9.53,40.92M,['NASDAQ'],N/A,2011,N/A,N/A,N/A,835.22,NMS,9.62,313254,N/A,N/A,VNET,-0.81,n/a,21Vianet Group,N/A,8.76,9.59,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,10.430,9.660,91.21M,['NASDAQ'],N/A,2012,N/A,N/A,N/A,407.32,NMS,9.610,308055,N/A,N/A,REGI,-2.377,n/a,Renewable Energy Group,N/A,6.020,9.660,09 August 2016

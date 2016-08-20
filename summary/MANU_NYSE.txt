@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Services-Misc. Amusement & Recreation,USD,N/A,1.14,19.74,15.81,230.95M,['NYSE'],N/A,Consumer Services,64.92,6/10/2016,N/A,2620.00,NYQ,16.02,39513,0.18,5/24/2016,MANU,0.25,2012,Manchester United Ltd.,N/A,13.30,15.72,07 August 2016

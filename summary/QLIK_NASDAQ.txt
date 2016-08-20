@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,42.180,30.330,13.33M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,2880.00,NMS,30.350,296123,N/A,N/A,QLIK,-0.292,2010,Qlik Technologies Inc.,N/A,15.770,30.375,08 August 2016

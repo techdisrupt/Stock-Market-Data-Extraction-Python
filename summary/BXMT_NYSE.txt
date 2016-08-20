@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,8.64,29.88,28.94,0.00,['NYSE'],N/A,n/a,10.94,7/15/2016,N/A,2760.00,NYQ,29.41,1079055,2.48,6/28/2016,BXMT,2.69,n/a,Capital Trust,N/A,22.13,28.94,06 August 2016

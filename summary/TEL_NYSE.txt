@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,2.46,67.99,60.02,2.47B,['NYSE'],N/A,Consumer Non-Durables,8.76,6/10/2016,N/A,21330.00,NYQ,68.00,778935,1.48,11/25/2014,TEL,6.85,n/a,TE Connectivity Ltd.,N/A,51.70,60.07,14 August 2016

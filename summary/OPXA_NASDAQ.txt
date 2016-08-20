@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,5.10,4.12,-10.57M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,28.98,NCM,4.16,12492,N/A,N/A,OPXA,-1.61,n/a,Opexa Therapeutics,N/A,1.69,4.10,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.86,18.50,17.50,0.00,['NASDAQ'],N/A,n/a,10.09,5/23/2016,N/A,94.79,NGM,N/A,1655,0.15,8/4/2016,FBMS,1.73,n/a,The First Bancshares,N/A,15.32,17.48,14 August 2016

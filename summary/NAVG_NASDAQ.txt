@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.39,97.18,91.95,119.50M,['NASDAQ'],N/A,1986,18.22,7/15/2016,N/A,1330.00,NMS,91.71,28894,0.36,6/16/2016,NAVG,5.03,n/a,The Navigators Group,N/A,72.35,91.81,14 August 2016

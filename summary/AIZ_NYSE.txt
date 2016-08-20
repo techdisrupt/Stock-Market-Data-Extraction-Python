@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.38,89.22,84.24,818.25M,['NYSE'],N/A,2004,12.44,6/14/2016,N/A,5250.00,NYQ,84.34,161158,2.00,5/26/2016,AIZ,6.78,n/a,Assurant,N/A,64.36,83.69,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.39,45.86,42.77,0.00,['NYSE'],N/A,Finance,13.456,7/15/2016,N/A,73480.00,NYQ,42.930,2004818,1.02,6/28/2016,USB,3.19,n/a,U.S. Bancorp,N/A,37.07,42.73,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil/Gas Transmission,USD,N/A,2.90,66.17,64.18,252.45M,['NYSE'],N/A,Public Utilities,28.47,5/13/2016,N/A,1760.00,NYQ,63.81,96828,1.87,7/27/2016,NWN,2.24,n/a,Northwest Natural Gas Company,N/A,42.00,64.32,07 August 2016

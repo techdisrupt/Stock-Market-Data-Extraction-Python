@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.24,52.94,39.49,0.00,['NASDAQ'],N/A,1989,12.66,7/11/2016,N/A,563.11,NMS,42.50,25888,0.88,6/27/2016,GSBC,3.20,n/a,Great Southern Bancorp,N/A,34.48,39.26,07 August 2016

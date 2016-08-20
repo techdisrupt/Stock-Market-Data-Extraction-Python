@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.80,16.91,16.69,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,16.67,18118,0.83,7/13/2016,BNY,0.66,n/a,BlackRock New York Investment Quality Municipal Trust Inc. (Th,N/A,14.10,16.62,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,1.83,46.54,40.34,156.98M,['NASDAQ'],N/A,1996,18.46,6/30/2016,N/A,1260.00,NMS,67.00,225802,0.74,6/13/2016,CSGS,2.23,n/a,CSG Systems International,N/A,29.18,41.61,06 August 2016

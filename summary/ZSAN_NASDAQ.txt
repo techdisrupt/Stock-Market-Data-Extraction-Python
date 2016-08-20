@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,9.20,1.36,-27.07M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,15.14,NCM,1.36,5130,N/A,N/A,ZSAN,-2.67,n/a,Zosano Pharma Corporation,N/A,1.03,1.36,15 August 2016

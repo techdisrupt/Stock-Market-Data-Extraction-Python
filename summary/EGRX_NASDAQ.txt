@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,103.70,49.25,-19.67M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,774.61,NGM,N/A,243429,N/A,N/A,EGRX,-1.16,n/a,Eagle Pharmaceuticals,N/A,33.02,49.00,06 August 2016

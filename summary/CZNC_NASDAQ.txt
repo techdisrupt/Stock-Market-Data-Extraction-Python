@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,4.92,22.00,21.24,0.00,['NASDAQ'],N/A,Finance,16.50,5/13/2016,N/A,256.97,NCM,23.00,11885,1.04,7/28/2016,CZNC,1.29,n/a,Citizens & Northern Corp,N/A,19.07,21.04,06 August 2016

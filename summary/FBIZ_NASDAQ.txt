@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.12,27.35,22.80,0.00,['NASDAQ'],N/A,n/a,12.09,5/27/2016,N/A,202.08,NMS,23.20,11002,0.48,5/11/2016,FBIZ,1.92,n/a,First Business Financial Services,N/A,20.06,22.77,06 August 2016

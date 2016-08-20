@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,11.090,7.700,5.000,15.68M,['NASDAQ'],N/A,2014,N/A,2/24/2016,N/A,69.70,NGM,6.020,8106,0.550,12/30/2015,SKIS,-0.231,n/a,Peak Resorts,N/A,2.600,4.960,07 August 2016

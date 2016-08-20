@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.91,45.68,42.16,239.89M,['NYSE'],N/A,n/a,19.18,9/29/2016,N/A,2720.00,NYQ,42.59,247758,0.80,6/13/2016,WOR,2.22,n/a,Worthington Industries,N/A,21.10,41.82,15 August 2016

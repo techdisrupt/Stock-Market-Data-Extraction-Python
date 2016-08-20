@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Tools/Hardware,USD,N/A,1.28,94.11,93.42,387.57M,['NYSE'],N/A,Capital Goods,23.72,7/12/2016,N/A,5140.00,NYQ,111.06,244007,1.20,6/17/2016,TTC,3.94,n/a,Toro Company (The),N/A,64.71,93.92,14 August 2016

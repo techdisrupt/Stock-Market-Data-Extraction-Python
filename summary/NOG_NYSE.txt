@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,6.18,3.45,129.50M,['NYSE'],N/A,n/a,N/A,N/A,N/A,236.15,ASE,3.87,1371763,N/A,N/A,NOG,-14.36,n/a,Northern Oil and Gas,N/A,1.99,3.73,07 August 2016

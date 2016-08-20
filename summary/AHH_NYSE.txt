@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,5.1300,15.5000,14.0000,50.93M,['NYSE'],N/A,2013,14.9042,7/7/2016,N/A,681.44,NYQ,13.9400,288707,0.7200,6/27/2016,AHH,0.9360,n/a,Armada Hoffler Properties,N/A,9.5000,14.0000,05 August 2016

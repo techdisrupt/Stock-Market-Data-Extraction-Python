@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Programming,USD,N/A,N/A,3.8000,N/A,0.00,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,N/A,NGM,N/A,0,N/A,N/A,MOKO,-1.1200,2014,Moko Social Media Ltd.,N/A,0.1500,0.1855,07 August 2016

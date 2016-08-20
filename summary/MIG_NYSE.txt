@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.90,8.65,N/A,0.00,['NYSE'],N/A,1995,N/A,N/A,N/A,N/A,NYQ,N/A,0,0.08,5/19/2015,MIG,0.53,n/a,Meadowbrook Insurance Group,N/A,5.66,8.64,07 August 2016

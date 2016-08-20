@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,9.11,26.18,19.23,697.63M,['NASDAQ'],N/A,1999,11.94,5/13/2016,N/A,1430.00,NMS,19.70,193818,1.75,8/3/2016,ARLP,1.61,n/a,Alliance Resource Partners,N/A,9.95,19.35,04 August 2016

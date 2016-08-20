@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Accident &Health Insurance,USD,N/A,2.260,37.260,33.7000,1.52B,['NYSE'],N/A,Finance,9.3794,5/20/2016,N/A,7990.00,NYQ,34.04,432514,0.760,7/27/2016,UNM,3.629,n/a,Unum Group,N/A,23.990,33.480,15 August 2016

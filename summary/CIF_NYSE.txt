@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.10,2.55,2.53,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,2.54,18937,0.19,7/19/2016,CIF,-0.14,n/a,Colonial Intermediate High Income Fund,N/A,2.04,2.53,06 August 2016

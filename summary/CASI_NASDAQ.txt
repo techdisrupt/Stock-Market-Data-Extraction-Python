@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,1.82,1.08,-7.09M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,47.69,NCM,1.42,17131,N/A,N/A,CASI,-0.21,n/a,CASI Pharmaceuticals,N/A,0.58,1.09,06 August 2016

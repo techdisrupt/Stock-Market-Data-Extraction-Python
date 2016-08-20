@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,9.03,10.96,10.15,0.00,['NYSE'],N/A,Consumer Services,12.13,7/20/2016,N/A,1000.00,NYQ,10.43,610116,0.92,6/28/2016,CMO,0.86,n/a,Capstead Mortgage Corporation,N/A,7.48,10.17,06 August 2016

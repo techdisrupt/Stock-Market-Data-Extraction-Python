@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,2.65,25.27,22.47,430.83M,['NYSE'],N/A,n/a,23.00,5/2/2016,N/A,4220.00,NYQ,24.01,381559,0.58,4/13/2016,CCU,0.99,n/a,Compania Cervecerias Unidas,N/A,18.78,22.34,06 August 2016

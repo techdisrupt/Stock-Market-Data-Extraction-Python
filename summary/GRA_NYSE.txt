@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,0.91,104.94,75.07,664.40M,['NYSE'],N/A,Basic Industries,73.77,6/9/2016,N/A,5310.00,NYQ,75.40,178147,0.68,5/17/2016,GRA,1.02,n/a,W.R. Grace & Co.,N/A,63.84,75.01,15 August 2016

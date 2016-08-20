@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,3.16,76.41,72.89,1.46B,['NYSE'],N/A,Public Utilities,19.68,7/1/2016,N/A,10390.00,NYQ,72.69,164783,2.30,6/8/2016,SCG,3.69,n/a,Scana Corporation,N/A,50.17,72.85,11 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Agricultural Chemicals,USD,N/A,2.90,45.36,26.65,1.44B,['NYSE'],N/A,Basic Industries,17.18,6/16/2016,N/A,9550.00,NYQ,27.50,6205807,1.10,5/31/2016,MOS,1.59,n/a,Mosaic Company (The),N/A,22.02,26.44,07 August 2016

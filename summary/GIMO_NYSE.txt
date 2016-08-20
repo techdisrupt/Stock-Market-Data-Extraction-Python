@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,46.96,44.91,27.03M,['NYSE'],N/A,Technology,39.00,N/A,N/A,1580.00,NYQ,45.08,482053,N/A,N/A,GIMO,1.16,2013,Gigamon Inc.,N/A,18.93,44.57,07 August 2016

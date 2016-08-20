@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Commercial Physical & Biological Resarch,USD,N/A,N/A,78.86,77.27,826.85M,['NYSE'],N/A,Health Care,23.00,N/A,N/A,9060.00,NYQ,76.53,589987,N/A,N/A,Q,3.33,2013,Quintiles Transitional Holdings Inc.,N/A,55.01,77.78,08 August 2016

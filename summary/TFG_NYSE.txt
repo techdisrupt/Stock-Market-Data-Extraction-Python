@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,28.35,N/A,0.00,['NYSE'],N/A,2011,N/A,4/1/2016,N/A,N/A,NYQ,26.15,0,N/A,3/29/2016,TFG,N/A,n/a,Goldman Sachs Group,N/A,25.35,26.15,07 August 2016

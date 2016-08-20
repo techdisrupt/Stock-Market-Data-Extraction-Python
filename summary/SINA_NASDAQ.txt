@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,70.62,69.49,89.08M,['NASDAQ'],N/A,Technology,57.12,N/A,N/A,4940.00,NMS,71.00,1184695,N/A,N/A,SINA,1.24,n/a,Sina Corporation,N/A,32.61,70.03,14 August 2016

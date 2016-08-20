@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,102.63,98.09,53.73M,['NYSE'],N/A,2011,126.65,N/A,N/A,2950.00,NYQ,97.84,482649,N/A,N/A,ELLI,0.77,n/a,Ellie Mae,N/A,57.88,98.50,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance/Investors Services,USD,N/A,17.46,18.54,14.55,0.00,['NYSE'],N/A,Finance,N/A,7/29/2016,N/A,342.97,NYQ,14.92,226026,2.50,6/28/2016,AI,-2.28,n/a,Arlington Asset Investment Corp,N/A,9.42,14.47,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,2.5800,0.2300,-34.97M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,5.17,NGM,0.2900,127682,N/A,N/A,TLOG,-1.9990,2013,TetraLogic Pharmaceuticals Corporation,N/A,0.0910,0.2296,14 August 2016

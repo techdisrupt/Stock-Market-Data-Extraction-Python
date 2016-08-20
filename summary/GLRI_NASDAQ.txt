@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,1.4500,0.2152,-8.00M,['NASDAQ'],N/A,Energy,N/A,N/A,N/A,6.88,NCM,0.2391,188565,N/A,N/A,GLRI,-1.1580,n/a,Glori Energy Inc,N/A,0.0940,0.2106,07 August 2016

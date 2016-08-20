@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,4.63,16.00,14.37,0.00,['NASDAQ'],N/A,Finance,6.17,6/17/2016,N/A,4610.00,NMS,14.73,3775468,0.64,6/1/2016,NAVI,2.36,n/a,Navient Corporation,N/A,8.20,14.24,07 August 2016

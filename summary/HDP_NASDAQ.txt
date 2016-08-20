@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,28.75,8.40,-197.55M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,407.05,NMS,10.30,6579028,N/A,N/A,HDP,-4.44,n/a,Hortonworks,N/A,7.12,12.63,07 August 2016

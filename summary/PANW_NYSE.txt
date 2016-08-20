@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,194.73,130.33,-139.96M,['NYSE'],N/A,2012,N/A,N/A,N/A,11810.00,NYQ,132.50,1179984,N/A,N/A,PANW,-2.53,n/a,Palo Alto Networks,N/A,111.09,131.44,07 August 2016

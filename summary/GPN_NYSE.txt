@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,0.05,79.93,73.86,664.13M,['NYSE'],N/A,Miscellaneous,36.54,5/27/2016,N/A,11450.00,NYQ,74.97,1411243,0.04,5/11/2016,GPN,2.04,n/a,Global Payments Inc.,N/A,50.69,73.56,07 August 2016

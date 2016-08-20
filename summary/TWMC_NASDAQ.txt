@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Electronics/Video Chains,USD,N/A,0.00,4.02,3.68,8.08M,['NASDAQ'],N/A,Consumer Services,45.19,4/3/2014,N/A,111.06,NGM,4.40,4239,0.00,3/18/2014,TWMC,0.08,n/a,Trans World Entertainment Corp.,N/A,3.10,3.66,14 August 2016

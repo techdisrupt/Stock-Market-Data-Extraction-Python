@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,2.16,64.42,58.78,684.96M,['NASDAQ'],N/A,Technology,29.17,5/25/2016,N/A,14410.00,NMS,60.25,4642588,1.28,5/11/2016,LLTC,2.02,1986,Linear Technology Corporation,N/A,36.41,59.12,07 August 2016

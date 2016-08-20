@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Chemicals,USD,N/A,N/A,11.09,8.17,-18.33M,['NASDAQ'],N/A,Consumer Durables,N/A,N/A,N/A,251.39,NGM,8.58,99568,N/A,N/A,FOMX,-0.59,2014,Foamix Pharmaceuticals Ltd.,N/A,5.48,8.14,07 August 2016

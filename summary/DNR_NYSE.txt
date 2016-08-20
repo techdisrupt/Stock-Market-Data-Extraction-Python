@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,4.80,3.04,399.41M,['NYSE'],N/A,Energy,N/A,9/29/2015,N/A,1050.00,NYQ,3.07,10600897,0.00,8/21/2015,DNR,-12.83,n/a,Denbury Resources Inc.,N/A,0.86,2.99,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.60,25.48,24.53,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,24.30,101426,1.45,7/7/2016,HTD,2.91,2004,John Hancock Tax Advantaged Dividend Income Fund,N/A,18.57,24.39,07 August 2016

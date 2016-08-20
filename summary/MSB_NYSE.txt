@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,5.19,13.55,9.40,0.00,['NYSE'],N/A,Basic Industries,17.48,5/20/2016,N/A,125.69,NYQ,9.61,32000,0.49,7/27/2016,MSB,0.55,n/a,Mesabi Trust,N/A,3.00,9.44,07 August 2016

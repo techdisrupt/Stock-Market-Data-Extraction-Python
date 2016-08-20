@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,2.37,76.83,70.37,1.30B,['NYSE'],N/A,n/a,25.93,7/15/2016,N/A,12630.00,NYQ,75.00,2784572,1.64,6/13/2016,MSI,2.89,n/a,Motorola Solutions,N/A,59.13,70.24,07 August 2016

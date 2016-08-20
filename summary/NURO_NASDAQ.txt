@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,4.96,1.54,-14.80M,['NASDAQ'],N/A,2004,N/A,N/A,N/A,8.04,NCM,1.70,28656,0.00,3/28/2007,NURO,-11.23,n/a,NeuroMetrix,N/A,1.35,1.56,07 August 2016

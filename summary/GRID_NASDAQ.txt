@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,37.32,37.71,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,37.77,202,N/A,N/A,GRID,N/A,n/a,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index,N/A,27.88,36.90,06 August 2016

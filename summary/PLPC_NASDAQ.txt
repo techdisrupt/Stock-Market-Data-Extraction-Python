@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Water Supply,USD,N/A,1.67,48.98,46.95,29.77M,['NASDAQ'],N/A,Basic Industries,29.11,7/20/2016,N/A,248.31,NMS,48.00,2793,0.80,6/29/2016,PLPC,1.64,n/a,Preformed Line Products Company,N/A,28.30,48.10,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Apparel,USD,N/A,0.00,25.55,20.81,48.43M,['NASDAQ'],N/A,Consumer Non-Durables,N/A,12/28/2012,N/A,312.94,NMS,22.52,125910,0.00,12/19/2012,PERY,-0.16,1993,Perry Ellis International Inc.,N/A,15.73,20.61,08 August 2016

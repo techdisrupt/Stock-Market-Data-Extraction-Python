@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,N/A,36.43,35.02,31.89M,['NYSE'],N/A,Technology,N/A,N/A,N/A,1450.00,NYQ,44.80,476529,N/A,N/A,IPHI,-0.09,2010,Inphi Corporation,N/A,20.73,34.70,07 August 2016

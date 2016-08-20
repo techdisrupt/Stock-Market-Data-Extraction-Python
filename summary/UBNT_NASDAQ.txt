@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.00,50.77,50.08,240.01M,['NASDAQ'],N/A,2011,20.30,10/28/2014,N/A,4170.00,NMS,50.54,190453,0.00,10/15/2014,UBNT,2.49,n/a,Ubiquiti Networks,N/A,25.75,50.25,15 August 2016

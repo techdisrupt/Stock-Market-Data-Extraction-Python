@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,N/A,28.60,27.96,239.90M,['NYSE'],N/A,Finance,20.43,5/27/2016,N/A,1420.00,NYQ,28.00,8501,N/A,2/10/2016,KMPA,1.36,2014,Kemper Corporation,N/A,25.26,27.90,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,5.05,26.24,23.76,219.46M,['NYSE'],N/A,2013,59.23,6/15/2016,N/A,2950.00,NYQ,23.93,269878,1.20,5/27/2016,CXP,0.40,n/a,Columbia Property Trust,N/A,19.34,23.76,06 August 2016

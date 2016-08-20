@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.63,39.41,16.00,117.82M,['NYSE'],N/A,1993,6.28,6/7/2016,N/A,395.16,ASE,18.06,238351,0.46,8/5/2016,LBY,2.89,n/a,Libbey,N/A,14.75,17.40,07 August 2016

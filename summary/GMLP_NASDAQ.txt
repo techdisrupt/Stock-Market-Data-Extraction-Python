@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,12.57,21.76,18.50,355.46M,['NASDAQ'],N/A,Consumer Services,7.83,5/13/2016,N/A,1150.00,NMS,18.65,203465,2.31,8/3/2016,GMLP,2.35,2011,Golar LNG Partners LP,N/A,7.55,18.38,07 August 2016

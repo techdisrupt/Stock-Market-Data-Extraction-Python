@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Wholesale Distributors,USD,N/A,0.00,10.20,8.35,29.17M,['NYSE'],N/A,Capital Goods,N/A,12/28/2007,N/A,80.22,NYQ,8.95,71738,0.00,12/12/2007,BXC,-1.00,2004,BlueLinx Holdings Inc.,N/A,3.00,8.10,05 August 2016

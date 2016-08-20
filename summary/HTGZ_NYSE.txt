@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,25.750,25.500,116.32M,['NYSE'],N/A,2012,53.557,7/30/2016,N/A,1880.00,NYQ,25.500,7038,N/A,7/13/2016,HTGZ,0.476,n/a,Hercules Technology Growth Capital,N/A,24.800,25.490,07 August 2016

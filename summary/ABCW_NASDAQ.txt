@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Banks,USD,N/A,N/A,47.94,N/A,0.00,['NASDAQ'],N/A,Finance,N/A,N/A,N/A,N/A,NMS,N/A,0,N/A,N/A,ABCW,14.56,2014,Anchor BanCorp Wisconsin Inc.,N/A,38.02,47.86,05 August 2016

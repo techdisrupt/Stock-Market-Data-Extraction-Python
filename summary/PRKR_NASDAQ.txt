@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,8.18,6.03,-15.07M,['NASDAQ'],N/A,1993,N/A,N/A,N/A,70.61,NCM,6.98,70102,N/A,N/A,PRKR,-1.61,n/a,ParkerVision,N/A,1.50,6.07,07 August 2016

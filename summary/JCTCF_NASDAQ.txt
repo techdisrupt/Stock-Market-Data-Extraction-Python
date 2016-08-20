@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+RETAIL: Building Materials,USD,N/A,N/A,14.9500,14.3900,4.18M,['NASDAQ'],N/A,Consumer Services,15.6630,N/A,N/A,34.11,NCM,14.5000,4417,N/A,N/A,JCTCF,0.9190,n/a,Jewett-Cameron Trading Company,N/A,7.7000,14.1001,07 August 2016

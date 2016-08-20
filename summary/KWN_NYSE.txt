@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,N/A,26.71,26.12,225.90M,['NYSE'],N/A,Finance,43.73,6/1/2016,N/A,2970.00,NYQ,26.30,7814,N/A,11/12/2014,KWN,0.60,2012,Kennedy-Wilson Holdings Inc.,N/A,24.50,26.18,07 August 2016

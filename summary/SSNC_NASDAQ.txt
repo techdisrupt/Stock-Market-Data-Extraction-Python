@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.79,38.60,31.65,405.91M,['NASDAQ'],N/A,2010,551.38,6/15/2016,N/A,6430.00,NMS,32.05,630023,0.25,5/27/2016,SSNC,0.06,n/a,SS&C Technologies Holdings,N/A,23.61,31.69,14 August 2016

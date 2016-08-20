@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Office Equipment/Supplies/Services,USD,N/A,4.82,41.50,38.07,904.50M,['NYSE'],N/A,Consumer Services,54.99,6/24/2016,N/A,8010.00,NYQ,37.76,3741797,1.94,6/2/2016,IRM,0.69,n/a,Iron Mountain Incorporated,N/A,23.64,37.95,07 August 2016

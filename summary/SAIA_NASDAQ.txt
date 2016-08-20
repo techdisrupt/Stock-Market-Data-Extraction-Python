@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,N/A,42.12,30.47,147.01M,['NASDAQ'],N/A,n/a,16.24,N/A,N/A,747.60,NMS,29.87,130464,N/A,N/A,SAIA,1.84,n/a,Saia,N/A,18.28,30.47,10 August 2016

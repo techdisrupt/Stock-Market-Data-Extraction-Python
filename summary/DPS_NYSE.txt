@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,2.19,98.80,97.51,1.61B,['NYSE'],N/A,n/a,22.16,7/7/2016,N/A,17940.00,NYQ,96.90,1130100,2.12,6/10/2016,DPS,4.37,n/a,Dr Pepper Snapple Group,N/A,72.00,97.19,06 August 2016

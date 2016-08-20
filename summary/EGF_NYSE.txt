@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.8000,14.1100,13.7200,0.00,['NYSE'],N/A,2005,N/A,7/29/2016,N/A,N/A,NYQ,13.9600,11508,0.3800,7/13/2016,EGF,-0.1050,n/a,Blackrock Enhanced Government Fund,N/A,13.2300,13.8700,05 August 2016

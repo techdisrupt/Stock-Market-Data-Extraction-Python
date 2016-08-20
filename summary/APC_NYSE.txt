@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.39,78.59,52.39,1.87B,['NYSE'],N/A,Energy,N/A,6/22/2016,N/A,26170.00,NYQ,51.33,5453744,0.20,6/6/2016,APC,-10.25,n/a,Anadarko Petroleum Corporation,N/A,28.16,52.68,05 August 2016

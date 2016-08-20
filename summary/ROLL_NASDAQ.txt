@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,0.00,87.82,77.98,145.56M,['NASDAQ'],N/A,Capital Goods,26.74,6/13/2014,N/A,1810.00,NMS,77.95,46509,0.00,5/28/2014,ROLL,2.91,2005,RBC Bearings Incorporated,N/A,54.38,78.03,08 August 2016

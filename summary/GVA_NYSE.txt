@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,1.06,51.31,49.57,161.53M,['NYSE'],N/A,Basic Industries,32.69,7/15/2016,N/A,2010.00,NYQ,50.84,251673,0.52,6/28/2016,GVA,1.55,n/a,Granite Construction Incorporated,N/A,28.45,49.26,07 August 2016

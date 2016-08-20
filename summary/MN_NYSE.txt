@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,8.19,11.40,7.93,104.91M,['NYSE'],N/A,2011,10.42,8/1/2016,N/A,118.90,NYQ,8.17,112848,0.64,7/13/2016,MN,0.76,n/a,Manning & Napier,N/A,5.60,7.81,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,23.74,14.71,1.42M,['NASDAQ'],N/A,2002,38.51,N/A,N/A,406.96,NGM,16.50,356473,N/A,N/A,OSTK,0.53,n/a,Overstock.com,N/A,10.03,16.19,07 August 2016

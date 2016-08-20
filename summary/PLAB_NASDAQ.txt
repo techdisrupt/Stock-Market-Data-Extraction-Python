@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,13.05,9.56,160.36M,['NASDAQ'],N/A,1987,11.53,N/A,N/A,665.72,NMS,11.75,366860,N/A,N/A,PLAB,0.85,n/a,Photronics,N/A,7.68,9.54,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,N/A,7.60,5.75,11.14M,['NASDAQ'],N/A,Capital Goods,28.25,N/A,N/A,320.61,NMS,5.98,127499,N/A,N/A,XCRA,0.21,n/a,Xcerra Corporation,N/A,4.93,5.75,15 August 2016

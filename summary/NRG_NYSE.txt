@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,0.85,21.28,13.64,2.97B,['NYSE'],N/A,n/a,N/A,5/16/2016,N/A,4290.00,NYQ,14.53,3833268,0.12,7/28/2016,NRG,-19.16,n/a,NRG Energy,N/A,8.80,13.80,07 August 2016

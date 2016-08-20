@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,0.00,78.83,N/A,0.00,['NASDAQ'],N/A,Technology,N/A,8/25/2015,N/A,N/A,NMS,N/A,0,0.00,7/30/2015,SNDK,2.04,1995,SanDisk Corporation,N/A,44.28,76.18,11 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,N/A,14.87,11.91,59.92M,['NYSE'],N/A,Finance,N/A,N/A,N/A,414.67,NYQ,12.08,221124,N/A,N/A,FOR,-4.81,n/a,Forestar Group Inc,N/A,7.95,11.78,07 August 2016

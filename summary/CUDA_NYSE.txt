@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,29.990,22.080,16.38M,['NYSE'],N/A,2013,551.125,N/A,N/A,1150.00,NYQ,22.050,378641,N/A,N/A,CUDA,0.040,n/a,Barracuda Networks,N/A,9.440,22.040,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.91,39.50,35.00,23.66M,['NASDAQ'],N/A,n/a,14.62,6/13/2016,N/A,182.38,NCM,N/A,4154,0.32,5/17/2016,HNNA,2.46,n/a,Hennessy Advisors,N/A,22.00,35.00,07 August 2016

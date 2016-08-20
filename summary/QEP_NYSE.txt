@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.00,20.96,18.96,564.90M,['NYSE'],N/A,n/a,N/A,12/7/2015,N/A,4630.00,NYQ,19.34,1900937,0.00,11/13/2015,QEP,-5.67,n/a,QEP Resources,N/A,8.54,18.75,08 August 2016

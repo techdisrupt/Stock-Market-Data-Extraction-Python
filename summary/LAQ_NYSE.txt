@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,3.05,21.74,21.71,0.00,['NYSE'],N/A,1991,N/A,1/12/2016,N/A,N/A,ASE,21.79,8446,0.63,12/29/2015,LAQ,-7.43,n/a,Latin America Equity Fund,N/A,12.90,21.56,07 August 2016

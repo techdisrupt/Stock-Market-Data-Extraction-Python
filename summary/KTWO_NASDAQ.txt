@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,23.00,17.36,-10.51M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,697.36,NMS,16.81,272524,N/A,N/A,KTWO,-0.86,n/a,K2M Group Holdings,N/A,10.10,17.34,07 August 2016

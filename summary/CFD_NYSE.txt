@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.53,11.09,9.15,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,ASE,9.37,66448,0.25,7/27/2016,CFD,-2.37,2010,Nuveen Diversified Commodity Fund,N/A,7.88,9.19,07 August 2016

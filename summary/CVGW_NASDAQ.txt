@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,1.21,68.82,65.67,56.59M,['NASDAQ'],N/A,n/a,38.56,12/8/2015,N/A,1140.00,NMS,65.55,82437,0.80,11/13/2015,CVGW,1.70,n/a,Calavo Growers,N/A,43.08,65.40,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: In Vitro & In Vivo Diagnostic Substances,USD,N/A,N/A,14.99,9.67,-22.56M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,218.24,NGM,9.67,143463,N/A,N/A,OXFD,-1.09,2013,Oxford Immunotec Global PLC,N/A,7.73,9.59,07 August 2016

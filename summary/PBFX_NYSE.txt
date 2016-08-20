@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,7.71,23.49,22.07,110.06M,['NYSE'],N/A,Energy,10.80,5/31/2016,N/A,819.57,NYQ,22.14,35769,1.72,8/5/2016,PBFX,2.04,2014,PBF Logistics LP,N/A,15.39,21.87,07 August 2016

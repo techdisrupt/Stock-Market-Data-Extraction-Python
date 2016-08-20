@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.11,28.86,27.03,0.00,['NASDAQ'],N/A,Finance,15.77,8/15/2016,N/A,251.56,NCM,27.59,1317,0.84,7/28/2016,ATLO,1.71,n/a,Ames National Corporation,N/A,22.01,26.89,05 August 2016

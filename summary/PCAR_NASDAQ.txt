@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Manufacturing,USD,N/A,1.67,64.03,57.56,2.63B,['NASDAQ'],N/A,Capital Goods,30.76,6/6/2016,N/A,20320.00,NMS,60.65,1689268,0.96,5/17/2016,PCAR,1.88,n/a,PACCAR Inc.,N/A,43.46,57.35,07 August 2016

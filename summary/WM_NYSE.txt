@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,2.460,70.50,66.650,3.59B,['NYSE'],N/A,n/a,25.946,6/17/2016,N/A,29370.00,NYQ,66.380,785087,1.640,6/1/2016,WM,2.559,n/a,Waste Management,N/A,48.79,66.67,15 August 2016

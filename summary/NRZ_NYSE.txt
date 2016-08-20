@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,13.04,15.25,14.02,0.00,['NYSE'],N/A,Consumer Services,9.73,7/29/2016,N/A,3280.00,NYQ,14.23,2512635,1.84,7/5/2016,NRZ,1.46,n/a,New Residential Investment Corp.,N/A,9.07,14.00,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,3.25,65.41,62.37,416.60M,['NYSE'],N/A,n/a,20.73,6/1/2016,N/A,3070.00,NYQ,62.31,178889,2.08,5/12/2016,ALE,3.01,n/a,Allete,N/A,45.86,62.50,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,140.68,100.88,-258.69M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,16070.00,NMS,99.06,1578017,N/A,N/A,BMRN,-1.18,1999,BioMarin Pharmaceutical Inc.,N/A,62.12,99.62,05 August 2016

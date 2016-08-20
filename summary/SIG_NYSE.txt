@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Specialties,USD,N/A,1.19,152.27,90.10,967.70M,['NYSE'],N/A,Consumer Services,14.58,8/26/2016,N/A,7120.00,NYQ,91.39,709517,1.04,7/27/2016,SIG,6.26,n/a,Signet Jewelers Limited,N/A,77.00,90.62,13 August 2016

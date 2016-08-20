@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,9.56,5.91,-17.43M,['NASDAQ'],N/A,2006,N/A,N/A,N/A,171.08,NGM,10.22,67802,N/A,N/A,GUID,-0.82,n/a,Guidance Software,N/A,3.27,5.84,07 August 2016

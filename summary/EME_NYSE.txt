@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.57,56.90,55.54,383.44M,['NYSE'],N/A,n/a,19.31,4/29/2016,N/A,3440.00,NYQ,56.50,331998,0.32,7/14/2016,EME,2.93,n/a,EMCOR Group,N/A,40.98,55.32,06 August 2016

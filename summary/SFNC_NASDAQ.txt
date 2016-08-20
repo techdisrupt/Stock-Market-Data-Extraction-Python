@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.05,58.75,46.66,0.00,['NASDAQ'],N/A,Finance,15.57,7/1/2016,N/A,1430.00,NMS,47.05,50052,0.96,6/13/2016,SFNC,3.02,n/a,Simmons First National Corporation,N/A,38.30,46.99,13 August 2016

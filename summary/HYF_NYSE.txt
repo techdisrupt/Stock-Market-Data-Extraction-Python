@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.40,1.92,N/A,0.00,['NYSE'],N/A,1998,N/A,4/29/2016,N/A,N/A,NYQ,N/A,0,0.16,4/19/2016,HYF,-0.12,n/a,Managed High Yield Plus Fund,N/A,1.57,1.88,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,4.70,19.18,14.45,0.00,['NYSE'],N/A,n/a,N/A,5/17/2016,N/A,7060.00,NYQ,14.58,3239077,0.68,8/4/2016,NYCB,-0.09,n/a,New York Community Bancorp,N/A,14.10,14.36,07 August 2016

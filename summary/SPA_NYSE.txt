@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,0.00,25.60,22.22,36.82M,['NYSE'],N/A,Technology,24.85,N/A,N/A,217.22,NYQ,22.21,39619,0.00,9/12/2005,SPA,0.89,n/a,Sparton Corporation,N/A,11.19,22.20,14 August 2016

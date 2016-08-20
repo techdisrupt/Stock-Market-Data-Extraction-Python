@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,0.000,4.690,4.000,2.80M,['NYSE'],N/A,Capital Goods,28.132,12/17/2012,N/A,41.90,ASE,4.000,7587,0.000,12/6/2012,INTT,0.144,1997,inTest Corporation,N/A,3.430,3.900,07 August 2016

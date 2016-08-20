@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,N/A,29.17,26.28,321.80M,['NASDAQ'],N/A,Technology,5.19,N/A,N/A,1930.00,NMS,26.50,469393,N/A,N/A,SANM,5.03,1993,Sanmina Corporation,N/A,16.31,26.20,11 August 2016

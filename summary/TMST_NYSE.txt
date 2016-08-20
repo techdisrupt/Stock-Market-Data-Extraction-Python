@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Steel/Iron Ore,USD,N/A,0.00,18.74,9.56,-38.00M,['NYSE'],N/A,Basic Industries,N/A,9/10/2015,N/A,414.79,NYQ,10.00,499805,0.00,8/25/2015,TMST,-1.79,2014,Timken Steel Corporation,N/A,3.69,9.52,14 August 2016

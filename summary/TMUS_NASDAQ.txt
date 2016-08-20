@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,0.00,48.11,46.61,8.41B,['NASDAQ'],N/A,n/a,36.12,N/A,N/A,38630.00,NMS,N/A,1703990,0.00,5/1/2013,TMUS,1.30,n/a,T-Mobile US,N/A,33.23,46.83,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.89,25.36,23.10,390.00M,['NYSE'],N/A,n/a,N/A,6/30/2016,N/A,3070.00,NYQ,30.70,1118650,1.36,6/8/2016,OUT,-0.24,2014,OUTFRONT Media Inc.,N/A,18.01,23.10,07 August 2016

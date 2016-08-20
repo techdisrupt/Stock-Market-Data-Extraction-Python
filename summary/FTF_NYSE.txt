@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.35,11.85,11.75,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,ASE,12.10,24646,0.74,7/27/2016,FTF,-0.75,2003,Franklin Limited Duration Income Trust,N/A,10.11,11.74,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Forest Products,USD,N/A,N/A,72.30,71.08,202.24M,['NYSE'],N/A,Basic Industries,1605.78,N/A,N/A,2190.00,NYQ,72.27,239025,N/A,N/A,DOOR,0.05,n/a,Masonite International Corporation,N/A,45.14,70.80,07 August 2016

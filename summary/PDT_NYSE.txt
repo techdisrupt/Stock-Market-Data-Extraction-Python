@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.70,17.59,17.48,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,18.60,72012,0.84,7/7/2016,PDT,1.72,n/a,John Hancock Premium Dividend Fund,N/A,12.45,17.44,07 August 2016

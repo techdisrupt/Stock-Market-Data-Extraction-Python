@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Multi-Sector Companies,USD,N/A,N/A,15.41,10.92,198.60M,['NASDAQ'],N/A,Miscellaneous,26.84,N/A,N/A,550.66,NMS,N/A,310982,N/A,N/A,RPXC,0.40,2011,RPX Corporation,N/A,8.60,10.89,10 August 2016

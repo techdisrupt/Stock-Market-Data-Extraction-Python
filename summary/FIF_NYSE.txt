@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,19.30,17.55,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NYQ,17.63,48011,N/A,8/1/2016,FIF,1.68,2011,First Trust Energy Infrastructure Fund,N/A,10.64,17.58,06 August 2016

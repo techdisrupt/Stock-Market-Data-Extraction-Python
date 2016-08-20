@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,35.92,32.00,183.74M,['NYSE'],N/A,n/a,N/A,N/A,N/A,1200.00,NYQ,32.68,241720,N/A,2/27/2015,EGL,-6.43,n/a,Engility Holdings,N/A,11.46,31.66,06 August 2016

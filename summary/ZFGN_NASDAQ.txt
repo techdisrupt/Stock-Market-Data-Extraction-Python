@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,47.98,3.23,-75.72M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,90.46,NMS,3.32,326162,N/A,N/A,ZFGN,-2.78,n/a,Zafgen,N/A,2.90,3.23,15 August 2016

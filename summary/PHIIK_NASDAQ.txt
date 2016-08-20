@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,N/A,28.44,19.01,115.73M,['NASDAQ'],N/A,n/a,55.00,N/A,N/A,300.06,NMS,19.15,34253,N/A,8/3/1999,PHIIK,0.35,n/a,PHI,N/A,14.95,18.94,08 August 2016

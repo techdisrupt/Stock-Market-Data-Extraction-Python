@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,9.690,5.050,-34.06M,['NASDAQ'],N/A,2013,N/A,N/A,N/A,142.47,NGM,5.140,64656,N/A,N/A,VCYT,-1.379,n/a,Veracyte,N/A,4.210,5.050,15 August 2016

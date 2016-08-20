@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Apparel,USD,N/A,N/A,59.49,49.89,1.37B,['NYSE'],N/A,Consumer Non-Durables,11.35,N/A,N/A,8870.00,NYQ,50.41,2644986,N/A,N/A,KORS,4.44,2011,Michael Kors Holdings Limited,N/A,34.83,49.67,07 August 2016

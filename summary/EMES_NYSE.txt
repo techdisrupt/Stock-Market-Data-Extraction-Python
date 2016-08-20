@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oilfield Services/Equipment,USD,N/A,0.00,20.11,9.54,-907750.00,['NYSE'],N/A,Energy,N/A,8/13/2015,N/A,212.26,NYQ,8.95,661294,0.00,8/3/2015,EMES,-2.21,2013,Emerge Energy Services LP,N/A,1.97,9.41,06 August 2016

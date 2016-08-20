@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,0.3500,0.2925,-8.25M,['NYSE'],N/A,n/a,N/A,N/A,N/A,12.56,ASE,0.3000,32722,N/A,N/A,CPHI,-0.3000,n/a,China Pharma Holdings,N/A,0.1200,0.2920,06 August 2016

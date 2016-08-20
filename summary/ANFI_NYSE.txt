@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Packaged Foods,USD,N/A,N/A,14.09,8.16,64.63M,['NYSE'],N/A,Consumer Non-Durables,9.64,N/A,N/A,309.05,NYQ,8.85,349616,N/A,N/A,ANFI,0.89,2012,Amira Nature Foods Ltd,N/A,2.51,8.16,05 August 2016

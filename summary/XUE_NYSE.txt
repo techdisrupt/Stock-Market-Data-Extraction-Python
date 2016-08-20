@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,0.00,5.45,5.44,0.00,['NYSE'],N/A,Consumer Services,N/A,4/16/2015,N/A,N/A,NYQ,N/A,0,0.00,3/12/2015,XUE,-0.15,2010,Xueda Education Group,N/A,2.90,5.44,15 August 2016

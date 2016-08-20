@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,10.90,3.18,-34.23M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,65.02,NMS,3.59,739531,N/A,N/A,CALA,-1.89,n/a,Calithera Biosciences,N/A,2.87,3.14,05 August 2016

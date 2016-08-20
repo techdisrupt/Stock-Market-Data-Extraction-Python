@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.93,41.13,30.25,57.61M,['NASDAQ'],N/A,2010,62.24,7/5/2016,N/A,1860.00,NMS,30.07,364042,0.28,6/13/2016,FNGN,0.48,n/a,Financial Engines,N/A,23.22,29.98,06 August 2016

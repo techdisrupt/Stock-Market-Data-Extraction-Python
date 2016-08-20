@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,2.34,43.65,38.99,40.78M,['NASDAQ'],N/A,2007,44.32,6/15/2016,N/A,504.32,NMS,N/A,252494,0.88,5/27/2016,HAYN,0.92,n/a,Haynes International,N/A,25.53,37.58,07 August 2016

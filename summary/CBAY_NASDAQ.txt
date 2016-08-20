@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,3.31,1.85,-25.99M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,43.14,NCM,2.49,43069,N/A,N/A,CBAY,-0.95,n/a,Cymabay Therapeutics Inc.,N/A,0.82,1.87,06 August 2016

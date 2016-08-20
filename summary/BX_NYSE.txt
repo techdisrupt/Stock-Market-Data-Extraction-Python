@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,5.17,38.72,27.78,0.00,['NYSE'],N/A,Finance,58.23,5/9/2016,N/A,17330.00,NYQ,28.00,2934978,1.44,7/28/2016,BX,0.47,2007,The Blackstone Group L.P.,N/A,22.31,27.90,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Aerospace,USD,N/A,0.20,43.93,39.29,1.63B,['NYSE'],N/A,Capital Goods,14.80,7/1/2016,N/A,10570.00,NYQ,41.00,518401,0.08,6/8/2016,TXT,2.65,n/a,Textron Inc.,N/A,30.69,39.39,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,6.300,0.300,395.53M,['NYSE'],N/A,Energy,N/A,N/A,N/A,38.39,NYQ,0.313,1261102,N/A,N/A,HK,-10.473,n/a,Halcon Resources Corporation,N/A,0.200,0.310,07 August 2016

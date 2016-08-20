@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,33.25,31.77,48.75M,['NYSE'],N/A,2014,10.73,N/A,N/A,345.04,NYQ,32.16,39541,N/A,N/A,VEC,3.00,n/a,Vectrus,N/A,17.25,31.92,15 August 2016

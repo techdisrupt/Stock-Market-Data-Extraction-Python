@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.01,20.77,19.79,0.00,['NASDAQ'],N/A,n/a,13.32,6/30/2016,N/A,213.20,NCM,19.94,10415,0.40,6/13/2016,SMMF,1.50,n/a,Summit Financial Group,N/A,11.03,19.90,14 August 2016

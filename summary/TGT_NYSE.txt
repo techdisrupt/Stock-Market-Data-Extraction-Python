@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Department/Specialty Retail Stores,USD,N/A,3.24,84.62,74.36,7.41B,['NYSE'],N/A,Consumer Services,14.03,9/10/2016,N/A,44670.00,NYQ,75.87,6670915,2.40,5/16/2016,TGT,5.40,n/a,Target Corporation,N/A,65.50,74.01,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Broadcasting,USD,N/A,1.38,58.22,52.01,3.31B,['NYSE'],N/A,Consumer Services,15.43,7/1/2016,N/A,23190.00,NYQ,54.15,2536651,0.72,6/8/2016,CBS,3.38,n/a,CBS Corporation,N/A,38.51,51.83,06 August 2016

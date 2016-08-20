@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.68,37.15,34.96,0.00,['NASDAQ'],N/A,n/a,13.51,7/1/2016,N/A,625.30,NMS,N/A,28969,1.28,6/13/2016,CTBI,2.64,n/a,Community Trust Bancorp,N/A,30.89,34.72,06 August 2016

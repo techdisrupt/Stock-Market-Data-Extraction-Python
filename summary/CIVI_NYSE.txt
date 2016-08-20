@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,30.23,21.18,131.88M,['NYSE'],N/A,2014,126.71,N/A,N/A,799.26,NYQ,21.57,32712,N/A,N/A,CIVI,0.17,n/a,Civitas Solutions,N/A,15.19,21.01,06 August 2016

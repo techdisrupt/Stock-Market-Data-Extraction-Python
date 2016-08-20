@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical Specialities,USD,N/A,2.34,22.27,22.17,8.29M,['NASDAQ'],N/A,Capital Goods,15.67,6/27/2016,N/A,60.01,NGM,22.25,7897,0.52,6/9/2016,KEQU,1.42,n/a,Kewaunee Scientific Corporation,N/A,15.82,22.23,07 August 2016

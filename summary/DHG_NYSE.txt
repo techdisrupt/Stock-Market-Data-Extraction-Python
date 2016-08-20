@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.70,14.09,14.00,0.00,['NYSE'],N/A,2006,N/A,6/30/2016,N/A,N/A,NYQ,14.02,41577,0.90,7/14/2016,DHG,N/A,n/a,DWS High Income Opportunities Fund,N/A,12.04,14.00,06 August 2016

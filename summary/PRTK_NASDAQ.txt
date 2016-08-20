@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,0.00,28.74,12.90,-103.92M,['NASDAQ'],N/A,n/a,N/A,10/29/2014,N/A,294.60,NGM,13.30,161463,0.00,10/31/2014,PRTK,-5.29,n/a,Paratek Pharmaceuticals,N/A,12.05,12.91,07 August 2016

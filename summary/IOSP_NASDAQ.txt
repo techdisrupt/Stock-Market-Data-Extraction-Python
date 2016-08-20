@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,1.14,59.93,57.78,146.30M,['NASDAQ'],N/A,Basic Industries,12.47,5/25/2016,N/A,1400.00,NMS,58.54,249813,0.66,5/12/2016,IOSP,4.69,n/a,Innospec Inc.,N/A,41.61,57.73,07 August 2016

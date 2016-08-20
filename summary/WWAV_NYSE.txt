@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Packaged Foods,USD,N/A,N/A,56.82,55.18,511.27M,['NYSE'],N/A,Consumer Non-Durables,51.77,N/A,N/A,9770.00,NYQ,55.14,1893633,N/A,N/A,WWAV,1.07,2012,Whitewave Foods Company (The),N/A,31.40,55.15,15 August 2016

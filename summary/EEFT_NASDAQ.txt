@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,N/A,82.49,77.00,301.73M,['NASDAQ'],N/A,1997,28.07,N/A,N/A,4020.00,NMS,77.36,872559,N/A,N/A,EEFT,2.75,n/a,Euronet Worldwide,N/A,52.00,76.99,06 August 2016

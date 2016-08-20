@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,3.95,2.28,-2.37M,['NYSE'],N/A,n/a,11.47,N/A,N/A,67.01,ASE,2.39,400,N/A,N/A,RVP,0.20,n/a,Retractable Technologies,N/A,2.10,2.35,09 August 2016

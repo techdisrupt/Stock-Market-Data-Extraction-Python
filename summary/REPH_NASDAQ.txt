@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,17.25,9.75,0.00,['NASDAQ'],N/A,2014,N/A,N/A,N/A,90.70,NCM,9.58,14654,N/A,N/A,REPH,-0.06,n/a,Recro Pharma,N/A,5.59,9.67,08 August 2016

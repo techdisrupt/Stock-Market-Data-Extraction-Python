@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,4.48,37.14,36.20,2.47B,['NYSE'],N/A,Public Utilities,83.97,9/7/2016,N/A,25490.00,NYQ,36.49,2513904,1.62,8/10/2016,SE,0.43,n/a,Spectra Energy Corp,N/A,21.43,36.14,14 August 2016

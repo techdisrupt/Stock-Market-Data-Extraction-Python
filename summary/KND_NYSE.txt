@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,4.23,23.26,11.91,574.03M,['NYSE'],N/A,n/a,15.78,6/10/2016,N/A,1020.00,NYQ,12.10,1553890,0.48,5/16/2016,KND,0.76,n/a,Kindred Healthcare,N/A,7.96,11.17,07 August 2016

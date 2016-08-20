@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,2.04,10.26,7.38,0.00,['NYSE'],N/A,Finance,14.02,7/2/2015,N/A,21280.00,NYQ,7.33,5309734,0.15,6/14/2016,IBN,0.52,n/a,ICICI Bank Limited,N/A,5.15,7.27,07 August 2016

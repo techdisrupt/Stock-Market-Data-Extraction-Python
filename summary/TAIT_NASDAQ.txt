@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,8.85,1.69,1.10,114000.00,['NASDAQ'],N/A,Consumer Non-Durables,N/A,5/31/2016,N/A,6.30,NCM,1.29,62889,0.10,8/11/2016,TAIT,-0.06,1995,Taitron Components Incorporated,N/A,0.73,1.13,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,12.14,7.31,5.92,0.00,['NYSE'],N/A,Consumer Services,N/A,7/28/2016,N/A,85.98,NYQ,7.40,144425,0.72,7/13/2016,OAKS,-1.01,2013,Five Oaks Investment Corp.,N/A,3.82,5.92,06 August 2016

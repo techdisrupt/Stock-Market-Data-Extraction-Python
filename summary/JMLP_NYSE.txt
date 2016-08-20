@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.60,13.11,9.11,0.00,['NYSE'],N/A,n/a,N/A,8/15/2016,N/A,N/A,NYQ,9.09,38977,0.28,7/13/2016,JMLP,N/A,2014,Nuveen All Cap Energy MLP Opportunities Fund,N/A,3.90,9.02,07 August 2016

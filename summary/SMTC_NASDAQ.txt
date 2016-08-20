@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,N/A,25.68,25.27,81.37M,['NASDAQ'],N/A,Technology,90.04,N/A,N/A,1660.00,NMS,N/A,234948,N/A,N/A,SMTC,0.28,n/a,Semtech Corporation,N/A,14.04,25.28,13 August 2016

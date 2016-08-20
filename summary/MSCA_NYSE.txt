@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,26.93,26.46,0.00,['NYSE'],N/A,n/a,15.50,10/3/2016,N/A,1360.00,NYQ,26.60,6700,N/A,6/13/2016,MSCA,1.71,n/a,Main Street Capital Corporation,N/A,24.86,26.30,07 August 2016

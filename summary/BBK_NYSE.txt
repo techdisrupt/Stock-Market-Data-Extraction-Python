@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.9000,18.3100,18.2601,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,18.3200,9154,0.9000,7/13/2016,BBK,0.9460,2002,Blackrock Municipal Bond Trust,N/A,15.0900,18.2600,05 August 2016

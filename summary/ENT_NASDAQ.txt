@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,13.98,8.34,33.61M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,661.14,NCM,9.97,301264,N/A,N/A,ENT,-0.15,2011,Global Eagle Entertainment Inc.,N/A,6.06,8.28,07 August 2016

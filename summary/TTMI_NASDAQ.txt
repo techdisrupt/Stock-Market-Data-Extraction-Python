@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,10.70,10.21,335.19M,['NASDAQ'],N/A,2000,59.44,N/A,N/A,1070.00,NMS,10.65,1163230,N/A,N/A,TTMI,0.18,n/a,TTM Technologies,N/A,4.670,10.25,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,4.32,45.65,42.82,0.00,['NASDAQ'],N/A,n/a,15.20,6/21/2016,N/A,205.79,NMS,43.49,4808,1.88,6/3/2016,PWOD,2.86,n/a,Penns Woods Bancorp,N/A,34.76,42.50,08 August 2016

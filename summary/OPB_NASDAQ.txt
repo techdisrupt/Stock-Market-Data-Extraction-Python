@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.47,41.49,32.82,0.00,['NASDAQ'],N/A,n/a,17.80,5/19/2016,N/A,1140.00,NMS,33.24,225947,0.80,8/2/2016,OPB,1.87,2014,Opus Bank,N/A,28.84,32.40,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.08,33.62,31.04,0.00,['NASDAQ'],N/A,n/a,17.06,6/2/2016,N/A,813.78,NMS,31.00,24799,0.96,5/17/2016,SBSI,1.82,n/a,Southside Bancshares,N/A,19.54,31.16,14 August 2016

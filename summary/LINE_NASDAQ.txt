@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.00,11.51,N/A,0.00,['NASDAQ'],N/A,2006,N/A,9/16/2015,N/A,N/A,NMS,N/A,0,0.00,9/9/2015,LINE,-16.55,n/a,Linn Energy,N/A,0.09,0.18,07 August 2016

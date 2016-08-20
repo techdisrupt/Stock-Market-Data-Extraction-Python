@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Specialties,USD,N/A,2.37,30.98,22.06,79.48M,['NYSE'],N/A,Consumer Non-Durables,11.91,6/21/2016,N/A,522.53,NYQ,22.72,120743,0.52,6/3/2016,MOV,1.91,n/a,Movado Group Inc.,N/A,19.14,21.83,07 August 2016

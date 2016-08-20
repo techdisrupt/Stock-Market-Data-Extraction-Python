@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,1.55,12.00,8.45,43.85M,['NASDAQ'],N/A,2006,56.85,8/3/2016,N/A,1400.00,NMS,8.28,2719705,0.13,7/20/2016,HIMX,0.14,n/a,Himax Technologies,N/A,5.65,8.39,07 August 2016

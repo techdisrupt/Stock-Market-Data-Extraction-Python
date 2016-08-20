@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,N/A,11.35,10.48,378.28M,['NYSE'],N/A,Technology,9.95,N/A,N/A,889.29,NYQ,10.50,1491683,N/A,N/A,TSL,1.05,2006,Trina Solar Limited,N/A,6.91,10.51,14 August 2016

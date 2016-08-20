@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.42,121.94,118.74,1.05B,['NYSE'],N/A,Consumer Services,28.34,7/15/2016,N/A,11950.00,NYQ,119.11,603133,2.88,6/28/2016,SLG,4.20,1997,SL Green Realty Corporation,N/A,80.12,118.84,14 August 2016

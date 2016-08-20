@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,103.85,79.16,1.65B,['NYSE'],N/A,Health Care,15.08,N/A,N/A,8690.00,NYQ,80.14,1873384,N/A,N/A,MNK,5.30,2013,Mallinckrodt plc,N/A,50.90,78.81,07 August 2016

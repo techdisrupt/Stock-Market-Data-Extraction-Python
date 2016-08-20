@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,3.17,66.10,62.53,2.33B,['NYSE'],N/A,Public Utilities,21.89,6/1/2016,N/A,19350.00,NYQ,61.35,1303675,1.98,8/10/2016,WEC,2.80,n/a,Wisconsin Energy Corporation,N/A,46.23,62.46,15 August 2016

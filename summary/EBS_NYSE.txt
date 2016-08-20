@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,44.38,29.52,167.08M,['NYSE'],N/A,2006,15.92,N/A,N/A,1190.00,NYQ,33.00,1283543,N/A,N/A,EBS,1.87,n/a,Emergent Biosolutions,N/A,27.01,30.69,06 August 2016

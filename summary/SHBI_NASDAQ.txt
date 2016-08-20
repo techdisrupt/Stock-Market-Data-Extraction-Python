@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.03,12.59,11.58,0.00,['NASDAQ'],N/A,Finance,16.81,5/31/2016,N/A,146.88,NMS,11.62,16339,0.12,8/11/2016,SHBI,0.69,n/a,Shore Bancshares Inc,N/A,9.13,11.59,13 August 2016

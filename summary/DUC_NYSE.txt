@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.60,9.92,9.79,0.00,['NYSE'],N/A,1993,N/A,7/29/2016,N/A,N/A,NYQ,10.50,7151,0.42,7/13/2016,DUC,0.17,n/a,Duff & Phelps Utility & Corporate Bond Trust,N/A,9.06,9.83,06 August 2016

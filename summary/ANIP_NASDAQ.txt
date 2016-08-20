@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,69.01,65.66,38.98M,['NASDAQ'],N/A,n/a,62.40,N/A,N/A,763.02,NGM,74.50,887556,N/A,N/A,ANIP,1.06,n/a,ANI Pharmaceuticals,N/A,26.80,62.10,05 August 2016

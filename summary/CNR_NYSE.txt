@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,0.00,3.31,1.14,47.78M,['NYSE'],N/A,Finance,232.00,N/A,N/A,85.31,ASE,1.28,245571,0.00,7/20/2007,CNR,0.00,n/a,China Metro-Rural Holdings Limited,N/A,0.85,1.13,06 August 2016

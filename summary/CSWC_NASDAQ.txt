@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,1.63,50.41,14.43,-3.54M,['NASDAQ'],N/A,n/a,N/A,7/1/2016,N/A,225.35,NMS,N/A,117002,0.24,6/16/2016,CSWC,-0.34,n/a,Capital Southwest Corporation,N/A,13.19,14.41,06 August 2016

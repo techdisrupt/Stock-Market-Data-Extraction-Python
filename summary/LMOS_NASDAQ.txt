@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.00,13.76,13.00,81.07M,['NASDAQ'],N/A,Public Utilities,69.89,1/8/2015,N/A,296.16,NMS,14.99,239535,0.00,12/9/2014,LMOS,0.18,n/a,Lumos Networks Corp.,N/A,10.18,12.94,07 August 2016

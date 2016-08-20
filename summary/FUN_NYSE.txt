@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,5.64,63.40,60.22,446.54M,['NYSE'],N/A,1987,23.35,6/15/2016,N/A,3420.00,NYQ,61.01,133106,3.30,6/1/2016,FUN,2.61,n/a,Cedar Fair,N/A,48.46,60.20,06 August 2016

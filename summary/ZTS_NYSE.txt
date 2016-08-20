@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,0.73,52.48,52.16,1.58B,['NYSE'],N/A,Health Care,40.81,8/30/2016,N/A,25940.00,NYQ,52.39,1683083,0.38,6/28/2016,ZTS,1.28,2013,Zoetis Inc.,N/A,37.73,51.98,15 August 2016

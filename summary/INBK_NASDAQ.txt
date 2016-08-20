@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.07,39.76,22.76,0.00,['NASDAQ'],N/A,Finance,11.16,7/15/2016,N/A,130.36,NCM,23.57,32315,0.24,6/28/2016,INBK,2.11,n/a,First Internet Bancorp,N/A,22.01,22.51,06 August 2016

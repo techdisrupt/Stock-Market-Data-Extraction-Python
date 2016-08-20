@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Products,USD,N/A,0.96,64.09,62.99,173.80M,['NYSE'],N/A,Consumer Durables,21.31,5/6/2016,N/A,1660.00,NYQ,63.97,50731,0.60,7/14/2016,AZZ,3.00,n/a,AZZ Incorporated,N/A,45.01,62.70,05 August 2016

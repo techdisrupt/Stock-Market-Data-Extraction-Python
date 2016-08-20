@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,41.43,22.88,-101.46M,['NASDAQ'],N/A,2012,N/A,N/A,N/A,1260.00,NMS,24.20,1062478,N/A,N/A,CEMP,-2.23,n/a,Cempra,N/A,14.03,22.72,06 August 2016

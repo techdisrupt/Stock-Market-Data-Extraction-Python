@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,41.30,37.55,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,N/A,6293,N/A,N/A,IFEU,N/A,n/a,iShares FTSE EPRA/NAREIT Europe Index Fund,N/A,32.72,37.40,07 August 2016

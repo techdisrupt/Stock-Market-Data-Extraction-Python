@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,2.33,57.54,43.84,1.51B,['NYSE'],N/A,Finance,10.86,8/1/2016,N/A,10880.00,NYQ,45.57,3391968,1.00,7/7/2016,LNC,4.19,n/a,Lincoln National Corporation,N/A,30.39,43.00,07 August 2016

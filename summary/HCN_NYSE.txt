@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,4.43,80.19,76.95,2.09B,['NYSE'],N/A,n/a,41.33,5/20/2016,N/A,27240.00,NYQ,76.88,1508482,3.44,8/5/2016,HCN,1.85,n/a,Health Care REIT,N/A,52.80,76.85,07 August 2016

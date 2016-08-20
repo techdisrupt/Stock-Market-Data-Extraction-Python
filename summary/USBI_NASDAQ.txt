@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.8400,10.2800,9.4400,0.00,['NASDAQ'],N/A,n/a,33.7325,7/1/2016,N/A,56.42,NCM,9.3500,300,0.0800,6/8/2016,USBI,0.2770,n/a,United Security Bancshares,N/A,7.7500,9.4800,15 August 2016

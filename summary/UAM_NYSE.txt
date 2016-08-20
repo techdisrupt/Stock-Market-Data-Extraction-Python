@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical Specialities,USD,N/A,0.000,8.550,7.240,41.99M,['NYSE'],N/A,Health Care,N/A,10/26/2015,N/A,475.23,NYQ,7.310,39045,0.000,10/15/2015,UAM,-1.645,n/a,Universal American Corp.,N/A,5.550,7.260,15 August 2016

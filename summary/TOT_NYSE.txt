@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,5.64,52.34,48.28,18.80B,['NYSE'],N/A,n/a,38.16,7/1/2016,N/A,115520.00,NYQ,48.35,933458,2.73,6/1/2016,TOT,1.27,n/a,TotalFinaElf,N/A,39.05,48.30,14 August 2016

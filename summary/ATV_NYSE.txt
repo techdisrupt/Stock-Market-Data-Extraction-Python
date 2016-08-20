@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,20.85,5.93,-14.03M,['NYSE'],N/A,2007,N/A,12/15/2010,N/A,23.31,NYQ,5.90,12671,0.00,11/10/2010,ATV,-10.20,n/a,Acorn International,N/A,0.60,5.98,04 August 2016

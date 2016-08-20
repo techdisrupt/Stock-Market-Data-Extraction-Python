@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,55.80,43.15,116.19M,['NASDAQ'],N/A,2007,34.03,N/A,N/A,2070.00,NMS,43.01,339051,N/A,N/A,MLNX,1.26,n/a,Mellanox Technologies,N/A,32.24,43.08,07 August 2016

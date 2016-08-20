@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,13.97,5.02,-67.20M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,126.87,NGM,4.93,149005,N/A,N/A,ARGS,-3.31,n/a,Argos Therapeutics,N/A,1.61,4.99,05 August 2016

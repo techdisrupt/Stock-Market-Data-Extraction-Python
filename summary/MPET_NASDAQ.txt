@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,5.00,2.75,-7.72M,['NASDAQ'],N/A,Energy,N/A,N/A,N/A,19.13,NCM,3.64,1029938,N/A,N/A,MPET,-9.17,n/a,Magellan Petroleum Corporation,N/A,0.20,2.81,07 August 2016

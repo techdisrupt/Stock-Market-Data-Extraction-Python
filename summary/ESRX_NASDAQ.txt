@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Nursing Services,USD,N/A,N/A,91.37,76.11,6.75B,['NASDAQ'],N/A,Health Care,18.87,N/A,N/A,48140.00,NMS,79.45,2620471,N/A,N/A,ESRX,4.05,1992,Express Scripts Holding Company,N/A,65.55,75.89,06 August 2016

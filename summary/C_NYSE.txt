@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.71,58.84,44.63,0.00,['NYSE'],N/A,Finance,9.68,5/27/2016,N/A,132830.00,NYQ,45.79,28566792,0.31,7/28/2016,C,4.72,n/a,Citigroup Inc.,N/A,34.52,43.84,06 August 2016

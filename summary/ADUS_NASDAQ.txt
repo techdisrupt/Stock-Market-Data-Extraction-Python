@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Nursing Services,USD,N/A,N/A,38.08,20.90,19.47M,['NASDAQ'],N/A,Health Care,24.40,N/A,N/A,226.11,NMS,19.86,18240,N/A,N/A,ADUS,0.87,2009,Addus HomeCare Corporation,N/A,15.33,21.12,04 August 2016

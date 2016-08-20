@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,2.52,87.61,82.85,119.16M,['NASDAQ'],N/A,Finance,19.54,6/24/2016,N/A,915.99,NMS,82.85,28055,2.08,6/8/2016,IPCC,4.24,2003,Infinity Property and Casualty Corporation,N/A,73.27,82.45,07 August 2016

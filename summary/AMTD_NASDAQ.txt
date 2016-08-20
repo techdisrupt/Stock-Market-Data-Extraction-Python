@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Bankers/Brokers/Service,USD,N/A,2.22,37.90,30.50,0.00,['NASDAQ'],N/A,Finance,18.88,5/17/2016,N/A,16200.00,NMS,31.63,1287208,0.68,8/2/2016,AMTD,1.63,1997,TD Ameritrade Holding Corporation,N/A,24.88,30.96,14 August 2016

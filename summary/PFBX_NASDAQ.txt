@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.00,11.26,10.40,0.00,['NASDAQ'],N/A,Finance,N/A,6/30/2014,N/A,53.13,NCM,10.40,2750,0.00,6/19/2014,PFBX,-0.28,n/a,Peoples Financial Corporation,N/A,8.53,10.37,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Electromedical & Electrotherapeutic Apparatus,USD,N/A,0.00,59.18,57.86,135.11M,['NASDAQ'],N/A,Health Care,29.36,12/11/2012,N/A,2760.00,NMS,N/A,585288,0.00,11/23/2012,MASI,1.70,2007,Masimo Corporation,N/A,33.03,57.43,07 August 2016

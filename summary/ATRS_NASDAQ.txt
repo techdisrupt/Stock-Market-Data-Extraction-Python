@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,2.25,1.13,-19.82M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,168.87,NCM,1.15,397757,N/A,N/A,ATRS,-0.14,n/a,Antares Pharma,N/A,0.67,1.11,05 August 2016

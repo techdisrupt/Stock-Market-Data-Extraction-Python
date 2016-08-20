@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.000,21.350,10.200,686.34M,['NYSE'],N/A,n/a,1.612,1/13/2016,N/A,662.55,NYQ,10.230,2375205,0.000,1/4/2016,ATW,6.342,n/a,Atwood Oceanics,N/A,4.820,10.070,05 August 2016

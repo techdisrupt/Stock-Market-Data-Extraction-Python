@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,42.41,13.83,-80.82M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,399.87,NGM,14.34,188929,N/A,N/A,RVNC,-3.23,n/a,Revance Therapeutics,N/A,12.54,13.77,09 August 2016

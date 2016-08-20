@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,0.62,13.42,13.00,0.00,['NASDAQ'],N/A,Finance,167.31,6/15/2016,N/A,1170.00,NMS,N/A,697018,0.08,5/27/2016,KRNY,0.08,n/a,Kearny Financial,N/A,11.01,13.00,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,3.80,27.25,25.98,5.33M,['NYSE'],N/A,Capital Goods,19.70,6/23/2016,N/A,59.67,ASE,26.00,1108,1.00,6/9/2016,ESP,1.32,n/a,Espey Mfg. & Electronics Corp.,N/A,21.93,25.95,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,43.29,43.080,151.08M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,40580.00,NMS,42.640,8114465,N/A,N/A,YHOO,-5.18,1996,Yahoo! Inc.,N/A,26.15,42.94,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.50,14.69,14.08,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,14.45,32661,0.78,7/11/2016,VPV,0.69,n/a,Invesco Pennsylvania Value Municipal Income Trust,N/A,11.97,14.06,07 August 2016

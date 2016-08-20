@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Fluid Controls,USD,N/A,1.80,86.62,73.86,339.43M,['NYSE'],N/A,Capital Goods,21.79,8/3/2016,N/A,4120.00,NYQ,73.90,240460,1.32,7/14/2016,GGG,3.39,n/a,Graco Inc.,N/A,63.05,73.39,07 August 2016

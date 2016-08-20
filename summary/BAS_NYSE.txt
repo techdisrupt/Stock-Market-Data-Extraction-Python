@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,7.180,0.806,-32.09M,['NYSE'],N/A,2005,N/A,N/A,N/A,30.73,NYQ,0.752,1328656,N/A,N/A,BAS,-8.106,n/a,Basic Energy Services,N/A,0.610,0.750,05 August 2016

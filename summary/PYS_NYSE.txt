@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,N/A,26.20,25.31,0.00,['NYSE'],N/A,Finance,N/A,4/15/2016,N/A,60.74,NYQ,25.49,100,N/A,4/12/2016,PYS,N/A,n/a,PPlus Trust,N/A,23.03,25.38,08 August 2016

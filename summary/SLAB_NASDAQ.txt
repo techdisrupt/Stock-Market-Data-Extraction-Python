@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,55.04,53.50,82.91M,['NASDAQ'],N/A,2000,61.17,N/A,N/A,2240.00,NMS,53.84,93455,N/A,N/A,SLAB,0.88,n/a,Silicon Laboratories,N/A,36.56,53.51,13 August 2016

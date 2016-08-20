@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Homebuilding,USD,N/A,3.4100,6.2000,5.8100,111.77M,['NYSE'],N/A,Basic Industries,6.5281,6/8/2016,N/A,416.55,NYQ,6.0900,891032,0.2000,5/23/2016,XIN,0.9300,2007,Xinyuan Real Estate Co Ltd,N/A,2.2000,5.8600,15 August 2016

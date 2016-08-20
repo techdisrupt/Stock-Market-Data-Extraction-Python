@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,4.56,19.66,17.50,1.46B,['NYSE'],N/A,n/a,17.19,7/15/2016,N/A,13250.00,NYQ,19.00,6868327,0.80,6/28/2016,HST,1.04,n/a,Host Hotels & Resorts,N/A,12.17,17.38,07 August 2016

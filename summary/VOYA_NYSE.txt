@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.15,45.30,27.47,789.60M,['NYSE'],N/A,2013,20.71,6/29/2016,N/A,5580.00,NYQ,27.89,685595,0.04,5/26/2016,VOYA,1.35,n/a,Voya Financial,N/A,22.75,27.26,15 August 2016

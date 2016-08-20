@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,38.2100,32.9000,N/A,['NYSE'],N/A,n/a,N/A,N/A,N/A,N/A,PCX,33.1800,3054,N/A,N/A,CARZ,N/A,n/a,First Trust NASDAQ Global Auto Index Fund,N/A,20.0100,32.6333,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Life Insurance,USD,N/A,2.90,21.00,11.36,6.49B,['NYSE'],N/A,Finance,15.88,8/12/2016,N/A,67150.00,NYQ,11.52,368677,0.32,6/3/2016,LFC,0.73,2003,China Life Insurance Company Limited,N/A,10.07,11.20,06 August 2016

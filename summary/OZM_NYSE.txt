@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,4.46,11.90,3.58,-40.84M,['NYSE'],N/A,Finance,N/A,11/20/2015,N/A,658.66,NYQ,4.17,614850,0.16,11/10/2015,OZM,-0.85,2007,Och-Ziff Capital Management Group LLC,N/A,2.89,3.59,07 August 2016

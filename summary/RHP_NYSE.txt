@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,5.44,61.02,55.90,296.65M,['NYSE'],N/A,n/a,20.01,7/15/2016,N/A,2810.00,NYQ,56.76,161868,3.00,6/28/2016,RHP,2.78,n/a,Ryman Hospitality Properties,N/A,41.50,55.82,10 August 2016

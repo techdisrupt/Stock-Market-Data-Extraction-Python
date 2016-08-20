@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,0.00,10.70,4.89,0.00,['NYSE'],N/A,Finance,N/A,N/A,N/A,29240.00,NYQ,5.04,1986279,0.00,5/29/2008,RBS,-0.88,n/a,Royal Bank Scotland plc (The),N/A,3.91,4.82,10 August 2016

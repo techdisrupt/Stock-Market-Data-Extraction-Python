@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,6.52,7.17,5.87,31.76M,['NASDAQ'],N/A,Consumer Services,15.06,7/11/2016,N/A,87.15,NGM,N/A,38569,0.38,6/13/2016,SOHO,0.39,n/a,Sotherly Hotels Inc.,N/A,4.50,5.83,14 August 2016

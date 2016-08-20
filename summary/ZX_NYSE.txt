@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,0.00,1.59,1.02,15.68M,['NYSE'],N/A,Capital Goods,N/A,4/17/2012,N/A,52.66,NYQ,1.02,133973,0.00,3/27/2012,ZX,-0.09,2011,China Zenix Auto International Limited,N/A,0.43,1.04,06 August 2016

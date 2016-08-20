@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,26.04,24.72,0.00,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NMS,N/A,0,N/A,N/A,WWWW,0.08,n/a,Web.com Group,N/A,14.52,24.72,15 August 2016

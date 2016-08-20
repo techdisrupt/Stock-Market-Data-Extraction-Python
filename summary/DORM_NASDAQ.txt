@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,65.06,63.63,173.30M,['NASDAQ'],N/A,n/a,22.66,12/28/2012,N/A,2190.00,NMS,N/A,378375,0.00,12/13/2012,DORM,2.81,n/a,Dorman Products,N/A,40.17,63.24,06 August 2016

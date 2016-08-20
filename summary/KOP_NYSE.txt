@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Forest Products,USD,N/A,0.00,33.71,32.91,142.50M,['NYSE'],N/A,Basic Industries,N/A,1/5/2015,N/A,672.48,NYQ,32.59,198830,0.00,11/13/2014,KOP,-3.40,2006,Koppers Holdings Inc.,N/A,13.58,32.60,07 August 2016

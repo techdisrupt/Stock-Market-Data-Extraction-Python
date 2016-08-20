@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.23,23.36,23.27,0.00,['NASDAQ'],N/A,n/a,22.10,7/12/2016,N/A,1430.00,NMS,N/A,125717,0.52,6/28/2016,TOWN,1.05,n/a,Towne Bank,N/A,16.50,23.27,14 August 2016

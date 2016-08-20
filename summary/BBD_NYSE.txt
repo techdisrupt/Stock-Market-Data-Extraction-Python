@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.53,9.17,9.08,0.00,['NYSE'],N/A,Finance,9.45,7/25/2016,N/A,50730.00,NYQ,9.17,8919772,0.22,8/2/2016,BBD,0.97,n/a,Banco Bradesco Sa,N/A,3.65,9.03,05 August 2016

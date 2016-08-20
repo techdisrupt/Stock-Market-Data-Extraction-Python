@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Dental Instruments,USD,N/A,0.00,7.60,6.77,2.95M,['NASDAQ'],N/A,Health Care,6.97,4/26/2013,N/A,31.53,NCM,7.42,12735,0.00,4/10/2013,MGCD,1.05,n/a,MGC Diagnostics Corporation,N/A,5.00,6.80,07 August 2016

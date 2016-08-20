@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,1.83,15.00,13.05,0.00,['NASDAQ'],N/A,n/a,13.82,6/24/2016,N/A,57.13,NCM,13.50,0,0.24,6/8/2016,BOTJ,0.94,n/a,Bank of the James Financial Group,N/A,10.80,13.05,05 August 2016

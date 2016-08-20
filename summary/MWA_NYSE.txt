@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,1.01,12.11,11.99,208.20M,['NYSE'],N/A,Capital Goods,32.59,5/20/2016,N/A,1950.00,NYQ,12.06,2613821,0.12,8/4/2016,MWA,0.37,2006,MUELLER WATER PRODUCTS,N/A,7.04,11.87,07 August 2016

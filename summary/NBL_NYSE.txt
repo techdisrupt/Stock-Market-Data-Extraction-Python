@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,1.17,39.85,33.14,1.29B,['NYSE'],N/A,Energy,N/A,5/23/2016,N/A,14340.00,NYQ,33.40,5797965,0.40,8/4/2016,NBL,-6.49,n/a,Noble Energy Inc.,N/A,23.77,33.20,07 August 2016

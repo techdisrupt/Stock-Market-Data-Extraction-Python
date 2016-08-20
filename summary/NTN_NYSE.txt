@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,22.50,5.30,-2.30M,['NYSE'],N/A,n/a,N/A,N/A,N/A,9.93,ASE,29.00,1982,N/A,N/A,NTN,-3.27,n/a,NTN Buzztime,N/A,4.00,5.38,07 August 2016

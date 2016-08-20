@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,1.71,118.68,87.55,818.50M,['NYSE'],N/A,n/a,17.40,5/23/2016,N/A,6130.00,NYQ,86.87,1966735,1.40,5/5/2016,HAR,5.00,n/a,Harman International Industries,N/A,64.93,87.54,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.89,19.95,19.16,0.00,['NASDAQ'],N/A,Finance,22.03,5/20/2016,N/A,164.33,NCM,19.27,5997,0.36,5/9/2016,ORRF,0.88,n/a,Orrstown Financial Services Inc,N/A,15.10,19.04,07 August 2016

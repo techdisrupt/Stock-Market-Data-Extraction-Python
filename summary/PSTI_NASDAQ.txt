@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,2.24,1.48,-20.79M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,121.04,NCM,1.69,133194,N/A,N/A,PSTI,-0.29,n/a,Pluristem Therapeutics,N/A,0.71,1.51,08 August 2016

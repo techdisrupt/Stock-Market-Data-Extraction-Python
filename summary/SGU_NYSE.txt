@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,4.58,9.74,8.92,84.64M,['NYSE'],N/A,n/a,26.65,5/6/2016,N/A,508.96,NYQ,N/A,30612,0.41,7/28/2016,SGU,0.33,n/a,Star Gas Partners,N/A,6.77,8.92,14 August 2016

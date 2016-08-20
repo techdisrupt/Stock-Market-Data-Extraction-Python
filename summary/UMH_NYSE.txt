@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,5.95,12.70,12.07,35.23M,['NYSE'],N/A,n/a,N/A,9/15/2016,N/A,335.02,NYQ,12.10,44473,0.72,8/11/2016,UMH,-0.19,n/a,UMH Properties,N/A,9.00,12.11,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Materials,USD,N/A,N/A,17.890,16.990,6.95M,['NYSE'],N/A,Capital Goods,13.796,N/A,N/A,29.40,ASE,17.930,3034,N/A,N/A,CUO,1.274,n/a,Continental Materials Corporation,N/A,10.300,16.990,06 August 2016

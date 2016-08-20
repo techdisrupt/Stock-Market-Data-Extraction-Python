@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,1.67,0.56,-4.41M,['NASDAQ'],N/A,2013,N/A,N/A,N/A,8.25,NCM,0.58,8690,N/A,N/A,IPDN,-2.49,n/a,Professional Diversity Network,N/A,0.19,0.58,08 August 2016

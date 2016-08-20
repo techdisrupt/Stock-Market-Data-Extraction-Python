@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,0.83,60.85,60.00,299.60M,['NYSE'],N/A,1997,23.81,6/3/2016,N/A,3090.00,NYQ,60.26,331899,0.50,5/9/2016,FDP,2.54,n/a,Fresh Del Monte Produce,N/A,36.56,60.10,07 August 2016

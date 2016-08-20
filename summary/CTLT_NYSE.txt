@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,34.40,25.62,371.90M,['NYSE'],N/A,2014,15.75,N/A,N/A,3160.00,NYQ,25.34,422458,N/A,N/A,CTLT,1.61,n/a,Catalent,N/A,18.92,25.48,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,9.47,8.92,-5.40M,['NASDAQ'],N/A,2006,N/A,N/A,N/A,286.37,NMS,9.59,292982,N/A,N/A,LQDT,-1.60,n/a,Liquidity Services,N/A,4.42,8.89,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,4.31,4.68,3.90,7.81M,['NASDAQ'],N/A,n/a,25.09,7/22/2016,N/A,36.85,NCM,4.35,12618,0.16,7/12/2016,ERS,0.17,n/a,Empire Resources,N/A,2.35,3.76,06 August 2016

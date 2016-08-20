@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.97,13.81,13.67,0.00,['NASDAQ'],N/A,n/a,N/A,6/30/2016,N/A,N/A,NMS,N/A,20392,1.36,6/14/2016,OFS,1.78,2012,OFS Capital Corporation,N/A,9.98,13.54,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,16.54,9.82,16.25M,['NASDAQ'],N/A,1999,N/A,N/A,N/A,182.38,NCM,10.50,72445,N/A,N/A,PFSW,-0.39,n/a,PFSweb,N/A,9.03,9.75,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,1.16,69.73,68.82,188.91M,['NYSE'],N/A,Finance,23.50,6/20/2016,N/A,3030.00,NYQ,69.10,80090,0.80,5/26/2016,RLI,2.94,n/a,RLI Corp.,N/A,50.94,68.69,09 August 2016

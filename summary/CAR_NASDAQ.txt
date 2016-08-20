@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,53.04,38.51,2.03B,['NASDAQ'],N/A,n/a,23.21,N/A,N/A,3730.00,NMS,38.42,2245545,0.00,2/23/2006,CAR,1.65,n/a,Avis Budget Group,N/A,21.73,38.08,05 August 2016

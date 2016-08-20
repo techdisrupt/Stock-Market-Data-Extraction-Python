@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,10.600,3.750,-60.55M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,195.17,NGM,3.700,304326,N/A,N/A,RGLS,-1.191,2012,Regulus Therapeutics Inc.,N/A,2.440,3.730,09 August 2016

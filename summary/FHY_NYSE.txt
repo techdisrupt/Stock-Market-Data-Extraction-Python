@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,9.40,12.46,12.04,0.00,['NYSE'],N/A,n/a,N/A,7/15/2016,N/A,N/A,NYQ,12.07,26182,1.22,8/1/2016,FHY,N/A,n/a,First Trust Strategic High Income Fund II,N/A,9.82,12.02,06 August 2016

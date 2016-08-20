@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.65,43.05,40.77,1.59B,['NASDAQ'],N/A,n/a,36.65,5/11/2016,N/A,30140.00,NMS,41.39,10864362,0.26,3/28/2016,ATVI,1.11,n/a,Activision Blizzard,N/A,24.04,40.38,04 August 2016

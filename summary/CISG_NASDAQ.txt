@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Insurers,USD,N/A,0.00,10.40,8.57,12.33M,['NASDAQ'],N/A,Finance,18.48,6/10/2010,N/A,513.42,NMS,N/A,1181798,0.00,5/18/2010,CISG,0.48,2007,CNinsure Inc.,N/A,5.56,8.57,06 August 2016

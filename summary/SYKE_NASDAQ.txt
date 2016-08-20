@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,33.00,30.45,152.13M,['NASDAQ'],N/A,1996,20.17,N/A,N/A,1270.00,NMS,N/A,103454,N/A,N/A,SYKE,1.50,n/a,Sykes Enterprises,N/A,23.22,30.54,14 August 2016

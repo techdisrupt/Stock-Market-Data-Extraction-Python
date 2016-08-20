@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,3.19,64.00,62.51,14.55B,['NYSE'],N/A,n/a,35.03,7/8/2016,N/A,176770.00,NYQ,63.65,72875999,1.84,6/13/2016,MRK,1.82,n/a,Merck & Company,N/A,45.69,57.84,07 August 2016

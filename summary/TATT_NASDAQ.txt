@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Aerospace,USD,N/A,16.90,9.19,7.83,3.34M,['NASDAQ'],N/A,Capital Goods,17.37,5/7/2014,N/A,68.86,NGM,7.80,4470,1.33,7/27/2016,TATT,0.45,n/a,TAT Technologies Ltd.,N/A,6.25,7.84,14 August 2016

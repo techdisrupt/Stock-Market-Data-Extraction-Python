@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.35,13.26,10.20,76.43M,['NASDAQ'],N/A,n/a,9.82,7/20/2016,N/A,441.99,NMS,10.44,53406,0.24,6/30/2016,SNC,1.06,n/a,State National Companies,N/A,8.25,10.22,14 August 2016

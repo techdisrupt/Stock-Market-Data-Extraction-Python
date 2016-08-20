@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Railroads,USD,N/A,2.69,98.75,88.16,4.03B,['NYSE'],N/A,Transportation,16.65,6/10/2016,N/A,26090.00,NYQ,89.50,1466888,2.36,8/4/2016,NSC,5.34,n/a,Norfolk Souther Corporation,N/A,64.51,87.61,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Diversified Commercial Services,USD,N/A,0.70,37.14,28.00,0.00,['NYSE'],N/A,Technology,9.23,7/7/2016,N/A,2850.00,NYQ,28.90,1591915,0.20,6/9/2016,AL,3.01,2011,Air Lease Corporation,N/A,22.47,27.98,04 August 2016

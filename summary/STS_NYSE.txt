@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.88,17.77,15.86,31.24M,['NYSE'],N/A,n/a,14.37,6/16/2016,N/A,266.89,ASE,15.69,433906,0.14,6/7/2016,STS,1.09,n/a,Supreme Industries,N/A,5.40,15.86,14 August 2016

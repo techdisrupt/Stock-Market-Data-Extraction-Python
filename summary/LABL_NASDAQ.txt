@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Publishing,USD,N/A,0.31,80.24,63.07,147.78M,['NASDAQ'],N/A,Miscellaneous,22.63,6/1/2016,N/A,1070.00,NMS,63.86,47375,0.20,5/12/2016,LABL,2.82,1987,Multi-Color Corporation,N/A,40.16,62.93,07 August 2016

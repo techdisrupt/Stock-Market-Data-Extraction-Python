@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Catalog/Specialty Distribution,USD,N/A,2.43,30.42,28.92,58.50M,['NASDAQ'],N/A,Consumer Services,28.88,5/23/2016,N/A,854.80,NMS,N/A,324357,0.70,8/4/2016,NTRI,1.01,n/a,NutriSystem Inc,N/A,17.25,28.92,07 August 2016

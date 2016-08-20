@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,1.61,20.04,14.91,59.72M,['NASDAQ'],N/A,Finance,9.30,5/26/2016,N/A,320.82,NCM,14.94,33914,0.24,5/17/2016,UIHC,1.61,n/a,United Insurance Holdings Corp.,N/A,12.12,14.92,15 August 2016

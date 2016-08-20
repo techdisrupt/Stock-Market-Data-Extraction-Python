@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Savings Institutions,USD,N/A,0.00,13.95,13.10,0.00,['NASDAQ'],N/A,Finance,193.24,7/16/2012,N/A,75.46,NGM,14.19,53637,0.00,6/27/2012,MSBF,0.07,n/a,MSB Financial Corp.,N/A,10.98,12.93,07 August 2016

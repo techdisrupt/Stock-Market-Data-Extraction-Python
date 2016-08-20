@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Package Goods/Cosmetics,USD,N/A,3.110,87.15,85.610,17.11B,['NYSE'],N/A,Basic Industries,23.186,5/16/2016,N/A,235270.00,NYQ,85.630,2517131,2.680,7/20/2016,PG,3.69,n/a,Procter & Gamble Company (The),N/A,65.02,85.780,08 August 2016

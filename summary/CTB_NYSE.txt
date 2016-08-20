@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Automotive Aftermarket,USD,N/A,1.31,43.40,34.92,577.76M,['NYSE'],N/A,Consumer Durables,8.41,6/30/2016,N/A,1880.00,NYQ,36.15,886705,0.42,5/31/2016,CTB,4.06,n/a,Cooper Tire & Rubber Company,N/A,29.29,34.45,06 August 2016

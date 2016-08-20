@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,8.60,8.25,-14.40M,['NYSE'],N/A,Technology,N/A,N/A,N/A,183.55,NYQ,8.36,211971,N/A,N/A,RST,-1.61,2009,Rosetta Stone,N/A,6.17,8.18,10 August 2016

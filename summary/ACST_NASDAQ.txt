@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,65.49,1.55,-5.48M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,15.53,NCM,12.50,24646,N/A,N/A,ACST,-0.61,n/a,Acasti Pharma,N/A,1.20,1.56,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.30,11.09,11.02,0.00,['NYSE'],N/A,1993,N/A,7/14/2016,N/A,N/A,NYQ,11.07,60994,0.80,6/27/2016,TEI,-0.58,n/a,Templeton Emerging Markets Income Fund,N/A,8.85,11.04,14 August 2016

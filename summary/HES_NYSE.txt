@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Integrated oil Companies,USD,N/A,1.87,64.08,54.00,1.33B,['NYSE'],N/A,Energy,N/A,6/30/2016,N/A,17110.00,NYQ,54.65,3479569,1.00,6/14/2016,HES,-10.24,n/a,Hess Corporation,N/A,32.41,53.87,07 August 2016

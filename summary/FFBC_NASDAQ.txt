@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,3.02,21.94,21.36,0.00,['NASDAQ'],N/A,Finance,16.85,7/1/2016,N/A,1360.00,NMS,21.91,224582,0.64,5/27/2016,FFBC,1.30,n/a,First Financial Bancorp.,N/A,13.76,21.17,06 August 2016

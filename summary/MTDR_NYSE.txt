@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,28.25,21.43,111.85M,['NYSE'],N/A,Energy,N/A,N/A,N/A,2020.00,NYQ,22.24,1635345,N/A,N/A,MTDR,-8.73,2012,Matador Resources Company,N/A,11.13,21.19,07 August 2016

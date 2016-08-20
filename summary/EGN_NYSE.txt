@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,61.98,50.25,368.60M,['NYSE'],N/A,Energy,N/A,12/1/2015,N/A,5030.00,NYQ,70.15,1626716,0.00,11/10/2015,EGN,-14.25,n/a,Energen Corporation,N/A,20.76,50.15,06 August 2016

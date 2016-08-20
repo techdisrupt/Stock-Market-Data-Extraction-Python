@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,4.30,20.24,19.61,167.57M,['NYSE'],N/A,Consumer Services,19.23,7/1/2016,N/A,1550.00,NYQ,19.56,164826,0.84,6/16/2016,RPT,1.02,n/a,Ramco-Gershenson Properties Trust,N/A,14.74,19.54,08 August 2016

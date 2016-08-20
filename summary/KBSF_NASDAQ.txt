@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Apparel,USD,N/A,N/A,6.500,0.467,7.45M,['NASDAQ'],N/A,Consumer Non-Durables,1.810,N/A,N/A,16.41,NCM,0.770,386493,N/A,N/A,KBSF,0.342,2013,KBS Fashion Group Limited,N/A,0.140,0.459,07 August 2016

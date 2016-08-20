@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,6.2500,4.9600,2.12M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,30.86,NCM,5.1900,21,N/A,N/A,ASUR,-0.4540,n/a,Asure Software Inc,N/A,4.2800,4.9055,05 August 2016

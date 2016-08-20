@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,0.83,0.52,-1.86M,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,12.13,ASE,0.55,86084,N/A,N/A,IGC,-0.17,n/a,India Globalization Capital Inc.,N/A,0.14,0.51,07 August 2016

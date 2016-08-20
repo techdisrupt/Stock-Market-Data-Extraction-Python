@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.24,32.24,31.29,726.63M,['NYSE'],N/A,Consumer Services,17.45,7/15/2016,N/A,13080.00,NYQ,31.18,1603765,1.02,7/1/2016,KIM,1.78,n/a,Kimco Realty Corporation,N/A,22.07,31.22,07 August 2016

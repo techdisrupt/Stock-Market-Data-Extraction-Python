@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,0.00,4.00,2.96,0.00,['NASDAQ'],N/A,Finance,9.71,5/6/2015,N/A,41.39,NMS,3.00,10678,0.00,12/29/2009,ATLC,0.31,1995,Atlanticus Holdings Corporation,N/A,2.58,2.94,05 August 2016

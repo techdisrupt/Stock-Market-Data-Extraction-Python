@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,65.53,48.00,219.22M,['NASDAQ'],N/A,Technology,19.00,N/A,N/A,2790.00,NMS,50.74,2425797,N/A,N/A,YY,2.67,2012,YY Inc.,N/A,31.07,47.75,15 August 2016

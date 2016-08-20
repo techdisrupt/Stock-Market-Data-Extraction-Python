@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.710,74.800,73.810,33.22B,['NYSE'],N/A,n/a,16.173,9/6/2016,N/A,228030.00,NYQ,73.160,4718052,2.000,8/10/2016,WMT,4.524,n/a,Wal-Mart Stores,N/A,56.300,73.890,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Specialties,USD,N/A,2.79,17.59,12.45,4.10M,['NASDAQ'],N/A,Consumer Durables,19.30,6/17/2016,N/A,46.33,NGM,20.00,52690,0.36,6/8/2016,EDUC,0.59,n/a,Educational Development Corporation,N/A,4.50,12.40,06 August 2016

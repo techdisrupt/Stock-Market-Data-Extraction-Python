@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.71,9.81,9.49,0.00,['NASDAQ'],N/A,Finance,16.96,6/30/2016,N/A,255.06,NCM,9.43,47814,0.16,6/8/2016,FMNB,0.56,n/a,Farmers National Banc Corp.,N/A,7.60,9.50,06 August 2016

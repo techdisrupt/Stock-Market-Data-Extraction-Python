@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,12.57,3.92,-22.56M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,161.20,NCM,4.05,143323,N/A,N/A,EYES,-0.67,n/a,Second Sight Medical Products,N/A,3.17,3.94,13 August 2016

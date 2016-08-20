@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,3.38,37.15,6.56,1.17B,['NYSE'],N/A,Transportation,N/A,5/19/2016,N/A,474.87,NYQ,6.51,1052030,0.22,7/27/2016,TK,-1.39,n/a,Teekay Corporation,N/A,4.37,6.50,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,0.00,27.32,26.94,0.00,['NYSE'],N/A,n/a,11.67,N/A,N/A,1550.00,NYQ,28.00,159041,0.00,12/12/2007,FBC,2.34,n/a,Flagstar Bancorp,N/A,17.25,26.81,07 August 2016

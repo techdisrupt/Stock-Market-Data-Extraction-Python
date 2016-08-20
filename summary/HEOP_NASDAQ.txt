@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.93,9.25,8.25,0.00,['NASDAQ'],N/A,Finance,17.98,5/31/2016,N/A,281.16,NCM,8.27,33066,0.24,5/16/2016,HEOP,0.46,n/a,Heritage Oaks Bancorp,N/A,6.95,8.18,07 August 2016

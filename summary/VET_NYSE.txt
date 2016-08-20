@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,5.30,38.54,37.61,370.25M,['NYSE'],N/A,Energy,N/A,7/15/2016,N/A,4490.00,NYQ,38.51,114954,1.98,7/20/2016,VET,-2.47,n/a,Vermilion Energy Inc.,N/A,20.31,37.30,15 August 2016

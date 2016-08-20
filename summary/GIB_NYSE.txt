@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,49.50,48.59,1.39B,['NYSE'],N/A,n/a,19.82,N/A,N/A,14860.00,NYQ,49.13,312970,N/A,N/A,GIB,2.48,n/a,CGI Group,N/A,31.99,48.92,06 August 2016

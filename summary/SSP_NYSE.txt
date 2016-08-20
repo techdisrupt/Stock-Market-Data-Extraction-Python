@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Newspapers/Magazines,USD,N/A,0.00,22.91,15.05,55.53M,['NYSE'],N/A,Consumer Services,N/A,4/1/2015,N/A,1310.00,NYQ,17.90,703908,0.00,4/1/2015,SSP,-0.86,n/a,E.W. Scripps Company (The),N/A,14.52,16.48,06 August 2016

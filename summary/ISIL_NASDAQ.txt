@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,3.19,15.53,15.14,94.53M,['NASDAQ'],N/A,Technology,40.21,5/27/2016,N/A,2080.00,NMS,15.56,1098577,0.48,5/13/2016,ISIL,0.38,2000,Intersil Corporation,N/A,9.20,15.06,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,4.15,63.25,42.85,514.91M,['NASDAQ'],N/A,1996,6.64,5/12/2016,N/A,2110.00,NMS,43.67,564263,1.76,4/25/2016,CALM,6.53,n/a,Cal-Maine Foods,N/A,39.60,42.81,05 August 2016

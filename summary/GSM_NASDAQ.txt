@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Metal Fabrications,USD,N/A,3.54,15.30,9.11,75.81M,['NASDAQ'],N/A,Capital Goods,N/A,3/14/2016,N/A,1590.00,NMS,9.45,595654,0.32,8/4/2016,GSM,-0.74,2009,Globe Specialty Metals Inc.,N/A,6.90,9.05,07 August 2016

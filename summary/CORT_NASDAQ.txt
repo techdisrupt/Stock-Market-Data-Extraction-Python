@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,6.33,5.75,3.96M,['NASDAQ'],N/A,Health Care,648.89,N/A,N/A,642.59,NCM,5.84,395882,N/A,N/A,CORT,0.01,1982,Corcept Therapeutics Incorporated,N/A,3.22,5.71,06 August 2016

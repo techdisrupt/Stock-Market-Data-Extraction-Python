@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.63,49.79,44.24,81.76M,['NYSE'],N/A,Capital Goods,35.39,3/21/2016,N/A,1190.00,NYQ,44.05,171358,0.27,3/3/2016,CUB,1.24,n/a,Cubic Corporation,N/A,30.11,44.05,06 August 2016

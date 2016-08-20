@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,0.92,21.79,21.52,308.19M,['NYSE'],N/A,Consumer Services,N/A,6/30/2016,N/A,5140.00,NYQ,21.61,1083826,0.20,6/13/2016,AMH,-0.34,2013,American Homes 4 Rent,N/A,13.16,21.50,05 August 2016

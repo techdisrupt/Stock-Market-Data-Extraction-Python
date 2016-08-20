@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Accident &Health Insurance,USD,N/A,N/A,25.98,24.45,7.22M,['NASDAQ'],N/A,Finance,1.72,N/A,N/A,201.25,NCM,24.79,2273,N/A,N/A,AMIC,14.45,n/a,American Independence Corp.,N/A,8.50,24.74,05 August 2016

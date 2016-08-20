@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,10.72,13.95,13.36,0.00,['NASDAQ'],N/A,n/a,N/A,8/15/2016,N/A,N/A,NMS,15.00,85943,1.38,7/18/2016,HRZN,0.81,2010,Horizon Technology Finance Corporation,N/A,9.01,13.32,07 August 2016

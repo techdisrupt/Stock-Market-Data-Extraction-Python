@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.00,16.65,16.05,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,16.05,2456,0.64,7/20/2016,GFY,-0.68,2004,Western Asset Variable Rate Strategic Fund Inc.,N/A,14.59,16.07,15 August 2016

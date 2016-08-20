@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.90,21.63,19.61,0.00,['NYSE'],N/A,n/a,N/A,6/1/2016,N/A,553.21,NYQ,19.64,70053,0.16,5/11/2016,PEO,-5.28,n/a,Petroleum Resources Corporation,N/A,14.29,19.50,08 August 2016

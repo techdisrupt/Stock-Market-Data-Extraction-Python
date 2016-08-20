@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,6.6900,2.1700,-14.97M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,49.35,NCM,2.1900,39648,N/A,N/A,VCEL,-0.9810,n/a,Vericel Corporation,N/A,1.6900,2.1700,15 August 2016

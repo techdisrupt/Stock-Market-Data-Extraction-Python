@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,N/A,38.75,38.57,-8.69M,['NYSE'],N/A,Consumer Services,N/A,N/A,N/A,2910.00,NYQ,37.60,2546813,N/A,N/A,YELP,-0.60,2012,Yelp Inc.,N/A,14.53,38.48,15 August 2016

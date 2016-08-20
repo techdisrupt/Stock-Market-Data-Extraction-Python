@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.20,36.04,30.91,0.00,['NYSE'],N/A,n/a,N/A,5/31/2016,N/A,N/A,NYQ,31.59,135229,2.58,5/20/2016,TYG,-19.79,2004,Tortoise Energy Infrastructure Corporation,N/A,18.50,30.90,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,3.44,57.10,53.64,8.74B,['NYSE'],N/A,Basic Industries,7.84,7/29/2016,N/A,60440.00,NYQ,53.69,3901077,1.84,6/28/2016,DOW,6.84,n/a,Dow Chemical Company (The),N/A,35.11,53.49,06 August 2016

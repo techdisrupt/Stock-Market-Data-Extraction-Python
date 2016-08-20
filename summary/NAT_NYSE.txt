@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,8.29,17.02,12.02,214.52M,['NYSE'],N/A,Consumer Services,9.25,5/27/2016,N/A,1080.00,NYQ,12.00,1144921,1.00,5/10/2016,NAT,1.30,n/a,Nordic American Tankers Limited,N/A,9.94,12.01,07 August 2016

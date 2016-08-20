@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,3.24,13.20,12.30,46.03M,['NASDAQ'],N/A,1995,N/A,6/24/2016,N/A,829.81,NMS,12.55,189788,0.40,6/1/2016,BRKS,-1.08,n/a,Brooks Automation,N/A,8.33,12.27,05 August 2016

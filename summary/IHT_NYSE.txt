@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,0.4400,3.0900,2.1800,-499247.00,['NYSE'],N/A,Consumer Services,N/A,1/29/2016,N/A,20.73,ASE,2.2800,810,0.0100,1/13/2016,IHT,-0.0090,n/a,InnSuites Hospitality Trust,N/A,2.0800,2.2680,07 August 2016

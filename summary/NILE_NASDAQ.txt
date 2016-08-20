@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,39.00,29.38,16.79M,['NASDAQ'],N/A,2004,33.59,3/7/2016,N/A,348.24,NMS,30.04,134011,0.00,2/18/2016,NILE,0.89,n/a,Blue Nile,N/A,22.33,29.22,05 August 2016

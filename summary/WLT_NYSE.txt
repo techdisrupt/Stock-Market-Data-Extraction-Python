@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,21.1000,6.8400,0.1644,0.00,['NYSE'],N/A,n/a,N/A,N/A,N/A,N/A,NYQ,N/A,0,0.0400,11/6/2014,WLT,-6.6260,n/a,Walter Energy,N/A,0.1600,0.1644,15 August 2016

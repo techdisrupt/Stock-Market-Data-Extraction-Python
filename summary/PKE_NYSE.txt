@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,2.48,18.58,16.32,22.78M,['NYSE'],N/A,Technology,20.90,8/3/2016,N/A,337.91,NYQ,17.59,29870,0.40,6/30/2016,PKE,0.80,n/a,Park Electrochemical Corporation,N/A,13.65,16.11,07 August 2016

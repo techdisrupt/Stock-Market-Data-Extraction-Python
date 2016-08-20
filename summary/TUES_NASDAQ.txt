@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Department/Specialty Retail Stores,USD,N/A,0.00,10.42,7.80,19.38M,['NASDAQ'],N/A,Consumer Services,102.60,3/30/2007,N/A,345.87,NMS,7.90,55900,0.00,3/16/2007,TUES,0.08,1999,Tuesday Morning Corp.,N/A,4.86,7.79,15 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,25.00,10.22,-27.97M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,1340.00,NMS,10.79,711933,N/A,N/A,HALO,-0.29,n/a,Halozyme Therapeutics,N/A,6.96,10.19,07 August 2016

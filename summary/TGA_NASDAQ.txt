@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,3.46,2.00,3.48M,['NASDAQ'],N/A,Energy,N/A,12/31/2015,N/A,138.63,NMS,2.08,148750,0.00,12/11/2015,TGA,-1.52,n/a,Transglobe Energy Corp,N/A,1.00,1.98,14 August 2016

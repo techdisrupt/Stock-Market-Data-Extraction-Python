@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,6.98,50.71,49.88,0.00,['NASDAQ'],N/A,Finance,90.69,8/1/2016,N/A,21350.00,NMS,49.88,2849,3.48,7/18/2016,SLMAP,0.55,n/a,SLM Corporation,N/A,40.62,49.90,14 August 2016

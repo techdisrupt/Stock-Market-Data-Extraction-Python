@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,4.15,6.21,6.09,1.67B,['NYSE'],N/A,n/a,16.73,9/18/2015,N/A,9480.00,NYQ,6.19,615321,0.25,8/10/2015,ASX,0.37,n/a,Advanced Semiconductor Engineering,N/A,4.39,6.09,04 August 2016

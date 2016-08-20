@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical Specialities,USD,N/A,0.00,141.32,140.49,1.70B,['NYSE'],N/A,Health Care,23.37,N/A,N/A,14400.00,NYQ,140.69,774641,0.00,3/29/1994,LH,6.02,n/a,Laboratory Corporation of America Holdings,N/A,97.79,140.09,07 August 2016

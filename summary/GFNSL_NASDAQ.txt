@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Specialty Stores,USD,N/A,N/A,25.0000,N/A,58.26M,['NASDAQ'],N/A,Consumer Services,N/A,8/1/2016,N/A,652.17,NGM,25.4800,7920,N/A,N/A,GFNSL,-0.3240,n/a,General Finance Corporation,N/A,24.4201,24.3529,07 August 2016

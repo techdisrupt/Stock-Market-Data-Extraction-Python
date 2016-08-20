@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.10,10.69,10.63,0.00,['NYSE'],N/A,1988,N/A,8/1/2016,N/A,N/A,NYQ,10.62,29891,0.39,7/13/2016,NNY,0.44,n/a,Nuveen New York Municipal Value Fund,N/A,9.47,10.62,07 August 2016

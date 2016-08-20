@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,7.06,4.70,-7.11M,['NYSE'],N/A,Capital Goods,N/A,N/A,N/A,82.96,NYQ,4.49,61291,N/A,N/A,VJET,-0.67,2013,voxeljet AG,N/A,3.50,4.45,15 August 2016

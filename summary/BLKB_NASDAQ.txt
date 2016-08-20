@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.72,71.76,67.49,114.25M,['NASDAQ'],N/A,2004,116.17,6/15/2016,N/A,3110.00,NMS,67.39,125347,0.48,5/25/2016,BLKB,0.58,n/a,Blackbaud,N/A,49.89,67.01,05 August 2016

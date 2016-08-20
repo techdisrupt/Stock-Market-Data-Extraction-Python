@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.05,68.69,66.80,2.95B,['NYSE'],N/A,n/a,21.29,8/15/2016,N/A,34530.00,NYQ,66.72,1816822,1.36,7/7/2016,MMC,3.13,n/a,Marsh & McLennan Companies,N/A,50.81,66.30,07 August 2016

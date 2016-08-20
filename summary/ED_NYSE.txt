@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Power Generation,USD,N/A,3.40,81.88,78.45,3.49B,['NYSE'],N/A,Public Utilities,20.24,6/15/2016,N/A,22860.00,NYQ,78.32,1965606,2.68,5/16/2016,ED,3.84,n/a,Consolidated Edison Inc,N/A,60.30,78.79,06 August 2016

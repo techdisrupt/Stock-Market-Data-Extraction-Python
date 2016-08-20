@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,N/A,12.56,11.69,105.23M,['NYSE'],N/A,Energy,N/A,N/A,N/A,1460.00,NYQ,12.19,3842790,N/A,8/4/1994,CPE,-3.86,n/a,Callon Petroleum Company,N/A,4.21,11.67,05 August 2016

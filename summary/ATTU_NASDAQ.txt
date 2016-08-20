@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,15.94,9.32,-1.40M,['NASDAQ'],N/A,Technology,N/A,N/A,N/A,156.49,NCM,9.49,18103,N/A,N/A,ATTU,-0.36,n/a,Attunity Ltd.,N/A,4.62,9.32,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,28.00,27.83,369.60M,['NASDAQ'],N/A,Capital Goods,60.28,N/A,N/A,6910.00,NMS,30.47,786280,N/A,N/A,TRMB,0.46,1990,Trimble Navigation Limited,N/A,15.90,27.94,14 August 2016

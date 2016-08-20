@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Investment Managers,USD,N/A,3.86,38.97,29.36,1.38B,['NYSE'],N/A,Finance,14.92,6/3/2016,N/A,12110.00,NYQ,29.55,4625635,1.12,5/11/2016,IVZ,1.98,n/a,Invesco Plc,N/A,23.02,28.92,07 August 2016

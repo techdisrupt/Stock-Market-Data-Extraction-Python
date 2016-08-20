@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,2.49,37.87,32.06,176.38M,['NASDAQ'],N/A,2003,16.94,6/14/2016,N/A,1570.00,NMS,N/A,272243,0.80,5/20/2016,TSRA,1.90,n/a,Tessera Technologies,N/A,26.21,32.12,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,10.20,4.29,-12.40M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,46.07,NCM,5.73,4629,N/A,N/A,GLMD,-1.09,2014,Galmed Pharmaceuticals Ltd.,N/A,3.50,4.24,07 August 2016

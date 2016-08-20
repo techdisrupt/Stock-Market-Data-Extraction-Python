@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,N/A,19.61,19.17,137.60M,['NASDAQ'],N/A,Technology,61.03,N/A,N/A,2100.00,NMS,19.98,1309591,N/A,N/A,FNSR,0.32,1999,Finisar Corporation,N/A,10.66,18.99,06 August 2016

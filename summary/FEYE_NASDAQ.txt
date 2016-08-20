@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,N/A,44.92,13.88,-410.63M,['NASDAQ'],N/A,2013,N/A,N/A,N/A,2450.00,NMS,14.70,25846146,N/A,N/A,FEYE,-3.60,n/a,FireEye,N/A,11.35,16.75,06 August 2016

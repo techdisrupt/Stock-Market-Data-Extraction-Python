@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,6.32,31.75,27.01,73.61M,['NYSE'],N/A,2007,N/A,5/13/2016,N/A,9000.00,ASE,29.72,110374,1.70,7/28/2016,CQP,-0.62,n/a,Cheniere Energy Partners,N/A,19.22,27.00,06 August 2016

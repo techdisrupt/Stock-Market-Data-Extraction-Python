@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Commercial Physical & Biological Resarch,USD,N/A,N/A,84.14,76.60,359.85M,['NASDAQ'],N/A,Health Care,17.67,N/A,N/A,4240.00,NMS,77.02,380149,N/A,N/A,ICLR,4.33,1998,ICON plc,N/A,62.31,76.62,07 August 2016

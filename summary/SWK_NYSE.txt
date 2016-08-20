@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.89,123.96,123.38,1.91B,['NYSE'],N/A,n/a,19.24,6/21/2016,N/A,18530.00,NYQ,123.26,549960,2.32,5/27/2016,SWK,6.41,n/a,Stanley Black & Decker,N/A,88.72,123.47,14 August 2016

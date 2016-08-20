@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.18,180.75,172.52,56.49M,['NYSE'],N/A,Energy,37.55,3/16/2016,N/A,1410.00,NYQ,172.92,12485,0.31,3/7/2016,TPL,4.68,n/a,Texas Pacific Land Trust,N/A,98.64,174.30,14 August 2016

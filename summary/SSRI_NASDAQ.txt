@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,N/A,15.84,15.64,55.10M,['NASDAQ'],N/A,Basic Industries,N/A,N/A,N/A,1240.00,NMS,15.48,2832419,N/A,N/A,SSRI,-1.64,n/a,Silver Standard Resources Inc.,N/A,3.66,15.43,13 August 2016

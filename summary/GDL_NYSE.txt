@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.40,10.26,9.95,0.00,['NYSE'],N/A,n/a,N/A,6/23/2016,N/A,N/A,NYQ,9.95,39311,0.05,6/14/2016,GDL,N/A,2007,The GDL Fund,N/A,9.45,9.94,14 August 2016

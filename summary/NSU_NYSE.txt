@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Precious Metals,USD,N/A,4.92,3.80,3.22,116.23M,['NYSE'],N/A,Basic Industries,39.75,7/8/2016,N/A,965.07,ASE,3.23,1619951,0.16,6/16/2016,NSU,0.08,n/a,Nevsun Resources Ltd,N/A,2.27,3.25,07 August 2016

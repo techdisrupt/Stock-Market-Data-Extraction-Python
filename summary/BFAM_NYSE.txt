@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,N/A,70.590,63.900,267.20M,['NYSE'],N/A,Miscellaneous,42.740,N/A,N/A,3930.00,NYQ,65.910,599784,N/A,N/A,BFAM,1.542,2013,Bright Horizons Family Solutions Inc.,N/A,58.190,63.900,05 August 2016

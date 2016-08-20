@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,55.510,24.800,-66.14M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,714.43,NMS,24.860,132859,N/A,N/A,ATRA,-2.372,n/a,Atara Biotherapeutics,N/A,13.310,24.700,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,8.12,5.28,5.24,0.00,['NYSE'],N/A,n/a,N/A,6/27/2016,N/A,N/A,ASE,5.22,436201,0.42,7/19/2016,FAX,-0.05,1986,Aberdeen Asia-Pacific Income Fund Inc,N/A,4.22,5.21,04 August 2016

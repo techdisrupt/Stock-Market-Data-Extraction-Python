@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.00,20.35,4.18,88.49M,['NYSE'],N/A,n/a,N/A,12/15/2014,N/A,52.39,NYQ,4.21,313322,0.00,12/3/2014,CRK,-88.71,n/a,Comstock Resources,N/A,2.64,4.18,06 August 2016

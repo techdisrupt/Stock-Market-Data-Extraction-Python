@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Restaurants,USD,N/A,2.40,11.38,10.02,398.98M,['NASDAQ'],N/A,Consumer Services,19.71,6/15/2016,N/A,2670.00,NMS,10.23,1841477,0.24,5/27/2016,WEN,0.52,n/a,Wendy's Company (The),N/A,8.43,9.98,15 August 2016

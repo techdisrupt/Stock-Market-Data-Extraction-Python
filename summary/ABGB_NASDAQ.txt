@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,17.63,N/A,1.49B,['NASDAQ'],N/A,2013,N/A,4/24/2015,N/A,1870.00,NMS,N/A,0,0.00,4/14/2015,ABGB,-0.12,n/a,Abengoa,N/A,0.67,1.02,04 August 2016

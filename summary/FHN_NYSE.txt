@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,1.91,16.19,14.84,0.00,['NYSE'],N/A,Finance,17.14,7/1/2016,N/A,3500.00,NYQ,15.08,1907175,0.28,6/8/2016,FHN,0.88,n/a,First Horizon National Corporation,N/A,11.51,14.67,06 August 2016

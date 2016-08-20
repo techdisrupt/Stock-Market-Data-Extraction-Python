@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Banks,USD,N/A,N/A,26.94,26.10,0.00,['NASDAQ'],N/A,Finance,129.95,N/A,N/A,65.36,NGM,26.24,1434,N/A,N/A,ANCB,0.20,2011,Anchor Bancorp,N/A,20.60,26.10,05 August 2016

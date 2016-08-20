@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building operators,USD,N/A,1.560,66.380,63.475,26.15M,['NYSE'],N/A,Consumer Services,63.794,6/30/2016,N/A,238.16,ASE,66.000,260,1.000,6/13/2016,NEN,1.216,n/a,New England Realty Associates Limited Partnership,N/A,46.000,64.000,07 August 2016

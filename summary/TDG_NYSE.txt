@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,0.00,289.67,284.47,1.38B,['NYSE'],N/A,Capital Goods,29.94,6/26/2014,N/A,15000.00,NYQ,283.08,337370,0.00,6/12/2014,TDG,9.45,2006,Transdigm Group Incorporated,N/A,180.76,286.01,14 August 2016

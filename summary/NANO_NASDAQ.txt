@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,22.73,19.79,21.44M,['NASDAQ'],N/A,Capital Goods,58.31,N/A,N/A,495.84,NMS,22.77,104095,N/A,N/A,NANO,0.34,1984,Nanometrics Incorporated,N/A,11.91,19.65,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.9000,13.9600,13.9000,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,13.9100,19712,0.5900,7/13/2016,NIQ,N/A,2013,Nuveenn Intermediate Duration Quality Municipal Term Fund,N/A,12.1300,13.9050,07 August 2016

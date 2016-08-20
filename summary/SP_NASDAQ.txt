@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Rental/Leasing Companies,USD,N/A,N/A,26.39,24.99,82.80M,['NASDAQ'],N/A,Consumer Services,43.77,N/A,N/A,556.83,NMS,24.95,18450,N/A,N/A,SP,0.57,n/a,SP Plus Corporation,N/A,20.41,25.01,14 August 2016

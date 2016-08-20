@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,19.61,9.75,48.97M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,883.63,NMS,10.50,2354005,N/A,N/A,GOGO,-1.42,2013,Gogo Inc.,N/A,7.80,9.76,07 August 2016

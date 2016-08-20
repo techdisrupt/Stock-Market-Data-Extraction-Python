@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,9.860,7.170,5.80,58.54M,['NASDAQ'],N/A,2011,N/A,5/13/2016,N/A,192.55,NGM,5.81,272552,0.580,7/29/2016,BKEP,-1.268,n/a,Blueknight Energy Partners L.P.,N/A,3.810,5.800,05 August 2016

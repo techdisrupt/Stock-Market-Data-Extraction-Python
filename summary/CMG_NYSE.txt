@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,758.27,399.45,483.82M,['NYSE'],N/A,2006,57.79,N/A,N/A,11680.00,NYQ,401.50,808757,N/A,N/A,CMG,6.94,n/a,Chipotle Mexican Grill,N/A,384.77,397.20,06 August 2016

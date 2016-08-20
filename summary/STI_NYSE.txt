@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,2.47,45.24,41.68,0.00,['NYSE'],N/A,n/a,11.33,6/15/2016,N/A,20980.00,NYQ,41.90,2058809,1.04,5/26/2016,STI,3.69,n/a,SunTrust Banks,N/A,31.07,42.04,14 August 2016

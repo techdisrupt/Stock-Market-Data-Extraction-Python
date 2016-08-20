@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Chemicals,USD,N/A,3.97,47.15,27.95,249.80M,['NASDAQ'],N/A,Basic Industries,64.88,6/30/2016,N/A,2570.00,NMS,48.53,538387,1.10,6/14/2016,MEOH,0.44,n/a,Methanex Corporation,N/A,22.73,27.91,07 August 2016

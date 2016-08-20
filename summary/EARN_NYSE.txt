@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,11.43,14.43,13.82,0.00,['NYSE'],N/A,Consumer Services,N/A,7/27/2016,N/A,126.91,NYQ,18.27,23051,1.60,6/28/2016,EARN,-0.06,2013,Ellington Residential Mortgage REIT,N/A,9.57,13.84,06 August 2016

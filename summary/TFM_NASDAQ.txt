@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,36.00,N/A,0.00,['NASDAQ'],N/A,2010,N/A,N/A,N/A,N/A,NMS,N/A,0,N/A,N/A,TFM,1.30,n/a,The Fresh Market,N/A,17.81,28.51,14 August 2016

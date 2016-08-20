@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.20,10.20,7.94,0.00,['NYSE'],N/A,n/a,N/A,12/28/2015,N/A,N/A,ASE,8.18,629,0.50,11/19/2015,GRF,0.08,n/a,Eagle Capital Growth Fund,N/A,6.41,7.94,06 August 2016

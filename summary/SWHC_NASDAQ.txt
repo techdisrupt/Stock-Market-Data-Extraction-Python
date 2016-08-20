@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Ordnance And Accessories,USD,N/A,N/A,31.19,29.80,195.40M,['NASDAQ'],N/A,Capital Goods,17.67,N/A,N/A,1660.00,NMS,29.88,1136711,N/A,N/A,SWHC,1.68,n/a,Smith & Wesson Holding Corporation,N/A,14.71,29.88,14 August 2016

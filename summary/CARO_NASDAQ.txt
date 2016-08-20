@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,0.61,20.56,19.99,0.00,['NASDAQ'],N/A,Finance,16.14,7/11/2016,N/A,243.88,NCM,20.48,21849,0.12,6/20/2016,CARO,1.27,n/a,Carolina Financial Corporation,N/A,14.49,19.89,06 August 2016

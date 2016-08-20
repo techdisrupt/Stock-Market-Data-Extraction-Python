@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Paints/Coatings,USD,N/A,2.01,55.21,55.00,662.61M,['NYSE'],N/A,Basic Industries,20.85,4/29/2016,N/A,7310.00,NYQ,55.01,300302,1.10,7/14/2016,RPM,2.63,n/a,RPM International Inc.,N/A,36.78,54.99,10 August 2016

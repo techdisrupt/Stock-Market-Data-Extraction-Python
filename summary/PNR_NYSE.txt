@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,2.18,64.56,62.73,1.17B,['NYSE'],N/A,Technology,N/A,8/5/2016,N/A,11690.00,NYQ,64.55,1786188,1.36,7/20/2016,PNR,-0.49,n/a,Pentair plc.,N/A,41.57,62.25,08 August 2016

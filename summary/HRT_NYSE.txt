@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Electromedical & Electrotherapeutic Apparatus,USD,N/A,0.00,6.47,4.05,990290.00,['NYSE'],N/A,Health Care,N/A,3/1/2012,N/A,11.46,ASE,N/A,1400,0.00,2/13/2012,HRT,-0.33,n/a,Arrhythmia Research Technology Inc.,N/A,3.52,4.11,05 August 2016

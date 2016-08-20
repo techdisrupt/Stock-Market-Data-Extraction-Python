@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,N/A,22.02,18.17,107.04M,['NASDAQ'],N/A,Capital Goods,N/A,N/A,N/A,819.24,NMS,N/A,126823,N/A,N/A,TRS,-0.68,2007,TriMas Corporation,N/A,14.76,18.18,14 August 2016

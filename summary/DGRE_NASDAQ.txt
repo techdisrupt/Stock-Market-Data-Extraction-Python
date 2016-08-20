@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,23.90,23.75,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,23.86,4598,N/A,N/A,DGRE,N/A,n/a,WisdomTree Emerging Markets Dividend Growth Fund,N/A,17.01,23.71,15 August 2016

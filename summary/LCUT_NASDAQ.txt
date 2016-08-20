@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,1.20,17.80,14.15,37.05M,['NASDAQ'],N/A,1991,21.32,8/15/2016,N/A,211.64,NMS,14.88,20194,0.17,7/28/2016,LCUT,0.70,n/a,Lifetime Brands,N/A,11.29,14.13,07 August 2016

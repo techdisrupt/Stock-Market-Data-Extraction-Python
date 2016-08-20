@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.07,158.88,155.77,454.67M,['NYSE'],N/A,1997,40.29,7/13/2016,N/A,5650.00,NYQ,156.09,92042,3.24,6/24/2016,MTN,3.88,n/a,Vail Resorts,N/A,100.50,156.27,15 August 2016

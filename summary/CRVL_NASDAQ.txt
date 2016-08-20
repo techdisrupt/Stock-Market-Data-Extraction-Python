@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Insurers,USD,N/A,N/A,53.19,43.68,66.96M,['NASDAQ'],N/A,Finance,29.49,N/A,N/A,848.45,NMS,43.37,51596,N/A,N/A,CRVL,1.47,n/a,CorVel Corp.,N/A,29.27,43.32,06 August 2016

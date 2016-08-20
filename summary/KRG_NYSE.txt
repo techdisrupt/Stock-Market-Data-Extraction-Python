@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.89,30.45,29.57,217.86M,['NYSE'],N/A,Consumer Services,590.20,7/14/2016,N/A,2460.00,NYQ,29.50,291749,1.15,7/5/2016,KRG,0.05,2004,Kite Realty Group Trust,N/A,22.82,29.54,07 August 2016

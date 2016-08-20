@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,3.5700,20.0000,17.3900,7.08M,['NASDAQ'],N/A,1983,12.0067,6/2/2016,N/A,48.12,NGM,18.2400,976,0.6400,8/12/2016,SPAN,1.4660,n/a,Span-America Medical Systems,N/A,16.9200,17.9230,14 August 2016

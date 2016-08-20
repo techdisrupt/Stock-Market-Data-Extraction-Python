@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,1.1100,63.4100,61.2500,59.74M,['NYSE'],N/A,1992,31.5207,6/3/2016,N/A,765.60,NYQ,61.3300,12537,0.6800,5/13/2016,USPH,1.9400,n/a,U.S. Physical Therapy,N/A,42.5900,61.2000,15 August 2016

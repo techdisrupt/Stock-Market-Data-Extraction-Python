@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Movies/Entertainment,USD,N/A,2.94,39.45,37.72,657.06M,['NYSE'],N/A,Consumer Services,18.63,6/22/2016,N/A,4300.00,NYQ,37.32,784351,1.08,6/6/2016,CNK,2.00,2007,Cinemark Holdings Inc,N/A,26.56,37.47,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,8.57,7.65,3.43,160.73M,['NASDAQ'],N/A,Transportation,9.40,5/13/2016,N/A,413.67,NMS,3.69,731075,0.30,8/3/2016,CPLP,0.37,2007,Capital Product Partners L.P.,N/A,2.41,3.44,06 August 2016

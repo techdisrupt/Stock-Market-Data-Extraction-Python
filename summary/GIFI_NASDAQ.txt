@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.47,13.64,8.57,3.24M,['NASDAQ'],N/A,1997,N/A,5/26/2016,N/A,129.51,NMS,8.66,58549,0.04,5/10/2016,GIFI,-1.42,n/a,Gulf Island Fabrication,N/A,6.34,8.54,07 August 2016

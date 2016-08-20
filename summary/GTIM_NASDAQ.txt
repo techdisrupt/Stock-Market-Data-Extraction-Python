@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Restaurants,USD,N/A,N/A,8.31,4.05,1.48M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,49.43,NCM,N/A,14345,N/A,N/A,GTIM,-0.14,n/a,Good Times Restaurants Inc.,N/A,2.75,4.01,07 August 2016

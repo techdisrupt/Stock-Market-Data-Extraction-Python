@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,1.15,133.47,132.06,876.50M,['NYSE'],N/A,n/a,26.78,6/14/2016,N/A,7830.00,NYQ,131.84,279758,1.52,5/13/2016,SPB,4.92,n/a,Spectrum Brands Holdings,N/A,87.65,131.87,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Apparel,USD,N/A,2.08,137.38,96.32,1.07B,['NYSE'],N/A,Consumer Non-Durables,20.74,7/15/2016,N/A,7940.00,NYQ,95.81,404655,2.00,6/29/2016,RL,4.62,1997,Ralph Lauren Corporation,N/A,82.15,96.05,08 August 2016

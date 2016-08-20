@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,0.00,72.84,47.96,67.77M,['NASDAQ'],N/A,1991,17.09,12/11/2015,N/A,534.03,NMS,72.52,241738,0.00,7/19/2016,JBSS,2.79,n/a,John B. Sanfilippo & Son,N/A,34.57,47.67,07 August 2016

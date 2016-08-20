@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,3.29,2.56,10.07M,['NYSE'],N/A,n/a,9.96,12/20/2010,N/A,62.43,ASE,2.69,106030,0.00,12/9/2010,NTIP,0.27,n/a,Network-1 Technologies,N/A,1.70,2.57,07 August 2016

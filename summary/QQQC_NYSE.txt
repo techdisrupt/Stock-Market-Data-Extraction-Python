@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.4000,23.9700,21.0000,N/A,['NYSE'],N/A,n/a,N/A,N/A,N/A,N/A,PCX,28.0000,3357,0.0700,N/A,QQQC,N/A,n/a,Global X NASDAQ China Technology ETF,N/A,17.3400,20.7800,07 August 2016

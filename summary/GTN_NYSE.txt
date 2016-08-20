@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.00,17.70,11.10,218.20M,['NYSE'],N/A,n/a,19.30,N/A,N/A,807.18,NYQ,12.25,1831051,0.00,9/11/2008,GTN,0.58,n/a,Gray Television,N/A,9.15,11.10,07 August 2016

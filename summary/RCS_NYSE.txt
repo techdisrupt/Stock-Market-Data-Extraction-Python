@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,12.00,10.56,9.74,0.00,['NYSE'],N/A,1994,N/A,8/1/2016,N/A,N/A,NYQ,9.92,152412,0.96,7/7/2016,RCS,0.34,n/a,PIMCO Strategic Income Fund,N/A,6.01,9.74,08 August 2016

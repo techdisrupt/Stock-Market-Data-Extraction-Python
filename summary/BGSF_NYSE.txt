@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Professional Services,USD,N/A,4.9500,21.7500,19.65,21.50M,['NYSE'],N/A,Technology,24.34,5/16/2016,N/A,145.15,ASE,19.67,93925,1.0000,8/4/2016,BGSF,0.8070,n/a,BG Staffing Inc,N/A,10.5300,19.6300,05 August 2016

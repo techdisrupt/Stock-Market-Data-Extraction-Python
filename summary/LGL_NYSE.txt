@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,4.35,3.67,57000.00,['NYSE'],N/A,n/a,N/A,N/A,N/A,9.78,ASE,3.88,283,0.00,9/2/1999,LGL,-0.25,n/a,LGL Group,N/A,2.86,3.65,07 August 2016

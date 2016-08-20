@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.93,14.59,13.75,0.00,['NASDAQ'],N/A,Finance,16.27,7/15/2016,N/A,2440.00,NMS,15.00,836758,0.40,6/29/2016,FULT,0.87,n/a,Fulton Financial Corporation,N/A,11.48,13.64,07 August 2016

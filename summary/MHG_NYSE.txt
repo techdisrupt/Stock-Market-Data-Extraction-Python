@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.83,17.70,16.73,689.10M,['NYSE'],N/A,n/a,24.56,6/1/2016,N/A,7560.00,NYQ,16.79,24305,0.81,5/19/2016,MHG,0.68,n/a,Marine Harvest ASA,N/A,11.03,16.85,07 August 2016

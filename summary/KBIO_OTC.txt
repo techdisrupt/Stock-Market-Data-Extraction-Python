@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,45.82,3.96,-30.19M,['OTC'],N/A,2013,N/A,N/A,N/A,16.66,PNK,N/A,7975,N/A,N/A,KBIO,-8.11,n/a,KaloBios Pharmaceuticals,N/A,0.44,3.96,07 August 2016

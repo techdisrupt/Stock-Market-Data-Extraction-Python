@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,41.28,36.46,918.10M,['NYSE'],N/A,n/a,N/A,N/A,N/A,4000.00,NYQ,36.33,1858293,N/A,N/A,XPO,-1.25,n/a,XPO Logistics,N/A,18.04,36.20,15 August 2016

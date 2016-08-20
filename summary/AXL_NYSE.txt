@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,23.00,17.30,584.90M,['NYSE'],N/A,n/a,5.32,12/29/2008,N/A,1330.00,NYQ,17.39,1063218,0.00,12/4/2008,AXL,3.27,n/a,American Axle & Manufacturing Holdings,N/A,11.44,17.18,05 August 2016

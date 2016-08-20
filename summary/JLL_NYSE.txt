@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,0.54,179.97,115.72,687.26M,['NYSE'],N/A,Finance,12.95,6/15/2016,N/A,5280.00,NYQ,117.03,229785,0.62,5/11/2016,JLL,9.03,n/a,Jones Lang LaSalle Incorporated,N/A,90.07,114.79,07 August 2016

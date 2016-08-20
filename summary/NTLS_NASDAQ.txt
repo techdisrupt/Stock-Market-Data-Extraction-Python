@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,0.00,9.35,N/A,0.00,['NASDAQ'],N/A,Public Utilities,N/A,7/11/2014,N/A,N/A,NMS,N/A,0,0.00,6/11/2014,NTLS,-2.31,2006,NTELOS Holdings Corp.,N/A,4.28,9.26,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,142.49,101.96,3.87M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,25420.00,NMS,102.62,288364,N/A,N/A,VRTX,-1.13,1991,Vertex Pharmaceuticals Incorporated,N/A,75.90,101.53,15 August 2016

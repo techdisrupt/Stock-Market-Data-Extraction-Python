@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Department/Specialty Retail Stores,USD,N/A,1.07,96.88,93.41,2.36B,['NYSE'],N/A,Consumer Services,22.77,6/29/2016,N/A,26780.00,NYQ,100.07,1551077,1.00,6/13/2016,DG,4.14,2009,Dollar General Corporation,N/A,59.75,93.12,06 August 2016

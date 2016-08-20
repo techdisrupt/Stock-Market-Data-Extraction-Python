@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,N/A,6.44,2.78,28.96M,['NASDAQ'],N/A,Public Utilities,N/A,N/A,N/A,296.17,NMS,3.23,1460591,N/A,N/A,CLNE,-1.08,2007,Clean Energy Fuels Corp.,N/A,2.15,2.78,06 August 2016

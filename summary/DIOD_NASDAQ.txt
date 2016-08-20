@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,N/A,25.20,18.08,116.07M,['NASDAQ'],N/A,Technology,81.74,N/A,N/A,884.83,NMS,30.00,191872,N/A,N/A,DIOD,0.22,n/a,Diodes Incorporated,N/A,16.58,18.02,06 August 2016

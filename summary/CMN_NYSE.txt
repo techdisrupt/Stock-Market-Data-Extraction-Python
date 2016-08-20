@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Dental Instruments,USD,N/A,0.18,74.88,68.28,125.21M,['NYSE'],N/A,Health Care,50.46,7/29/2016,N/A,2850.00,NYQ,68.92,248533,0.12,7/13/2016,CMN,1.37,n/a,Cantel Medical Corp.,N/A,39.26,68.21,06 August 2016

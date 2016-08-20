@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,N/A,55.93,29.77,-1.09B,['NASDAQ'],N/A,Miscellaneous,N/A,N/A,N/A,4270.00,NGM,29.49,112978,N/A,N/A,QUNR,-8.66,2013,Qunar Cayman Islands Limited,N/A,25.75,29.81,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Communications Equipment,USD,N/A,N/A,4.8500,3.1500,1.08M,['NASDAQ'],N/A,Technology,11.4803,N/A,N/A,7.48,NCM,3.1600,14010,N/A,N/A,BOSC,0.2740,n/a,B.O.S. Better Online Solutions,N/A,1.6000,3.1400,05 August 2016

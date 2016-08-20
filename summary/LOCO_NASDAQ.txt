@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,18.94,14.02,62.68M,['NASDAQ'],N/A,2014,22.80,N/A,N/A,515.19,NMS,14.50,1661546,N/A,N/A,LOCO,0.59,n/a,El Pollo Loco Holdings,N/A,9.58,13.08,06 August 2016

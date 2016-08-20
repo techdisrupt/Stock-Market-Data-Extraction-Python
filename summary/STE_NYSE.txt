@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Specialties,USD,N/A,1.40,78.77,71.30,500.60M,['NYSE'],N/A,Health Care,40.91,6/29/2016,N/A,6140.00,NYQ,71.25,302209,1.00,6/6/2016,STE,1.74,n/a,STERIS Corporation,N/A,60.75,71.57,14 August 2016

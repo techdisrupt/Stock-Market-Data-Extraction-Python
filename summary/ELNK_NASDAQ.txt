@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Programming,USD,N/A,2.99,9.86,6.83,227.78M,['NASDAQ'],N/A,Technology,N/A,7/5/2016,N/A,733.61,NMS,7.49,633707,0.20,6/17/2016,ELNK,-0.25,n/a,EarthLink Holdings Corp.,N/A,4.97,6.75,06 August 2016

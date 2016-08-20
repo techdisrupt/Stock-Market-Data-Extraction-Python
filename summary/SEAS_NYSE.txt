@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,6.40,21.85,13.26,292.15M,['NYSE'],N/A,2013,54.90,7/1/2016,N/A,1140.00,NYQ,13.45,1806176,0.84,6/16/2016,SEAS,0.24,n/a,SeaWorld Entertainment,N/A,12.58,13.24,13 August 2016

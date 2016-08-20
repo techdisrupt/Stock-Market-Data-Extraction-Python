@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,5.52,3.68,2.36M,['NASDAQ'],N/A,Capital Goods,N/A,N/A,N/A,10.25,NCM,4.08,30340,N/A,N/A,NSYS,-0.12,n/a,Nortech Systems Incorporated,N/A,1.69,3.67,07 August 2016

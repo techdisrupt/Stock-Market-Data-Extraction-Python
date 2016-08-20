@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electrical Products,USD,N/A,N/A,13.37,12.52,1.13B,['NASDAQ'],N/A,Technology,16.01,N/A,N/A,6910.00,NMS,13.25,3066870,N/A,N/A,FLEX,0.79,1994,Flextronics International Ltd.,N/A,8.85,12.45,07 August 2016

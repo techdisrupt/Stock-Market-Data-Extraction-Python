@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Radio And Television Broadcasting And Communications Equipment,USD,N/A,N/A,47.27,38.10,881.60M,['NASDAQ'],N/A,Technology,19.80,N/A,N/A,3580.00,NMS,38.21,203775,N/A,N/A,SATS,1.93,n/a,EchoStar Corporation,N/A,30.86,37.95,06 August 2016

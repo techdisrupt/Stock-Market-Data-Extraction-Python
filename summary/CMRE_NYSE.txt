@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,13.00,17.06,8.77,323.17M,['NYSE'],N/A,Transportation,5.56,5/4/2016,N/A,692.03,NYQ,9.57,243793,1.16,8/1/2016,CMRE,1.65,2010,Costamare Inc.,N/A,6.01,8.82,06 August 2016

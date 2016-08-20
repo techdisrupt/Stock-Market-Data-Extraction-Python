@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,48.96,45.00,257.53M,['NASDAQ'],N/A,2004,35.81,N/A,N/A,2710.00,NMS,45.53,570478,N/A,N/A,BECN,1.27,n/a,Beacon Roofing Supply,N/A,32.02,44.86,05 August 2016

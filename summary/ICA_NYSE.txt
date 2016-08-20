@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Military/Government/Technical,USD,N/A,0.0000,2.5600,N/A,0.00,['NYSE'],N/A,Basic Industries,N/A,N/A,N/A,N/A,NYQ,N/A,0,0.0000,5/10/2000,ICA,-7.2440,1992,Empresas Ica Soc Contrladora,N/A,0.3900,0.5672,06 August 2016

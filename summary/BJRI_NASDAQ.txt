@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,49.41,39.50,130.84M,['NASDAQ'],N/A,n/a,21.03,N/A,N/A,978.27,NMS,40.56,268125,N/A,N/A,BJRI,1.93,n/a,BJ&'s Restaurants,N/A,38.29,39.21,05 August 2016

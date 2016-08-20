@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,2.92,46.42,45.05,566.10M,['NYSE'],N/A,Consumer Services,21.16,5/31/2016,N/A,7030.00,NYQ,52.15,989005,1.32,5/18/2016,AIV,2.12,1994,Apartment Investment and Management Company,N/A,34.71,45.05,05 August 2016

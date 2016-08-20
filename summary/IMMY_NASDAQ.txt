@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,8.79,3.94,-14.80M,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,52.55,NCM,N/A,4247,N/A,N/A,IMMY,-1.76,n/a,Imprimis Pharmaceuticals,N/A,3.34,3.93,07 August 2016

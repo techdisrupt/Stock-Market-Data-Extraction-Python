@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.60,25.66,24.92,0.00,['NYSE'],N/A,Finance,17.32,6/15/2016,N/A,785.21,NYQ,25.40,275803,0.64,5/26/2016,CPF,1.46,n/a,CPB Inc.,N/A,18.47,24.57,06 August 2016

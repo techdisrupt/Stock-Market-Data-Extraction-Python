@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Containers/Packaging,USD,N/A,2.86,138.87,130.24,4.06B,['NYSE'],N/A,Consumer Durables,23.99,7/5/2016,N/A,46540.00,NYQ,129.29,1560180,3.68,6/8/2016,KMB,5.39,n/a,Kimberly-Clark Corporation,N/A,103.04,130.13,07 August 2016

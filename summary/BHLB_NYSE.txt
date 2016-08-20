@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,3.05,30.69,26.26,0.00,['NYSE'],N/A,n/a,13.17,5/26/2016,N/A,826.31,NYQ,26.90,167875,0.80,8/2/2016,BHLB,2.05,n/a,Berkshire Hills Bancorp,N/A,24.71,26.26,05 August 2016

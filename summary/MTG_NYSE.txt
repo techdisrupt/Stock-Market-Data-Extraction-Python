@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,0.00,11.00,7.47,635.23M,['NYSE'],N/A,Finance,3.09,N/A,N/A,2550.00,NYQ,7.53,5589567,0.00,8/6/2008,MTG,2.42,1991,MGIC Investment Corporation,N/A,5.36,7.40,07 August 2016

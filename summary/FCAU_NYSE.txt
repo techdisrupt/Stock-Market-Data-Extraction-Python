@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,10.93,6.66,9.07B,['NYSE'],N/A,n/a,10.99,1/13/2016,N/A,8700.00,NYQ,6.75,2514192,0.00,1/4/2016,FCAU,0.61,2014,Fiat Chrysler Automobiles N.V.,N/A,5.45,6.51,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,1.03,18.44,17.43,16.62M,['NASDAQ'],N/A,2006,35.08,6/8/2016,N/A,321.59,NGM,18.40,73657,0.18,5/23/2016,LMAT,0.50,n/a,LeMaitre Vascular,N/A,11.80,17.40,07 August 2016

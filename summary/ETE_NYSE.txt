@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,6.78,31.15,16.20,4.97B,['NYSE'],N/A,2006,14.37,5/19/2016,N/A,17250.00,NYQ,16.48,7760364,1.14,8/4/2016,ETE,1.15,n/a,Energy Transfer Equity,N/A,4.00,16.03,06 August 2016

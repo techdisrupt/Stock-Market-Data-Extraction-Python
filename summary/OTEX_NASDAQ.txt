@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,1.50,63.25,61.84,571.54M,['NASDAQ'],N/A,Technology,26.65,6/17/2016,N/A,7500.00,NMS,75.25,186395,0.92,5/25/2016,OTEX,2.33,1996,Open Text Corporation,N/A,40.58,61.84,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,N/A,0.730,0.017,-8.31M,['NYSE'],N/A,n/a,N/A,N/A,N/A,122145.00,ASE,N/A,6615,N/A,N/A,AMCO,-1.045,n/a,Armco Metals Holdings,N/A,0.010,0.017,05 August 2016

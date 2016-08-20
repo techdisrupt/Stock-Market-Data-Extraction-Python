@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Commercial Physical & Biological Resarch,USD,N/A,5.89,44.60,32.93,33.28M,['NASDAQ'],N/A,Health Care,40.43,7/15/2016,N/A,797.98,NMS,34.84,8401,1.92,6/28/2016,NRCIB,0.82,n/a,National Research Corporation,N/A,27.54,32.95,07 August 2016

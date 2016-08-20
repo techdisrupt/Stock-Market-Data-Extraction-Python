@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,N/A,15.65,9.20,-13.65M,['NASDAQ'],N/A,2007,N/A,N/A,N/A,21.74,NCM,9.40,3255070,N/A,N/A,OPTT,-7.25,n/a,Ocean Power Technologies,N/A,0.95,8.83,07 August 2016

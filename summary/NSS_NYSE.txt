@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,26.70,25.50,0.00,['NYSE'],N/A,n/a,28.29,7/15/2016,N/A,1990.00,NYQ,25.49,21989,N/A,6/29/2016,NSS,0.90,n/a,NuStar Logistics,N/A,16.37,25.49,07 August 2016

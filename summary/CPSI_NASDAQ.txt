@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,6.54,59.16,26.99,36.10M,['NASDAQ'],N/A,2002,29.32,5/27/2016,N/A,371.53,NMS,32.00,3239832,2.56,5/10/2016,CPSI,0.94,n/a,Computer Programs and Systems,N/A,26.00,39.10,06 August 2016

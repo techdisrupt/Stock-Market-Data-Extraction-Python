@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.32,21.83,20.63,72.38M,['NYSE'],N/A,n/a,67.20,6/27/2016,N/A,1600.00,NYQ,20.92,425532,0.48,6/13/2016,WWE,0.31,n/a,World Wrestling Entertainment,N/A,14.20,20.69,15 August 2016

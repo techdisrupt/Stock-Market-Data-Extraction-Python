@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.6000,111.0600,107.0300,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,107.9200,644,0.6400,N/A,VTWG,N/A,n/a,Vanguard Russell 2000 Growth ETF,N/A,81.0000,106.6600,15 August 2016

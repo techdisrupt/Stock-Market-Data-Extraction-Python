@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.68,90.16,66.00,1.81B,['NYSE'],N/A,n/a,11.81,6/17/2016,N/A,3500.00,NYQ,65.54,593801,1.76,5/19/2016,R,5.54,n/a,Ryder System,N/A,45.12,66.00,10 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,27.08,17.35,60.48M,['NYSE'],N/A,2013,13.03,N/A,N/A,463.02,NYQ,17.49,65691,N/A,N/A,WCIC,1.35,n/a,WCI Communities,N/A,15.41,17.24,15 August 2016

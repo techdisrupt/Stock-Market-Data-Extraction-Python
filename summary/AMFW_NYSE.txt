@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,6.58,13.29,5.85,438.86M,['NYSE'],N/A,n/a,N/A,7/12/2016,N/A,2230.00,NYQ,5.74,38742,0.37,5/25/2016,AMFW,-0.88,2014,Amec Plc Ord,N/A,4.57,5.78,05 August 2016

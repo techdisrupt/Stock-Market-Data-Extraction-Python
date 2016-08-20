@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Department/Specialty Retail Stores,USD,N/A,4.52,67.94,33.97,3.26B,['NYSE'],N/A,Consumer Services,11.14,7/1/2016,N/A,10520.00,NYQ,34.36,5181782,1.51,6/13/2016,M,3.06,n/a,Macy's Inc,N/A,29.94,33.69,07 August 2016

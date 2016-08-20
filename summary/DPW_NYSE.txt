@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,1.40,0.63,-787999.00,['NYSE'],N/A,Capital Goods,N/A,N/A,N/A,4.40,ASE,0.75,23683,N/A,N/A,DPW,-0.16,n/a,Digital Power Corporation,N/A,0.35,0.63,06 August 2016

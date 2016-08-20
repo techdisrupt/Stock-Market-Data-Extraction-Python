@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Natural Gas Distribution,USD,N/A,6.76,75.10,72.24,850.38M,['NYSE'],N/A,Energy,20.45,5/23/2016,N/A,9430.00,NYQ,72.43,458539,4.80,5/12/2016,BPL,3.54,1986,Buckeye Partners L.P.,N/A,47.07,70.89,05 August 2016

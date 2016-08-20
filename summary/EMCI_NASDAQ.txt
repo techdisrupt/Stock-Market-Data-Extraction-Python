@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Property-Casualty Insurers,USD,N/A,2.75,29.01,27.69,0.00,['NASDAQ'],N/A,Finance,13.09,6/7/2016,N/A,589.55,NMS,33.00,14320,0.76,5/26/2016,EMCI,2.15,1982,EMC Insurance Group Inc.,N/A,20.23,27.51,06 August 2016

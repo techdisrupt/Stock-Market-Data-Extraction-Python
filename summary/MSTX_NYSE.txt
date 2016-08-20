@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,0.6000,0.3170,-40.72M,['NYSE'],N/A,n/a,N/A,N/A,N/A,66.49,ASE,0.3399,2056948,N/A,N/A,MSTX,-0.2480,n/a,Mast Therapeutics,N/A,0.2100,0.3447,07 August 2016

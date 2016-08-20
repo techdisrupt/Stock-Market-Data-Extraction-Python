@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Non-Durables,USD,N/A,N/A,62.66,57.39,409.74M,['NYSE'],N/A,1999,14.42,N/A,N/A,2490.00,NYQ,58.99,382389,N/A,N/A,WCC,4.09,n/a,WESCO International,N/A,34.00,57.06,15 August 2016

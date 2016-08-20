@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Meat/Poultry/Fish,USD,N/A,1.61,45.72,36.35,1.33B,['NYSE'],N/A,Consumer Non-Durables,25.11,8/15/2016,N/A,19290.00,NYQ,36.46,1743518,0.58,7/14/2016,HRL,1.45,n/a,Hormel Foods Corporation,N/A,29.18,36.29,07 August 2016

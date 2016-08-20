@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,6.63,33.01,27.40,374.80M,['NYSE'],N/A,Consumer Services,24.89,7/15/2016,N/A,3210.00,NYQ,28.41,1476008,1.80,6/28/2016,LHO,1.14,1998,LaSalle Hotel Properties,N/A,19.01,27.28,07 August 2016

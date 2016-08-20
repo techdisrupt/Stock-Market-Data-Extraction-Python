@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,48.23,31.29,211.31M,['NASDAQ'],N/A,n/a,64.66,N/A,N/A,2180.00,NMS,30.78,755451,N/A,N/A,IPXL,0.48,n/a,Impax Laboratories,N/A,27.62,31.23,07 August 2016

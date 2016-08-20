@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,N/A,3.89,1.70,19.01M,['NASDAQ'],N/A,Capital Goods,N/A,N/A,N/A,54.94,NMS,1.70,711359,N/A,N/A,HTCH,-0.92,1985,Hutchinson Technology Incorporated,N/A,1.28,1.70,07 August 2016

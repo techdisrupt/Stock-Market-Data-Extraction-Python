@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Computer Software: Prepackaged Software,USD,N/A,N/A,64.30,55.98,35.10M,['NASDAQ'],N/A,Technology,77.21,N/A,N/A,1660.00,NMS,56.74,757132,N/A,N/A,CYBR,0.73,2014,CyberArk Software Ltd.,N/A,31.50,56.36,06 August 2016

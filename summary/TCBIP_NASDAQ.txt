@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance,USD,N/A,6.18,28.34,26.42,0.00,['NASDAQ'],N/A,n/a,9.85,6/15/2016,N/A,1230.00,NMS,26.68,16192,1.62,5/27/2016,TCBIP,2.71,n/a,Texas Capital Bancshares,N/A,20.10,26.30,14 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,0.38,160.68,156.77,4.30B,['NYSE'],N/A,Capital Goods,31.10,7/15/2016,N/A,61300.00,NYQ,170.15,864697,0.60,6/13/2016,TMO,5.00,n/a,Thermo Fisher Scientific Inc,N/A,117.10,157.46,14 August 2016

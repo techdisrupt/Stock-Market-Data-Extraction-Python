@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Electronic Components,USD,N/A,0.00,10.74,4.51,-3.41M,['NASDAQ'],N/A,Technology,N/A,12/10/2009,N/A,9.43,NCM,4.62,8997,0.00,11/27/2009,QBAK,-1.81,2000,Qualstar Corporation,N/A,2.16,4.35,08 August 2016

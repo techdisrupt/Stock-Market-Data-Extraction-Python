@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Aerospace,USD,N/A,0.23,70.74,70.14,306.62M,['NYSE'],N/A,Capital Goods,33.49,7/19/2016,N/A,4720.00,NYQ,70.34,141648,0.16,6/30/2016,HEI,2.10,n/a,Heico Corporation,N/A,47.24,69.86,07 August 2016

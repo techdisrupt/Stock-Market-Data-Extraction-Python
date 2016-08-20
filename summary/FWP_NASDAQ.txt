@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,N/A,29.96,19.78,-53.75M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,937.44,NMS,22.00,12145,N/A,N/A,FWP,-1.28,2014,Forward Pharma A/S,N/A,11.22,19.86,07 August 2016

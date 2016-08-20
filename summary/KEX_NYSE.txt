@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Marine Transportation,USD,N/A,0.00,73.34,54.10,510.17M,['NYSE'],N/A,Consumer Services,16.26,N/A,N/A,2990.00,NYQ,74.88,726116,0.00,N/A,KEX,3.41,n/a,Kirby Corporation,N/A,44.63,53.85,07 August 2016

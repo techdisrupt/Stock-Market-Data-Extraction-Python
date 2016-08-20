@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,3,N/A,0.00,['NYSE'],N/A,2010,N/A,N/A,N/A,N/A,NYQ,N/A,0,N/A,N/A,MCP,-3,n/a,Molycorp,N/A,0,0,07 August 2016

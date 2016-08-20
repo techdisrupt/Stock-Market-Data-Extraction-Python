@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.68,59.41,53.77,131.96M,['NYSE'],N/A,2013,102.74,7/6/2016,N/A,2550.00,NYQ,53.21,270905,1.44,6/15/2016,QTS,0.52,n/a,QTS Realty Trust,N/A,39.10,53.79,08 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,1.6500,0.7902,-3.97M,['NYSE'],N/A,n/a,N/A,N/A,N/A,41.81,ASE,1.7600,159672,N/A,N/A,ISR,-0.0830,n/a,IsoRay,N/A,0.5500,0.7745,07 August 2016

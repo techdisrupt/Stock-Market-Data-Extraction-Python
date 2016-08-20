@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Business Services,USD,N/A,N/A,N/A,N/A,N/A,['N/A'],N/A,Finance,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,JACQW,N/A,n/a,COLLABRIUM JAPAN ACQUISITION CORPORATION,N/A,N/A,N/A,06 August 2016

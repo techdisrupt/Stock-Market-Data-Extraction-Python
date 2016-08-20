@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.20,46.96,40.10,444.62M,['NYSE'],N/A,Energy,N/A,6/30/2016,N/A,6770.00,NYQ,40.60,1533553,0.08,6/13/2016,RRC,-5.64,n/a,Range Resources Corporation,N/A,19.21,40.01,08 August 2016

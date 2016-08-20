@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,2.56,44.17,38.96,404.55M,['NYSE'],N/A,n/a,N/A,6/6/2016,N/A,3480.00,NYQ,38.42,848616,1.00,5/18/2016,TRCO,-5.41,2014,Tribune Media Company,N/A,26.10,39.02,14 August 2016

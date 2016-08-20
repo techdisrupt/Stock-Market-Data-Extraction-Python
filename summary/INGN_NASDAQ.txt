@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,55.98,52.59,30.81M,['NASDAQ'],N/A,2014,91.41,N/A,N/A,1070.00,NMS,55.00,360291,N/A,N/A,INGN,0.59,n/a,Inogen,N/A,28.81,53.78,07 August 2016

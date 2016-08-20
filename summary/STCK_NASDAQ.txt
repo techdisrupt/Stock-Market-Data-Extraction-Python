@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,N/A,20.42,N/A,0.00,['NASDAQ'],N/A,2013,N/A,N/A,N/A,N/A,NMS,N/A,0,N/A,N/A,STCK,-0.17,n/a,Stock Building Supply Holdings,N/A,12.14,19.26,14 August 2016

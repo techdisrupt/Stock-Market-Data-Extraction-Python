@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,2.01,105.69,100.98,940.95M,['NASDAQ'],N/A,2002,32.14,5/26/2016,N/A,10540.00,NMS,103.89,3103372,2.00,8/9/2016,WYNN,3.23,n/a,Wynn Resorts,N/A,49.95,99.75,15 August 2016

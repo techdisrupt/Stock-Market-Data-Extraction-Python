@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Technology,USD,N/A,0.00,43.43,39.40,360.84M,['NYSE'],N/A,n/a,26.10,N/A,N/A,3450.00,NYQ,41.00,491554,0.00,3/29/2010,CLGX,1.50,n/a,CoreLogic,N/A,30.73,39.20,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Newspapers/Magazines,USD,N/A,0.00,6.25,5.30,-3.20M,['NYSE'],N/A,Consumer Services,N/A,N/A,N/A,43.17,NYQ,5.36,256,0.00,8/8/2007,AXR,-1.27,n/a,AMREP Corporation,N/A,3.66,5.28,05 August 2016

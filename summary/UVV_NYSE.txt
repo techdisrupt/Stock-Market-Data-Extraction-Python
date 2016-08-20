@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Farming/Seeds/Milling,USD,N/A,3.52,61.69,60.29,212.69M,['NYSE'],N/A,Consumer Services,15.26,8/8/2016,N/A,1370.00,NYQ,60.18,89635,2.12,7/7/2016,UVV,3.94,n/a,Universal Corporation,N/A,45.61,60.30,15 August 2016

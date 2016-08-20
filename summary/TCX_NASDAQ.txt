@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+EDP Services,USD,N/A,N/A,32.03,27.51,24.79M,['NASDAQ'],N/A,Technology,20.04,N/A,N/A,281.45,NCM,27.00,38635,N/A,5/11/2001,TCX,1.35,n/a,Tucows Inc.,N/A,17.67,27.47,15 August 2016

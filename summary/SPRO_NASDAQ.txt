@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Other Consumer Services,USD,N/A,1.69,3.85,N/A,0.00,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,N/A,NCM,N/A,0,0.06,9/16/2015,SPRO,-0.12,n/a,SmartPros Ltd.,N/A,1.25,3.56,14 August 2016

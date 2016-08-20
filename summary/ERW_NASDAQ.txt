@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,54.77,49.00,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,N/A,0,N/A,N/A,ERW,N/A,n/a,VelocityShares Equal Risk Weighted Large Cap ETF,N/A,45.73,49.00,15 August 2016

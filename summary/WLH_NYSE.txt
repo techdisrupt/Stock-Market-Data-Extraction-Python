@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Homebuilding,USD,N/A,N/A,25.45,18.30,86.76M,['NYSE'],N/A,Capital Goods,11.30,N/A,N/A,549.77,NYQ,17.38,534106,N/A,N/A,WLH,1.54,2013,Lyon William Homes,N/A,7.61,16.96,07 August 2016

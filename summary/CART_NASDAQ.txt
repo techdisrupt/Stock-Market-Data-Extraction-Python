@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,N/A,6.40,N/A,0.00,['NASDAQ'],N/A,n/a,27.29,N/A,N/A,29.06,NCM,6.27,0,N/A,N/A,CART,0.23,n/a,Carolina Trust Bank,N/A,5.30,6.25,06 August 2016

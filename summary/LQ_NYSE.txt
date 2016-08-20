@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Hotels/Resorts,USD,N/A,N/A,20.92,11.60,358.24M,['NYSE'],N/A,Consumer Services,1465.00,N/A,N/A,1460.00,NYQ,16.64,1367780,N/A,N/A,LQ,0.01,2014,La Quinta Holdings Inc.,N/A,9.42,11.51,07 August 2016

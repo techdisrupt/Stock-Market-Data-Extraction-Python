@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,21.72,14.35,4.84M,['NYSE'],N/A,n/a,N/A,N/A,N/A,804.32,NYQ,14.90,986837,N/A,N/A,FTK,-0.58,n/a,Flotek Industries,N/A,4.89,14.24,07 August 2016

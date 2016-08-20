@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Specialty Insurers,USD,N/A,2.95,101.80,99.33,-77.60M,['NASDAQ'],N/A,Finance,27.89,7/20/2016,N/A,5190.00,NMS,100.00,19875,2.92,7/1/2016,ERIE,3.56,n/a,Erie Indemnity Company,N/A,79.39,99.21,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Biological Products (No Diagnostic Substances),USD,N/A,N/A,8.96,2.10,-25.52M,['NASDAQ'],N/A,Health Care,N/A,N/A,N/A,50.82,NCM,2.14,750807,N/A,N/A,RPRX,-1.05,n/a,Repros Therapeutics Inc.,N/A,0.80,2.15,09 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Telecommunications Equipment,USD,N/A,N/A,26.7000,25.6500,0.00,['NYSE'],N/A,Public Utilities,N/A,9/15/2016,N/A,N/A,NYQ,25.6700,85953,N/A,12/10/2014,CTW,N/A,n/a,Qwest Corporation,N/A,24.5800,25.6400,08 August 2016

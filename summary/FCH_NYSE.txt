@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate Investment Trusts,USD,N/A,3.80,8.67,6.24,215.15M,['NYSE'],N/A,Consumer Services,N/A,7/29/2016,N/A,884.57,NYQ,6.40,669793,0.24,7/13/2016,FCH,-0.21,n/a,FelCor Lodging Trust Incorporated,N/A,5.47,6.19,06 August 2016

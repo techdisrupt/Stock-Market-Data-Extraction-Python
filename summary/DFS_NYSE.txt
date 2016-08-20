@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,2.13,58.10,57.03,0.00,['NYSE'],N/A,Finance,10.86,5/19/2016,N/A,23520.00,NYQ,58.10,2138970,1.20,8/2/2016,DFS,5.32,n/a,Discover Financial Services,N/A,42.86,56.51,06 August 2016

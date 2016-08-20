@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Services-Misc. Amusement & Recreation,USD,N/A,N/A,22.37,17.69,-50.85M,['NYSE'],N/A,Consumer Services,N/A,N/A,N/A,724.55,NYQ,17.99,123819,N/A,N/A,WBAI,-1.35,2013,500.com Limited,N/A,10.88,17.70,04 August 2016

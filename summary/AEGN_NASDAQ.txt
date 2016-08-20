@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Water Supply,USD,N/A,N/A,22.41,19.28,118.17M,['NASDAQ'],N/A,Basic Industries,N/A,N/A,N/A,634.52,NMS,22.99,251812,N/A,N/A,AEGN,-0.37,n/a,Aegion Corp,N/A,15.97,19.19,04 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,0.87,62.35,61.54,1.92B,['NASDAQ'],N/A,1985,23.86,6/30/2016,N/A,24290.00,NMS,62.50,3192817,0.54,6/3/2016,ROST,2.55,n/a,Ross Stores,N/A,43.47,61.51,10 August 2016

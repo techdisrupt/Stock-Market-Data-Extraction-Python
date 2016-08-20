@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Biotechnology: Biological Products (No Diagnostic Substances),USD,N/A,0.00,49.75,48.52,14.62M,['NASDAQ'],N/A,Health Care,60.83,10/10/2012,N/A,331.69,NCM,50.15,93570,0.00,9/26/2012,HSKA,0.82,1997,Heska Corporation,N/A,26.26,48.25,07 August 2016

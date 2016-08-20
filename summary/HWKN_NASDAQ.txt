@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,1.90,45.65,43.42,49.98M,['NASDAQ'],N/A,n/a,25.48,4/8/2016,N/A,462.67,NMS,47.25,31188,0.80,3/22/2016,HWKN,1.72,n/a,Hawkins,N/A,30.53,43.24,07 August 2016

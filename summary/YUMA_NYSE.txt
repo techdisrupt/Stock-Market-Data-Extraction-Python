@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,0.670,0.240,2.35M,['NYSE'],N/A,n/a,N/A,N/A,N/A,15.91,ASE,0.240,50588,N/A,N/A,YUMA,-0.230,n/a,Yuma Energy,N/A,0.130,0.239,15 August 2016

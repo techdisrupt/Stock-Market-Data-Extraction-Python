@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.58,16.42,15.50,0.00,['NYSE'],N/A,1993,N/A,6/24/2016,N/A,N/A,ASE,15.78,6281,0.72,7/13/2016,VCF,0.83,n/a,Delaware Investments Colorado Municipal Income Fund,N/A,13.44,15.56,06 August 2016

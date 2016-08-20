@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,1.99,21.43,18.05,42.76M,['NASDAQ'],N/A,1994,31.70,5/12/2016,N/A,873.10,NMS,17.88,245302,0.36,7/26/2016,ADTN,0.56,n/a,ADTRAN,N/A,13.92,18.04,04 August 2016

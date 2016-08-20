@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Building Materials,USD,N/A,0.49,87.57,81.52,337.47M,['NYSE'],N/A,Capital Goods,25.22,7/22/2016,N/A,3920.00,NYQ,89.98,357822,0.40,6/16/2016,EXP,3.23,n/a,Eagle Materials Inc,N/A,45.03,81.28,06 August 2016

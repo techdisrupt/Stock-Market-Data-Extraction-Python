@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,1.20,20.59,20.28,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,20.03,33741,0.20,7/13/2016,BUI,N/A,2011,BlackRock Utility and Infrastructure Trust,N/A,14.77,20.21,05 August 2016

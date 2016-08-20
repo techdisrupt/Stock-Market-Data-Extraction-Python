@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,2.47,79.58,72.91,579.55M,['NYSE'],N/A,Public Utilities,23.85,9/1/2016,N/A,3470.00,NYQ,73.05,230416,1.80,8/11/2016,SWX,3.06,n/a,Southwest Gas Corporation,N/A,50.53,72.73,14 August 2016

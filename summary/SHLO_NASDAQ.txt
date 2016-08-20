@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,0.00,12.19,8.58,50.30M,['NASDAQ'],N/A,1993,N/A,12/28/2012,N/A,162.59,NMS,N/A,30308,0.00,12/18/2012,SHLO,-0.14,n/a,Shiloh Industries,N/A,3.06,8.58,13 August 2016

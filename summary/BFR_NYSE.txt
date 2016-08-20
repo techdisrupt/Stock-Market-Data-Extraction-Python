@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Commercial Banks,USD,N/A,2.56,25.35,20.20,0.00,['NYSE'],N/A,Finance,13.42,3/28/2016,N/A,3590.00,NYQ,20.10,37128,0.50,7/11/2016,BFR,1.49,n/a,BBVA Banco Frances S.A.,N/A,12.51,20.16,05 August 2016

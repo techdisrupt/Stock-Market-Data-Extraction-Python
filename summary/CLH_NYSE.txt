@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Basic Industries,USD,N/A,N/A,54.54,50.68,483.52M,['NYSE'],N/A,n/a,96.50,N/A,N/A,2900.00,NYQ,50.45,299739,N/A,N/A,CLH,0.52,n/a,Clean Harbors,N/A,37.09,50.51,06 August 2016

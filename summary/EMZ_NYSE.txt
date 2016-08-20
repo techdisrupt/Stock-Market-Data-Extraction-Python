@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Public Utilities,USD,N/A,N/A,26.99,25.57,0.00,['NYSE'],N/A,n/a,N/A,5/2/2016,N/A,153.96,NYQ,25.88,19229,N/A,7/27/2016,EMZ,N/A,n/a,Entergy Mississippi,N/A,22.59,25.58,06 August 2016

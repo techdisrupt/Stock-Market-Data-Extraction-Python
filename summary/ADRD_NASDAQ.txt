@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,4.8000,24.2500,20.0592,N/A,['NASDAQ'],N/A,n/a,N/A,N/A,N/A,N/A,NGM,20.0900,797,1.0300,N/A,ADRD,-2.5540,n/a,BLDRS Developed Markets 100 ADR Index Fund,N/A,17.7400,19.9850,05 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,5.80,15.80,15.31,0.00,['NYSE'],N/A,n/a,N/A,8/1/2016,N/A,N/A,NYQ,15.30,15384,0.77,7/13/2016,NUM,0.90,1991,Nuveen Michigan Quality Income Municipal Fund,N/A,13.05,15.32,07 August 2016

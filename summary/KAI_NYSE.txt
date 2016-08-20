@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Industrial Machinery/Components,USD,N/A,1.36,56.57,55.62,61.83M,['NYSE'],N/A,Technology,17.46,8/11/2016,N/A,585.90,NYQ,53.88,124321,0.76,7/12/2016,KAI,3.09,n/a,Kadant Inc,N/A,33.38,55.88,07 August 2016

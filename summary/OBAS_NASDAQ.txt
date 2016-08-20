@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Real Estate,USD,N/A,N/A,8.45,N/A,11.00M,['NASDAQ'],N/A,Finance,N/A,N/A,N/A,42.87,NGM,8.55,0,N/A,N/A,OBAS,-0.04,1999,Optibase Ltd.,N/A,5.75,8.34,07 August 2016

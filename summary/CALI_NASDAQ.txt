@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Motor Vehicles,USD,N/A,N/A,4.40,2.80,1.92M,['NASDAQ'],N/A,Consumer Services,N/A,N/A,N/A,11.90,NCM,2.94,43738,N/A,N/A,CALI,-2.58,n/a,China Auto Logistics Inc.,N/A,0.66,2.82,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,4.36,17.63,16.15,0.00,['NASDAQ'],N/A,Finance,13.46,5/20/2016,N/A,693.19,NMS,16.49,111331,0.70,8/3/2016,ORIT,1.21,n/a,Oritani Financial Corp.,N/A,14.70,16.11,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,29.09,17.26,-53.34M,['NASDAQ'],N/A,2014,N/A,N/A,N/A,378.55,NGM,20.00,265693,N/A,N/A,FLXN,-2.51,n/a,Flexion Therapeutics,N/A,7.56,17.25,07 August 2016

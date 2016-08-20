@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,0.00,4.05,1.93,32.80M,['NASDAQ'],N/A,2011,N/A,8/13/2015,N/A,76.88,NMS,2.72,1278230,0.00,8/4/2015,MCEP,-3.40,n/a,Mid-Con Energy Partners,N/A,0.72,1.92,07 August 2016

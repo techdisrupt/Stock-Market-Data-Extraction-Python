@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,N/A,28.490,26.455,0.00,['NASDAQ'],N/A,Finance,12.774,9/1/2016,N/A,781.75,NMS,26.400,0,N/A,8/11/2016,WSFSL,2.071,n/a,WSFS Financial Corporation,N/A,25.590,26.455,15 August 2016

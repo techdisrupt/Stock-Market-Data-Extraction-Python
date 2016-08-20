@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Capital Goods,USD,N/A,N/A,8.30,5.46,-32.58M,['NASDAQ'],N/A,2010,N/A,N/A,N/A,238.74,NMS,5.59,82317,N/A,N/A,TNAV,-0.85,n/a,TeleNav,N/A,4.47,5.48,14 August 2016

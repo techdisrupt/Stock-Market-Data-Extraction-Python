@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Oil & Gas Production,USD,N/A,0.00,2.32,0.96,6.27M,['NYSE'],N/A,Energy,N/A,8/1/2009,N/A,59.08,NYQ,1.01,144911,0.00,7/22/2009,EGY,-2.19,n/a,Vaalco Energy Inc,N/A,0.76,0.98,15 August 2016

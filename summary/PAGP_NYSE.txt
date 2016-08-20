@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,8.52,20.48,10.86,1.75B,['NYSE'],N/A,2013,20.51,5/13/2016,N/A,2890.00,NYQ,10.83,2496495,0.92,7/27/2016,PAGP,0.55,n/a,Plains Group Holdings,N/A,4.72,10.85,08 August 2016

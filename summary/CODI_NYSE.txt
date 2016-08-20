@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Auto Parts:O.E.M.,USD,N/A,8.34,17.58,17.55,116.30M,['NYSE'],N/A,Capital Goods,6.35,4/28/2016,N/A,952.95,NYQ,17.53,78631,1.44,7/19/2016,CODI,2.77,2006,Compass Diversified Holdings,N/A,9.70,17.55,06 August 2016

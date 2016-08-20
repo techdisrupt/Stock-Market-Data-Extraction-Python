@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Durables,USD,N/A,2.38,26.08,25.36,148.38M,['NYSE'],N/A,2004,17.78,6/30/2016,N/A,1220.00,NYQ,25.42,263332,0.60,6/13/2016,KNL,1.43,n/a,Knoll,N/A,16.42,25.24,07 August 2016

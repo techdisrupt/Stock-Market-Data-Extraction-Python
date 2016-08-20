@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Banks,USD,N/A,2.89,18.00,17.52,0.00,['NASDAQ'],N/A,Finance,18.23,7/29/2016,N/A,86.24,NCM,17.75,5557,0.52,6/30/2016,BKSC,0.96,n/a,Bank of South Carolina Corp.,N/A,14.05,17.74,05 August 2016

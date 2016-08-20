@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,89.18,87.27,330.14M,['NYSE'],N/A,2000,26.38,N/A,N/A,4040.00,NYQ,92.65,446976,N/A,N/A,CRL,3.25,n/a,Charles River Laboratories International,N/A,59.99,87.02,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,1.90,40.32,21.00,109.94M,['NASDAQ'],N/A,Health Care,10.78,6/22/2016,N/A,829.12,NGM,21.04,52002,0.40,5/27/2016,PAHC,1.95,2014,Phibro Animal Health Corporation,N/A,16.80,20.86,08 August 2016

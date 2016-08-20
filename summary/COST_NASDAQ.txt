@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Department/Specialty Retail Stores,USD,N/A,1.08,169.73,166.86,4.83B,['NASDAQ'],N/A,Consumer Services,31.70,5/13/2016,N/A,73460.00,NMS,167.98,1526578,1.80,4/27/2016,COST,5.29,n/a,Costco Wholesale Corporation,N/A,117.03,166.55,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,10.95,8.67,-13.70M,['NASDAQ'],N/A,2006,N/A,N/A,N/A,1170.00,NMS,8.70,591397,N/A,N/A,ACHN,-0.03,n/a,Achillion Pharmaceuticals,N/A,5.57,8.72,04 August 2016

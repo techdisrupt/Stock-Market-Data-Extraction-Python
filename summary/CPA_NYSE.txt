@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Transportation,USD,N/A,3.11,77.53,76.11,359.12M,['NYSE'],N/A,2005,N/A,6/15/2016,N/A,3160.00,NYQ,74.96,779811,2.04,5/26/2016,CPA,-5.14,n/a,Copa Holdings,N/A,39.03,76.48,06 August 2016

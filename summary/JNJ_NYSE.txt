@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Major Pharmaceuticals,USD,N/A,2.58,126.07,124.38,23.03B,['NYSE'],N/A,Health Care,23.15,6/7/2016,N/A,341740.00,NYQ,124.23,5146935,3.20,5/20/2016,JNJ,5.37,n/a,Johnson & Johnson,N/A,81.79,123.86,07 August 2016

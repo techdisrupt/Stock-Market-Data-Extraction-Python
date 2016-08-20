@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Semiconductors,USD,N/A,0.00,102.90,84.46,390.31M,['NASDAQ'],N/A,Technology,19.12,12/28/2012,N/A,4550.00,NMS,N/A,196206,0.00,N/A,IPGP,4.48,2006,IPG Photonics Corporation,N/A,70.21,83.79,07 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Health Care,USD,N/A,N/A,63.43,63.00,196.88M,['NASDAQ'],N/A,2004,65.09,N/A,N/A,3150.00,NMS,67.00,267606,N/A,N/A,NUVA,0.96,n/a,NuVasive,N/A,36.81,62.71,07 August 2016

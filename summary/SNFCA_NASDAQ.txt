@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Finance: Consumer Services,USD,N/A,N/A,6.29,5.69,31.06M,['NASDAQ'],N/A,Finance,5.97,N/A,N/A,73.33,NGM,N/A,57810,N/A,1/25/1993,SNFCA,0.88,n/a,Security National Financial Corporation,N/A,3.45,5.68,13 August 2016

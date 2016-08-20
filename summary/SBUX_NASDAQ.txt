@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Restaurants,USD,N/A,1.44,64.00,55.27,4.64B,['NASDAQ'],N/A,Consumer Services,31.16,5/20/2016,N/A,81350.00,NMS,55.55,5039757,0.80,8/2/2016,SBUX,1.78,1992,Starbucks Corporation,N/A,42.05,55.47,14 August 2016

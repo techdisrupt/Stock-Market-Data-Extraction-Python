@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Consumer Services,USD,N/A,4.58,11.90,10.03,71.85M,['NYSE'],N/A,2014,N/A,7/15/2016,N/A,1660.00,NYQ,10.07,853148,0.46,8/4/2016,NYRT,-0.19,n/a,New York REIT,N/A,8.79,10.05,07 August 2016

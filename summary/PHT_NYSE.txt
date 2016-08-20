@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,14.00,11.20,10.27,0.00,['NYSE'],N/A,n/a,N/A,7/29/2016,N/A,N/A,NYQ,10.34,93909,1.38,7/14/2016,PHT,-1.21,n/a,Pioneer High Income Trust,N/A,8.36,10.25,08 August 2016

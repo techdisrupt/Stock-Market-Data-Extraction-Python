@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+n/a,USD,N/A,0.00,16.90,12.71,0.00,['NYSE'],N/A,n/a,N/A,5/27/2016,N/A,N/A,NYQ,12.80,88970,0.00,5/18/2016,CTR,-49.87,2012,ClearBridge Energy MLP Total Return Fund Inc.,N/A,6.58,12.62,06 August 2016

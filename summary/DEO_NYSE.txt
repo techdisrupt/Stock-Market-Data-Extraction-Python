@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Beverages (Production/Distribution),USD,N/A,3.35,117.95,115.31,4.43B,['NYSE'],N/A,Consumer Non-Durables,24.62,4/12/2016,N/A,72530.00,NYQ,115.67,423775,3.85,2/24/2016,DEO,4.70,n/a,Diageo plc,N/A,99.59,115.81,06 August 2016

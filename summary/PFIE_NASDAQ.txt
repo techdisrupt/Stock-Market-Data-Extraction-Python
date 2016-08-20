@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Energy,USD,N/A,N/A,1.43,1.17,949563.00,['NASDAQ'],N/A,n/a,1240.00,N/A,N/A,66.11,NCM,1.24,33145,N/A,N/A,PFIE,0.00,n/a,Profire Energy,N/A,0.65,1.18,08 August 2016

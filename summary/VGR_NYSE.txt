@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Farming/Seeds/Milling,USD,N/A,7.33,25.60,21.800,311.77M,['NYSE'],N/A,Consumer Non-Durables,41.683,6/29/2016,N/A,2680.00,NYQ,21.680,258818,1.60,6/20/2016,VGR,0.52,n/a,Vector Group Ltd.,N/A,20.30,21.83,15 August 2016

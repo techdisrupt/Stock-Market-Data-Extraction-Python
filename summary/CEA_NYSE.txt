@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Air Freight/Delivery Services,USD,N/A,0.00,42.62,27.57,2.88B,['NYSE'],N/A,Transportation,8.55,N/A,N/A,7300.00,NYQ,27.78,6886,0.00,7/25/2005,CEA,3.25,1997,China Eastern Airlines Corporation Ltd.,N/A,20.93,27.32,06 August 2016

@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Water Supply,USD,N/A,1.83,85.24,80.62,1.53B,['NYSE'],N/A,Public Utilities,30.12,6/1/2016,N/A,14240.00,NYQ,80.23,1391193,1.50,8/4/2016,AWK,2.66,2008,American Water Works,N/A,50.16,80.79,05 August 2016

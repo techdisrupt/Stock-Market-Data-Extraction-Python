@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Medical/Dental Instruments,USD,N/A,0.48,65.83,64.08,581.20M,['NASDAQ'],N/A,Health Care,30.14,7/8/2016,N/A,14520.00,NMS,62.39,1886124,0.31,6/22/2016,XRAY,2.06,1987,DENTSPLY International Inc.,N/A,49.48,63.69,06 August 2016

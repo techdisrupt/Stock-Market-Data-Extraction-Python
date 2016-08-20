@@ -1,0 +1,2 @@
+sector,currency,price2,dividend_yield,52_high,open,EBITDA,index,market_cap2,sector_extra,pe,dividend_pay_date,year_gain,market_cap,exchange,price,volume,dividend,ex_dividend_date,ticker,earnings_ps,ipo_date,name,notes,52_low,close_price,data_date
+Miscellaneous,USD,N/A,N/A,33.46,18.890,280.96M,['NYSE'],N/A,2005,29.181,N/A,N/A,2110.00,NYQ,19.060,2619144,N/A,N/A,PAY,0.653,n/a,Verifone Systems,N/A,16.99,18.680,15 August 2016

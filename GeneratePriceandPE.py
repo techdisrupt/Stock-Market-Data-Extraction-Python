@@ -72,7 +72,7 @@ def Match(df_prices, df_eps, df_pe, ticker, folder):
 						count+=1
 						
 			df = df.sort_values('date', ascending=False).dropna()
-			df.to_csv(os.path.join(folder, ticker+".txt"))
+			df.to_csv(os.path.join(folder, ticker+".txt"), index = False)
 			
 				
 		elif df_eps[1] > 1:
@@ -88,7 +88,7 @@ def Match(df_prices, df_eps, df_pe, ticker, folder):
 						df.loc[count] = [eps_row['PER_END_DATE'], price_row['Close'], float(price_row['Close'])/float(eps_row['EPS_BASIC_CONT_OPER']), ticker]
 						count+=1
 			df = df.sort_values('date', ascending=False).dropna()
-			df.to_csv(os.path.join(folder, ticker+".txt"))
+			df.to_csv(os.path.join(folder, ticker+".txt"), index = False)
 			
 		else:
 			pass

@@ -2,6 +2,7 @@ import tensorflow as tf
 import numpy as np
 import pandas as pd
 import glob, os, random
+import matplotlib.pyplot as plt
 
 def findTickers(outputfolder):
 	tickers = []
@@ -19,6 +20,7 @@ def findTickers(outputfolder):
 
 			if ".txt" in file:
 				tickers.append(file.split("_")[0].strip('.txt'))
+	print tickers
 	return tickers
 
 def GetAllCompanies(folder, input_months, output_months):
@@ -45,15 +47,26 @@ def GetCompanyData(folder, ticker, input_months, output_months):
 		before = np.mean( list(df['price'][i:i+input_months]) )
 		after = np.mean( list(df['price'][i+input_months:i+input_months+output_months]) )
 		#print before, after
-		X.append( list(df['price'][i:i+input_months]) )
-		if after/before > 1.6: # 60% uptick
+		X.append( list(df['price'][i:i+input_months]) + list(df['pe'][i:i+input_months])  )
+		"""if after/before > 1.6: # 60% uptick
 			Y.append( list([1.0 for n in range(0, output_months) ]) )
 		elif after/before > 1.4: # 40% uptick
 			Y.append( list([0.8 for n in range(0, output_months) ]) )
 		elif after/before > 1.1: # 10% uptick
 			Y.append( list([0.6 for n in range(0, output_months) ]) )
 		else:
-			Y.append( list([0.0 for n in range(0, output_months) ]) )
+			Y.append( list([0.0 for n in range(0, output_months) ]) )"""
+
+		if after/before > 1.6: # 60% uptick
+			Y.append( list([1, 0, 0]) )
+		elif after/before > 1.4: # 40% uptick
+			Y.append( list([0, 1, 0]) )
+		elif after/before > 1.1: # 10% uptick
+			Y.append( list([0, 0, 1]) )
+		else:
+			Y.append( list([0, 0, 0 ]) )
+
+
 		#print Y
 		#print list(df['price'][i+input_months:i+input_months+output_months]), list([1.0 for n in range(0, output_months) ])
 		#print type(list(df['price'][i+input_months:i+input_months+output_months])), type(list([1.0 for n in range(0, output_months) ]))
@@ -61,6 +74,10 @@ def GetCompanyData(folder, ticker, input_months, output_months):
 	#print len(X), len(Y)
 	return X, Y
 		
+def ShuffleTrain(X, Y):
+	pass
+
+
 
 # Neural Network Parameters
 
@@ -70,27 +87,25 @@ def GetCompanyData(folder, ticker, input_months, output_months):
 
 
 N_INPUT_NODES = 8
-N_HIDDEN_NODES = 10
-N_OUTPUT_NODES  = 1
+N_HIDDEN_NODES = 100
+N_OUTPUT_NODES  = 3
 
-input_months = N_INPUT_NODES
-output_months = N_OUTPUT_NODES
+input_months = N_INPUT_NODES/2
+output_months = 2 # average over X periods
 X, Y = GetAllCompanies("normalized", input_months, output_months)
 X_test, Y_test = GetAllCompanies("training", input_months, output_months)
 
 
 
-N_STEPS = 2000000
-N_EPOCH = 5000
+N_STEPS = 200000
+N_OUTPUT = 500
 ACTIVATION = 'sigmoid' # sigmoid or tanh
 COST = 'MSE' # MSE or ACE
 LEARNING_RATE = 0.1
+MOMENTUM_RATE = 0.05
 
-N_BATCH = 50
+N_BATCH = 10
 N_TRAINING = N_BATCH
-
-
-
 
 
 if __name__ == '__main__':
@@ -135,6 +150,8 @@ if __name__ == '__main__':
 
 		cost = tf.reduce_mean(tf.square(y_ - output)) 
 		train_step = tf.train.GradientDescentOptimizer(LEARNING_RATE).minimize(cost)
+		#train_step = tf.train.AdagradOptimizer(LEARNING_RATE).minimize(cost)
+		#train_step = tf.train.MomentumOptimizer(LEARNING_RATE, MOMENTUM_RATE).minimize(cost)
 	
 	else:
 		# Average Cross Entropy - better behaviour and learning rate
@@ -144,6 +161,9 @@ if __name__ == '__main__':
 		train_step = tf.train.GradientDescentOptimizer(LEARNING_RATE).minimize(cost)
 
 
+	correct_prediction = tf.equal(tf.argmax(output,1), tf.argmax(y_,1))
+	accuracy = tf.reduce_mean(tf.cast(correct_prediction, "float"))
+
 	#train_error = tf.reduce_mean(tf.square(y_ - output))
 
 
@@ -151,6 +171,7 @@ if __name__ == '__main__':
 	sess = tf.Session()
 	sess.run(init)
 
+	cost_list = []
 
 	for i in range(N_STEPS):
 		batch = random.randrange(0, len(X)-N_BATCH)
@@ -161,19 +182,31 @@ if __name__ == '__main__':
 		#print(sess.eval(train_error))
 		#tf.Print(train_error, [train_error])
 		#print(train_error)
-		if i % N_EPOCH == 0:
+		if i % N_OUTPUT == 0:
+			print('Percentage: ', 100*i/float(N_STEPS))
 			print('Batch: ', i)
 			#print('Inference ', sess.run(output, feed_dict={x_: X, y_: Y}))
-			print('Cost: ', sess.run(cost, feed_dict={x_: X[0:50], y_: Y[0:50]}))
+			#print('Cost: ', sess.run(cost, feed_dict={x_: X[batch:batch+N_BATCH], y_: Y[batch:batch+N_BATCH]}))
 			#print('Test: ', sess.run(cost, feed_dict={x_: X_test, y_: Y_test}))
-
+			curr_cost = sess.run(cost, feed_dict={x_: X[batch:batch+N_BATCH], y_: Y[batch:batch+N_BATCH]} 	)
+			cost_list.append(curr_cost)
+			print('cost: ', curr_cost)
 			#print('train_error: ', train_error.eval(session=sess))
 			#print('train_error: ', sess.run(train_error))
 
 			#tf.Print(train_error, [train_error], message="Training error: ")
 					
-
-	#sess.run(cost, feed_dict={x_: X_test, y_: Y_test})
+	#print cost_list	
+	plt.plot(cost_list)
+	plt.show()
+	batch_list = []
+	for i in range(N_STEPS):
+		batch = random.randrange(0, len(X_test)-N_BATCH)
+		batch_accuracy = sess.run(accuracy, feed_dict={x_: X_test[batch:batch+N_BATCH], y_: Y_test[batch:batch+N_BATCH]})
+		#print('correct_prediction: ',sess.run(correct_prediction, feed_dict={x_: X_test[batch:batch+N_BATCH], y_: Y_test[batch:batch+N_BATCH]}))
+		print('Training: ', batch_accuracy)
+		batch_list.append(batch_accuracy)
+	print("Mean accuracy: ", np.mean(batch_list))
 
 
 	

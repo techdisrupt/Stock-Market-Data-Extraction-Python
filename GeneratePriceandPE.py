@@ -58,20 +58,32 @@ def Match(df_prices, df_eps, df_pe, ticker, folder):
 	if df_prices[1] > 1:
 		
 		if df_pe[1] > 1:
+
+			
 			count = 0
 			df = pd.DataFrame(columns=('date', 'price', 'pe', 'ticker'))
 			print df_pe[0].columns.values
 			print ticker
 			print "compare prices, PE"
 			for i, pe_row in df_pe[0].iterrows():
-				#print pe_row['calendardate'], pe_row['pe']
-				for j, price_row in df_prices[0].iterrows():
-					if price_row['Date'] == pe_row['calendardate']:
-						print pe_row['calendardate'], price_row['Close'], pe_row['pe'], ticker
-						df.loc[count] = [pe_row['calendardate'], price_row['Close'], pe_row['pe'], ticker]
-						count+=1
+				if pe_row['dimension'] == 'ARQ':
+					#print pe_row['calendardate'], pe_row['pe']
+					for j, price_row in df_prices[0].iterrows():
+						#print pe_row['calendardate'], price_row['Date']
+						#raw_input()
+						if price_row['Date'] == pe_row['calendardate']:
+							#print pe_row['calendardate'], price_row['Close'], pe_row['pe'], ticker
+							#raw_input()		
+							print "Appending...", pe_row['calendardate'], price_row['Date']
+							df = df.append({'date': pe_row['calendardate'], 'price':price_row['Close'], 'pe': pe_row['pe'], 'ticker': ticker}, ignore_index=True)
+							#df.loc[count] = [pe_row['calendardate'], price_row['Close'], pe_row['pe'], ticker]
+							#count+=1
 						
 			df = df.sort_values('date', ascending=False).dropna()
+
+			#print df.head()
+			#raw_input()
+
 			df.to_csv(os.path.join(folder, ticker+".txt"), index = False)
 			
 				
@@ -99,10 +111,9 @@ def Match(df_prices, df_eps, df_pe, ticker, folder):
 if __name__ == '__main__':
 	EPS_FOLDER = "eps_year"
 	PE_FOLDER = "pe"
-	PE_HISTORY = "pe_history"
-	PRICE_FOLDER = "prices/daily"
+	PRICE_FOLDER = "prices/monthly"
 	OUTPUT_FOLDER = "price_pe"
-	tickers = findTickers("prices/daily")
+	tickers = findTickers("prices/monthly")
 
 	try:
 		with open('current_ticker_Price_PE.txt', 'r') as file:
@@ -110,7 +121,6 @@ if __name__ == '__main__':
 	except IOError:
 		current_tick = None
 		pass
-
 
 	start = False
 	for i, ticker in enumerate(tickers):
@@ -126,17 +136,11 @@ if __name__ == '__main__':
 		with open('current_ticker_Price_PE.txt', 'w') as file:
 			file.write(ticker)
 
-		#print df_prices[1], df_eps[1], df_pe[1]
-
 		if i % 100 == 0:
 			print "Pausing..."
 			time.sleep(1)
 		
 		
 
-		#print df_prices.shape[0], df_eps.shape[0], df_pe.shape[0]
-
-		#print df_prices.head()
-		#print ticker
 		
 

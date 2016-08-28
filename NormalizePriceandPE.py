@@ -38,6 +38,45 @@ def convertToNormal(folder, out_folder, ticker):
 	df = df.sort_values('date').dropna()
 	df.to_csv(os.path.join(out_folder, ticker+".txt"), index = False)
 
+def convertToDiff(folder, out_folder, ticker):
+	selected = glob.glob(folder + '/' + ticker + '*.txt')
+	print selected
+	df = pd.read_csv(selected[0], error_bad_lines=False, warn_bad_lines=False).sort_values('date') 
+	#ratio_df = df.copy(deep=True)
+
+	print df.head()
+
+
+
+	#ratio_df.iloc[0]['price'] = 0.0
+	#ratio_df.iloc[0]['pe'] = 0.0
+
+	price_list = [0.0]
+	pe_list = [0.0]
+	for i in range(0, len(df.index)-1):
+		
+		ratio_price = (df.iloc[i+1]['price'] - df.iloc[i]['price']) / df.iloc[i]['price']
+		ratio_pe = (df.iloc[i+1]['pe'] - df.iloc[i]['pe']) / df.iloc[i]['pe']
+		price_list.append(ratio_price)
+		pe_list.append(ratio_pe)
+
+
+		#print i, ratio_price, ratio_pe
+		#raw_input()
+		#ratio_df.iloc[i+1]['price'] = ratio_price
+		#ratio_df.iloc[i+1]['pe'] = ratio_pe
+		#ratio_df.iloc[i+1]['date'] = df.iloc['date']
+
+	df['price'] = price_list
+	df['pe'] = pe_list
+	
+
+
+	df = df.sort_values('date').dropna()
+	df.to_csv(os.path.join(out_folder, ticker+".txt"), index = False)
+
+
+
 
 	#print df.head()
 
@@ -53,7 +92,7 @@ if __name__ == '__main__':
 
 	for i, ticker in enumerate(tickers):
 		print "Trying to match the following: ", ticker
-		convertToNormal("price_pe", "normalized", ticker)
+		convertToDiff("price_pe", "normalized", ticker)
 
 
 

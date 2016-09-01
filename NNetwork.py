@@ -41,9 +41,12 @@ def GetCompanyData(folder, ticker, input_months, output_months):
 	Y = []
 	selected = glob.glob(folder + '/' + ticker + '*.txt')
 	df = pd.read_csv(selected[0], error_bad_lines=False, warn_bad_lines=False)
-	length = len(df['price']) - (input_months + output_months)
+	df = df.sort(['date'], ascending=[1])
+	length = len(df['price']) - (input_months + output_months) + 1
+	#print length + input_months
+	#print "start", df['price'][length], "end", df['price'][length + input_months]
 	for i in range(0, length):
-
+		#print i, length
 		before = np.mean( list(df['price'][i:i+input_months]) )
 		after = np.mean( list(df['price'][i+input_months:i+input_months+output_months]) )
 		#print before, after
@@ -119,11 +122,11 @@ COST = 'MSE' # MSE or ACE
 LEARNING_RATE = 0.05
 MOMENTUM_RATE = 0.1
 
-N_BATCH = 1000	
+N_BATCH = 1000
 N_TRAINING = N_BATCH
 
-TRAIN = True
-PLOT = True
+TRAIN = False
+PLOT = False
 CHECK_ACCURACY = True
 PREDICT = True
 PREDICT_TICKER = None
@@ -246,7 +249,9 @@ if __name__ == '__main__':
 
 		batch_list = []
 		for i in range(10000):
+			#print len(X_test)
 			batch = random.randrange(0, len(X_test)-N_BATCH)
+			#print batch, N_BATCH
 			X_shuff_test, Y_shuff_test = ShuffleTrain(X_test[batch:batch+N_BATCH], Y_test[batch:batch+N_BATCH])
 			#op = sess.run(output, feed_dict={x_: X_shuff_test, y_: Y_shuff_test})
 			batch_accuracy = sess.run(accuracy, feed_dict={x_: X_shuff_test, y_: Y_shuff_test})
@@ -258,7 +263,7 @@ if __name__ == '__main__':
 		print("Mean accuracy: ", np.mean(batch_list))
 
 	if PREDICT:
-		con = tf.constant(0.8)
+		
 		X_pred = []
 		Y_pred = []
 		if PREDICT_TICKER != None:
@@ -279,8 +284,10 @@ if __name__ == '__main__':
 			for ticker in tickers:
 				X_pred = []
 				Y_pred = []
-				X_pred_l, Y_pred_l = GetCompanyData('predict', ticker, input_months, output_months)
+				X_pred_l, Y_pred_l = GetCompanyData('predict', ticker, input_months, output_months=0)
 				# Predict for the the latest values for company data
+				#print X_pred_l[-1]
+				#print X_pred_l, Y_pred_l, ticker
 				for i in range(0, N_BATCH):
 				
 

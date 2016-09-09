@@ -43,44 +43,19 @@ def GetCompanyData(folder, ticker, input_months, output_months):
 	df = pd.read_csv(selected[0], error_bad_lines=False, warn_bad_lines=False)
 	df = df.sort(['date'], ascending=[1])
 	length = len(df['price']) - (input_months + output_months) + 1
-	#print length + input_months
-	#print "start", df['price'][length], "end", df['price'][length + input_months]
+	
 	for i in range(0, length):
-		#print i, length
+		
 		before = np.mean( list(df['price'][i:i+input_months]) )
 		after = np.mean( list(df['price'][i+input_months:i+input_months+output_months]) )
-		#print before, after
+		
 		X.append( list(df['price'][i:i+input_months]) + list(df['pe'][i:i+input_months])  )
-		"""if after/before > 1.6: # 60% uptick
-			Y.append( list([1.0 for n in range(0, output_months) ]) )
-		elif after/before > 1.4: # 40% uptick
-			Y.append( list([0.8 for n in range(0, output_months) ]) )
-		elif after/before > 1.1: # 10% uptick
-			Y.append( list([0.6 for n in range(0, output_months) ]) )
-		else:
-			Y.append( list([0.0 for n in range(0, output_months) ]) )"""
 
-		"""if after/before > 1.3: # 60% uptick
-			Y.append( list([1, 0, 0]) )
-		elif after/before > 1.2: # 40% uptick
-			Y.append( list([0, 1, 0]) )
-		elif after/before > 1.1: # 10% uptick
-			Y.append( list([0, 0, 1]) )
-		else:
-			Y.append( list([0, 0, 0 ]) )"""
-
-		if after/before >= 1.20: # 60% uptick
+		if after/before >= 1.20: # 30% uptick
 			Y.append( list([0.0, 1.0]) )
 		
 		else:
 			Y.append( list([1.0, 0.0]) )
-
-
-		#print Y
-		#print list(df['price'][i+input_months:i+input_months+output_months]), list([1.0 for n in range(0, output_months) ])
-		#print type(list(df['price'][i+input_months:i+input_months+output_months])), type(list([1.0 for n in range(0, output_months) ]))
-		#raw_input()
-	#print len(X), len(Y)
 	return X, Y
 		
 def ShuffleTrain(X, Y):
@@ -88,11 +63,10 @@ def ShuffleTrain(X, Y):
 	
 	idx = np.arange(length)
 	np.random.shuffle(idx)
-	#print length, idx, X
+	
 	X_new = [X[i] for i in idx ]
 	Y_new = [Y[i] for i in idx ]
-	#print Y	
-	#print Y_new
+	
 	return X_new, Y_new
 
 
@@ -118,14 +92,14 @@ X_test, Y_test = GetAllCompanies("test", input_months, output_months)
 N_STEPS = 10000000
 N_OUTPUT = 5000
 ACTIVATION = 'sigmoid' # sigmoid or tanh
-COST = 'MSE' # MSE or ACE
+COST = 'ACE' # MSE or ACE
 LEARNING_RATE = 0.05
 MOMENTUM_RATE = 0.1
 
-N_BATCH = 1000
+N_BATCH = 400	
 N_TRAINING = N_BATCH
 
-TRAIN = False
+TRAIN = True
 PLOT = False
 CHECK_ACCURACY = True
 PREDICT = True
@@ -180,16 +154,13 @@ if __name__ == '__main__':
 	else:
 		# Average Cross Entropy - better behaviour and learning rate
 
-			
-		#cost = - tf.reduce_mean( (np.ones(N_OUTPUT_NODES) - y_) * tf.log(np.ones(N_OUTPUT_NODES) - output)  + y_ * tf.log(output)) 
-		cost = - tf.reduce_mean( y_ * tf.log(output) + (np.ones(N_OUTPUT_NODES) - y_) * tf.log(np.ones(N_OUTPUT_NODES) - output)  )
-		#cost = - tf.reduce_mean( y_ * tf.log(output)   )
-		#train_step = tf.train.GradientDescentOptimizer(LEARNING_RATE).minimize(cost)
-
-		#tf.reduce_mean(cost = tf.reduce_mean(tf.nn.sigmoid_cross_entropy_with_logits(y_, output))
 		
-	#train_step = tf.train.GradientDescentOptimizer(LEARNING_RATE).minimize(cost)
-	train_step = tf.train.MomentumOptimizer(LEARNING_RATE, MOMENTUM_RATE).minimize(cost)
+		cost = - tf.reduce_mean( y_ * tf.log(output)  +  (np.ones(N_OUTPUT_NODES) - y_) + tf.log(np.ones(N_OUTPUT_NODES) - output) ) 
+		
+		
+		
+	train_step = tf.train.GradientDescentOptimizer(LEARNING_RATE).minimize(cost)
+	#train_step = tf.train.MomentumOptimizer(LEARNING_RATE, MOMENTUM_RATE).minimize(cost)
 
 
 
@@ -198,8 +169,6 @@ if __name__ == '__main__':
 	accuracy = tf.reduce_mean(tf.cast(correct_prediction, "float"))
 	pred = tf.argmax(output, 1) 
 
-
-	#train_error = tf.reduce_mean(tf.square(y_ - output))
 
 
 	init = tf.initialize_all_variables()
@@ -215,24 +184,15 @@ if __name__ == '__main__':
 			#sess.run(train_step, feed_dict={x_: X[batch:batch+N_BATCH], y_: Y[batch:batch+N_BATCH]})
 			X_shuff, Y_shuff = ShuffleTrain(X[batch:batch+N_BATCH], Y[batch:batch+N_BATCH])
 			sess.run(train_step, feed_dict={x_: X_shuff, y_: Y_shuff})
-			#sess.run(train_error, feed_dict={x_: X, y_: Y})
-			#print i, sess.run(train_step)
-			#print(sess.eval(train_error))
-			#tf.Print(train_error, [train_error])
-			#print(train_error)
+			
 			if i % N_OUTPUT == 0:
 				print('Percentage: ', 100*i/float(N_STEPS))
 				print('Batch: ', i)
-				#print('Inference ', sess.run(output, feed_dict={x_: X, y_: Y}))
-				#print('Cost: ', sess.run(cost, feed_dict={x_: X[batch:batch+N_BATCH], y_: Y[batch:batch+N_BATCH]}))
-				#print('Test: ', sess.run(cost, feed_dict={x_: X_test, y_: Y_test}))
+				
 				curr_cost = sess.run(cost, feed_dict={x_: X[batch:batch+N_BATCH], y_: Y[batch:batch+N_BATCH]} 	)
 				cost_list.append(curr_cost)
 				print('cost: ', curr_cost)
-				#print('train_error: ', train_error.eval(session=sess))
-				#print('train_error: ', sess.run(train_error))
-
-				#tf.Print(train_error, [train_error], message="Training error: ")
+				
 					
 
 		save_path = saver.save(sess, "model.ckpt")
@@ -249,16 +209,10 @@ if __name__ == '__main__':
 
 		batch_list = []
 		for i in range(10000):
-			#print len(X_test)
 			batch = random.randrange(0, len(X_test)-N_BATCH)
-			#print batch, N_BATCH
 			X_shuff_test, Y_shuff_test = ShuffleTrain(X_test[batch:batch+N_BATCH], Y_test[batch:batch+N_BATCH])
-			#op = sess.run(output, feed_dict={x_: X_shuff_test, y_: Y_shuff_test})
 			batch_accuracy = sess.run(accuracy, feed_dict={x_: X_shuff_test, y_: Y_shuff_test})
-			#batch_accuracy = sess.run(accuracy)
-			#print('output: ', op)		
-			#print('correct_prediction: ',sess.run(correct_prediction, feed_dict={x_: X_test[batch:batch+N_BATCH], y_: Y_test[batch:batch+N_BATCH]}))
-			#print('Training: ', batch_accuracy)
+			
 			batch_list.append(batch_accuracy)
 		print("Mean accuracy: ", np.mean(batch_list))
 
@@ -286,12 +240,13 @@ if __name__ == '__main__':
 				Y_pred = []
 				X_pred_l, Y_pred_l = GetCompanyData('predict', ticker, input_months, output_months=0)
 				# Predict for the the latest values for company data
-				#print X_pred_l[-1]
+				print "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
+				print X_pred_l[-1]
 				#print X_pred_l, Y_pred_l, ticker
 				for i in range(0, N_BATCH):
-				
+					# make a batch with everything the same.
 
-					X_pred.append(X_pred_l[-1])
+					X_pred.append(X_pred_l[-1]) 
 					Y_pred.append(Y_pred_l[-1])
 				buy_sell = sess.run(pred, feed_dict={x_: X_pred, y_: Y_pred})
 				op = sess.run(output, feed_dict={x_: X_pred, y_: Y_pred})
